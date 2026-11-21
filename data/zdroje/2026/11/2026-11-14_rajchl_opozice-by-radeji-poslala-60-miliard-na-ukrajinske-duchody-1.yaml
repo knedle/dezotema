@@ -27,4 +27,8 @@ vyroky:
   citace:
   - text: Chápete tu vlastizrádnou mentalitu? Peníze z našich daní, které zaplatí jednou naše děti, dáme
       radši Ukrajincům než Čechům?
+  osoby:
+  - osoba: opozice
+    vztah: negativni
+    kontext: „Servilní slaboši“, „vlastizrádná mentalita“, dali by peníze Ukrajině místo Čechům
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)

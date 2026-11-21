@@ -39,4 +39,13 @@ vyroky:
     za svobodu slova, a stejně tak zpochybňuje, že by se Klaus či Cyril Svoboda kdy reálně za svobodu
     projevu perzekučně postavili. Vyzývá diváky, aby psali komentáře přímo pod nominace Pavla Matochy
     a moderátorky Martiny Kocijánové a aktivně tak ovlivnili veřejné hlasování.'
+  osoby:
+  - osoba: pavel-matocha
+    vztah: negativni
+    kontext: Bývalý předseda Rady ČT — jako porotce ankety za svobodu projevu nominoval Václava Klause
+      a další; Zítko výběr zpochybňuje
+  - osoba: vaclav-klaus
+    vztah: negativni
+    kontext: Nominován na cenu za svobodu projevu — Zítko to označuje za výsměch, připomíná jeho roli
+      strůjce „vlastizrádného" rozdělení Československa
   podtema: Politická perzekuce

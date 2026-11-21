@@ -41,3 +41,15 @@ vyroky:
     za Fauciho jako možnou Caroline Kennedyovou (podle světle modré kšiltovky s nápisem „Carolina") a
     poukazuje, že ke konci slyšení se na jejím místě objevila žena v uniformě americké armády — což čte
     jako signál, že „všechno je pod kontrolou armády".'
+- id: zitko-2026-08-02-04
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Francis Collins
+  text: sdílí a schvaluje konfrontaci jmenovaného vědce (spolupachatel Fauciho) při večeři s výzvou k
+    doživotnímu vězení
+  citace:
+  - text: Měl by být na doživotí ve vězení, že má na rukou krev.
+  teror:
+    terc: Francis Collins
+    hranicni: false

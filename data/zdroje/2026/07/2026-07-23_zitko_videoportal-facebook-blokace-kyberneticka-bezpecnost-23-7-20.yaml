@@ -19,6 +19,14 @@ zdroj:
     Volby USA 2020 — Dominion — opakování beze změny — [konspirace.md](konspirace.md). (8) Borelióza jako
     biologická zbraň (senátor Bennet, RFK ml.) — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md).
     Bez predikcí a stoch. teroru.'
+  osoby:
+  - osoba: david-werner
+    vztah: negativni
+    kontext: Údajný státní zástupce, žalobce v Zítkově kauze u OS Chomutov — nabídnuta „brigáda" 750 tis.
+      euro za předložení důkazu izolace SARS-CoV-2, nepředložil
+  - osoba: mazanek
+    vztah: negativni
+    kontext: Vyšetřovatel v kauze bitcoinu — kritizován za nečinnost rok a dva měsíce od odhalení kauzy
 vyroky:
 - id: zitko-2026-07-23-01
   typ: tvrzeni
@@ -31,6 +39,11 @@ vyroky:
     ale i jinde. Zítko zdůrazňuje, že právě sdílení jejího svědectví bylo Facebookem označeno za porušení
     „kybernetické bezpečnosti" (viz [DSA a cenzura](dsa-cenzura.md#zítko-30denní-blokace-za-citaci-zdravotní-sestry--kybernetická-bezpečnost-jako-záminka-22-23-7-2026)),
     zatímco identické tvrzení Petersona Pierra z roku 2021 postihu nepodléhalo.'
+  osoby:
+  - osoba: kimberly-overton
+    vztah: pozitivni
+    kontext: Americká zdravotní sestra (JIP), whistleblowerka — tvrdí, že covidoví pacienti umírali na
+      nemocniční protokoly, ne na virus; kvůli citaci jejího svědectví byl Zítko na FB zablokován
   podtema: Protokol covidových úmrtí — Peterson Pierre
 - id: zitko-2026-07-23-02
   typ: tvrzeni
@@ -74,6 +87,10 @@ vyroky:
   text: '**23. 7.** — Zítko konstatuje, že rok a dva měsíce po odhalení kauzy stále nedošlo k jejímu rozlousknutí
     — jmenovitě kritizuje vyšetřovatele **Mazánka** a **Radima Dragouna** (NCOZ, Vrchní státní zastupitelství
     Olomouc) za nečinnost, přestože kauza čítá přes 100 miliard Kč.'
+  osoby:
+  - osoba: radim-dragoun
+    vztah: negativni
+    kontext: Vyšetřovatel NCOZ / Vrchní SZ Olomouc v kauze bitcoinu — kritizován za nečinnost
   podtema: Korupce na Ukrajině — Mindić, Firepoint, Kvartal 95
 - id: zitko-2026-07-23-06
   typ: tvrzeni

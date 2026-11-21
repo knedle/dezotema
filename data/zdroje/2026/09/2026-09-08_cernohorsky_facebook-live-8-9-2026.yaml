@@ -8,6 +8,10 @@ zdroj:
   prepis: prepisy/done/2026-09-08_Jiří-Černohorský_Facebook-Live.txt
   rezim: standard
   poznamka: Starší vysílání stažené dodatečně (sync 5. 10.).
+  osoby:
+  - osoba: petra-redova
+    vztah: pozitivni
+    kontext: Senátní kandidátka ve Znojmě s podporou SPD
 vyroky:
 - id: cernohorsky-2026-09-08-01
   typ: tvrzeni
@@ -22,6 +26,10 @@ vyroky:
     chce poslat ministru Juchelkovi a žádá zrychlenou novelu. K poslanci SPD Radimu Fialovi připomíná
     článek, podle něhož nesdělil, komu prodal firmu profitující z invalidních důchodců — pokud tam figuruje
     přes bílého koně, je to „sprostota nejvyššího kalibru, zrůdnost a hyenismus".
+  osoby:
+  - osoba: radim-fiala
+    vztah: negativni
+    kontext: Prodaná firma profitující z invalidů — „hyenismus" (posun od dřívější podpory)
   podtema: Kauza Jesenicko — Stanjura obviněn ze zneužití povodňové půjčky
 - id: cernohorsky-2026-09-08-02
   typ: tvrzeni
@@ -57,6 +65,13 @@ vyroky:
     něj získává odvahu díky AfD, ale Německo se nevzpamatuje do pěti let a přijde recese.
   citace:
   - text: Rusové nejsou agresoři, rusové nikdy agresoři nebyli a rozhodně rusové nejsou nebezpečí.
+  osoby:
+  - osoba: rothschildove
+    vztah: negativni
+    kontext: Strůjci války — „měli by být vyhubeni"
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Kretén na Hradě", větší hrozba než Rusko, „nebudu postrádat"
   podtema: Zahraniční aktéři a precedenty
 - id: cernohorsky-2026-09-08-04
   typ: tvrzeni
@@ -71,3 +86,64 @@ vyroky:
     unesou, zabijou". Větrníky podle něj zabíjejí živé tvory a nevratně ničí půdu; režim označuje za „satanistický,
     korporátně nacistický, totalitní".'
   podtema: Kulturní a občanský odpor
+- id: cernohorsky-2026-09-08-05
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: v Evropě přijde recese, Německo se nevzpamatuje do pěti let
+  text: Evropa „spadne na hubu" — přijde recese; Německo se z ekonomického propadu nevzpamatuje do pěti
+    let.
+  citace:
+  - text: Já se toho obávám, že v Evropě přijde recese. Že spadneme na hubu.
+  predikce:
+    horizont: do 2031
+    stav: ceka
+    horizont_do: 2031-12-31
+- id: cernohorsky-2026-09-08-06
+  typ: stoch-teror
+  temata:
+  - valka-nato-rusko
+  nadpis: Rothschildové / „židáci"
+  text: explicitní výzva k vyhubení (antisemitská, genocidní)
+  citace:
+  - text: Klán satanistický, klán Rothschildů. Jasný? Tyhle ty židáci, kteří by měli být vyhubeni. Měli
+      by být vyhubeni. Tyhle ty svině.
+  teror:
+    terc: Rothschildové / „židáci"
+    hranicni: false
+- id: cernohorsky-2026-09-08-07
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: Petr Pavel, Petr Kolář, „fialovo-modro-žlutá" opozice
+  text: přání, aby je unesla ruská armáda (v kontextu modelu „unesou, zabijou")
+  citace:
+  - text: Já bych byl pro, aby to tady vlítlo a aby tady ty zmrdy [...] aby si je odvezli [...] když si
+      to mohli dovolit Američané, tak ať si to můžou dovolit Rusové [...] Já Petra Pavla rozhodně nebudu
+      postrádat [...] ať je vezmou do Ruska.
+  teror:
+    terc: Petr Pavel, Petr Kolář, „fialovo-modro-žlutá" opozice
+    hranicni: false
+- id: cernohorsky-2026-09-08-08
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: provozovatelé chráněných dílen
+  text: výzva k fyzickému napadení skupiny
+  citace:
+  - text: Rozkopat rypáky, hajzlům. Rozkopat těmhle hyenám rypáky" + „normální nacisti, skurveni
+  teror:
+    terc: provozovatelé chráněných dílen
+    hranicni: false
+- id: cernohorsky-2026-09-08-09
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: liberálové a LGBT („fialovo-modro-žlutí")
+  text: skupinová dehumanizace
+  citace:
+  - text: Úhlavní nepřítel jste vy [...] pojebaní, liberálně progresivní, teplouši, buzeranti, psychopati.
+      Vy jste nebezpečí České republiky.
+  teror:
+    terc: liberálové a LGBT („fialovo-modro-žlutí")
+    hranicni: false

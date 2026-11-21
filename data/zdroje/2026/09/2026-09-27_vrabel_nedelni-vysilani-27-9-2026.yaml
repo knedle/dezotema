@@ -9,6 +9,71 @@ zdroj:
   rezim: vrabel
   poznamka: 'Nedělní vysílání, odpovědi na dotazy diváků (Zuzka moderuje). Klipy: Pavel na Fox News, Babiš
     o Macronově iniciativě.'
+  prehled:
+  - tema: Demonstrace „Člověk na prvním místě" 3. 10.
+    text: „vyhráli jsme ve slovech, ne v plnění, protože jsme přestali demonstrovat příliš brzo"; vládu
+      svrhnout nechce.
+  - tema: Macinka a Babiš sladěni s Hradem; Pavel na Fox News
+    text: otěže „generálu NATO", sestřel letadla jako spouštěč
+    vyrok: vrabel-2026-09-27-09
+  - tema: 'Šéf tajných služeb: ruský útok „otázka měsíců"'
+    text: Putinovi, že se nepřipravuje, nevěří.
+  - tema: Muniční iniciativa a „ani koruna na Ukrajinu"
+    text: „zrada národa", „nebude ručit, ale bude platit"
+    vyrok: vrabel-2026-09-27-10
+  - tema: F-35 jako nosiče jaderných zbraní
+    text: opakování → zdroj doplněn v [Jaderné zbraně](../jaderne-zbrane.md)
+  - tema: Francouzský „jaderný deštník"; Mrtvá ruka; smlouva s Francií
+    text: ⚡ viz [Jaderné zbraně](../jaderne-zbrane.md)
+  - tema: Schillerová zvyšuje daně; poplatky ČT
+    text: nepodstatné — stát si peníze vezme jinde, důležité je zbrojení.
+  - tema: ČR „nepřiznaný protivník", konflikt nevyhnutelný; diverzifikace ropy
+    text: ⚡ viz [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: 'Pavel v OSN: Krym ukrajinský'
+    text: Krym je ruský
+    vyrok: vrabel-2026-09-27-09
+  - tema: 'Německo: povinná prohlídka 18letých'
+    text: mladí Němci „dětští", myslí si, že si to vydemonstrují.
+  - tema: Ukrajinská propaganda s roboty; TCK
+    text: opakování teze o „genocidě" Ukrajinců.
+  - tema: 'Lavrov: válka s Evropou by byla krátká'
+    text: opakování jaderné eskalace.
+  - tema: 'Vojenská neutralita: Vučić, Fico'
+    text: neutralita jediná záruka, útěk do Srbska
+    vyrok: vrabel-2026-09-27-11
+  - tema: USA „umírající kobyla", Trump nepracuje pro USA, válka proti Slovanům
+    text: ⚡ viz [Deep State](../konspirace-deep-state-qanon.md)
+  - tema: Chemtrails
+    text: opakování, kontrast se Srbskem → zdroj doplněn v [Konspirační teorie](../konspirace.md)
+  - tema: Jídlo jako otrava; ovlivňování počasí
+    text: ⚡ viz [Konspirační teorie](../konspirace.md)
+  - tema: Energetický „blázinec"
+    text: zatopený důl, vyhozený plynovod, plyn z USA 4× dražší (opakování).
+  - tema: Digitální euro spuštěno „mezi firmami"
+    text: → zdroj doplněn v [Digitální kontrola](../digitalni-kontrola.md)
+  - tema: Psychopati u moci
+    text: ⚡ „klasický psychopat" s kulatými narozeninami (implicitně Rajchl) → viz [Politický systém](../politicky-system.md),
+      [Stochastický teror](../stochasticky-teror.md)
+  - tema: Vučić rezignuje, aby kandidoval na premiéra
+    text: doufá, že vyhraje → [Predikce](../predikce.md)
+  - tema: Formát demonstrace; „podvodník", který zahodil rok 2022
+    text: ⚡ implicitně Rajchl; SPD/PRO/Trikolóru vytvořil „kmotr Hrdlička s ODS" → viz [Politický systém](../politicky-system.md)
+  - tema: Babišovi „nedá se věřit ani pozdrav"
+    text: nezklamal ho, protože to předpovídal.
+  - tema: 'Proč se nekupuje ruská ropa: korupce'
+    text: ⚡ viz [Ceny energie](../ceny-energie.md)
+  - tema: 'Zelenskyj: Ukrajina jako „velký Izrael"'
+    text: BlackRock, „globalismus a sionismus ruku v ruce"
+    vyrok: vrabel-2026-09-27-07
+  - tema: Kam utéct při válce; Polsko další na řadě; islamizace ČR
+    text: ⚡ viz [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Bezpečnost v Egyptě
+    text: „čmoudi" → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-09-27-08
+  - tema: Babišův klip o Macronově iniciativě
+    text: Babiš „herec, který s námi mluví jako s dementy".
+  - tema: Sdílení je omezováno
+    text: „aby Vrábela nikdo nesledoval".
 vyroky:
 - id: vrabel-2026-09-27-01
   typ: tvrzeni
@@ -20,6 +85,10 @@ vyroky:
     se plyn vozil, dnes se nakupuje přes prostředníky (USA), „aby si na tom nakradli", a „nakonec to vede
     k válce, ta korupce". „Lumpové" Macinka a Babiš pomáhají USA udržet moc kvůli penězům; Macinka „celý
     život nosil tašku Klausovi", jehož syn „hlídá ČEZ".'
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: „Lump", „celý život nosil tašku Klausovi", „svazácky" poslal 140 mil. do PURL
   podtema: Rusko a energetická krize EU
 - id: vrabel-2026-09-27-02
   typ: tvrzeni
@@ -104,6 +173,10 @@ vyroky:
   nadpis: Pavel „troubí do války" — ve sporu s Ficem o čl. 5 NATO (Rajchl, 24. 9. 2026)
   text: '**27. 9. (Vrabel)** — K Pavlovu projevu v OSN, že Krym je ukrajinský, Vrabel namítá, že „Krym
     je samozřejmě ruský" a ČR se tím zavazuje podporovat Ukrajinu až do porážky Ruska.'
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Podvodník", který zahodil hnutí 2022; „klasický psychopat" s kulatými narozeninami
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: vrabel-2026-09-27-10
   typ: tvrzeni
@@ -153,3 +226,63 @@ vyroky:
   citace:
   - text: My jsme jejich protivník. Nepřiznaný, ale protivník.
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-27-13
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: konflikt NATO–Rusko je nevyhnutelný, může začít „každým dnem"
+  text: Přímý konflikt NATO s Ruskem je nevyhnutelný a může začít „každým dnem" — sporným narušením vzdušného
+    prostoru a sestřelem, po němž do dvou hodin přijde stav ohrožení, článek 5 a zavřené hranice.
+  citace:
+  - text: Podle mojho názoru je ten konflikt nevyhnutelný.
+  predikce:
+    horizont: neurčeno („každým dnem")
+    stav: ceka
+- id: vrabel-2026-09-27-14
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Vučić vyhraje volby na premiéra Srbska
+  text: Vučić rezignuje na funkci prezidenta, aby mohl kandidovat na premiéra, a volby (zhruba za měsíc)
+    vyhraje.
+  citace:
+  - text: Bude kandidovat [na] premiéra Srbska. Předpokládám, že vyhraje.
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: „Jediný normální politik v Evropě", doufá v jeho vítězství
+  predikce:
+    horizont: srbské volby (cca 10–11/2026)
+    stav: vyvraceno
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: volby 25. 10. vyhrálo studentské hnutí, Vučić uznal porážku (sám Vrabel v [Ladislav Vrabel
+        — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026))
+      stav: vyvraceno
+- id: vrabel-2026-09-27-15
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: Egypťané / muslimové („čmoudi")
+  text: rasová dehumanizace skupiny bez výzvy k násilí
+  citace:
+  - text: všichni ty čmoudy, omlouvám se, že jim takhle říkám, no, neomlouvám se, ví, že na toho evropského
+      turistu nemůžou šáhnout
+  teror:
+    terc: Egypťané / muslimové („čmoudi")
+    hranicni: false
+- id: vrabel-2026-09-27-16
+  typ: stoch-teror
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: nejmenovaný politik „s kulatými narozeninami" (implicitně Jindřich Rajchl, který 27. 9. slavil
+    50. narozeniny)
+  text: 'hraniční: terč nejmenován, výslovně odmítá, že by si psychopati zasloužili trpět'
+  citace:
+  - text: Kdybyste chtěli vědět, kdo je takovej klasický psychopat, tak se podívejte na jednoho politika,
+      nebudu jmenovat, který zrovna slaví kulatý narozeniny [...] zničí u toho, kolik chce lidí" + obecně
+      „lidské zrůdy [...] ty psychopaty musíme dát pryč
+  teror:
+    terc: nejmenovaný politik „s kulatými narozeninami" (implicitně Jindřich Rajchl, který 27. 9. slavil
+      50. narozeniny)
+    hranicni: true

@@ -30,4 +30,44 @@ vyroky:
     poplatků proto hned přijde zákon FARA (viz [Mediální lynč vs. selektivní ticho](media-propaganda.md#mediální-lynč-vs-selektivní-ticho)).
   citace:
   - text: Ostatně soudím, že politické neziskovky musí být zničeny.
+  osoby:
+  - osoba: bara-starkova
+    vztah: negativni
+    kontext: Její spolek financují Soros, Obama Foundation a sponzoři STAN
+  - osoba: george-soros
+    vztah: negativni
+    kontext: Financují Aspen a spolek Díky, že můžeme; Alexandra přijal Pavel
+  - osoba: alexander-soros
+    vztah: negativni
+    kontext: Financují Aspen a spolek Díky, že můžeme; Alexandra přijal Pavel
+  - osoba: jan-barta
+    vztah: negativni
+    kontext: Sponzoruje spolek Díky, že můžeme, STAN i Pavla
+  - osoba: danuse-nerudova
+    vztah: negativni
+    kontext: Zastává se Stárkové, protože mají „stejného sponzora“
+  - osoba: klara-laurencikova
+    vztah: negativni
+    kontext: Seznámila Stárkovou s Obama Foundation
+  - osoba: jindrich-sidlo
+    vztah: negativni
+    kontext: Sedí se Stárkovou v porotě ceny Františka Kriegla
+  - osoba: tomas-paukner
+    vztah: pozitivni
+    kontext: Poskytli informace o financování spolku
+  - osoba: matous-svoboda
+    vztah: pozitivni
+    kontext: Poskytli informace o financování spolku
   podtema: Milion chvilek — struktura a financování
+- id: rajchl-2026-11-02-02
+  typ: stoch-teror
+  temata:
+  - fara-neziskovky
+  nadpis: „politické neziskovky“ (mj. spolek Díky, že můžeme)
+  text: opakované heslo (parafráze Catona) po obvinění konkrétního spolku ze zahraničního řízení; skupinový
+    terč + výzva ke „zničení“, kontextem je legislativa (zákon FARA), ne násilí
+  citace:
+  - text: Ostatně soudím, že politické neziskovky musí být zničeny.
+  teror:
+    terc: „politické neziskovky“ (mj. spolek Díky, že můžeme)
+    hranicni: true

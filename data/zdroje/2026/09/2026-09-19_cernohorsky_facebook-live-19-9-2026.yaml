@@ -57,6 +57,15 @@ vyroky:
     Tomio Okamura. Argumentuje, že jde o doklad, jak dvoukomorový systém umožňuje jednotlivci „uzurpovat"
     zahraničněpolitickou moc bez demokratické kontroly. Připomíná svou dřívější nechuť k Drahošovi z prezidentských
     voleb 2018 („stahovač králíků") a vyjadřuje úlevu, že nezvítězil nad Milošem Zemanem.
+  osoby:
+  - osoba: jiri-drahos
+    vztah: negativni
+    kontext: Místopředseda Senátu — neschválená cesta na Ukrajinu; „stahovač králíků"; úleva, že nevyhrál
+      prezidentské volby 2018
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: 'Nový řádek: spolu s dalšími ukrajinskými představiteli obviněn z rozsáhlé korupce a odsouzen
+      k „kruté smrti" — terč stochastického teroru'
   podtema: Demokracie a politický systém
 - id: cernohorsky-2026-09-19-05
   typ: tvrzeni
@@ -105,3 +114,32 @@ vyroky:
     z rozpoutání konfliktu (podpora Majdanu, nedodržení Minských dohod, ostřelování Donbasu) a vyjadřuje
     přání jejich násilné smrti (→ [stochastický teror](stochasticky-teror.md)).'
   podtema: Zahraniční aktéři a precedenty
+- id: cernohorsky-2026-09-19-08
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Boris Johnson
+  text: jmenovaný terč, explicitní přání jeho násilné smrti při útoku dronem
+  citace:
+  - text: Škoda, že ten vlak... opravdu, mě to fakt mrzí... kdyby ten vlak s tím Borisem Johnsonem a s
+      těma zmrdama už kurva trefil. Ten rusák, vole, s tím dronem. A byl by z části pokoj.
+  osoby:
+  - osoba: boris-johnson
+    vztah: negativni
+    kontext: Terč explicitního přání násilné smrti dronovým útokem — terč stochastického teroru
+  teror:
+    terc: Boris Johnson
+    hranicni: false
+- id: cernohorsky-2026-09-19-09
+  typ: stoch-teror
+  temata:
+  - valka-nato-rusko
+  nadpis: Volodymyr Zelenskyj a ukrajinské vedení (Jermak, Mindič aj.)
+  text: jmenovaní terči (bezprostředně navazuje na výčet jmen ukrajinských představitelů), obviněni ze
+    zavraždění „dvou až tří milionů Ukrajinců" a výzva k jejich kruté smrti
+  citace:
+  - text: Proto tyhle zmrdi si nic jiného než smrt nezaslouží... Takže těmhle zmrdům... oni si nezaslouží
+      nic jiného než kurva krutou smrt.
+  teror:
+    terc: Volodymyr Zelenskyj a ukrajinské vedení (Jermak, Mindič aj.)
+    hranicni: false

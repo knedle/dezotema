@@ -7,3 +7,7 @@ zdroj:
   url: https://m.facebook.com/watch/?v=2011499149741166
   prepis: prepisy/done/2026-03-28_Československo-TV2_Videoportál.txt
   rezim: standard
+  osoby:
+  - osoba: marian-kotleba
+    vztah: neutralni
+    kontext: Nahradil Kotlára na akci jako host

@@ -20,6 +20,11 @@ vyroky:
     Cílem bylo budovat důvěru veřejnosti — pokud by politici po očkování zemřeli, vyslali by jasný varovný
     signál, pokud by přežili bez újmy, potvrdilo by to bezpečnost vakcíny. Výběr šarží měl být záměrný:
     politici dostali bezpečné látky, ostatní obyvatelstvo ostré šarže.'
+  osoby:
+  - osoba: andrej-babis
+    vztah: neutralni
+    kontext: Vláda Babiše dostala při očkování 2020 placebo/vitamíny místo ostrých šarží — záměrné budování
+      důvěry
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 - id: zitko-2026-04-12-02
   typ: tvrzeni
@@ -28,6 +33,11 @@ vyroky:
   nadpis: Dvojníci a klony politiků a celebrit
   text: 'Zítko ve večerníku z 12. dubna 2026 přidává příklad Vladimíra Putina: srovnání záběrů Putina
     z roku 2010 s aktuálními prý odhaluje zřetelné vizuální rozdíly svědčící o záměně za dvojníka.'
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: Součást koordinované aliance s Trumpem a Xi; vizuálně odlišný od Putina z r. 2010 — Zítko
+      spekuluje o dvojníkovi
   podtema: Okultismus
 - id: zitko-2026-04-12-03
   typ: tvrzeni
@@ -38,3 +48,7 @@ vyroky:
     Zítko ve večerníku z 12. dubna 2026 přečetl text amerického autora Johna McIntosha, jehož výklad přijímá jako správný. Ústřední teze: vesmírná soustava vstupuje do nové 26 000leté éry (precese rovnodennosti), přičemž stará patriarchální éra se hroutí. Deep State byl globálně propojený do každého aspektu každodenního života — vlády, média, zdravotnictví, vzdělávání, volby (počítačová manipulace). Vedoucí silou nové éry je „Trumpova aliance" zahrnující Trumpa (USA), Putina (Rusko) a Si Ťin-pchinga (Čína) plus Módího (Indie) a Salmána (Saúdská Arábie) — pro veřejnost se jeví jako soupeři, ale v zákulisí jsou „solidní partneři" operující koordinovaně. Volby nejsou podvodně kradeny ballot-stuffingem, ale předdefinovány počítači.
 
     ⚡ **Poznámka:** Tento výklad je v přímém rozporu s Boldyho přesvědčením, podle nějž Trump je démonický „Moon Child" / Abaddon a nikoliv spasitel.
+  osoby:
+  - osoba: donald-trump
+    vztah: pozitivni
+    kontext: Vedoucí aliance Trump-Putin-Xi bojující proti Deep State; Zítko čte Johna McIntosha

@@ -17,6 +17,31 @@ zdroj:
     (281 hlasů), Vrabel interpretuje jako výměna pro proNATO vládu; EU dronový svaz s Ukrajinou (do 25.
     5.); Ukrajinskí uprchlíci v ČR: přišli 2022, budou žádat o občanství do 5-7 let; Trump = mesijáš globalistů
     podle predikcí 2020-2021.'
+  prehled:
+  - tema: 'Večerní zprávy s komentářem. Klíčová témata: Sudetoněmecký sjezd'
+    text: debata v PS, Vrabel pochybuje o odhodlání koalice zakázat
+  - tema: Zelenský vyhlásil „ticho" od půlnoci 5/6. 5.
+    text: Zelenský vyhlásil „ticho" od půlnoci 5/6. 5.
+  - tema: Írán/Hormuz
+    text: USA+Izrael plánují obnovení úderů, 2000 tankerů uvězněno, 20 000 námořníků
+  - tema: Írán rozdělena na 31 vojenských sekcí
+    text: těžko porazitelná
+  - tema: Goldman Sachs
+    text: zásoby ropy na 8letém minimu (101 dní), produkty 45 dní
+  - tema: EU dodatečné energetické náklady 30 mld. EUR od konfliktu
+    text: EU dodatečné energetické náklady 30 mld. EUR od konfliktu (500M EUR/den)
+  - tema: SNP Global
+    text: obnova může trvat 7 měsíců+
+  - tema: potravinová krize 10-20 % světové potravy v ohrožení kvůli
+    text: potravinová krize 10-20 % světové potravy v ohrožení kvůli 30 % blokaci hnojiv
+  - tema: Rumunsko
+    text: vláda padla (281 hlasů), Vrabel interpretuje jako výměna pro proNATO vládu
+  - tema: EU dronový svaz s Ukrajinou (do 25. 5.)
+    text: EU dronový svaz s Ukrajinou (do 25. 5.)
+  - tema: Ukrajinskí uprchlíci v ČR
+    text: přišli 2022, budou žádat o občanství do 5-7 let
+  - tema: Trump = mesijáš globalistů podle predikcí 2020-2021.
+    text: Trump = mesijáš globalistů podle predikcí 2020-2021.
 vyroky:
 - id: vrabel-2026-05-05-01
   typ: tvrzeni
@@ -33,6 +58,11 @@ vyroky:
     - **Evropa míří do Hormuz:** USA tlačí spojence, aby se zapojili do zajištění bezpečnosti námořních tras; Vrabel: „Evropa půjde do Hormuzského průlivu vojensky."
 
     Vrabel cituje Friedricha Merze: „USA šly do Íránu bez koncepce a Írán je ponížil."
+  osoby:
+  - osoba: friedrich-merz
+    vztah: neutralni
+    kontext: 'Citován: „USA šly do Íránu bez koncepce a Írán je ponížil" — Vrabel se pod toto vyjádření
+      podepisuje'
   podtema: Hormuzský průliv a energetická krize
 - id: vrabel-2026-05-05-02
   typ: tvrzeni
@@ -79,6 +109,11 @@ vyroky:
     - Íránská válka bez koncepce, Hormuzská krize, potravinový výpadek, cla způsobující nestabilitu
 
     Stejný scénář se dle Vrabela opakuje ve všech západních zemích: vždy zvítězí někdo, kdo vypadá jako odpůrce globalismu, ale po zvolení pokračuje v agendě 2030.
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: 'Mesijáš globalistů dle předpovědí 2020–2021: byl zvolen jako bojovník proti nim, způsobil
+      větší mezinárodní škody než Biden/Obama; Írán, Hormuz, potravinový výpadek'
 - id: vrabel-2026-05-05-05
   typ: tvrzeni
   temata:
@@ -88,6 +123,10 @@ vyroky:
     Vrabel ve vysílání 5. 5. 2026 analyzuje demografický vývoj: Ukrajinci přišli do ČR v roce 2022, v roce 2026 jsou tam již 4 roky; válka nekončí (EU poskytla 90 mld. EUR na další 2 roky). Vrabel předpovídá, že pokud válka neustoupí, budou Ukrajinci v ČR i nadále — a postupně budou žádat o občanství (podmínka 5–7 let pobytu).
 
     Pokud dostanou občanství, je to dle Vrabela „Overtonovo okno zavřené" — nevratná demografická změna, analogická situaci Německa s Turky nebo Británie s přistěhovalci. Vrabel také poukazuje na to, že česká média přestávají reportovat o kriminalitě migrantů (stejně jako to přestaly dělat v Německu a Norsku), čímž se problém normalizuje.
+  osoby:
+  - osoba: ondrej-dostal
+    vztah: negativni
+    kontext: 'Europoslanec, který napsal „válka nebude" — Vrabel: „Co jim dávají do vody v tom Bruselu?"'
 - id: vrabel-2026-05-05-06
   typ: tvrzeni
   temata:

@@ -25,6 +25,11 @@ vyroky:
     postupuje podle jejích zkušeností velká část znalců (jmenovitě v porodnictví a vakcinologii), kteří
     by měli čelit stejné kritice. Uzavírá, že Peková na razítku není závislá a bude ve výzkumu pokračovat
     i bez něj.'
+  osoby:
+  - osoba: pekova
+    vztah: rozporuplny
+    kontext: Uznává její vědeckou práci, ale i formální pochybení (podjatost) — odmítá výklad, že by odebrání
+      razítka zpochybnilo její odbornost
   podtema: Trestní stíhání kritiků covidu
 - id: tarabova-2026-08-20-02
   typ: tvrzeni
@@ -36,6 +41,11 @@ vyroky:
     naději, po vlastním prozkoumání situace uzavírá, že žádný reálný efekt tato snaha nemá — jde o „hranou
     snahu odhalovat nesrovnalosti", nikoli upřímný pokus o nápravu. Takové akce podle ní slouží jako divadlo
     odvádějící pozornost veřejnosti k jiným tématům.
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: 'Nový řádek: jeho seminář v PS ke covidu hodnotí jako „hrané divadlo" bez upřímné snahy cokoli
+      odhalit'
   podtema: Trestní stíhání kritiků covidu
 - id: tarabova-2026-08-20-03
   typ: tvrzeni

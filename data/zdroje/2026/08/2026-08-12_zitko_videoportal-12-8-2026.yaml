@@ -37,3 +37,23 @@ vyroky:
     „systému založeného na aktivech". Jako doprovodná nebeská znamení uvádí zatmění Slunce (12. 8.), konjunkci
     šesti planet, roj Perseid a zatmění Měsíce (27.–28. 8.) — přechodné období má trvat od 13. 8. do 11.
     9. 2026. Viz [predikce.md](predikce.md).'
+- id: zitko-2026-08-12-03
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: '„Americké jubileum" 21. 9. 2026: konec starého finančního systému'
+  text: Zítko sdílí a schvaluje teorii, podle níž 21. září 2026 (250. výročí USA, biblické „jubileum")
+    symbolizuje konec starého finančního systému („admirality law") a přechod ke „novému systému založenému
+    na aktivech" (QFS). Přípravné období má probíhat od 13. 8. do 11. 9. 2026, jako nebeská znamení uvádí
+    zatmění Slunce (12. 8.) a Měsíce (27.–28. 8.) a konjunkci šesti planet. Předpovídá, že ke změně dojde
+    „letos", nikoli v nejisté budoucnosti.
+  predikce:
+    horizont: 21. 9. 2026 (příprava od 13. 8. do 11. 9. 2026)
+    stav: vyvraceno
+    horizont_do: 2026-09-11
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: 21. 9. starý finanční systém neskončil
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Zítko „jubileum“ 16. 11. přesouvá na polovinu až konec ledna 2027.

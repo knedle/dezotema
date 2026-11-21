@@ -7,6 +7,17 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1947038595962864
   prepis: prepisy/done/2026-09-02_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Halle drone attack — obvinění Ruska jen na základě DNA, srovnání s Vrběticemi
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Válečné reparace — Nawrocki vyzývá Německo, ČR má nárok na 11–14 bilionů Kč
+    text: → [Benešovy dekrety](../benesovy-dekrety.md)
+  - tema: Zdražování energií (plyn +60 %, elektřina +30 %) jako důsledek voleb
+    text: → [Ceny energie](../ceny-energie.md)
+  - tema: Vojenská neutralita — Bělehrad hostil hnutí nezúčastněných zemí, Srbsko jako vzor
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Palantir/Karp/Thiel/Musk — technokratická elita a Deep State
+    text: → [Konspirace](../konspirace.md)
 vyroky:
 - id: vrabel-2026-09-02-01
   typ: tvrzeni
@@ -26,6 +37,15 @@ vyroky:
     — ta podle něj obsahuje jen vzájemnou omluvu, nikoli formální vzdání se nároku na reparace; k jejímu
     vzniku dodává (po diskuzi s moderátorkou), že preambuli vyjednával tehdejší předseda Sněmovny Miloš
     Zeman, podepsal ji prezident Václav Klaus.'
+  osoby:
+  - osoba: karol-nawrocki
+    vztah: pozitivni
+    kontext: Polský prezident — vyzval Německo k plné úhradě válečných reparací a otevřeně řekl, že Německo
+      napadlo Polsko; Vrabel oceňuje, že tuto „pravdu" vyslovil
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Odjel na státní návštěvu Německa ve výročí 2. sv. války místo požadování reparací — označeno
+      za jednu z největších politických ostud
   podtema: Podstata dekretů, odsun a smíření
 - id: vrabel-2026-09-02-02
   typ: tvrzeni
@@ -63,6 +83,11 @@ vyroky:
     o protestech stovek zdravotních sester v osmi amerických městech (organizace National Nurses United)
     proti využívání Palantiru nemocnicemi a úřady — konkrétně kvůli použití při imigrační kontrole a plánování
     směn/personálního obsazení.'
+  osoby:
+  - osoba: alex-karp
+    vztah: negativni
+    kontext: Ředitel Palantiru — investuje do nové ukrajinské obranné firmy s Fedorovem; propojen s CIA,
+      Thielem a Muskem jako součást technokratické elity
   podtema: Historické konspirační výklady
 - id: vrabel-2026-09-02-04
   typ: tvrzeni
@@ -80,6 +105,10 @@ vyroky:
     muniční iniciativě (letos 1 milion kusů 155mm munice, kumulativně přes 4,3 mil. kusů od roku 2024).
     Odkazuje na buddhistický koncept karmy (zákon příčiny a následku) jako varování, že dodávky zbraní
     proti Rusku budou mít nevyhnutelné následky.'
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Hostil setkání hnutí nezúčastněných zemí v Bělehradě, obhajoval vojenskou suverenitu a multilateralismus
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-09-02-05
   typ: tvrzeni

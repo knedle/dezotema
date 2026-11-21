@@ -8,6 +8,55 @@ zdroj:
   prepis: prepisy/done/2026-10-16_Ladislav-Vrabel_16-10-2026-Večerní-zprávy-s-komentářem.txt
   rezim: vrabel
   poznamka: 1 h 3 min, zprávy čte Zuzana, režie Ivan. Krátká sdílená videa (Trump, Istanbul, Albánie).
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Trumpovi „čochá nožičky“
+  prehled:
+  - tema: 'Babiš: „Trump nás podrazil“'
+    text: Trump podrazil válkami, ne ropou. Babiš dostává „pětku“
+    vyrok: vrabel-2026-10-16-04
+  - tema: Fico opustil summit a podpořil Vučiće
+    text: „takhle se má dělat politika“, Babiš je „Slovák, neumí česky“, Okamura v Srbsku agitoval pro
+      EU
+    vyrok: vrabel-2026-10-16-04
+  - tema: Neshoda o rozpočtu EU 2028–2034
+    text: dohodnou se, ale EU nakonec rozloží občanská válka → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-16-04
+  - tema: ČR odvede do rozpočtu EU 82 mld.
+    text: Babiš je „oligarcha“, hádá se o zemědělské dotace.
+  - tema: 2. kolo Senátu, nízká účast
+    text: politici z protestů se „otočili“, Hamplová „to zobchodovala“
+    vyrok: vrabel-2026-10-16-07
+  - tema: Zelenskyj žádá 70 mld. € a 22. sankční balíček
+    text: Babiš to „odmává“ a Češi zaplatí.
+  - tema: Ukrajinci v ČR jako bezpečnostní riziko
+    text: „dva miliony“, „kolik z nich bude ozbrojených“, „dynamit“ → viz [Stochastický teror](../stochasticky-teror.md),
+      [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-16-02
+  - tema: Írán vyváží paliva navzdory blokádě
+    text: válku rozpoutaly USA, svět je má sankcionovat
+    vyrok: vrabel-2026-10-16-06
+  - tema: Záplavy v Istanbulu
+    text: „hybridní válka počasím“ ze strany USA, „nemám pro to důkaz“
+    vyrok: vrabel-2026-10-16-01
+  - tema: Rozkol USA–EU, Zelenskyj kritizuje Trumpa
+    text: rozkol je sehraný, Macinka Trumpovi „čochá nožičky“, Ukrajina bude „řídit naše armády“
+    vyrok: vrabel-2026-10-16-04
+  - tema: Protesty v Albánii (Rama, resort Kushnera)
+    text: „boj státu proti lidem“, Babiš „je proti lidem“
+    vyrok: vrabel-2026-10-16-03
+  - tema: Lukašenko proti Trumpovi
+    text: Trump je „diktátor světa“, „potřebuje dostat ránu mezi oči“ → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-16-06
+  - tema: Novinář Hässig obviněn z porušení bankovního tajemství
+    text: stát je „příšera, která žere vlastní lidi“, Fuellmichovy „lidové soudy“
+    vyrok: vrabel-2026-10-16-03
+  - tema: 'Irsko: zájem o odbory kvůli AI'
+    text: „AI je tady.“
+  - tema: 'Trump: zbraně pro Ukrajinu na černém trhu'
+    text: zbraně prý „poschovávané v bytech“ v ČR, politici jsou „lumpové“
+    vyrok: vrabel-2026-10-16-05
 vyroky:
 - id: vrabel-2026-10-16-01
   typ: tvrzeni
@@ -36,6 +85,10 @@ vyroky:
     z nich bude pravděpodobně ozbrojených.“ Dvacet milionů Ukrajinců rozprostřených po Evropě je podle
     něj „dynamit, který čeká na to, aby byl odpálený“. „Nestrkejte Ukrajince do České republiky po milionech.
     Nestrkejte, může to chytnout.“ (viz [Stochastický teror](stochasticky-teror.md))'
+  osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: V Srbsku přemlouval ke vstupu do EU, „podřízenost globálním strukturám“
 - id: vrabel-2026-10-16-03
   typ: tvrzeni
   temata:
@@ -51,6 +104,13 @@ vyroky:
     označuje za „velmi dobrou myšlenku“. Sám je v podmínce a „každý den se modlí, aby nešel do vězení“.
     Albánské protesty (Rama, resort Jareda Kushnera) podle něj ukazují, že „dneska už je to boj státu
     proti lidem“, a Babiš „je proti lidem v České republice“.'
+  osoby:
+  - osoba: reiner-fuellmich
+    vztah: pozitivni
+    kontext: „Náš kamarád“, týraný ve vězení; „lidové soudy“ jako dobrá myšlenka
+  - osoba: lukas-hassig
+    vztah: pozitivni
+    kontext: Novinář pronásledovaný za odhalení korupce
   podtema: Kritika soudnictví
 - id: vrabel-2026-10-16-04
   typ: tvrzeni
@@ -72,6 +132,13 @@ vyroky:
     aby „do té války šla Evropa, a ne Spojené státy“. Babiš se přiklonil k EU kvůli chemičkám v Německu
     a dotacím Agrofertu. Ukrajina bude „součástí EU velmi rychle“ a „bude trénovat a částečně řídit naše
     armády“.'
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Pětka“, „Slovák, neumí česky“, přiklonil se k EU, „je proti lidem v ČR“
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: Podpořil Vučiće, „takhle se má dělat politika“
   podtema: Česká suverenita
 - id: vrabel-2026-10-16-05
   typ: tvrzeni
@@ -86,6 +153,10 @@ vyroky:
     nebo v Polsku“ a objevují se v Jižní Americe a při teroristických útocích. Evropští politici jsou
     „lumpové“, kteří Trumpovi peníze z daní „odlifrujou“, když jim dá „20 % do kapsy“. Zelenskyj je „diktátor
     bez mandátu“, ale „psychologicky udělal velmi dobře“, když se Trumpovi postavil.'
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: „Diktátor světa“, „potřebuje dostat ránu mezi oči“ (→ [stoch. teror](../stochasticky-teror.md))
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-10-16-06
   typ: tvrzeni
@@ -118,4 +189,65 @@ vyroky:
     energetického odborníka Ivana „Noveského“, „Vladimíru Výtovou“ a Davida Tesáře, kteří se „nezkazili“.
     Ke zprávě, že Zelenskyj žádá 70 mld. eur, dodává, že Babiš „zvedne pravačku, odmává dalších 70 miliard“
     a „Češi to v klidu zaplatí“.'
+  osoby:
+  - osoba: hamplova
+    vztah: negativni
+    kontext: „Zobchodovala to“, „obrovské zklamání“
+  - osoba: ivan-david
+    vztah: pozitivni
+    kontext: „Jediný normální europoslanec“
   podtema: Komunální volby
+- id: vrabel-2026-10-16-08
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: do roka hrozí v ČR „tlak zdola“ a terorismus ze strany Ukrajinců
+  text: Pokud by ČR omezila podporu Ukrajiny (např. zrušila muniční iniciativu), může do roka přijít „tlak
+    zdola“ až terorismus ze strany (zčásti ozbrojených) Ukrajinců v ČR.
+  citace:
+  - text: Za rok, jak se ta situace postupně mění, možná už to nebude tak jednoduchý udělat. Protože možná
+      už tam bude tlak nejenom ze strany Evropské unie, ale může tam být taky tlak zdola. Taky jako myslím
+      třeba na nějaký terorismus nebo na něco takovýho. To se může stát na území České republiky.
+  predikce:
+    horizont: do října 2027
+    stav: ceka
+- id: vrabel-2026-10-16-09
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: EU rozloží občanská válka; Ukrajina bude „velmi rychle“ v EU a bude řídit evropské armády
+  text: Evropskou unii nakonec rozloží občanská válka; Ukrajina se velmi rychle stane členem EU a bude
+    trénovat a částečně řídit evropské armády; rozkol USA–EU je sehraný, aby do války šla Evropa.
+  citace:
+  - text: Osobně si myslím, a říkám to už 20 let, že to nakonec k rozpadu Evropské unie povede, protože
+      v Evropě bude občanská válka. […] Takže Ukrajina bude součástí Evropské unie velmi rychle. […] Ukrajina
+      bude trénovat. A částečně řídit naše armády.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-10-16-10
+  typ: stoch-teror
+  temata:
+  - valka-nato-rusko
+  nadpis: Donald Trump
+  text: v kontextu výzvy, aby se „celý svět ostře postavil proti Spojeným státům“; hraniční (metafora
+    vs. výzva k násilí)
+  citace:
+  - text: Donald Trump se chová absolutně jako diktátor… diktátor světa. […] To je někdo typově, psychologicky,
+      to je člověk, který potřebuje dostat prostě ránu mezi oči, aby přestal. A on přestane.
+  teror:
+    terc: Donald Trump
+    hranicni: true
+- id: vrabel-2026-10-16-11
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: Ukrajinci v ČR a v Evropě
+  text: kolektivní označení skupiny za ozbrojenou hrozbu a „dynamit“; hraniční, bez výzvy k násilí
+  citace:
+  - text: Vemte si, kolik je tady Ukrajinců, a kolik z nich bude pravděpodobně ozbrojený.“ / „to je prostě
+      dynamit, který čeká na to, aby byl odpálený“ / „Nestrkejte Ukrajince do České republiky po milionech.
+      Nestrkejte, může to chytnout.
+  teror:
+    terc: Ukrajinci v ČR a v Evropě
+    hranicni: true

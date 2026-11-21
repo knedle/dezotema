@@ -13,6 +13,21 @@ zdroj:
     ČEZ, Henry Novak / obrácený rasismus, migrační pakt / vystoupit z EU, Ukrajina do EU/NATO (čl. 42.7),
     EU mírový plán + Merz, Německo vypadlo z Rady bezpečnosti OSN, Arménie + polská US základna. Zprávy
     v devět s komentářem (moderátorka Zuzka)'
+  osoby:
+  - osoba: vikram-digwa
+    vztah: negativni
+    kontext: 23letý sik odsouzený za vraždu Henryho Novaka — pětkrát ho bodl „rituálním nožem"; Vrabel
+      jej uvádí jako symbol „obráceného rasismu" britské policie
+  - osoba: nigel-farage
+    vztah: pozitivni
+    kontext: 'Citován souhlasně: je třeba skončit s „obráceným rasismem proti bílému muži" (video s 57
+      mil. zhlédnutí)'
+  prehled:
+  - tema: Hlavní bloky
+    text: Vrabelovo odsouzení za dotační podvod (perzekuce), tunel pod Beringem + Nord Stream, útok na
+      fórum v Petrohradu, ruská ekonomická suverenita vs. předlužený Západ, Babiš a rozprodej ČEZ, Henry
+      Novak / obrácený rasismus, migrační pakt / vystoupit z EU, Ukrajina do EU/NATO (čl. 42.7), EU mírový
+      plán + Merz, Německo vypadlo z Rady bezpečnosti OSN, Arménie + polská US základna.
 vyroky:
 - id: vrabel-2026-06-04-01
   typ: tvrzeni
@@ -29,6 +44,11 @@ vyroky:
     takovou stabilitu nemá (Babiš plánuje 300 mld. dluh za rok, 40 % domácností nevyjde s příjmy), protože
     „se krade jako kdyby nebylo zítra". Připomíná, že Rusko podle jeho zdroje (ruský diplomat) v roce
     2022 přežilo jen díky Indii a Číně.'
+  osoby:
+  - osoba: anton-siluanov
+    vztah: neutralni
+    kontext: Ruský ministr financí — na fóru v Petrohradu prohlásil dosažení ekonomické suverenity (+24
+      % reálné příjmy za 3 roky); Vrabel cituje jako vzor
   podtema: Ekonomika, sankce a BRICS
 - id: vrabel-2026-06-04-02
   typ: tvrzeni
@@ -66,6 +86,12 @@ vyroky:
     mála, kdo na rozprodeji republiky zbohatl (7. nejbohatší Čech, „550 milionů kapesného od otce do začátku").'
   citace:
   - text: Prakticky celá Česká republika je roz-kra-de-ná.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Chce oddělit a prodat distribuci ČEZ („rozkradená republika"); navrhuje Merze jako vyjednavače
+      za EU; za ČR v Evropské radě schválil odblokování přístupových rozhovorů s Ukrajinou; vinu za Vrabelovo
+      odsouzení nese jeho covidová opatření
   podtema: Kauza Ladislav Vrabel — dotační podvod
 - id: vrabel-2026-06-04-04
   typ: tvrzeni
@@ -109,6 +135,15 @@ vyroky:
     a Portugalskem); německý ministr Wadephul to přičetl podpoře Ukrajiny, Vrabel a citovaný zástupce
     AfD to čtou jako varovný signál, že „svět Německo nenávidí" za zbrojení a bezhlavou podporu Izraele.
     ČR se podle Vrabela podporou Ukrajiny, Izraele i Merze „dostala na stranu outsiderů".
+  osoby:
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: '„Válečný štváč" (Taurus na Krym, podpora Izraele a Ukrajiny); Babiš ho navrhuje jako vyjednavače
+      EU s Moskvou — Vrabel: „nenávidí ho celý svět"'
+  - osoba: johann-wadephul
+    vztah: negativni
+    kontext: 'Německý ministr zahraničí (host SdL sjezdu v Brně); porážku Německa ve volbě do Rady bezpečnosti
+      OSN svedl na podporu Ukrajiny — Vrabel: svět Německo nenávidí za zbrojení a podporu Izraele'
   podtema: Vyjednávání a mír
 - id: vrabel-2026-06-04-07
   typ: tvrzeni
@@ -123,6 +158,11 @@ vyroky:
     s Ruskem obchodovat a budovat společnou infrastrukturu, česká vláda Rusko jen označuje za agresora.
     Přeje si, aby se z politické scény vytratili „protiruští štváči" a obnovily se dodávky plynu a ropy,
     jinak hrozí ČR ekonomická katastrofa.'
+  osoby:
+  - osoba: kirill-dmitrijev
+    vztah: neutralni
+    kontext: Oznámil dohodu USA–Rusko o tunelu pod Beringem (112 km, 68 mld $) a technickou možnost obnovit
+      Nord Stream
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-06-04-08
   typ: tvrzeni
@@ -138,6 +178,11 @@ vyroky:
     války, byla by ČR podle Vrabela „automaticky ve válce s Ruskem". Souběžně Rutte se zástupci 32 zemí
     NATO v Kyjevě potvrdil „nezvratnou cestu Ukrajiny do NATO" — což je dle Vrabela ruská „nepřekročitelná
     červená linie" z roku 2022. Schválení (Evropská rada, jednomyslně 27) připisuje za ČR Andreji Babišovi.'
+  osoby:
+  - osoba: mark-rutte
+    vztah: negativni
+    kontext: V Kyjevě s 32 zástupci NATO potvrdil „nezvratnou cestu Ukrajiny do NATO" (ruská červená linie);
+      „velký kamarád" Babiše
   podtema: EU jako vojenská struktura
 - id: vrabel-2026-06-04-09
   typ: tvrzeni
@@ -150,4 +195,9 @@ vyroky:
     na Rusko — scénář: ovlivnění voleb → loutková vláda → investice/bankovnictví → vojenské základny (analogie
     s ČR). Spojuje to se zprávou, že Polsko oficiálně nabídlo USA zřízení stálé vojenské základny na svém
     území. Vykládá obojí jako součást obkličování Ruské federace.'
+  osoby:
+  - osoba: ursula-von-der-leyen
+    vztah: negativni
+    kontext: 'Oznámila 50 mil. eur pomoci Arménii před volbami — Vrabel: EU si „kupuje" Arménii k pozdějšímu
+      útoku na Rusko'
   podtema: Eskalace a hrozba rozšíření konfliktu

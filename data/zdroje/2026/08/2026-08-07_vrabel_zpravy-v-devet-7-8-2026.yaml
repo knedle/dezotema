@@ -11,6 +11,33 @@ zdroj:
   poznamka: 'Vrabel — deník. Plně zpracováno 2 z 13 témat: kraje bez peněz na krajské silnice, Zelenskyj
     v Bělehradu — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Bez predikcí
     a stoch. teroru.'
+  prehled:
+  - tema: Slevy na jízdné (50 % místo slíbených 75 %)
+    text: priorita jde na dálnice/železnice — nezpracováno plně (kontext u tématu níže)
+  - tema: Kraje nedostanou peníze na silnice 2./3. třídy — poprvé od 2015
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: Požár v rafinerii Slovnaft v Bratislavě
+    text: nezpracováno plně
+  - tema: Saúdská Arábie, Turecko, Pakistán
+    text: obranná dohoda („blízkovýchodní NATO") — nezpracováno plně
+  - tema: Útoky Hútíů v Jemenu
+    text: mrtví a zranění — krátká zmínka
+  - tema: Nová americká vojenská základna v Gaze (marocký kontingent)
+    text: nezpracováno plně
+  - tema: Trump popírá spory s Hegsethem o nedostatek raket po Íránu
+    text: nezpracováno plně
+  - tema: Írán kritizuje Trumpovu „divadelní diplomacii" k Hormuzu
+    text: nezpracováno plně
+  - tema: Znečištění vod v Anglii (zlepšení „až 2063")
+    text: nezpracováno plně
+  - tema: Kryoprezervace a AI budoucnost
+    text: odbočka — nezpracováno plně
+  - tema: Španělsko–Itálie spor o hraniční kontroly (Ceuta) + Lex Ukrajina 7
+    text: opakování včerejšího tématu
+  - tema: Ukrajina žádá EU o 220 mil. eur zemědělské podpory
+    text: nezpracováno plně
+  - tema: Zelenskyj v Bělehradu — chladné přivítání, Vučić odmítá zbraně
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
 vyroky:
 - id: vrabel-2026-08-07-01
   typ: tvrzeni

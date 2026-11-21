@@ -7,6 +7,42 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/922058683757709
   prepis: prepisy/done/2026-08-25_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Odmítá mobilizaci žen kritizovat; jeho vláda financována stejnou rodinou, která dle Vrabela
+      financovala nacismus
+  prehled:
+  - tema: Agenda 2030 jako reálná vládní politika vedoucí k technokracii
+    text: → [Konspirace](../konspirace.md)
+  - tema: Digitalizace měn, tokenizace majetku, krize dluhopisů
+    text: Digitalizace měn, tokenizace majetku, krize dluhopisů USA/EU (skupování vlastního dluhu) — nezpracováno
+  - tema: Moskva odmítá správu Donbasu třetí stranou, nemožnost porazit Rusko vojensky
+    text: nezpracováno
+  - tema: Kritika mobilizace ukrajinských žen do armády (Keith Kellogg)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Druhá světová válka jako „válka proti Slovanům", Rockefellerové financovali Hitlera i Zelenského
+    text: → [Konspirace](../konspirace.md)
+  - tema: Rok 1968 — invaze zabránila „Majdanu" v Československu (opakování)
+    text: → [Petr Pavel](../petr-pavel.md)
+  - tema: Šéf CIA Ratcliffe tajně v Moskvě, spekulace o velké dohodě/parcelaci Ukrajiny
+    text: nezpracováno
+  - tema: Ukrajina jako „neúspěšný stát" bez práva na územní celistvost
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Německo/Merz připravuje krok proti Rusku, AfD sílí před zemskými volbami
+    text: nezpracováno
+  - tema: Paralela s 2. sv. válkou — Evropa má být „obětována"
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Kosovo a Metochie — útlak Srbů, predikce vyřešení po válce na Ukrajině
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Úpadek dominance NATO/USA (Čína, KLDR), predikce že ČR bude určovat spíš Rusko
+    text: nezpracováno (predikce zaznamenána)
+  - tema: EU dluhopisy, zmrazená ruská aktiva, Lagarde a WEF
+    text: teorie „korporátního fašismu" — nezpracováno
+  - tema: Hormuzský průliv
+    text: dohoda Írán/Omán, predikce odchodu USA z Blízkého východu — nezpracováno
+  - tema: Islamizace jako „největší problém" — historie tureckého útlaku Srbů
+    text: → [Migrace](../migrace.md)
 vyroky:
 - id: vrabel-2026-08-25-01
   typ: tvrzeni
@@ -32,6 +68,11 @@ vyroky:
     Vrabel tvrdí, že druhá světová válka nebyla především válkou proti Židům, ale válkou proti Slovanům — s odkazem na počet zabitých Slovanů oproti obětem holokaustu. Tvrdí, že rodina Rockefellerů (jmenovitě David Rockefeller) financovala nacistické Německo, včetně výroby plynu Cyklon B pro koncentrační tábory, a že tatáž „rodina hazarských židů" dnes financuje Volodymyra Zelenského — se závěrem, že hlavním beneficientem obou válek jsou Spojené státy (po 2. světové válce ovládly světovou rezervní měnu skrze Brettonwoodský systém). Podobně vyzdvihuje financování Adolfa Hitlera americkými firmami (Ford, Coca-Cola).
 
     ⚡ **Poznámka:** Tvrzení o financování nacismu i dnešní ukrajinské vlády konkrétní židovskou rodinou/„hazarskými židy" je antisemitský konspirační topos; srov. [BRICS vs unipolární svět: konflikt o dolar a globalistickou „chazarskou" nadvládu](#brics-vs-unipolární-svět-konflikt-o-dolar-a-globalistickou-chazarskou-nadvládu-vrabel-8-6-2026).
+  osoby:
+  - osoba: david-rockefeller
+    vztah: negativni
+    kontext: Tvrzení, že financoval nacistické Německo (výrobu Cyklonu B) i dnes financuje Volodymyra
+      Zelenského (→ [konspirace](../konspirace.md))
   dalsi_zdroje:
   - 2026-09-27_vrabel_nedelni-vysilani-27-9-2026
   podtema: Náboženský a okultní výklad moci
@@ -68,6 +109,11 @@ vyroky:
     s tím, aby ženy sloužily jako zdravotnice, ne v bojových jednotkách — a považuje to za další stupeň
     vyčerpání ukrajinského národa, který podle něj čeká vyvraždění „do posledního Ukrajince" i „do posledních
     Ukrajinek". Kritizuje zároveň praxi jednotek TCK, které nuceně odvádějí muže do armády na ulicích.
+  osoby:
+  - osoba: keith-kellogg
+    vztah: negativni
+    kontext: Bývalý zvláštní vyslanec USA pro Ukrajinu — kritizován za podporu mobilizace ukrajinských
+      žen do armády
   podtema: Vyjednávání a mír
 - id: vrabel-2026-08-25-06
   typ: tvrzeni
@@ -113,3 +159,62 @@ vyroky:
     a spojuje to s obecnějším postřehem o slábnoucí schopnosti NATO/USA vojensky i politicky ovládat dění
     po celém světě (vedle KLDR a Číny jako rostoucích vojenských velmocí).'
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-08-25-09
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: Po válce nahradí demokracii technokracie
+  text: Vrabel předpovídá, že po skončení války dojde ke změně politického systému — vysoká nezaměstnanost,
+    ekonomické problémy a nedůvěra k politikům povedou k tomu, že lidé sami budou volat po vládě „bez
+    chyb" řízené technologiemi/AI namísto zkorumpovaných politiků. Za klíčové postavy budoucí technokratické
+    společnosti (existující od 20. let minulého století) označuje Elona Muska, Petera Thiela a Alexe Karpa.
+  citace:
+  - text: Pravděpodobně přijde nový systém technokracie... a jejíž hlavní protagonisté... jsou dneska
+      vlastně v ústředí těch organizací.
+  predikce:
+    horizont: neurčeno (po skončení války na Ukrajině)
+    stav: ceka
+- id: vrabel-2026-08-25-10
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Evropa bude „obětována", miliony mrtvých Slovanů
+  text: Podle paralely s 2. světovou válkou (kdy z konfliktu ekonomicky nejvíc těžily USA, zatímco Evropa
+    byla zničena) Vrabel předpovídá, že v následujících měsících a letech bude obětí současné války především
+    východní Evropa, aby si USA udržely dominanci. Odhaduje na základě amerických „ex-plukovníků" celkové
+    ztráty na straně Ukrajiny mezi milionem a 2,5 milionu a na straně Ruska několik set tisíc.
+  citace:
+  - text: Obětí téhle války... bude z velké části Evropy, a především východní Evropy... ten, kdo bude
+      mít největší ztráty... jsou Slovani.
+  predikce:
+    horizont: příští měsíce a roky
+    stav: ceka
+- id: vrabel-2026-08-25-11
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Otázka Kosova se vyřeší po válce na Ukrajině, srbský národ se spojí
+  text: Vrabel odkazuje na dřívější slib ruského velvyslance Srbsku, že po skončení konfliktu na Ukrajině
+    se vyřeší otázka Kosova, a předpovídá, že srbský národ bude nakonec spojený (včetně otázky Republiky
+    srbské).
+  citace:
+  - text: Rusové slíbily už asi před rokem... že až skončí konflikt na Ukrajině, tak se vyřeší otázka
+      Kosova... myslím si, že to tak dopadne, že srbský národ bude nakonec spojený.
+  predikce:
+    horizont: po skončení války na Ukrajině
+    stav: ceka
+- id: vrabel-2026-08-25-12
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Politiku ČR bude časem určovat spíš Rusko než USA
+  text: Vrabel uvádí, že od roku 2022 dlouhodobě odhaduje, že s postupným úpadkem dominance NATO/USA ve
+    světě bude o politickém směřování České republiky časem rozhodovat spíš Ruská federace než Spojené
+    státy. Sám dodává, že situace se může vyvinout i opačně (ČR zůstane v EU, která upadne do „chalifátu"
+    a občanské války).
+  citace:
+  - text: Co mě se týče, tak od roku 2022 typuju na to, že ten, kdo bude určovat politiku v České republice,
+      bude spíš Ruská federace než Spojené státy.
+  predikce:
+    horizont: neurčeno
+    stav: ceka

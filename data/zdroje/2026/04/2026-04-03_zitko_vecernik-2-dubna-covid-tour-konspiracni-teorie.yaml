@@ -8,6 +8,14 @@ zdroj:
   prepis: prepisy/done/2026-04-03_Československo-TV2_Videoportál.txt
   rezim: standard
   delka: '49:57'
+  osoby:
+  - osoba: reiner-fullmich
+    vztah: pozitivni
+    kontext: Navštívil ho ve vězení v německém Bremerhaven; Füllmich označován za bojovníka proti covidovým
+      zločinům
+  - osoba: pekova
+    vztah: pozitivni
+    kontext: Autorka žádosti o amnestii covidových rozsudků; Zítko se plně zapojil do její kampaně
 vyroky:
 - id: zitko-2026-04-03-01
   typ: tvrzeni

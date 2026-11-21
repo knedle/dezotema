@@ -11,3 +11,12 @@ zdroj:
   poznamka: 'Rajchl reaguje na Pavlovo prosazování Spojených států evropských — prezident nemůže prosazovat
     zánik suverenity ČR; EU superstat = sen Německa/Francie, ne ČR; Pavel protikladem Masaryka; 70 % Čechů
     nechce euro, migranty ani Green Deal. Zhlédnutí: 204 108'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: 'Prosazuje EU superstát (Spojené státy evropské) — Rajchl: prezident nemůže prosazovat zánik
+      suverenity ČR; Pavel si protiřečí odvoláváním se na Masaryka, který suverenitu naopak získal'
+  - osoba: tomas-garrigue-masaryk
+    vztah: pozitivni
+    kontext: Vzor státnické odpovědnosti — získal suverenitu z Habsburků; Pavel se na něj odvolává, přestože
+      dělá pravý opak

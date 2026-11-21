@@ -16,6 +16,54 @@ zdroj:
     skončila; Babiš i Pavel za jaderné zbraně v ČR = stejná politika; SPD v koalici pořádá demonstrace
     = pokrytectví; Chorvatsko 1,7 mld. EUR zbrojení; Rajchl jako mafiánský právník; weby ČRNPM/Vrabela
     napadeny kyberútokem.'
+  osoby:
+  - osoba: gideon-saar
+    vztah: negativni
+    kontext: Izraelský ministr zahraničí v Praze pro bezpečnostní spolupráci — Vrabel označuje Izrael
+      za jednoho ze čtyř klíčových spojenců Babiše/ČR (USA, EU, NATO, Izrael); kritika jednostranné orientace
+  - osoba: elon-musk
+    vztah: neutralni
+    kontext: Soud zamítl jeho žalobu na OpenAI (150 mld. USD); Vrabel komentuje AI jako potenciální nástroj
+      kontroly vládců
+  - osoba: tomas-hrdlicka
+    vztah: negativni
+    kontext: Popsán jako „velký mafián, který má pod palcem vlasteneckou scénu" — Rajchl má v jeho sídle
+      hlavní kancelář, jeho manželka tam provozuje restauraci
+  - osoba: alexander-stubb
+    vztah: negativni
+    kontext: '„Jediným skutečným řešením je militarizovat Ukrainu až do krajnosti" — Vrabel: NATO Ankara
+      summit = rozmístění jaderných zbraní po Evropě'
+  prehled:
+  - tema: 'Úterní večerní zprávy. Témata: Izrael Saar v ČR'
+    text: diplomatická osa USA/EU/NATO/Izrael
+  - tema: Putin v Číně
+    text: 25 let partnerství, 40 dokumentů
+  - tema: Trump a Írán
+    text: 'útok odložen, WSJ: zálivové státy nevěděly, Trump ztrácí kredibilitu'
+  - tema: EU kravský hnoj jako náhrada ruského plynu
+    text: EU kravský hnoj jako náhrada ruského plynu
+  - tema: Musk vs. OpenAI soud zamítnut
+    text: Musk vs. OpenAI soud zamítnut
+  - tema: Litva mínová pole na hranici s Ruskem
+    text: Litva mínová pole na hranici s Ruskem
+  - tema: Ruská rozvědka
+    text: Ukraina plánuje útoky z Lotyšska
+  - tema: Rusko-Čína tajný vojenský trénink (Reuters)
+    text: Rusko-Čína tajný vojenský trénink (Reuters)
+  - tema: jaderné cvičení Ruska s Běloruskem (64 000 vojáků)
+    text: jaderné cvičení Ruska s Běloruskem (64 000 vojáků)
+  - tema: START smlouva skončila
+    text: START smlouva skončila
+  - tema: Babiš i Pavel za jaderné zbraně v ČR = stejná politika
+    text: Babiš i Pavel za jaderné zbraně v ČR = stejná politika
+  - tema: SPD v koalici pořádá demonstrace = pokrytectví
+    text: SPD v koalici pořádá demonstrace = pokrytectví
+  - tema: Chorvatsko 1,7 mld. EUR zbrojení
+    text: Chorvatsko 1,7 mld. EUR zbrojení
+  - tema: Rajchl jako mafiánský právník
+    text: Rajchl jako mafiánský právník
+  - tema: weby ČRNPM/Vrabela napadeny kyberútokem.
+    text: weby ČRNPM/Vrabela napadeny kyberútokem.
 vyroky:
 - id: vrabel-2026-05-19-01
   typ: tvrzeni
@@ -76,6 +124,12 @@ vyroky:
   citace:
   - text: Kdyby mu řekli, zakážete Sudetoněmecký Landsmannschaft, nebo nebudeme z vlády — tak co myslíte,
       že udělá Andrej Babiš?
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Označen za pokrytce a „mafiánského právníka" (obhajoval fotbalovou mafii, spolupracuje s
+      Hrdličkou); jako koaliční poslanec SPD píše výzvy ministrovi vnitra = show pro lidi, ne skutečná
+      politika
   dalsi_zdroje:
   - 2026-05-22_vrabel_vecerni-zpravy-22-5-2026
   podtema: Ekonomický program PRO
@@ -91,6 +145,11 @@ vyroky:
     - **Lotyšsko:** vláda padla po incidentu s drony na zásoby ropy.
     - **Ruská rozvědka** tvrdí, že Ukraina připravuje útoky z prostoru Lotyšska — NATO mění strategii z frontálního boje na terorismus na ruském území.
     - **Rozšiřování konfliktu:** útoky na Jekaterinburg, Moskvu, Užhorod; Vrabel varuje, že „jednoho dne si řekneme, že je to válka NATO proti Rusku."
+  osoby:
+  - osoba: marie-zacharova
+    vztah: neutralni
+    kontext: 'Ironicky komentuje plány Litvy na mínová pole: „pohádky o Pinocchiovi" — Vrabel cituje bez
+      přímého hodnocení'
   podtema: Eskalace a hrozba rozšíření konfliktu
 - id: vrabel-2026-05-19-06
   typ: tvrzeni
@@ -103,6 +162,16 @@ vyroky:
     Podle Reuters Čína tajně školila ruské vojáky v Pekingu koncem roku 2025 (drony, elektronická válka, letectvo); někteří vyškolení se zúčastnili bojů na Krimu. Rusko na oplátku školí stovky čínských vojáků. Vrabel záměrně konstatuje symetrii: Trump byl v Číně minulý týden, Putin tento — obojí s velkým uvítáním. Čína hraje vlastní hru se všemi hráči.
 
     V summitu 20. 5. Putin a Si podepsali dokument, v němž Čína výslovně podporuje ruský pohled na konflikt na Ukrajině. Vrabel hodnotí: Západ si svou politikou vůči Rusku a Číně sám vytvořil toto spojenectví.
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: 'Tvrdí, že měl 19. 5. zaútočit na Írán, ale zálivové státy ho požádaly o odložení — WSJ:
+      ty státy o útoku nevěděly. Vrabel: Trump má 80% šanci, že říká opak pravdy; „za chvilku mu neuvěří
+      ani manželka"'
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: V Číně na 25. výročí smlouvy o přátelství — Vrabel hodnotí Rusko-čínské partnerství pozitivně;
+      „naštěstí spolupracují"
   dalsi_zdroje:
   - 2026-05-20_vrabel_vecerni-zpravy-20-5-2026
   podtema: Eskalace a hrozba rozšíření konfliktu

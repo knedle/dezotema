@@ -30,7 +30,7 @@ def krok_zdroje(stara_wiki: Path, root: Path, mkdocs: Path) -> None:
             chyby.append(str(e))
     unikatni_ids(zdroje)
     for z in zdroje:
-        uloz_zdroj(z, root)
+        _s_opakovanim(lambda z=z: uloz_zdroj(z, root))
     kotvy = mapa_kotev(ok_raws, zdroje)
     out = root / "data" / "migrace" / "kotvy-zdroju.json"
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -51,6 +51,24 @@ def _s_opakovanim(fn, pokusu=5):
             if i == pokusu - 1:
                 raise
             time.sleep(0.2 * (i + 1))
+
+
+_NEZARAZENO_KLICE = ("jednotky", "predikce", "teror", "prehled", "zminky")
+
+
+def _uloz_nezarazeno(root: Path, klic: str, data: list) -> None:
+    """Nahradí jen klíč `klic` v data/zdroje/_nezarazeno.yaml (ostatní klíče zůstanou)."""
+    import yaml
+
+    from tools.archiv.io import _Dumper
+
+    p = root / "data" / "zdroje" / "_nezarazeno.yaml"
+    cur = (yaml.safe_load(p.read_text(encoding="utf-8")) or {}) if p.is_file() else {}
+    cur[klic] = data
+    out = {k: cur[k] for k in _NEZARAZENO_KLICE if k in cur}
+    out.update({k: v for k, v in cur.items() if k not in out})
+    with open(p, "w", encoding="utf-8", newline="\n") as f:
+        yaml.dump(out, f, Dumper=_Dumper, allow_unicode=True, sort_keys=False, width=100)
 
 
 def krok_temata(stara_wiki: Path, root: Path, mkdocs: Path) -> None:
@@ -93,10 +111,7 @@ def krok_temata(stara_wiki: Path, root: Path, mkdocs: Path) -> None:
             "datum": j.datum.isoformat() if j.datum else None, "mluvci": j.mluvci,
             "text": j.text, "citace": [_clean(c) for c in j.citace],
             "kotvy_zdroju": j.kotvy_zdroju, "duvod": j.duvod} for j in neprirazene]
-    with open(root / "data" / "zdroje" / "_nezarazeno.yaml", "w", encoding="utf-8",
-              newline="\n") as f:
-        yaml.dump({"jednotky": nez}, f, Dumper=_Dumper, allow_unicode=True, sort_keys=False,
-                  width=100)
+    _uloz_nezarazeno(root, "jednotky", nez)
 
     # staré kotvy sekcí (a kapitol) -> id prvního přiřazeného výroku sekce
     id_podle = {id(j): vid for (j, _), vid in zip(prirazene, s.id_jednotek)}
@@ -178,10 +193,34 @@ def krok_temata(stara_wiki: Path, root: Path, mkdocs: Path) -> None:
     print(f"  důvody nepřiřazení: {dict(Counter(j.duvod.split(' (')[0][:40] for j in neprirazene))}")
 
 
-KROKY = {"zdroje": krok_zdroje, "temata": krok_temata}
+def _kroky_nove():
+    from tools.migrace import kroky_zaznamy
+    return kroky_zaznamy
+
+
+def krok_predikce(stara_wiki, root, mkdocs):
+    _kroky_nove().krok_predikce(stara_wiki, root, mkdocs)
+
+
+def krok_teror(stara_wiki, root, mkdocs):
+    _kroky_nove().krok_teror(stara_wiki, root, mkdocs)
+
+
+def krok_prehled(stara_wiki, root, mkdocs):
+    _kroky_nove().krok_prehled(stara_wiki, root, mkdocs)
+
+
+def krok_osoby(stara_wiki, root, mkdocs):
+    _kroky_nove().krok_osoby(stara_wiki, root, mkdocs)
+
+
+KROKY = {"zdroje": krok_zdroje, "temata": krok_temata, "predikce": krok_predikce,
+         "teror": krok_teror, "prehled": krok_prehled, "osoby": krok_osoby}
 
 
 def main(argv=None) -> int:
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser()
     ap.add_argument("--krok", required=True, help="čárkou oddělený seznam kroků")
     ap.add_argument("--stara-wiki", default=".superpowers/stara-wiki/wiki")
@@ -190,11 +229,17 @@ def main(argv=None) -> int:
     a = ap.parse_args(argv)
     root = Path(a.root)
     mkdocs = Path(a.mkdocs) if a.mkdocs else root / "mkdocs.yml"
-    for krok in a.krok.split(","):
+    zadane = a.krok.split(",")
+    for krok in zadane:
         if krok not in KROKY:
             print(f"neznámý krok: {krok}", file=sys.stderr)
             return 2
-        KROKY[krok](Path(a.stara_wiki), root, mkdocs)
+    if "temata" in zadane and "osoby" not in zadane:
+        print("VAROVÁNÍ: krok temata přestavěl výroky typu tvrzeni a ztratil jejich odkazy na "
+              "osoby; spusť znovu i krok osoby.", file=sys.stderr)
+    for krok in KROKY:             # kanonické pořadí, ne pořadí zadání
+        if krok in zadane:
+            KROKY[krok](Path(a.stara_wiki), root, mkdocs)
     return 0
 
 

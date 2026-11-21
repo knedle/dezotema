@@ -31,3 +31,26 @@ vyroky:
   citace:
   - text: Prosím vás, můžeme dál dávat peníze teroristům, kteří útočí na evropskou infrastrukturu?
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
+- id: rajchl-2026-07-03-02
+  typ: predikce
+  temata:
+  - petr-pavel
+  nadpis: Babiš bude v zákulisí podporovat půjčku Ukrajině i přes veřejné výhrady
+  text: Rajchl je „naprosto jednoznačně přesvědčen", že Andrej Babiš bude na summitu NATO v zákulisí podporovat
+    70 mld. dolarů pro Ukrajinu i muniční iniciativu, bez ohledu na veřejně deklarované výhrady — protože
+    tuto podporu poskytoval „vždycky".
+  citace:
+  - text: Já jsem naprosto jednoznačně přesvědčen, že on bude tu půjčku Ukrajině podporovat. V zákulisí
+      ji bude zcela jednoznačně podporovat.
+  predikce:
+    horizont: summit NATO v Ankaře, 7.–8. 7. 2026
+    stav: castecne
+    horizont_do: 2026-07-08
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: (spíše potvrzeno) — Babiš balík 70 mld. na summitu v Ankaře neblokoval a ČR jednorázově přispěla
+        do PURL, přímý podíl ale veřejně odmítl
+      stav: castecne
+    - datum: 2026-11-20
+      text: 'Ukrainian News a ČTK (červenec 2026): ČR balík podpoří, ale nebude do něj přispívat vlastními
+        prostředky. Macinka uvedl přesun peněz do PURL.'

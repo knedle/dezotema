@@ -9,6 +9,35 @@ zdroj:
   rezim: vrabel
   poznamka: Chyba přepisu [43:37–50:21] (opakovaný řádek) — ztracen komentář k Moldavsku a začátek zprávy
     o Grónsku.
+  prehled:
+  - tema: Koudelka (BIS) v Guardianu — „ruský útok v řádu měsíců"
+    text: Koudelka se podle něj dopustil zneužití pravomoci a šíření poplašné zprávy
+    vyrok: vrabel-2026-09-22-03
+  - tema: Trump v OSN k Íránu, odchod delegací při projevu Netanjahua
+    text: agrese vůči Íránu „horší než ruská na Ukrajině", „Satanyahu", Zelenskyj horší než Netanjahu
+    vyrok: vrabel-2026-09-22-01
+  - tema: Ceny paliv
+    text: za drahou ropu podle něj mohou globalisté a války (Hormuz, Bab al-Mandab, rafinerie), viní Babiše
+      a Macinku z miliard pro Ukrajinu.
+  - tema: 'Burnham: kontrolovaná migrace'
+    text: legální i nelegální migrace je „sebevražda Evropy", model rotačních víz, kritika Konečné
+    vyrok: vrabel-2026-09-22-04
+  - tema: Litva ruší ústavní zákaz jaderných zbraní; Pavel o vlastenectví
+    text: jaderné zbraně = akt agrese, 1968 a NATO, francouzský deštník
+    vyrok: vrabel-2026-09-22-02
+  - tema: 'NATO: 7 požadavků civilní připravenosti'
+    text: „vypadá to, jako kdyby to mysleli vážně".
+  - tema: Polské stíhačky eskortovaly ruský Il-20
+    text: „šašci", ruské drony do Polska nemíří, Poláci další na řadě
+    vyrok: vrabel-2026-09-22-06
+  - tema: 'Moldavsko: 60denní nouzový stav v energetice'
+    text: komentář se kvůli chybě přepisu nedochoval.
+  - tema: Grónská dohoda USA–Dánsko
+    text: opakuje, že jde o selhání Evropy a salámovou metodu (viz 19. 9.) → zdroj doplněn ve [Válka,
+      NATO a Rusko](../valka-nato-rusko.md)
+  - tema: 'Francie: protesty proti zákonu o použití zbraně policií'
+    text: paradox policejního násilí proti protestujícím
+    vyrok: vrabel-2026-09-22-05
 vyroky:
 - id: vrabel-2026-09-22-01
   typ: tvrzeni
@@ -22,6 +51,10 @@ vyroky:
     křesťanům a židům" usilujícím o Velký Izrael a před soudem by měl stát nejen Netanjahu, ale i další
     členové izraelské vlády; Zelenskyj je podle něj „mnohem horší" než Netanjahu, protože „dělá genocidu
     svého vlastního národa".'
+  osoby:
+  - osoba: benjamin-netanjahu
+    vztah: negativni
+    kontext: „Satanyahu", před soud s dalšími členy vlády
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-09-22-02
   typ: tvrzeni
@@ -46,6 +79,10 @@ vyroky:
     ani bezpečnostnímu výboru, BIS i Babiš následně popřeli bezprostřední ohrožení ČR, a Koudelka tedy
     „musel vědět, že to není pravda". Staví to do kontrastu s vlastním stíháním za výrok o F-35 a očekává
     stejný postup policie a soudů — jinak prý jde o paragraf „jen na opozici".'
+  osoby:
+  - osoba: michal-koudelka
+    vztah: negativni
+    kontext: Výrok o ruském útoku „v řádu měsíců" = poplašná zpráva, měl by být stíhán
 - id: vrabel-2026-09-22-04
   typ: tvrzeni
   temata:
@@ -62,6 +99,10 @@ vyroky:
   citace:
   - text: To, co dělá dneska Evropa, páchá sebevraždu, absolutně sociálně, demograficky páchá sebevraždu
       a vůbec nezáleží na tom, jestli to je legální migrace nebo nelegální migrace.
+  osoby:
+  - osoba: katerina-konecna
+    vztah: negativni
+    kontext: Hlasovala pro legální cesty migrace z Afriky
   dalsi_zdroje:
   - 2026-10-24_vrabel_zpravy-v-devet-24-10-2026
 - id: vrabel-2026-09-22-05
@@ -84,3 +125,15 @@ vyroky:
     drony mají souřadnice na Ukrajině a do Polska nemíří; Polsko podle něj přesouvá prakticky celou armádu
     na východní hranici a „Poláci pravděpodobně jsou na řadě další".'
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-22-07
+  typ: predikce
+  temata:
+  - jaderne-zbrane
+  nadpis: při podpisu francouzského jaderného deštníku zamíří Rusko Orešniky na ČR
+  text: Pokud ČR podepíše dohodu o francouzském „jaderném deštníku" (Rafale s ASMP), Rusko okamžitě zamíří
+    proti ČR rakety Orešnik s jadernými hlavicemi.
+  citace:
+  - text: Rusové okamžitě zamíří proti nám [...] oriešníky s jadernýma hlavicema
+  predikce:
+    horizont: podmíněno podpisem dohody s Francií
+    stav: ceka

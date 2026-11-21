@@ -9,6 +9,50 @@ zdroj:
   rezim: vrabel
   poznamka: Vysíláno z benzínky u Budapešti cestou do Srbska. Výpadky [04:17–08:58] a [47:00–50:50]; [50:50–57:20]
     přehrávané video zatýkání K. Blahníkové.
+  osoby:
+  - osoba: milos-zeman
+    vztah: negativni
+    kontext: „Hajzl", měl by být souzen za výrok o agresivitě Rusů v genech
+  prehled:
+  - tema: Poděkování za shromáždění 3. 10.
+    text: přes 300 podpisů pod výzvou, „silnější než Stačilo!"
+    vyrok: vrabel-2026-10-04-02
+  - tema: Omluva za slovenskou hymnu
+    text: „jsme Česká republika, ne Československo"; demonstrace „za urovnání vztahů s Ruskem", ne za
+      přátelství se SSSR.
+  - tema: Strach v publiku
+    text: prodleva reakce na vtipy = strach
+    vyrok: vrabel-2026-10-04-03
+  - tema: „Česká Ukrajina" — Ukrajinci v Praze
+    text: Praha „česko-ukrajinské město", náhrada Ukrajinců migranty
+    vyrok: vrabel-2026-10-04-04
+  - tema: Zatčení Katky Blahníkové; Vrabel zvažuje nosit „Z"
+    text: „režim má padnout", soudci mají být potrestáni, odpovídá Babiš
+    vyrok: vrabel-2026-10-04-01
+  - tema: Souhlas s „částí" speciální vojenské operace
+    text: ochrana ruskojazyčných před „neonacisty"; jinak „mírotvorce".
+  - tema: Vymírání pamětníků války (Rybářová)
+    text: mladí berou válku na lehkou váhu.
+  - tema: „Národ je mentálně poškozený"
+    text: 99 % v „lobotomii"
+    vyrok: vrabel-2026-10-04-03
+  - tema: Aleš Svoboda nabízí smír
+    text: odmítá — „podrazil mě brutálním způsobem"
+    vyrok: vrabel-2026-10-04-05
+  - tema: Radiožurnál jako placená propaganda
+    text: ⚡ viz [Média a propaganda](../media-propaganda.md)
+  - tema: Zeman o agresivitě Rusů v genech
+    text: „co to je za hajzla, za to by měl být souzený".
+  - tema: Rajchl a Vacek 2023 — „udělat strach"
+    text: ⚡ viz [Politický systém](../politicky-system.md)
+  - tema: Zvažuje odejít z české scény, začne vysílat anglicky
+    text: „přestat se zabývat Českou republikou — možná to i udělám".
+  - tema: Babiš, muniční iniciativa a jaderné zbraně — podobenství o kmeni
+    text: ⚡ fantazie o mučení „náčelníka" → viz [Stochastický teror](../stochasticky-teror.md)
+  - tema: ČR na „ukrajinské cestě"
+    text: „jsme ve válce s Ruskem", opozici zatím „nezabíjejí".
+  - tema: Znovuzvolen předsedou hnutí ČR na 1. místě
+    text: média o tom mlčí; chce demonstraci s 10 000 lidmi.
 vyroky:
 - id: vrabel-2026-10-04-01
   typ: tvrzeni
@@ -31,6 +75,13 @@ vyroky:
   citace:
   - text: Tak ten režim nemá právo existovat. Tak ten režim má padnout. A lidi mají právo se postavit
       na odpor.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Odpovídá za represe; fantazie o mučení „náčelníka"
+  - osoba: katerina-blahnikova
+    vztah: pozitivni
+    kontext: Zatčena za „Z" — „rodina hnutí"
   podtema: Trestání politického projevu
 - id: vrabel-2026-10-04-02
   typ: tvrzeni
@@ -84,6 +135,10 @@ vyroky:
     jsme si, to jsme si") odmítá — Svoboda podle něj „ublížil mně, našim lidem, našemu hnutí" a podrazil
     ho „velmi brutálním způsobem"; výzvy „musíme se všichni spojovat" považuje za pokrytectví. Na dotační
     kauzu ani na nálepku „kolaboranti" od Černohorského nereaguje.'
+  osoby:
+  - osoba: ales-svoboda
+    vztah: negativni
+    kontext: Nabídl smír, Vrabel odmítá — „podrazil mě"
   podtema: Politická kultura
 - id: vrabel-2026-10-04-06
   typ: tvrzeni
@@ -95,3 +150,29 @@ vyroky:
     (Babiš) podvedl lid kvůli byznysu s „americkými kmeny" a dohodl se s „náčelníkem z Francie" na jaderných
     zbraních — „spravedlivý kmen" by ho podle Vrabela přivázal ke kůlu a mučil (viz [Stochastický teror](stochasticky-teror.md)).'
   podtema: EU jako vojenská struktura
+- id: vrabel-2026-10-04-07
+  typ: stoch-teror
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Andrej Babiš
+  text: podrobná fantazie o mučení a popravě jmenovaného premiéra jako trestu „spravedlivého kmene" za
+    zradu (muniční iniciativa, jaderné zbraně)
+  citace:
+  - text: No ten indiánskej kmen by šel, přivázal by ho ke kůlu a začal by na něm trénovat mladý hochy,
+      jak střílí z luku. Jo, normálně nejdřív do stehna, do lýtka, pak do rukou [...] stáhli by mu kůži
+      někde [...] tak by začali trénovat hod oštěpem.
+  teror:
+    terc: Andrej Babiš
+    hranicni: false
+- id: vrabel-2026-10-04-08
+  typ: stoch-teror
+  temata:
+  - dsa-cenzura
+  nadpis: soudci odsuzující za „Z"; policisté
+  text: výzva k trestu + kladné líčení násilí vůči policii (hraniční)
+  citace:
+  - text: Ti soudci, kteří tady odsuzují lidi neprávem, by měli být všichni potrestáni." / policisté by
+      v Srbsku „skončili v krvi [...] to vám garantuju
+  teror:
+    terc: soudci odsuzující za „Z"; policisté
+    hranicni: true

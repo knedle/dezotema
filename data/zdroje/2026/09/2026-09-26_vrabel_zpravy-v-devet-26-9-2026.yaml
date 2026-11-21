@@ -8,6 +8,68 @@ zdroj:
   prepis: prepisy/done/2026-09-26_Ladislav-Vrabel_26-9-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: Sdílený klip Petrose Michopoulose [01:08:35–01:09:12] a klip Pavla pro Fox News.
+  osoby:
+  - osoba: jana-hruskova
+    vztah: negativni
+    kontext: „Snílci" — Štěpánovy smlouvy s Ruskem „pohádky pro děti"
+  - osoba: vladimir-stepan
+    vztah: negativni
+    kontext: „Snílci" — Štěpánovy smlouvy s Ruskem „pohádky pro děti"
+  prehled:
+  - tema: Trump prý navrhl Zelenskému jet za Putinem (Bloomberg)
+    text: Trump „hází vidle", zároveň licence na Patrioty — USA stále podporují Ukrajinu.
+  - tema: Směrnice NATO „Resilience Baseline Requirements"
+    text: příprava na hromadné oběti
+    vyrok: vrabel-2026-09-26-07
+  - tema: Trump odmítl íránský plán otevření Hormuzu
+    text: drahá nafta kvůli Trumpovi, „válečníkovi největšímu" (opakování).
+  - tema: Ceny nafty, USA mohou omezit export
+    text: jediná cesta je Rusko (opakování).
+  - tema: Rutte varuje před úbytkem rafinérií
+    text: 'ironie: ať jde Rutte pro ropu do Moskvy.'
+  - tema: Český stíhací dron Lovec
+    text: metafora „obra", Západ ČR obětuje
+    vyrok: vrabel-2026-09-26-08
+  - tema: Čína v OSN proti USA
+    text: posun postoje k Číně
+    vyrok: vrabel-2026-09-26-09
+  - tema: Cvičení Red Storm Charlie v Hamburku
+    text: ironicky zpochybňuje „fiktivní" přesun na východ.
+  - tema: 'Putin: Rusko se na konflikt s Evropou nechystá'
+    text: válka by byla dlouhá (posun proti 19.–20. 9.)
+    vyrok: vrabel-2026-09-26-08
+  - tema: Mše papeže Lva XIV. v Paříži
+    text: celibát a pedofilie, Vatikán a nacisté, Jasenovac
+    vyrok: vrabel-2026-09-26-01
+  - tema: 'Ukrajina: online sňatky a rozvody'
+    text: sarkasmus; Zelenskyj zakázal pravoslavné Vánoce, věřící „pomlátili vojáci obušky".
+  - tema: Polsko posiluje východní hranici; nafta podle priorit
+    text: „energetické lockdowny", tanky přednost
+    vyrok: vrabel-2026-09-26-07
+  - tema: Lavrov v OSN o zákazu ruštiny; ČT24 „bez důkazů"
+    text: „diagnóza"
+    vyrok: vrabel-2026-09-26-02
+  - tema: 'Berlín: protesty proti branné povinnosti'
+    text: policisté „opravdu zločinci"
+    vyrok: vrabel-2026-09-26-05
+  - tema: 'Británie: policie pomáhá migrantům; propíchnutý člun'
+    text: „jediné, k čemu může dojít, je občanská válka"
+    vyrok: vrabel-2026-09-26-03
+  - tema: Hrušková, Štěpán a Rajchl
+    text: „Reichel řekl, že demonstrace nemají smysl"
+    vyrok: vrabel-2026-09-26-05
+  - tema: 'Frontex: rozpočet 1,2 → 11,9 mld.'
+    text: zadržení prchajících občanů pro válku → zdroj doplněn v [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: 'Pavel pro Fox News: sestřelit ruské letadlo'
+    text: scénář „za dvě hodiny zavřené hranice"
+    vyrok: vrabel-2026-09-26-04
+  - tema: Michopoulos doufá v ruský útok na Finsko/Pobaltí
+    text: Rusko se bude muset pustit do konfliktu
+    vyrok: vrabel-2026-09-26-08
+  - tema: Vučić s Putinem o plynu (318 vs. 868 €)
+    text: Vučić jediný politik v Evropě, který odolal sankcím.
+  - tema: Shromáždění 3. 10. — plnění slibů, ne pád vlády
+    text: opakování výčtu nesplněných slibů.
 vyroky:
 - id: vrabel-2026-09-26-01
   typ: tvrzeni
@@ -21,6 +83,10 @@ vyroky:
     Vatikán prý za druhé světové války přesouval zlato a ukrýval nacisty, pomáhal i v jugoslávské válce
     a v chorvatském táboře Jasenovac („jediný koncentrační tábor pro děti") měl žádat ušetření těch, kdo
     konvertují z pravoslaví. Katolickou církev řadí mezi „falešné církve".
+  osoby:
+  - osoba: papez-lev-xiv-katolicka-cirkev
+    vztah: negativni
+    kontext: Celibát a pedofilie, Vatikán a nacisté, „falešná církev"
 - id: vrabel-2026-09-26-02
   typ: tvrzeni
   temata:
@@ -57,6 +123,10 @@ vyroky:
     a Babiš se s Hradem sladili v zahraniční politice a „přenechávají otěže generálu NATO". Stačí podle
     něj „jeden blbec s plnovousem, trénovanej nejdřív pro Moskvu, potom pro New York nebo pro Washington,
     kterej poslouchá rozkazy".'
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Řekl, že demonstrace nemají smysl"
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: vrabel-2026-09-26-05
   typ: tvrzeni
@@ -108,6 +178,10 @@ vyroky:
   citace:
   - text: Až se ten obr ožene, že se to celý rozpadne [...] to ty Češi, to je ta muniční iniciativa, ty
       Češi, s kýma si to vyřešte.
+  osoby:
+  - osoba: ivan-david
+    vztah: pozitivni
+    kontext: „Jediný politik, který to má v hlavě v pořádku"
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-09-26-09
   typ: tvrzeni
@@ -119,4 +193,34 @@ vyroky:
     „lumpa", který šikanuje, vykořisťuje a napadá, zatímco Čína se jako aspirující velmoc zastává mezinárodního
     práva a malých zemí. Výslovně přiznává posun vlastního postoje: ještě před pěti lety neměl k Číně
     dobrý vztah (Tibet, Ujguři), nyní je její politikou posledních let „velmi příjemně překvapený".'
+  osoby:
+  - osoba: si-tin-pching
+    vztah: pozitivni
+    kontext: Posun postoje — „velmi příjemně překvapený" obranou mezinárodního práva
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-26-10
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Rusko se bude muset pustit do konfliktu s Evropou; válka by byla dlouhá s miliony mrtvých
+  text: Aby Rusko neprohrálo, bude se muset pustit do konfliktu s Evropou (pravděpodobně útok na dva státy
+    a jaderné ultimátum); pokud nepoužije taktické jaderné zbraně, bude válka dlouhá a zemřou „spousty
+    milionů" lidí.
+  citace:
+  - text: Pro Ruskou federaci, aby Ruská federace neprohrála, tak se bude muset pustit z Evropu do konfliktu.
+      To je prostě, myslím si, že jednoduchá vojenská logika.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-09-26-11
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: migranti s britským občanstvím
+  text: 'hraniční: popisné rámování násilného „zbavení se" pojmenované skupiny jako jediné cesty'
+  citace:
+  - text: spousty lidí mají občanství [...] tam už jediný, k čemu může dojít, je občanská válka, jinak
+      se těch lidí nemůžou zbavit
+  teror:
+    terc: migranti s britským občanstvím
+    hranicni: true

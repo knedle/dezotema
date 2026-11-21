@@ -23,4 +23,15 @@ vyroky:
     označuje za „největšího pokrytce" a „zaprodance": sám prý porušuje ústavu a veřejně používá vulgarismy,
     přesto zůstává u moci jen díky podpoře „korporací" a demonstrací Milionu chvilek, které ho brání jako
     „loutku korporátu a vojensko-průmyslového komplexu".'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Označen za „největšího pokrytce" a „zaprodance" v souvislosti s kauzou Turek — sám porušuje
+      ústavu, ale drží se u moci díky podpoře korporací
+  - osoba: jana-cernochova
+    vztah: neutralni
+    kontext: Uvedena jako příklad dvojího metru — loni bourala s majáky bez následků na rozdíl od Turka
+  - osoba: filip-turek
+    vztah: neutralni
+    kontext: Uveden jako objekt tlaku na rezignaci po dopravní nehodě — dvojí metr vůči Černochové
   podtema: Filip Turek — dopravní nehoda a tlak na rezignaci

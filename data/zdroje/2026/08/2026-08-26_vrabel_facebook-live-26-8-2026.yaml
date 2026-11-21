@@ -7,6 +7,38 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1074130745112070
   prepis: prepisy/done/2026-08-26_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Martin Kuba do dozorčí rady Budvaru
+    text: historie vazby na kmotra Pavla Dlouhého a založení SPD — nezpracováno
+  - tema: Agrofert — nové vymáhání dotací (1,4 mil. Kč), opakování teze o Babišově střetu zájmu
+    text: → [Kauzy a korupce](../kauzy.md)
+  - tema: Obhajoba shromáždění „Člověk na prvním místě" proti nálepce „protivládní"
+    text: → [Politický systém](../politicky-system.md)
+  - tema: AfD Weidelová — uzavření hranic, vracení syrských uprchlíků, Německo v „rozkladu"
+    text: → [Migrace](../migrace.md)
+  - tema: ČR a Ukrajinci — oprava dřívějšího tvrzení o Lex Ukrajina 7
+    text: → [Migrace](../migrace.md)
+  - tema: Migrační pakt — Okamura přiznává, že vláda bude „platit" místo brát migranty
+    text: → [Migrace](../migrace.md)
+  - tema: Kosovo/Donbas/Krym — teze „historického práva" na území
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Trumpův zákaz genderové výuky na školách — výjimka v „katastrofě"
+    text: → [Rodina a děti](../rodina-deti.md)
+  - tema: Bill Gates přiznal, že ho předčila AI — WHO, eugenika, transhumanismus
+    text: → [Konspirace](../konspirace.md)
+  - tema: Šéf CIA Ratcliffe tajně v Moskvě — spekulace o důvodu (Ukrajina/Írán)
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md) (predikce zaznamenána; rozvedeno v dovětku,
+      viz níže)
+  - tema: Trump a „Lake America" — napojení na plán technátu z 30. let (Musk, Vance, Thiel, Karp)
+    text: → [Konspirace](../konspirace.md)
+  - tema: Hormuzský průliv otevřen
+    text: dohoda Írán/Omán o poplatcích — nezpracováno (opakování)
+  - tema: Palantír (Maven Smart System)
+    text: propojení CIA/armády se soukromým kapitálem — nezpracováno (opakování)
+  - tema: Zdražení zemního plynu v EU
+    text: kritika odstřižení od ruských zdrojů — nezpracováno (opakování)
+  - tema: Sabotáž muniční továrny — zadrženi 2 Lotyši a Ukrajinec
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
 vyroky:
 - id: vrabel-2026-08-26-01
   typ: tvrzeni
@@ -144,3 +176,18 @@ vyroky:
     místní obyvatelstvo samo hlásí k ukrajinské identitě. Očekává, že v důsledku podobných sporů dojde
     k celkovému „přerozdělování světa" a kreslení nových map.'
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-08-26-12
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: Ukrajina se na podzim zhroutí kvůli ruské ofenzivě a nedostatku energií
+  text: V souvislosti s návštěvou šéfa CIA Radcliffa v Moskvě Vrabel odhaduje, že ukrajinská armáda dále
+    kolabuje (nedostatek vojáků, munice, protivzdušné obrany) a že na podzim 2026 zahájí Rusko těžkou
+    ofenzivu, na niž už Ukrajina nebude mít energetické ani obranné kapacity — v důsledku toho může „velmi
+    rychle" dojít ke zhroucení Ukrajiny.
+  citace:
+  - text: Vidíme, že Ukrajina se blíží k kolapsu, protože co se týče podzimu, tak rusové jim dají nějakou
+      těžkou ofenzivu... a prostě může velmi rychle skončit.
+  predikce:
+    horizont: podzim 2026
+    stav: ceka

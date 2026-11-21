@@ -27,6 +27,36 @@ zdroj:
     + 2–3 roky války/5–10 let obnovy — [predikce.md](predikce.md). Stoch. teror: glosa o „opálených" německých
     vojácích nesplňuje kritéria (chybí konkrétní pojmenovaný cíl i výzva k násilí/trestu — jde o xenofobní
     vtip, ne o výzvu k trestu).'
+  prehled:
+  - tema: 'Zpracováno 17 témat: (1) Ministr obrany a Moldavsko'
+    text: vojenská spolupráce — [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md) (bez
+      samostatného zápisu, logistická zpráva bez tvrzení). (2) Trump přejmenoval Pentagon na „Ministerstvo
+      války"
+  - tema: (3) ruská plovoucí platforma PLOT-47
+    text: (3) ruská plovoucí platforma PLOT-47
+  - tema: (4) požáry ve Francii ohrožují leteckou základnu Cazaux
+    text: vše [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md). (5) Firepoint testuje
+      balistickou střelu s doletem na Moskvu
+  - tema: (6) ruský útok na zbrojní výstavu u Kyjeva (11 mrtvých)
+    text: (6) ruský útok na zbrojní výstavu u Kyjeva (11 mrtvých)
+  - tema: (7) Zelenskyj–Trump v Bílém domě (Patrioty, kondolence za Grahama)
+    text: '[valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md). (8) Ukrajina útočí na íránskou loď
+      v Kaspiku'
+  - tema: Irák obviňuje Ukrajinu ze sabotáží
+    text: „šikovná Ukrajina" — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md). (9) Netanjahu–Trump
+      o íránském jaderném programu — skepse (Saddám/Kaddáfí) — [blizky-vychod.md](../blizky-vychod.md).
+      (10) Trump a Nejvyšší soud — poštovní hlasování — [politicky-system.md](../politicky-system.md).
+      (11) „Kde se to zastaví" — jen totální vítězství, NATO vs. Rusko, krach „3+2"
+  - tema: staví útočiště v Srbsku
+    text: '[valka-nato-rusko.md](../valka-nato-rusko.md), [predikce.md](../predikce.md). (12) Rafale/ASMP
+      jaderné zastřešení v ČR — opakování tvrzení, jen dataný odkaz — [jaderne-zbrane.md](../jaderne-zbrane.md).
+      (13) Meta zavádí video-selfie ověřování identity — [digitalni-kontrola.md](../digitalni-kontrola.md).
+      (14) Německo stahuje lodě z Adenu/Rudého moře — [blizky-vychod.md](../blizky-vychod.md)'
+  - tema: rasová glosa o „opálených" vojácích + migrační pakt
+    text: '[migrace.md](../migrace.md). (15) Křetínského EPH ve Fortune Global 500 — [ceny-energie.md](../ceny-energie.md).
+      Predikce: konec války jen totálním vítězstvím + 2–3 roky války/5–10 let obnovy — [predikce.md](../predikce.md).
+      Stoch. teror: glosa o „opálených" německých vojácích nesplňuje kritéria (chybí konkrétní pojmenovaný
+      cíl i výzva k násilí/trestu — jde o xenofobní vtip, ne o výzvu k trestu).'
 vyroky:
 - id: vrabel-2026-07-28-01
   typ: tvrzeni
@@ -38,6 +68,11 @@ vyroky:
     svou skepsi: „stejný příběh 20 let" — srovnává opakovaná tvrzení o íránských jaderných zbraních s
     dřívějšími nepotvrzenými obviněními vůči Saddámu Husajnovi a Muammaru Kaddáfímu, které následně posloužily
     jako záminka k invazi/intervenci — [Zprávy v devět 28. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)'
+  osoby:
+  - osoba: benjamin-netanjahu
+    vztah: rozporuplny
+    kontext: Setkání s Trumpem o íránském jaderném programu — Vrabel opakovaná tvrzení o íránských zbraních
+      zpochybňuje srovnáním se Saddámem Husajnem a Kaddáfím
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-07-28-02
   typ: tvrzeni
@@ -61,6 +96,11 @@ vyroky:
     tržeb. Vrabel to interpretuje jako přímý důkaz svého dlouhodobého tvrzení, že vysoké ceny elektřiny
     pro české domácnosti a firmy nejsou nešťastnou náhodou, ale výsledkem obchodního modelu, na kterém
     soukromí majitelé energetických firem (v tomto případě Křetínský) profitují.
+  osoby:
+  - osoba: daniel-kretinsky
+    vztah: negativni
+    kontext: 'Jeho firma EPH se poprvé zařadila do Fortune Global 500 — Vrabel: důkaz profitu z vysokých
+      cen elektřiny pro české domácnosti'
   podtema: Manipulace trhu s ropou
 - id: vrabel-2026-07-28-04
   typ: tvrzeni
@@ -111,6 +151,11 @@ vyroky:
     tématy byly systémy Patriot (licence) a kondolence k úmrtí Lindseyho Grahama; k důvodu cesty — zda
     Trump nabídl nové návrhy na ukončení konfliktu — se však nic konkrétního nedozvěděli, což Vrabel připisuje
     „vojenskému tajemství".'
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Přejmenoval Pentagon na „Ministerstvo války" (Vrabel to schvaluje jako „upřímnější"); na
+      schůzce se Zelenským nepřinesl žádné nové návrhy na ukončení konfliktu
   podtema: Vyjednávání a mír
 - id: vrabel-2026-07-28-09
   typ: tvrzeni
@@ -154,3 +199,15 @@ vyroky:
     v Srbsku („zachraň se, kdo můžeš") a předpovídá 2–3 roky pokračování války a následně 5–10 let poválečné
     obnovy, než se poměry v Evropě vrátí k normálu.'
   podtema: Eskalace a hrozba rozšíření konfliktu
+- id: vrabel-2026-07-28-13
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Válka skončí až totálním vítězstvím jedné strany; 2–3 roky války, 5–10 let obnovy
+  text: Konflikt NATO–Rusko (vedený na ukrajinském území) neskončí kompromisním vyjednáváním, ale jen
+    totálním vítězstvím jedné ze stran — vyjednávací cesta („3+2" z Anchorage) je momentálně mrtvá. Válka
+    bude dle Vrabela pokračovat ještě 2–3 roky, poté bude následovat 5–10 let poválečné obnovy, než se
+    poměry v Evropě vrátí k normálu.
+  predikce:
+    horizont: 2–3 roky do konce války, dalších 5–10 let obnovy
+    stav: ceka

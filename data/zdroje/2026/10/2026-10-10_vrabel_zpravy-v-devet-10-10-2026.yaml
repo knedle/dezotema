@@ -8,6 +8,52 @@ zdroj:
   prepis: prepisy/done/2026-10-10_Ladislav-Vrabel_10-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: 49 min, se Zuzanou (spolumoderátorka). Večer po komunálních a senátních volbách.
+  prehled:
+  - tema: 'Trump a Putin: dohoda o dodávkách ruské nafty'
+    text: „petrodolar“, předvolební tah; na 80 % se po volbách v USA vše změní → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-10-02
+  - tema: 'Zelenský: dohoda „není férová“'
+    text: Ukrajinci jsou „největší kavky“, vyždímaní USA, válku prohrají. Zelenský je přesto „největší
+      zrádce svého národa, fašista a nacista“ (součást rozboru výše).
+  - tema: 'Trump: Ukrajina potřebuje nového prezidenta, ať neútočí na rafinerie'
+    text: EU jásá při každém zásahu ruských rafinerií, „svět je úplná šílenost“.
+  - tema: Susan Dell „ještěr“
+    text: neví, ale „třeba to možný je“ (David Icke)
+    vyrok: vrabel-2026-10-10-03
+  - tema: Rozpočet EU 2028–2034 o 141 mld. nižší
+    text: stejně rekordní, „EU nemá peníze, ale chce válčit“. Babiš je jako jediný proti škrtům, „nevím,
+      jestli kvůli Agrofertu“.
+  - tema: Saúdská Arábie drží konference i po útocích na Rijád
+    text: ironické varování ministrovi Štěpánovi, ať si dá při podpisu smluv pozor.
+  - tema: 'Norsko: vězení za nenastoupení k odvodu'
+    text: „jsme před válkou, je potřeba lidi vyděsit“. Ironicky radí odvodu se nevyhýbat, jinak hrozí
+      vězení nebo „kulka do zad jako dezertér“ (odkaz na Ukrajinu).
+  - tema: 'Volby: vyhrály STAN a ODS'
+    text: „totálně v šoku“, Kuba „pravá ruka kmotra Dlouhého“, „čistá mafie“
+    vyrok: vrabel-2026-10-10-05
+  - tema: Eritrea obviňuje Etiopii z přípravy války
+    text: posměšně o „velkých černých klucích s ostrým pohledem“, kteří přijdou do ČR „od ledna 2027“.
+      Obrácení na RB OSN je ale „správný postup“.
+  - tema: ČR se připravuje na útoky na kritickou infrastrukturu
+    text: „vypadá to, jako že jsme před válkou“. Ironicky radí vyzkoušet si „mundur“, aby „neplandal“,
+      a „děkuje“ SPD, Trikolóře a Svobodným, že „padneme za demokracii“.
+  - tema: Zůna jede do Pentagonu
+    text: zařazeno do téže ironie o „padnutí za demokracii“.
+  - tema: Ústecký kraj daroval Ukrajině sanitky (Post Bellum)
+    text: humanitární pomoc je v pořádku, kdybychom neposílali zbraně, „nemuseli bychom posílat ani sanitky“.
+  - tema: Finsko dodá munici pro F-16
+    text: v roce 2023 se F-16 považovaly za vstup do války. „Doufám, že jim nedávají jaderné rakety“,
+      jinak by „začal budovat bunkr“.
+  - tema: Irán si udržel výrobu raket, Rusko dodává další
+    text: USA nejsou „tak silná velmoc“, unipolární svět „rozbili Rusové s Iránem“.
+  - tema: Palestina odložila volby na září 2027
+    text: bez komentáře.
+  - tema: Claude (Anthropic) poslal policii falešné oznámení o vraždě
+    text: „Doufám, že ne z mého počítače.“
+  - tema: Polsko opět varuje před ruskými útoky
+    text: v polských médiích je „hustá válečná propaganda“, ironicky dodává „válka nebude“.
+  - tema: 'Peru: zvolen kandidát „Hitler Mussolini“'
+    text: víc ho trápí, že „Hitlerové a Mussoliniové vyhrávají v Evropě“.
 vyroky:
 - id: vrabel-2026-10-10-02
   typ: tvrzeni
@@ -25,6 +71,10 @@ vyroky:
     náměstí, ČT 2023). Ukrajinci jsou podle něj „největší kavky“, kteří byli „nahnáni do války“ a „vyždímáni“
     Spojenými státy, a válku „prohrávají a prohrajou“. Zelenský je přesto pro něj „největší zrádce svého
     národa, největší fašista a nacista“.'
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: „Největší zrádce svého národa, největší fašista a nacista“; Ukrajina ale „zneužitá“ USA
   podtema: Energetika a Rusko
 - id: vrabel-2026-10-10-03
   typ: tvrzeni
@@ -41,6 +91,13 @@ vyroky:
     mi docela, že to je ženská“. Uzavírá, že „ty její plastiky… se té ještěrce úplně nepovedly“.
   citace:
   - text: Neptejte se mě, jestli svět ovládají ještěři nebo ne, protože to nevím.
+  osoby:
+  - osoba: susan-dell
+    vztah: rozporuplny
+    kontext: Internet ji řeší jako „ještěra“; Vrabel neví, „plastiky se nepovedly“
+  - osoba: david-icke
+    vztah: neutralni
+    kontext: O „ještěrech“ mluví „velmi otevřeně a dlouho“ — „třeba to možný je“
   podtema: Náboženský a okultní výklad moci
 - id: vrabel-2026-10-10-05
   typ: tvrzeni
@@ -56,4 +113,29 @@ vyroky:
     militarizací: když vidí, „jak dopadly volby“, je asi „bojovat za demokracii potřeba“. Ze zprávy o
     odsouzeném starostovi, kterého lidé volí znovu, vyvozuje, že i on byl „odsouzen za podvody“, protože
     za covidu zaškrtl, že firmy nemají dluhy vůči státu.'
+  osoby:
+  - osoba: martin-kuba
+    vztah: negativni
+    kontext: „Pravá ruka kmotra Dlouhého“, budějovická „čistá mafie“
   podtema: Komunální volby
+- id: vrabel-2026-10-10-06
+  typ: predikce
+  temata:
+  - ceny-energie
+  nadpis: po amerických volbách USA znovu podpoří Zelenského a nákupy ruské ropy skončí
+  text: Nákup ruské nafty Spojenými státy je jen předvolební tah; s pravděpodobností „80 %“ se po volbách
+    v USA vše rychle změní a USA budou znovu dodávat zbraně Ukrajině.
+  citace:
+  - text: Typnu si 80 %, že je taková pravděpodobnost, že po volbách se to velmi rychle změní a Spojený
+      státy budou zase dodávat zbraně a zase budou s Volodymyrem Zelenským velký kamarádi.
+  predikce:
+    horizont: po amerických volbách do Kongresu (3. 11. 2026)
+    stav: vyvraceno
+    horizont_do: 2026-11-03
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: (předběžně) — po volbách nenastal obrat k podpoře Zelenského ani konec nákupů ruské ropy
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Trump mluvil o „velké dohodě“ s Ruskem, sankce na kupce ruské ropy podle S&P Global v říjnu
+        odložil a Zelenskyj si stěžuje na nedodané zbraně.

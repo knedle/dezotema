@@ -8,6 +8,47 @@ zdroj:
   prepis: prepisy/done/2026-10-02_Ladislav-Vrabel_2-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: Vysíláno z pražského hotelu; mezera ~30 s kolem [11:16].
+  osoby:
+  - osoba: ivan-david
+    vztah: pozitivni
+    kontext: Jezdí do Srbska EU „rozbíjet"
+  prehled:
+  - tema: Výzva k účasti na shromáždění 3. 10.
+    text: 13 řečníků, sbírka na náklady.
+  - tema: ČR zahájila jednání s Francií o jaderném deštníku
+    text: Babiš „tak hloupej", alegorie o Ferdovi Mravencovi → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-02-02
+  - tema: Macinka v Černé Hoře podporuje vstup do EU
+    text: Macinka a Okamura „pracují pro EU", Ivan David ji jezdí „rozbíjet".
+  - tema: Tři cesty ke světovému míru
+    text: zničit USA by přineslo mír; „většina společnosti mentálně zaostalá"
+    vyrok: vrabel-2026-10-02-04
+  - tema: 'Polsko: daň z mimořádných zisků palivářů'
+    text: ruská ropa přes Družbu, „byznys klika"
+    vyrok: vrabel-2026-10-02-01
+  - tema: EK vyplatila Ukrajině 2,9 mld. EUR
+    text: „75 miliard korun z našich peněz".
+  - tema: Incident FlyDubai
+    text: Trump možná „robot nebo dvojník", Babiš „dvě brigády"
+    vyrok: vrabel-2026-10-02-03
+  - tema: 'Trump: Evropa ať uvolní zásoby nafty'
+    text: „Evropa bude mrznout"
+    vyrok: vrabel-2026-10-02-01
+  - tema: Inflace v eurozóně 3,8 %
+    text: válečná ekonomika „nemá hodnotu", skutečná inflace dvouciferná.
+  - tema: Volební chyba v Berlíně
+    text: vtip o AfD.
+  - tema: Polský zákon o přesunech armády
+    text: ČR dodává přes polovinu munice — „bumerang".
+  - tema: 'Putin na Valdaji: eskalační spirála'
+    text: ⚡ viz [Jaderné zbraně](../jaderne-zbrane.md)
+  - tema: Putin ke Kaliningradu; Rutte
+    text: „pozor, zlý pes" (opakování).
+  - tema: 'Putin: přelom světového uspořádání'
+    text: Rusové „až do Bruselu vyčistit Evropu od nacismu"
+    vyrok: vrabel-2026-10-02-04
+  - tema: G7 a hybridní hrozby
+    text: ironie.
 vyroky:
 - id: vrabel-2026-10-02-01
   typ: tvrzeni
@@ -45,6 +86,10 @@ vyroky:
     — že ho vyměnili za nějakého robota nebo dvojníka, že mu ten scénář píše někdo z Bilderberg Group".
     Babiš podle něj sliboval neposílat vojáky, teď „bude akční" a pošle dvě brigády, kdyby Rusko napadlo
     Pobaltí; Macinka by Trumpovi „boty leštil".'
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: „Velmi nepovedený prezident", možná dvojník (dříve ✅)
 - id: vrabel-2026-10-02-04
   typ: tvrzeni
   temata:
@@ -61,3 +106,17 @@ vyroky:
     celou tu Evropu od nacismu". Polsko a ČR (přes polovinu munice pro Ukrajinu) podle něj čeká „bumerang".
     Válečná ekonomika „nemá žádnou hodnotu ze své podstaty", skutečná inflace je „samozřejmě dvouciferná".'
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-10-02-05
+  typ: stoch-teror
+  temata:
+  - jaderne-zbrane
+  nadpis: Andrej Babiš (alegorie „Ferdy Mravence")
+  text: alegorická výzva k násilí vůči premiérovi s formálním disclaimerem
+  citace:
+  - text: 'Jako, nechci tady vyzývat k žádnému násilí, ale kdyby si to představil třeba v knížce o Ferdovi
+      Mravencovi [...] tak by mravenci z té země normálně měli jít a měli by ho normálně exkomunikovat
+      ze země a nebo rovnou sežrat." (Zuzka: „Roztrhat a sežrat.") „Nebo ho zakopat dohluboko do mraveniště
+      [...] umlátit jehličkama'
+  teror:
+    terc: Andrej Babiš (alegorie „Ferdy Mravence")
+    hranicni: false

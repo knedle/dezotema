@@ -37,4 +37,11 @@ vyroky:
   citace:
   - text: Čekal jsem Českou televizi, ta tam byla, a nikdo tam nebyl. Ty vole, to je šachmat celého vylhaného
       konstruktu Renaty Bernardy.
+  osoby:
+  - osoba: renata-bernardy
+    vztah: negativni
+    kontext: „Usvědčená lhářka a manipulátorka“, „lžou tam jako svině“; možná vydíraná či uplacená
+  - osoba: zitko
+    vztah: pozitivni
+    kontext: Znal Čermáka dobře, jeden z „princů“, kteří mohou ověřit jeho identitu
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)

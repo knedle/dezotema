@@ -54,6 +54,15 @@ vyroky:
     do čtyř do rána), přesto neodstoupil (Fiala prý argumentoval, že „mu to bylo líto") — a nyní jde Jurečka
     do pořadu 360° volat po Turkově odvolání. To Rajchl označuje za „definici bezpáteřnosti" a farizejství
     (řadí sem i Rakušanův šifrovaný telefon).'
+  osoby:
+  - osoba: filip-turek
+    vztah: pozitivni
+    kontext: Hájí ho po dopravní nehodě jako nedbalost, ne důvod ke složení mandátu/funkce; kontrast s
+      Jurečkovou úmyslnou lží
+  - osoba: marian-jurecka
+    vztah: negativni
+    kontext: „Definice bezpáteřnosti" — úmyslně lhal o střelbě na FF UK a večírku, neodstoupil, přesto
+      volá po Turkově odvolání
   podtema: Filip Turek — dopravní nehoda a tlak na rezignaci
 - id: rajchl-2026-07-19-04
   typ: tvrzeni
@@ -84,6 +93,11 @@ vyroky:
     neziskovkami (Člověk v tísni, Milion chvilek) jednajícími bez volebního mandátu a vychýlenými médii
     (ČT/ČRo). Odmítá i Pavlovu narážku, že Macinkovo tvrzení o „ústavním puči" by mohlo být šířením poplašné
     zprávy. Navazuje na [ÚS akreditace Pavla — prezidentská republika](#) (Rajchl 24. 6.).'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Prezident opozice"; výrok „demokracie v ohrožení" jako nebezpečný signál k transformaci
+      ČR na prezidentskou republiku
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-07-19-06
   typ: tvrzeni
@@ -148,3 +162,37 @@ vyroky:
     s minskými dohodami a jednáními 2022) — vinu za devastaci Ukrajiny přičítá „válečným štváčům" včetně
     „pětky" české opozice. Viz [Predikce](predikce.md).'
   podtema: Zahraniční aktéři a precedenty
+- id: rajchl-2026-07-19-10
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Zhroucení ukrajinské fronty, pád Zelenského a nástup Zalužného
+  text: Nepředpovídá ruskou eskalaci (jak tvrdil Pavel), ale zhroucení ukrajinské fronty. Válka skončí,
+    až Rusko ovládne přes 90 % Doněcké oblasti (po pádu Konstantinivky, Sloviansku, Kramatorsku, Kupjansku);
+    pak Putin s Trumpem uzavřou dohodu (Rusko vymění zbytek Doněcka za část Charkovské oblasti), Zelenskyj
+    bude nahrazen v Londýně připraveným Zalužným a přijde mírové jednání. Odvolání Fedorova považuje za
+    první „dominovou kostku" pádu Zelenského.
+  citace:
+  - text: Očekávám, že se blíží ta válka ke konci, Zelenský už má tu židli hodně rozkymácenou.
+  predikce:
+    horizont: neurčeno (řádově měsíce)
+    stav: ceka
+- id: rajchl-2026-07-19-11
+  typ: predikce
+  temata:
+  - blizky-vychod
+  nadpis: Masivní útok USA na Írán „příští týden"
+  text: K íránským břehům se přesouvají americká plavidla a tankovací lodě; přípravy na masivní útok jsou
+    „v plném proudu" a dá se očekávat příští týden (s výhradou, že jednání ještě probíhají). Varuje před
+    dopadem na energetiku, nejvíce v Evropě.
+  citace:
+  - text: Vypadá to, že se příští týden dočkáme velmi masivního útoku [na Írán].
+  predikce:
+    horizont: ~26. týden po výroku (týden od 20. 7. 2026)
+    stav: vyvraceno
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: týden od 20. 7. žádný americký útok na Írán nepřišel
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: 'Vrabel 27. 7.: „ten útok na Írán nebude“.'

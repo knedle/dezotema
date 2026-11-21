@@ -19,6 +19,10 @@ vyroky:
     patří“; Reinera Fuellmicha, který podle něj třetím rokem sedí ve věznici v Lingenu (protestovalo tam
     asi 200 lidí), označuje za „největšího bojovníka proti covidovým zločincům“ a „Norimberk 2“. Vakcíny
     jsou podle něj „depopulační jen pro lid, ne pro poslance“.'
+  osoby:
+  - osoba: reiner-fuellmich
+    vztah: pozitivni
+    kontext: „Největší bojovník proti covidovým zločincům“
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 - id: zitko-2026-10-24-02
   typ: tvrzeni
@@ -36,6 +40,10 @@ vyroky:
     provozoval majoritní vlastník přes jinou firmu.'
   citace:
   - text: V šesti případech to na mě upletli tak, aby mě dostali.
+  osoby:
+  - osoba: bob-acer
+    vztah: pozitivni
+    kontext: Jeho text Zítka hájí, Zítko ho přebírá
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-10-24-03
   typ: tvrzeni
@@ -84,3 +92,68 @@ vyroky:
     živé vysílání od 6. 10., některé až do ledna 2027. Plánuje společnou platformu „130 alternativních
     médií v ČR a přes 90 na Slovensku“ mimo Facebook.'
   podtema: ČT poplatky a omezování na sociálních sítích
+- id: zitko-2026-10-24-07
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: „nepravý“ Čermák na setkání v Holýšově nepřijde
+  text: Pokud muž propuštěný 24. 9. není skutečný Tomáš Čermák, na setkání v Holýšově 30. 10. – 1. 11.
+    nepřijde; účast bude „podstatně vyšší“ než 70 lidí v Liberci. Zároveň slibuje „velké odhalení“ dvojníků
+    Pavla, Zemana a Babiše.
+  citace:
+  - text: Pokud není pravý Tomáš Čermák, tak za boha na to setkání nebude chtít přijít.
+  dalsi_zdroje:
+  - 2026-10-27_zitko_zive-proc-nejsi-vetsi-27-10-2026
+  - 2026-10-30_zitko_zive-dukaz-misto-kecu-vyslech-z-chomutova-30-10-2026
+  - 2026-10-29_zitko_zive-telefonat-s-udajnym-cermakem-29-10-2026
+  - 2026-10-29_zitko_telefonat-s-matkou-tomase-cermaka-zverejneno-2-11-2026
+  - 2026-11-01_zitko_zive-z-holysova-cermak-neprisel-konec-hry-na-cermaka-1-11-20
+  - 2026-11-08_zitko_zive-nedelni-chvilka-poezie-miller-ebs-a-konec-hry-na-cermak
+  predikce:
+    horizont: 30. 10. – 1. 11. 2026 (odhalení dvojníků neurčeno)
+    stav: castecne
+    horizont_do: 2026-11-01
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: Čermák na setkání 1. 11. skutečně nepřišel, ale jeho matka předem uvedla, že žádné setkání
+        domluvené nebylo; nepříchod totožnost nevyvrací ani nepotvrzuje. Účast byla podle záběrů jen v
+        „úzkém, takřka rodinném kruhu“, ne „podstatně vyšší“ než v Liberci.
+      stav: castecne
+    - datum: 2026-10-27
+      text: „Pokud nepřijde, tak je hra ukončena… přestává hra na Čermáka fungovat.“
+    - datum: 2026-10-30
+      text: 'Po telefonátu s „hlasem“ Čermáka Zítko opakuje: „A pokud nepřijde, tak je to jenom potvrzení,
+        že to nebyl Tomáš Čermák.“'
+    - datum: 2026-10-29
+      text: Po telefonátu Zítko připouští, že pokud se v Holýšově totožnost ověří, přizná, že přišel skutečný
+        Čermák — dřívější „dvojník“ by pak byl „cestou k návratu skutečného Čermáka“.
+    - datum: 2026-10-29
+      text: (telefonát) Čermákova matka totožnost syna potvrdila a uvedla, že žádné setkání se Zítkem
+        domluvené není.
+    - datum: 2026-11-08
+      text: Zítko predikci považuje za splněnou („hra na Čermáka skončila… nepřišel“). Stav ponechán,
+        protože nepříchod totožnost neprokazuje.
+- id: zitko-2026-10-24-08
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Bill Gates, Albert Bourla, Mark Rutte; „konzumenti adrenochromu“; Bartkovský (Reflex), Renata
+    Bernardy
+  text: 'Terč: Bill Gates, Albert Bourla, Mark Rutte; „konzumenti adrenochromu“; Bartkovský (Reflex),
+    Renata Bernardy.'
+  citace:
+  - text: Gates, Bourla, Rutte „seděli na lavici obžalovaných, kam patří, protože tady byla prováděna
+      genocida a sterilizace lidstva“; „popravení protagonisté zločinů Deep State, zejména konzumenti
+      adrenochromu“; Bartkovský „velký hovado“, Bernardy „úplně blbá“ — hraniční (soudní trest, schvalované
+      popravy obecné skupiny, urážky bez výzvy)
+  osoby:
+  - osoba: renata-bernardy
+    vztah: negativni
+    kontext: „Lhářka a manipulátorka“, „úplně blbá“, krmená tajnými službami
+  - osoba: bartkovsky
+    vztah: negativni
+    kontext: „Velký hovado“
+  teror:
+    terc: Bill Gates, Albert Bourla, Mark Rutte; „konzumenti adrenochromu“; Bartkovský (Reflex), Renata
+      Bernardy
+    hranicni: true

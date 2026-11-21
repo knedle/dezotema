@@ -11,3 +11,21 @@ zdroj:
   poznamka: 'Existuje druhý přepis téhož videa (`..._1.txt`) — obsah totožný, obě verze sloučeny. Krátké
     přímé video adresované Petru Pavlovi: přirovnání k Emanuelu Moravci, Karlu Čurdovi a Reinhardu Heydrichovi
     „v jedné osobě", „všichni lidé tě z duše nenávidí." Zhlédnutí: 21 327'
+vyroky:
+- id: cernohorsky-2026-05-19-05
+  typ: stoch-teror
+  temata:
+  - petr-pavel
+  nadpis: Petr Pavel
+  text: přímé oslovení „ty na tom hradě"
+  citace:
+  - text: Ty velezhrádče... nám na hradě novodobí Emanuel Moravec, Karel Čurda, Reinhard Heidrich v jedné
+      osobě sedí. Seš to ty a všichni lidé tě z duše nenávidí.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Přirovnán k Emanuelu Moravci, Karlu Čurdovi a Reinhardu Heydrichovi „v jedné osobě"; „všichni
+      lidé tě z duše nenávidí"
+  teror:
+    terc: Petr Pavel
+    hranicni: false

@@ -26,4 +26,9 @@ vyroky:
   citace:
   - text: Za mě tak by se měla zrušit Česká televize a Český rozhlas jako veřejnoprávní instituce. Úplně,
       protože dlouhodobě nesplňují zákon, který jim nařizuje, aby byly nestrané.
+  osoby:
+  - osoba: ladislav-jakl
+    vztah: pozitivni
+    kontext: Souhlasí s jeho výrokem „Svobodné umění není právo na cizí prachy"; Jakl na ČT sám proti
+      pěti diskutujícím — důkaz strannosti ČT
   podtema: Česká televize a mainstreamová média

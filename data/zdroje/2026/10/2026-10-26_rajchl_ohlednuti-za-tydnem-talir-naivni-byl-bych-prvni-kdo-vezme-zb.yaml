@@ -23,4 +23,9 @@ vyroky:
   citace:
   - text: Já bych byl první, kdo by vzal zbraň do ruky a šel by bránit Českou republiku proti jakémukoliv
       nepříteli. To vy byste utíkali do Německa.
+  osoby:
+  - osoba: talir
+    vztah: negativni
+    kontext: „Naivní“, slovník by u slova „naivita“ měl jeho fotku; „falešný pokrytec“, který by utekl
+      do Německa
   podtema: Zahraniční aktéři a precedenty

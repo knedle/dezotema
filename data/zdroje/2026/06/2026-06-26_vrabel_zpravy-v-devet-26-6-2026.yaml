@@ -17,6 +17,18 @@ zdroj:
     Hormuz/Írán, Izrael–Libanon dohoda, Krym stav nouze, Lavrov vs. Rubio spor o Aljašku) jen rychlý přehled
     bez samostatného zpracování. **Predikce:** ČR nakonec schválí 70 mld. dolarů pro Ukrajinu (viz [predikce.md](predikce.md)).
     Bez stoch. teroru. Pravidelný přehled zahraničních a domácích zpráv s komentářem'
+  prehled:
+  - tema: 'Tři zpracovaná témata: (1) Digitální euro'
+    text: konkrétní scénáře kontroly nákupů/expirujících peněz/vynucené poslušnosti (Kanada, Řecko, Čína
+      jako precedenty), výzva bojovat za hotovost — [digitalni-kontrola.md](../digitalni-kontrola.md).
+      (2) Summit NATO Ankara — 70 mld. dolarů pro Ukrajinu je vedlejší, hlavní otázkou je členství Ukrajiny
+      v NATO (= přímý konflikt s Ruskem)
+  - tema: predikuje schválení peněz vládou
+    text: '[valka-nato-rusko.md](../valka-nato-rusko.md). (3) Petr Macinka prosazuje povinnou tříměsíční
+      vojenskou službu — varování mužům v branném věku — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      Ostatní zprávy (VW propouštění, MiCA regulace kryptoměn, Hormuz/Írán, Izrael–Libanon dohoda, Krym
+      stav nouze, Lavrov vs. Rubio spor o Aljašku) jen rychlý přehled bez samostatného zpracování. **Predikce:**
+      ČR nakonec schválí 70 mld. dolarů pro Ukrajinu (viz [predikce.md](../predikce.md)). Bez stoch. teroru.'
 vyroky:
 - id: vrabel-2026-06-26-01
   typ: tvrzeni
@@ -41,6 +53,15 @@ vyroky:
     aktivně bojuje) a k demonstraci za zachování hotovosti.'
   citace:
   - text: Suverenita je cash, hotovost. [...] A finanční stabilita — no tak vy si spoříte do polštáře.
+  osoby:
+  - osoba: ursula-von-der-leyen
+    vztah: negativni
+    kontext: Citovaný výrok, že „vysoké úspory Evropanů jsou problém" — spojeno s programem Savings and
+      Investments jako přípravou na digitální euro
+  - osoba: vlasta-kovarova
+    vztah: pozitivni
+    kontext: Senátorka — jediná, kdo dle Vrabela aktivně bojuje za zachování hotovosti; zaslouží si „velký
+      dík"
 - id: vrabel-2026-06-26-02
   typ: tvrzeni
   temata:
@@ -59,6 +80,11 @@ vyroky:
   - text: Ono nejde jenom o těch 70 miliard, jde taky o to, že Ukrajina se má stát členem NATO, a to je
       ta nejzásadnější věc. [...] Pokud NATO rozhodne, že přijme Ukrajinu do NATO, tak jsme v přímém vojenském
       konfliktu s Ruskou federací.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: 'Predikce: bude předstírat odpor vůči požadavku 70 mld. $ pro Ukrajinu na summitu NATO, ale
+      nakonec schválí — stejně jako 90 mld. v prosinci'
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-06-26-03
   typ: tvrzeni
@@ -76,6 +102,35 @@ vyroky:
       přemýšlejte, pro Boha, do budoucna.
   - text: On jde podepisovat kontrakty do Kongresu, domlouvat kontrakty na zbrojení pro Českou republiku
       [...], ale křičí proti Petrovi Pavlovi, že on nás prodává americkým zbrojařům.
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Prosazuje povinnou tříměsíční vojenskou službu — „neuvěřitelné"; na cestě do USA domlouval
+      zbrojní kontrakty, konkuruje Petru Kolářovi
   dalsi_zdroje:
   - 2026-06-27_vrabel_zpravy-v-devet-27-6-2026
   podtema: Stav Ukrajiny a mobilizace
+- id: vrabel-2026-06-26-04
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: ČR nakonec schválí 70 mld. dolarů pro Ukrajinu ze summitu NATO
+  text: Bez ohledu na to, kdo povede českou delegaci na summitu NATO v Ankaře (Pavel nebo Babiš), Vrabel
+    předpovídá, že vláda nakonec schválí požadovaných 70 mld. dolarů pro Ukrajinu — stejně jako v prosinci
+    schválila 90 mld. Andrej Babiš prý bude nejprve předstírat odpor („že ne, že ne, že ne"), ale nakonec
+    to podepíše. Odkazuje na svou dřívější úspěšnou predikci, že Petr Pavel na summit nakonec pojede navzdory
+    počátečnímu odmítnutí.
+  citace:
+  - text: Bych se znovu vsadil [...], že Česká republika nakonec do toho půjde a bude dávat ty peníze
+      do NATO, těch sedmdesát miliard.
+  predikce:
+    horizont: summit NATO v Ankaře, 7.–8. 7. 2026
+    stav: castecne
+    horizont_do: 2026-07-08
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: balík 70 mld. byl v Ankaře přijat a ČR ho neblokovala, přímý český příspěvek ale schválen
+        nebyl (jen jednorázový přesun do PURL)
+      stav: castecne
+    - datum: 2026-11-20
+      text: Vrabel 9. 7. přesto tvrdí, že „Česká republika to bude platit“.

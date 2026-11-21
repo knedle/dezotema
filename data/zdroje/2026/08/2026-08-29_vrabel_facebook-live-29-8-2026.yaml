@@ -7,6 +7,28 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1419557200120161
   prepis: prepisy/done/2026-08-29_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Rekordní export zbraní z ČR (115,4 mld, +23 % meziročně, 7× od 2021)
+    text: nezpracováno
+  - tema: Kontinuita zahraniční politiky Fialy, Pavla a Babiše (pokrač.)
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Německo chystá tvrdší sankce proti Rusku; spekulace o „false flag" u dronu v Halle
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Ruský dronový útok na muniční sklad na Ukrajině (37 mrtvých)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Americký ministr financí opomněl Stalina/SSSR u Teheránské konference — „válka globalistů proti
+      Slovanům" (pokrač.)
+    text: → [Konspirace](../konspirace.md)
+  - tema: Islamizace Británie (Essex) — analogie s Mohamedem, Kosovem, Sýrií
+    text: → [Migrace](../migrace.md)
+  - tema: NATO nepřipraveno na válku s Ruskem — kritika velvyslance Koneckého
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: Vyšetřování novináře Panenky za komentář k Mladičovi — teorie o rozbití Jugoslávie kvůli neutralitě
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Fico na oslavách SNP „bez Ruska není mír"; shromáždění 3. 10. (pokrač.)
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Útok autem ve Francii (Caen)
+    text: nezpracováno (krátká zpráva)
 vyroky:
 - id: vrabel-2026-08-29-01
   typ: tvrzeni
@@ -86,6 +108,12 @@ vyroky:
     o nástroj neustálé války k udržení kontroly nad vlastním obyvatelstvem skrze strach a ekonomický tlak,
     nebo o reálnou přípravu na válku s Ruskou federací — vzhledem k tomu, že se boje již přenesly na ruské
     území, přiklání se spíše k druhé variantě.'
+  osoby:
+  - osoba: david-konecky
+    vztah: negativni
+    kontext: Velvyslanec ČR při NATO — kritizován (i s dehumanizující nálepkou „psychopat", → [stoch.
+      teror](../stochasticky-teror.md)) za tvrzení, že aliance je připravena okamžitě bránit své území
+      proti Rusku
   podtema: EU jako vojenská struktura
 - id: vrabel-2026-08-29-06
   typ: tvrzeni
@@ -104,6 +132,11 @@ vyroky:
     Goranem Petronjevičem (obhájcem Miloševiće) reagující na rozhovor bývalého plukovníka americké armády
     Douglase McGregora, který měl veřejně pojmenovat konkrétní americké, německé a další důstojníky a
     politiky podílející se na rozbití Jugoslávie v 90. letech.'
+  osoby:
+  - osoba: radim-panenka
+    vztah: pozitivni
+    kontext: Zástupce šéfredaktora Parlamentních listů, vyšetřovaný policií za komentář k úmrtí Ratka
+      Mladiće — Vrabel ho hájí jako oběť politicky motivovaného vyšetřování
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-08-29-07
   typ: tvrzeni
@@ -134,4 +167,33 @@ vyroky:
     V návaznosti opakuje ohlášení vlastního veřejného shromáždění 3. 10. na Malostranském náměstí (tentokrát
     ne přímo „za urovnání vztahů s Ruskou federací" jako minule, ale se stejným cílem) a chystaného dokumentu
     adresovaného Ruské federaci s ujištěním, že Česká republika s ní nechce konflikt.
+  osoby:
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: 'Chválen za projev na oslavách SNP: „bez Ruska není mír v Evropě", nacismus „zůstal v hlavách
+      lidí"'
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-08-29-09
+  typ: stoch-teror
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: David Konecký (velvyslanec ČR při NATO)
+  text: jmenovaný terč + dehumanizace psychiatrickým označením
+  citace:
+  - text: je to nebezpečný, že máme takovýhle psychopaty, jinak to nedokážu nazvat, ve vedení naší země,
+      že máme velvyslance v NATO, který dokáže veřejnosti tvrdit takovýhle nesmysl.
+  teror:
+    terc: David Konecký (velvyslanec ČR při NATO)
+    hranicni: false
+- id: vrabel-2026-08-29-10
+  typ: stoch-teror
+  temata:
+  - valka-nato-rusko
+  nadpis: Rajchl, Vacek
+  text: jmenovaný terč + dehumanizace v reakci na jejich trestní oznámení proti lidem nosícím symboly
+    „Z" a Wagner Group
+  citace:
+  - text: tady máme takový hajzly, jako je Reichl, jako je Vacek [...] protože tady máme takovýhle hajzly.
+  teror:
+    terc: Rajchl, Vacek
+    hranicni: false

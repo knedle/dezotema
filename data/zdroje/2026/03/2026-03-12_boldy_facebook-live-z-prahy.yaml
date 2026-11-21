@@ -34,6 +34,13 @@ vyroky:
   - text: Samozřejmě nebudeme zapomínat na to, co se děje teď na Blízkém východě, tak jenom zase opět
       hraje pro lidi, protože se bude vytvářet velký Izrael. To už je v plánu. Je v plánu výstavba třetího
       chrámu. Červené jalovice, ty už jsou taky dávno připravené.
+  osoby:
+  - osoba: rothschildove
+    vztah: negativni
+    kontext: Označeni za loutky ještě mocnějších anonymních sil, součást elitní sítě
+  - osoba: bill-gates
+    vztah: negativni
+    kontext: Označen za loutku anonymních elit plánujících hospodářskou krizi a depopulaci
   podtema: Elity a jejich plány
 - id: boldy-2026-03-12-03
   typ: tvrzeni
@@ -95,6 +102,10 @@ vyroky:
   citace:
   - text: Každopádně Trump, co teďka vystupuje, to Trump není. Vždycky používají dvojníky.
   - text: Jim Carrey, typičo samej klon a lidi to žerou.
+  osoby:
+  - osoba: jim-carrey
+    vztah: neutralni
+    kontext: Uveden jako příklad celebrity nahrazené klonem po veřejném gestu iluminátů
   dalsi_zdroje:
   - 2026-08-28_zitko_videoportal-28-8-2026
   podtema: Okultismus

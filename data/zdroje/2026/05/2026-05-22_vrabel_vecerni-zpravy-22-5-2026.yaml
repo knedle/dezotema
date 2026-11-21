@@ -17,6 +17,37 @@ zdroj:
     NATO summit Turecko červenec — Rubio chce kritizovat spojence za Írán; Trump 5 000 vojáků do Polska;
     Polsko rusofobie — historická mentalita; EU sankce = bonbóny na Halloween; Tulsi Gabbard rezignovala
     — „výjimka v Trumpově administrativě, která nemohla vydržet."
+  osoby:
+  - osoba: marco-rubio
+    vztah: negativni
+    kontext: NATO summit Turecko červenec — chce kritizovat spojence za nedostatečnou reakci na Írán
+  prehled:
+  - tema: Večerní zprávy z nového studia s moderátorkou Zuzkou. Sjezd
+    text: Večerní zprávy z nového studia s moderátorkou Zuzkou. Sjezd Sudetoněmeckého Landsmannschaftu
+      Brno — ČRNPM petiční stánek, SPD historické pokrytectví (dříve říkali „vy demonstrujte, my budeme
+      v parlamentu")
+  - tema: dronový útok na studentskou kolej v Luhansku (6 mrtvých, 3
+    text: dronový útok na studentskou kolej v Luhansku (6 mrtvých, 3 vlny dronů, NATO zodpovědnost)
+  - tema: Zelenský „vracíme válku domů"
+    text: útok na rafinérii Jaroslavl (700 km od hranic)
+  - tema: Rusko skrývá jaderné rakety pod moře (START zanikla)
+    text: Rusko skrývá jaderné rakety pod moře (START zanikla)
+  - tema: miliardáři staví bunkry (Bezos, Zuckerberg, Kardashianové)
+    text: miliardáři staví bunkry (Bezos, Zuckerberg, Kardashianové)
+  - tema: Německo 10 mld. EUR civilní obrana (110k polních lůžek)
+    text: Německo 10 mld. EUR civilní obrana (110k polních lůžek)
+  - tema: Lukašenko nabídl jednat se Zelenským, EU sankce Bělorusko
+    text: Lukašenko nabídl jednat se Zelenským, EU sankce Bělorusko
+  - tema: NATO summit Turecko červenec
+    text: Rubio chce kritizovat spojence za Írán
+  - tema: Trump 5 000 vojáků do Polska
+    text: Trump 5 000 vojáků do Polska
+  - tema: Polsko rusofobie
+    text: historická mentalita
+  - tema: EU sankce = bonbóny na Halloween
+    text: EU sankce = bonbóny na Halloween
+  - tema: Tulsi Gabbard rezignovala
+    text: „výjimka v Trumpově administrativě, která nemohla vydržet."
 vyroky:
 - id: vrabel-2026-05-22-01
   typ: tvrzeni
@@ -69,6 +100,15 @@ vyroky:
     nabídku nevyužil. EU odpověděla novým balíčkem sankcí vůči Bělorusku. Rusko a Bělorusko paralelně
     provádějí rozsáhlá jaderná cvičení. Vrabel hodnotí situaci ironicky: Lukašenko nabízí dialog, západ
     odpovídá dalšími sankcemi — přesně opačný postup, než by vedl k míru.'
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: „Vracíme válku domů" — útok na rafinérii Jaroslavl 700 km od hranic; hrozí preventivním útokem
+      Bělorusku
+  - osoba: alexandr-lukasenko
+    vztah: neutralni
+    kontext: Nabídl přímé jednání se Zelenským — EU odpověděla novými sankcemi; Rusko-Belarus jaderná
+      cvičení
   podtema: Vyjednávání a mír
 - id: vrabel-2026-05-22-05
   typ: tvrzeni
@@ -81,6 +121,14 @@ vyroky:
     k nepublikovaným informacím se chovají podle zásady „zachraň se, kdo může." Paralelně Německo investuje
     10 mld. EUR do civilní obrany, Rusko cvičí jaderné síly. Vrabel varuje: „ty chytřejší to vědí dříve
     a připravují se."'
+  osoby:
+  - osoba: jeff-bezos
+    vztah: neutralni
+    kontext: 'Staví bunkr — Vrabel cituje jako varovný signál: ti s přístupem k nepublikovaným informacím
+      se připravují'
+  - osoba: mark-zuckerberg
+    vztah: neutralni
+    kontext: Staví bunkr — viz Bezos, stejný kontext varovného signálu
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-05-22-06
   typ: tvrzeni
@@ -127,4 +175,9 @@ vyroky:
     USA (téma podrobně v [konspirace-deep-state-qanon.md — biolaboratoře](konspirace-deep-state-qanon.md#gabbard-oficiálně-odtajnila-dokumenty-o-120-biolaboratořích--konspirace-se-stala-pravdou-vrabel-13-6-2026)),
     přinášela do agendy témata, která by jinak zůstala skryta. Vrabel tvrdí, že tato rezignace musela
     přijít, ať byl zástupný důvod jakýkoli: „kdyby nebyl tenhle důvod, tak by se našel jiný."'
+  osoby:
+  - osoba: tulsi-gabbard
+    vztah: rozporuplny
+    kontext: 'Rezignovala — Vrabel: „naprostá výjimka v Trumpově administrativě, která musela skončit;
+      kdyby nebyl zdravotní důvod, našel by se jiný"; lituje odchodu'
   podtema: Zahraniční aktéři a precedenty

@@ -7,6 +7,10 @@ zdroj:
   url: https://m.facebook.com/watch/?v=1108274668303656&_rdr
   prepis: prepisy/done/2026-09-26_Československo-TV2_15-reactions-3-comments-Československo-TV2-vysílal.txt
   rezim: standard
+  osoby:
+  - osoba: jiri-lnenicka
+    vztah: negativni
+    kontext: Nepovolil ho jako Čermákova zmocněnce, „zmanipulovaný proces"
 vyroky:
 - id: zitko-2026-09-24-03
   typ: tvrzeni
@@ -19,5 +23,85 @@ vyroky:
     rozkradení zlatého pokladu a podniků připisuje operaci StB/KGB pod vedením „tria Klaus, Mečiar, Havel".
     Volby jsou podle něj nejméně 20 let zfalšované přes firmy ESET a Hewlett-Packard vybrané bez tendru
     a Joe Biden byl „v době inaugurace už popraven".
+  osoby:
+  - osoba: tomas-cermak
+    vztah: pozitivni
+    kontext: Bojovník proti „covidové mafii"; propuštěný muž je podle něj „údajný" Čermák / dvojník
+  - osoba: trump
+    vztah: pozitivni
+    kontext: „Vítězné mocnosti", rozhodnou o obnově ČSR
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: „Vítězné mocnosti", rozhodnou o obnově ČSR
+  - osoba: bin-salman
+    vztah: pozitivni
+    kontext: „Vítězné mocnosti", rozhodnou o obnově ČSR
+  - osoba: modi
+    vztah: pozitivni
+    kontext: „Vítězné mocnosti", rozhodnou o obnově ČSR
+  - osoba: klaus
+    vztah: negativni
+    kontext: „Trio" rozkradení Československa
+  - osoba: meciar
+    vztah: negativni
+    kontext: „Trio" rozkradení Československa
+  - osoba: havel
+    vztah: negativni
+    kontext: „Trio" rozkradení Československa
   dalsi_zdroje:
   - 2026-10-15_zitko_proc-jsme-stale-ceskoslovensko-nej-argumenty-15-10-2026
+- id: zitko-2026-09-24-04
+  typ: predikce
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: „vítězné mocnosti" rozhodnou o obnově Československa
+  text: Trump, Putin, bin Salmán a Módí jako „vítězné mocnosti" rozhodnou o budoucí podobě právního státu
+    a o obnově Československa.
+  citace:
+  - text: Tady těch pět můžeme nazvat, že jsou to a budou vítězné mocnosti, které budou rozhodovat. I
+      o budoucí podobě našeho právního státu a zpět vzetí Československa.
+  dalsi_zdroje:
+  - 2026-10-05_zitko_zive-cermak-dvojnik-petice-za-csfr-ctyri-faze-vedy-5-10-2026
+  - 2026-10-23_zitko_zive-holysov-zebricek-zlodejin-a-festival-dvojniku-23-10-202
+  - 2026-10-25_zitko_zive-korporace-polsko-a-podvod-s-rozdelenim-ceskoslovenska-2
+  - 2026-10-27_zitko_zive-proc-nejsi-vetsi-27-10-2026
+  - 2026-10-28_zitko_zive-108-vyroci-ceskoslovenska-28-10-2026
+  - 2026-10-30_zitko_zive-dukaz-misto-kecu-vyslech-z-chomutova-30-10-2026
+  - 2023-11-13_zitko_vyslech-v-chomutove-13-11-2023-bez-sekani-31-10-2026
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+    vyhodnoceni:
+    - datum: 2026-10-05
+      text: 'Zítko opakuje: mírová smlouva po válce na Ukrajině stanoví i nové hranice států a uzavřou
+        ji vítězné mocnosti (Trump, Putin, Si, Módí).'
+    - datum: 2026-10-23
+      text: Zítko dodává, že díky „československým“ dětem Trumpa bude obnova ČSR v dohodě vítězných mocností
+        s Putinem „už jen formalitou“.
+    - datum: 2026-10-25
+      text: Putin se podle Zítka „na 99,9 %“ vyjádřil, že Československo bude obnoveno; Gates, Bourla
+        a Rutte se budou „zodpovídat ze zločinů proti lidskosti“ v Nizozemsku.
+    - datum: 2026-10-27
+      text: O budoucích hranicích podle Zítka rozhodnou Trump, Putin a Si Ťin-pching; ČSR „od Aše“ po
+        Zakarpatí.
+    - datum: 2026-10-28
+      text: Obnova ČSR je podle Zítka „jenom otázka času“, s reparacemi se „schyluje“ ke zlatému krytí
+        měny; k nápisu „Československo 15.12–24.12“ ale říká, že „nepredikuje žádná data“.
+    - datum: 2026-10-30
+      text: „Československá republika a její obnovení čím dál blíž.“
+    - datum: 2026-10-31
+      text: (záznam z 2023) Pokud Rusko vyhraje na Ukrajině, „možná obnoví Sovětský svaz“, případně jako
+        „svaz svobodných slovanských republik“ v rámci BRICS.
+- id: zitko-2026-09-24-05
+  typ: stoch-teror
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: „covidová mafie" (Fauci, Prymula aj.), „propagátoři zabodávání biologickou zbraní"
+  text: opakovaná výzva k tribunálu + dehumanizace
+  citace:
+  - text: covidová mafie, patří před vojenský tribunál" / „tyhlety propagátoři zabodávání biologickou
+      zbraní, tyhlety spolupachatelé genocidy národa [...] Tyhlety všichni pičusové" / „A tyhle ty debilové
+      budou obětovaný jako první
+  teror:
+    terc: „covidová mafie" (Fauci, Prymula aj.), „propagátoři zabodávání biologickou zbraní"
+    hranicni: false

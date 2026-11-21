@@ -8,6 +8,25 @@ zdroj:
   prepis: prepisy/done/2026-10-24_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
   poznamka: 8 min, monolog z procházky po Bělehradě; bez sdílených videí.
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Podporuje Pavla jako evropského vyjednavače, „zařadil se“
+  prehled:
+  - tema: Bělehrad, sobotní pohoda
+    text: lidé bez strachu z války a ekonomiky, „žádní Ukrajinci“, takhle prý vypadaly Čechy před 20 lety
+      (opakuje).
+  - tema: Facebook zobrazí vysílání 25 lidem z 34 tisíc sledujících
+    text: začíná být „velmi skeptický“, že je v ČR cokoli možné změnit (opakuje).
+  - tema: Protesty za poplatky ČT vs. nezájem o jaderné zbraně
+    text: lidé obsazují náměstí kvůli „200–300 korunám“ za vlastní válečnou propagandu, jsou „idioti nejvyššího
+      kalibru“; ČR „nedopadne dobře“, rozehrává se totéž co na Ukrajině
+    vyrok: vrabel-2026-10-24-03
+  - tema: Macinka souhlasí, aby Pavel vyjednával mír za Evropu
+    text: „divadlo“, Pavel jako generál NATO má v zahraničí vyšší postavení než Babiš a Macinka, oba podporují
+      „válečného štváče“ (opakuje).
+  - tema: Kolik lidí sleduje jeho zprávy
+    text: jen „pár tisíc“ ví, co se děje.
 vyroky:
 - id: vrabel-2026-10-24-03
   typ: tvrzeni

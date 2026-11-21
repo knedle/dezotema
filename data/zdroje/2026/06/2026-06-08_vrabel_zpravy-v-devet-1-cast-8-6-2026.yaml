@@ -15,6 +15,14 @@ zdroj:
     vs „spící" ČR, Dozimetr parlamentní komise bez pravomoci („divadlo vlastenců"), Albánie/Kushner ostrov
     Sazan (rozšíření). Zprávy v devět s komentářem, 1. část (moderátorka Zuzka) — vysílání přerušeno ~v
     31. min. technickou závadou, pokračuje ve „2. části"'
+  prehled:
+  - tema: Hlavní bloky
+    text: Fico navrhuje Macrona jako vyjednavače EU–Rusko (Fico jako globalista, predikce SK jaderné zbraně),
+      summit NATO/OSN jako „divide et impera" (Pavel vs Babiš dělají totéž), zvýšení plateb za státní
+      pojištěnce o 24 mld = okrádání občanů na zbrojení, konec projektu FCAS + britské F-35 + cvičení
+      Rammstein (zbrojní korupce, ČR nemá mít jaderné zbraně), Berlín protesty proti Merzovi vs „spící"
+      ČR, Dozimetr parlamentní komise bez pravomoci („divadlo vlastenců"), Albánie/Kushner ostrov Sazan
+      (rozšíření).
 vyroky:
 - id: vrabel-2026-06-08-05
   typ: tvrzeni
@@ -26,6 +34,15 @@ vyroky:
     K návrhu Roberta Fica, aby případná jednání s Putinem za EU vedl Emmanuel Macron, Vrabel (a jím komentovaný kritický hlas) reagují, že Fico tím „ztratil kredibilitu" ohledně slovenské suverenity. Macrona líčí jako symbol „zelené, chudé, multikulturní a gay Evropy" (Green Deal, francouzský multikulturalismus, zákon hrozící rodičům i psychologům trestem za odrazování dítěte od změny pohlaví, migrace). Fica zařazuje do svého vzorce politiků, kteří se nejdřív tvářili „pronárodně" a postupně odhalují, že jsou „globalisté taky" — stejně jako podle něj Andrej Babiš. Za jediného skutečně suverénního lídra v Evropě označuje Aleksandara Vučiće (Orbán „na půl cesty", Fico „pátý čaj po výluhu" od Vučiće). Navazuje na [Globalisté dosazují „falešné mesiáše" napříč Západem](#globalisté-dosazují-falešné-mesiáše-napříč-západem--magyar-trump-merz-babiš-vrabel-6-6-2026).
 
     > „Fico není národný politik. Ani přesvědčením, ani skutkami." — citováno Vrabelem, [Zprávy v devět (1. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-část-8-6-2026)
+  osoby:
+  - osoba: robert-fico
+    vztah: negativni
+    kontext: Navrhl Macrona jako vyjednavače EU–Rusko — „ztratil kredibilitu", ukázal globalistickou tvář,
+      „není národný politik" (obrat oproti pozitivnímu hodnocení z 9. 5.)
+  - osoba: emmanuel-macron
+    vztah: negativni
+    kontext: Symbol „zelené, chudé, multikulturní a gay Evropy" (Green Deal, gender zákon, migrace) —
+      nevhodný jako vyjednavač EU–Rusko
 - id: vrabel-2026-06-08-06
   typ: tvrzeni
   temata:
@@ -42,6 +59,11 @@ vyroky:
   citace:
   - text: Divide et impera. Rozděl a panuj. [...] Rozděl společnost na dvě částky, poštvi proti sobě a
       vládni jim.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: V NATO dělá totéž co Pavel (jaderné zbraně, platby, víc vojáků); přišel s nápadem pořídit
+      jaderné zbraně; „globalista"
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: vrabel-2026-06-08-07
   typ: tvrzeni
@@ -66,6 +88,11 @@ vyroky:
     dovozuje, že obraz „vlastenců ve vládě, kteří vše vyřeší", je iluze. Kontrastuje to s Německem, kde
     lidé proti Merzovi (77 % nespokojených) protestují, zatímco v ČR se „spí" a národ řeší jen, zda Pavel
     pojede na summit — probuzení přijde, „až jim to dojde".'
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Prosadil parlamentní komisi k Dozimetru, která dle Vrabela nemá pravomoc — „divadlo vlastenců
+      ve vládě"
   podtema: Demokracie a politický systém
 - id: vrabel-2026-06-08-11
   typ: tvrzeni
@@ -83,3 +110,15 @@ vyroky:
     vše „mezi tím" (jestli Pavel pojede na summit, či ne) je nepodstatné. Navazuje na [NATO eskaluje válku
     „salámovou metodou" (2. č. 8. 6.)](valka-nato-rusko.md#nato-eskaluje-válku-salámovou-metodou-f-35-jako-scénář-jaderného-náletu-na-rusko-vrabel-8-6-2026).'
   podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-06-08-15
+  typ: predikce
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Slovensko bude chtít jaderné zbraně od Francie
+  text: Po vzoru ČR (kde Babiš přišel s nápadem mít jaderné zbraně) Vrabel očekává, že i Slovensko zažije
+    „probuzení" premiéra a začne usilovat o jaderné zbraně od Francie.
+  citace:
+  - text: '...můžete brzo očekávat, že vám začnou taky lifrovat jaderný zbraně na Slovensku.'
+  predikce:
+    horizont: neurčeno
+    stav: ceka

@@ -9,6 +9,10 @@ zdroj:
   rezim: standard
   delka: '1:17:13'
   poznamka: 'Zhlédnutí: 369'
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Kritizován za to, že nevystoupil z WHO, ačkoli to měl ve svém „desateru PRO"
 vyroky:
 - id: zitko-2026-04-10-05
   typ: tvrzeni
@@ -19,4 +23,9 @@ vyroky:
     Zítko sdílí a komentuje vystoupení Dr. Helmuta Sterze (dlouholetý toxikolog Hoffmann-La Roche a Pfizer) z 19. března 2026 před vyšetřovacím výborem německého Bundestagu. Sterz tvrdí, že před uvedením mRNA vakcín na trh nebyly provedeny standardní toxikologické studie (distribuce v těle, eliminace, bezpečnostní profil) — průběh vývoje označuje jako „Blindflug" (slepý let). Farmaceutický průmysl označuje za „Impfmafia" (očkovací mafii). Norimberskýkodex byl dle jeho výpovědi porušen, protože klíčové studie probíhaly až post-marketingově. Zítko přidává vlastní komentář: COVID byl dle přepisu „přejmenovanou chřipkou", Rockefeller měl patent na COVID-19 již z roku 2015. Zítko zároveň kritizuje PRO: „Proč jsme ještě nevystoupili z WHO, když to Reichel měl ve svým desateru?"
 
     > „Es war so geradezu wie ein Blindflug. Die Pharmaindustrie ist meines Erachtens ein Rad in dieser sehr gut geschmierten Maschine der Impfmafia." — Dr. Helmut Sterz, citováno Zítkem, [Večerníček 2026-04-10](_zdroje.md#pavel-zítko--večerníček-dr-sterz-pfizer-toxikolog-covid-tour-11-4-2026)
+  osoby:
+  - osoba: helmut-sterz
+    vztah: pozitivni
+    kontext: Dlouholetý toxikolog Pfizer/Hoffmann-La Roche; Zítko sdílí jeho výpověď v Bundestagu (19.
+      3. 2026) o chybějících bezpečnostních studiích a porušení Norniberského kodexu
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)

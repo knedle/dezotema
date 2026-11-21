@@ -13,6 +13,11 @@ zdroj:
     organizovaný zločin v ČR ovládli Ukrajinci (drogy, zbraně, kybernetika); Bitcoin: Decroix potlačovala
     11 měsíců, Tejcovo ministerstvo to odblokovala; Stanjura by měl být taktéž obviněn. Zhlédnutí: 77
     880'
+  osoby:
+  - osoba: jaromir-tejc
+    vztah: pozitivni
+    kontext: Jako nový ministr spravedlnosti odblokoval Bitcoin kauzu, která byla 11 měsíců potlačována
+      Decroix
 vyroky:
 - id: rajchl-2026-05-05-02
   typ: tvrzeni
@@ -28,6 +33,11 @@ vyroky:
     NYT a Kiel Institute uvádějí náklady na 10 miliard EUR ročně. Rajchl požaduje, aby MPSV zveřejnilo metodologicky korektní výpočet s úplnými výdaji.
   citace:
   - text: Já jsem vždycky tvrdil, že ta tabulka Jurečkových úředníků je naprosto vylhaná.
+  osoby:
+  - osoba: marian-jurecka
+    vztah: negativni
+    kontext: Jeho MPSV připravilo tabulku ekonomického přínosu migrace, která je podle Rajchla „absolutně
+      lživá" — nezahrnuje nepřímé náklady
 - id: rajchl-2026-05-05-03
   typ: tvrzeni
   temata:
@@ -41,5 +51,10 @@ vyroky:
     - **kybernetická kriminalita** — podvodné telefonáty cílené na seniory
 
     Rajchl kontrastuje tyto závěry s tvrzením exministra Vít Rakušana, že z Ukrainy nepřichází „excesivní kriminalita" — označuje ho za prokázanou lež.
+  osoby:
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: 'Tvrdil, že migrace z Ukrainy nepřináší „excesivní kriminalitu" — NCOZ studie 61 detektivů
+      říká opak: Ukrajinci ovládají organizovaný zločin v ČR'
   dalsi_zdroje:
   - 2026-07-05_rajchl_fb-live-5-7-2026

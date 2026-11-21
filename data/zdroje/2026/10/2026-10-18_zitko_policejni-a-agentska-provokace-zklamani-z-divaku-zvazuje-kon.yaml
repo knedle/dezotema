@@ -8,6 +8,10 @@ zdroj:
   prepis: prepisy/done/2026-10-18_Československo-TV2_Je-mi-upřímně-líto-všech-kteří-se-na-tuto-další-ko.txt
   rezim: standard
   poznamka: 10 min 4 s, emotivní monolog, přepis místy útržkovitý.
+  osoby:
+  - osoba: vaclav-rada
+    vztah: negativni
+    kontext: Ironicky „Čistý“; diváci mu mají napsat, co si o něm myslí
 vyroky:
 - id: zitko-2026-10-18-02
   typ: tvrzeni
@@ -29,4 +33,17 @@ vyroky:
   citace:
   - text: To zklamání nebylo, že po mně jdou hejtři, šílenci. To zklamání bylo, že se tam postavilo málo,
       moc málo lidí.
+  osoby:
+  - osoba: cernohorsky
+    vztah: negativni
+    kontext: „Loutkovodič“ útočníka, „čisté zlo“; ironicky „Nezdolný“, sblížil se s Tarabovou
+  - osoba: tarabova
+    vztah: negativni
+    kontext: 'Ironicky: začala si „velmi rozumět“ s Černohorským'
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Ironicky „budoucí pan premiér“, kterého „všichni obdivují“
+  - osoba: vrabel
+    vztah: negativni
+    kontext: Ironicky „zabodaný“
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)

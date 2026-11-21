@@ -18,6 +18,26 @@ zdroj:
     sociálních sítí v Austrálii, Binance/MiCA, OpenAI/Trump, Porsche přesun výroby) jen rychlý přehled
     bez samostatného zpracování. Bez predikcí a stoch. teroru. Pravidelný přehled zahraničních a domácích
     zpráv s komentářem'
+  osoby:
+  - osoba: zdenek-hrib
+    vztah: rozporuplny
+    kontext: Macinka ho zesměšnil za „modrou knížku"; Vrabel to obrací proti Macinkovi (sám bez vojny),
+      ale nechává i Hřiba bez obhajoby
+  - osoba: aleksandar-vucic
+    vztah: rozporuplny
+    kontext: Kritizuje, že pořádá vlastní státem řízenou demonstraci (jako u nás SPD s Landsmannschaftem)
+      — ale jinak chválí jeho zahraniční i vnitřní politiku (levné ruské energie, obchod s Čínou, prosperita)
+  prehled:
+  - tema: 'Čtyři zpracovaná témata: (1) Povinná vojenská služba'
+    text: 'pokračování z 26. 6., Macinkovo propagandistické video a jeho pokrytectví (sám na vojně nebyl,
+      přitom domlouvá zbrojní kontrakty v USA) — [valka-nato-rusko.md](../valka-nato-rusko.md). (2) Dánsko/EU
+      omezují dočasnou ochranu ukrajinským mužům v branném věku = „čistý fašismus" (+ karmická teze) —
+      [valka-nato-rusko.md](../valka-nato-rusko.md). (3) Nord Stream 2 žaluje EU u ESD, Litva/Estonsko/Polsko
+      žádají zákaz ruské ropy — Vrabel: řešením je vystoupit z EU — [ceny-energie.md](../ceny-energie.md).
+      (4) Německý solární boom (1000 GW) promění ČR z vývozce na dovozce elektřiny — [ceny-energie.md](../ceny-energie.md).
+      Ostatní zprávy (Rubio/Lavrov spor o Aljašku, Kuba, AFD/migrace v Německu, Vučićova demonstrace,
+      zákaz sociálních sítí v Austrálii, Binance/MiCA, OpenAI/Trump, Porsche přesun výroby) jen rychlý
+      přehled bez samostatného zpracování. Bez predikcí a stoch. teroru.'
 vyroky:
 - id: vrabel-2026-06-27-01
   typ: tvrzeni
@@ -54,6 +74,11 @@ vyroky:
     a nechala „odevzdat" tento zdroj příjmů Německu. Zmiňuje také, že Německo plánuje ukončit spalování
     uhlí až v roce 2038 (hnědé uhlí o 8 let dříve), zatímco ČR se od uhlí odklání rychleji, přestože ho
     stále částečně dováží z Austrálie.'
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Propagandistické video pro povinnou vojenskou službu; sám na vojně nebyl (modrá knížka),
+      přitom v USA domlouvá zbrojní kontrakty — „velmi nechutná politika"
   podtema: Energetika a Rusko
 - id: vrabel-2026-06-27-03
   typ: tvrzeni

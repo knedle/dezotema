@@ -28,6 +28,11 @@ vyroky:
     Zítko tvrdí, že Lenka Bradáčová bude muset vysvětlovat, co všechno o bitcoinové kauze věděla, a zpochybňuje dosavadní roční nečinnost nejvyššího státního zastupitelství — odkazuje na vlastní trestní oznámení a zveřejněné důkazy, které označuje za „naprosto transparentní a jednoduše dohledatelné". Připomíná, že Bradáčovou do funkce nominoval ministr spravedlnosti Pavel Blažek, a spekuluje, že nástupem Babišovy vlády a jejích jmenovaných funkcionářů (ministr Jeroným Tejc, náměstek Zdeněk Koudelka, bývalá nejvyšší státní zástupkyně Renata Vesecká jako Bradáčové „dlouholetá rivalka") vzniká politický tlak k jejímu prošetření — včetně nečinnosti policejních složek NCOZ a NCTEC.
 
     ⚡ **Poznámka:** Jde o Zítkovu spekulaci o motivaci a propojení, ne o doložené obvinění; žádné trestní stíhání Bradáčové v souvislosti s bitcoinovou kauzou nebylo v přepisu doloženo.
+  osoby:
+  - osoba: lenka-bradacova
+    vztah: negativni
+    kontext: Nejvyšší státní zástupkyně — podezřelá z propojení na bitcoinovou kauzu, kritizována za dlouhodobou
+      nečinnost
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-09-14-03
   typ: tvrzeni

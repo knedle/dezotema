@@ -10,6 +10,11 @@ zdroj:
   delka: '54:12'
   poznamka: 'Druhé vysílání ze dne 14. 4.; reakce na odmítnutí dramaturgem Smršem, sdílení italské studie
     o rakovině po vakcinaci, ČT budget, AFD Richter moratorium. Zhlédnutí: 548'
+  osoby:
+  - osoba: jan-smrs
+    vztah: negativni
+    kontext: Dramaturg pořadu Máte slovo; zamítl Zítka stručným e-mailem „nevyužijeme"; Zítko ho adresuje
+      v ostré odpovědi s obviněním z porušení Norimberského kodexu
 vyroky:
 - id: zitko-2026-04-14-01
   typ: tvrzeni
@@ -26,3 +31,44 @@ vyroky:
 
     ⚡ **Konflikt:** Studie, na níž Zítko odkazuje, není blíže specifikována; regulační orgány EU (EMA, SÚKL) žádnou takovou kauzální spojitost s nárůstem onkologických onemocnění nepřiznaly.
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
+- id: zitko-2026-04-14-02
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Hynek Herrmann
+  text: 'Terč: Hynek Herrmann.'
+  citace:
+  - text: A jeden z největších zmrdů očkovací mafie, Hynek Herrmann, byl aktérem a propagátorem zabodávání
+      těhotných, byl to šéf Ústavu pro matku a dítě v Podolí. [...] nezapomněl jsem vzpomenout tohodle
+      zmrda se jménem Hynek Herrmann.
+  teror:
+    terc: Hynek Herrmann
+    hranicni: false
+- id: zitko-2026-04-14-03
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Roman Prymula
+  text: 'Terč: Roman Prymula.'
+  citace:
+  - text: se Lhářem, manipulátorem, plukovníkem Primulou a profesorem Jiřím Beranem, který podporoval
+      zapíchávání lidí 60+, povinně
+  teror:
+    terc: Roman Prymula
+    hranicni: false
+- id: zitko-2026-04-14-04
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Roman Prymula, Roman Chlíbek, Jaroslav Fléger, Václav Hořejší, Petr Smejkal, Milan Kubek, Jan
+    Konvalenka, Rastislav Maďar
+  text: 'Terč: Roman Prymula, Roman Chlíbek, Jaroslav Fléger, Václav Hořejší, Petr Smejkal, Milan Kubek,
+    Jan Konvalenka, Rastislav Maďar.'
+  citace:
+  - text: 'ČT se tímto konáním naprosto naplno zapojila do podporování pokusů na lidech [...] prostřednictvím
+      osob: Roman Prymula, Roman Chlíbek, Jaroslav Fléger, Václav Hořejší, Petr Smejkal, Milan Kubek,
+      Jan Konvalenka, Rastislav Maďar a další.'
+  teror:
+    terc: Roman Prymula, Roman Chlíbek, Jaroslav Fléger, Václav Hořejší, Petr Smejkal, Milan Kubek, Jan
+      Konvalenka, Rastislav Maďar
+    hranicni: false

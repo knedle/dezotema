@@ -7,6 +7,41 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/999205866472193
   prepis: prepisy/done/2026-09-05_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  osoby:
+  - osoba: tomas-hrdlicka
+    vztah: pozitivni
+    kontext: Člen Vrabelova hnutí zadržený a vyslýchaný za odznak „Z"; případ jde ke státnímu zástupci
+  prehled:
+  - tema: Demonstrace KSČM/Stačilo proti Petru Pavlovi jako opakování škodlivé "antipolitiky" (po vzoru
+      anti-Fiala kampaně)
+    text: → [Petr Pavel](../petr-pavel.md)
+  - tema: Zatčení Tomáše Hrdličky za odznak "Z" — rozšíření kauzy perzekuce symbolů Z/Wagner (PRO/Vacek/Rajchl),
+      stav Kutého, manželky, Popelky (leukemie)
+    text: → [DSA a cenzura](../dsa-cenzura.md)
+  - tema: Mírová jednání Witkoff/Kushner v Moskvě, třídenní přerušení
+    text: Mírová jednání Witkoff/Kushner v Moskvě, třídenní přerušení útoků na Kyjev, kritika legitimity
+      vyjednavačů — nezpracováno (opakuje 65% predikci z 4. 9.)
+  - tema: Merz obviňuje Rusko z dronového útoku, Trump popírá plán Putina útočit na NATO (pokračování
+      false-flag vzorce)
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: AI technologie USA na falešné digitální identity
+    text: nezpracováno (krátká zpráva)
+  - tema: Americký útok na íránské tankery po íránském útoku na americké lodě
+    text: nezpracováno
+  - tema: Růst cen potravin (FAO index) spojený s válkou na Ukrajině a uzavřením Hormuzu
+    text: → [Ceny energie](../ceny-energie.md)
+  - tema: EU řeší žádost Ukrajiny o miliardy na Patriot rakety — problém je nedostatek raket, ne peněz
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: Program "Národ sobě" (Pavel Drobil) jako klon EU Savings and Investments
+    text: nezpracováno (opakování z 31. 8.)
+  - tema: Ekonomická krize USA/Japonsko (propad jenu, tajné intervence)
+    text: nezpracováno
+  - tema: Nová mapa OSN (Equal Earth) nahrazující Mercatorovu
+    text: Nová mapa OSN (Equal Earth) nahrazující Mercatorovu projekci, komentář o malé důležitosti Evropy
+      — nezpracováno
+  - tema: Kritika EU jako podřízené USA (energetické/zbrojní dohody,
+    text: Kritika EU jako podřízené USA (energetické/zbrojní dohody, dovoz "podřadného" jídla, cla) —
+      nezpracováno
 vyroky:
 - id: vrabel-2026-09-05-01
   typ: tvrzeni
@@ -74,4 +109,13 @@ vyroky:
     americkému prezidentovi s přístupem k CIA a osobním kontaktem s Putinem, odpověď je opačná. Uzavírá,
     že pokud to samé řekl Trump, může to bez rizika zopakovat i on: útoky nedělají Rusové, ale někdo jiný,
     kdo chce, aby to tak vypadalo.'
+  osoby:
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: Obvinil Rusko z dronového útoku na německé letiště bez důkazů, vyzval EU k omezení víz pro
+      Rusy
+  - osoba: donald-trump
+    vztah: rozporuplny
+    kontext: Popřel, že by Putin plánoval útok na NATO — v rozporu s narativem ostatních západních politiků,
+      ale Vrabel to využívá jako potvrzení své teze
   podtema: Zahraniční aktéři a precedenty

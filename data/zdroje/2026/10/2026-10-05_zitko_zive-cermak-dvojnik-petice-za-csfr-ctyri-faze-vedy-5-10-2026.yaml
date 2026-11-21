@@ -8,6 +8,10 @@ zdroj:
   prepis: prepisy/done/2026-10-06_Československo-TV2_Československo-TV2-vysílala-živě.txt
   rezim: standard
   poznamka: 1 h 25 min; soubor datován 6. 10., vysíláno v pondělí 5. 10. večer.
+  osoby:
+  - osoba: martin-turek
+    vztah: negativni
+    kontext: Pravděpodobný správce „falešného" profilu Politický vězeň Čermák
 vyroky:
 - id: zitko-2026-10-05-01
   typ: tvrzeni
@@ -20,6 +24,10 @@ vyroky:
     vypovídat" (Fauci se před Kongresem 29. 7. podle něj 111× odvolal na 5. dodatek). Covid podle něj
     „vytlačila z televize" ruská speciální operace, protože „virus se šířil v televizi". Nově tvrdí, že
     Krajský soud v Ústí nad Labem při jeho odvolání „kapituloval" a uznal, že virus SARS-CoV-2 nebyl izolován.'
+  osoby:
+  - osoba: anthony-fauci
+    vztah: negativni
+    kontext: „Totální klaun", 111× pátý dodatek; před vojenský tribunál
   podtema: Původ a povaha pandemie
 - id: zitko-2026-10-05-02
   typ: tvrzeni
@@ -36,6 +44,17 @@ vyroky:
     vyzývá, aby ještě téže noci zveřejnil certifikát z kurzu, „než otevřou kopírovací centra". Zve ho
     na akci ve Frýdku-Místku (10. 10.) s úhradou všech nákladů. Petici by tam podle něj podepsalo „100–200
     lidí".'
+  osoby:
+  - osoba: tomas-cermak
+    vztah: rozporuplny
+    kontext: Pravého Čermáka hájí, muže propuštěného v Liberci má za dvojníka; petice na jeho profilu
+      „porušuje podmínky"
+  - osoba: marie-sisakova
+    vztah: negativni
+    kontext: „Bývalá policistka a účetní spolku Černohorského", potvrzuje autorství petice
+  - osoba: renata-bernardy
+    vztah: neutralni
+    kontext: Prostřednice ke kontaktu s „údajným" Čermákem
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-10-05-03
   typ: tvrzeni
@@ -60,3 +79,20 @@ vyroky:
     Nepočítá s tím, že by „korporace Česko/Slovensko" zaplatila. Rozhodne prý mírová smlouva po válce
     na Ukrajině, která podle něj stanoví i nové hranice států a uzavřou ji vítězné mocnosti (Trump, Putin,
     Si Ťin-pching, Módí), ne „Pávek" ani Babiš.'
+  osoby:
+  - osoba: alena-schillerova
+    vztah: negativni
+    kontext: Adresátka „doplatku 50 %" za podílové listy
+- id: zitko-2026-10-05-05
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Fauci, Gates, Smejkal, Prymula, Hořejší, Flegr, Kubek, Chlíbek
+  text: jmenovaní terči jako „aktéři podvodu" + výzva k vojenskému tribunálu; téhož dne mluví o „pachatelích
+    vakcinačního holokaustu, genocidy národa a sterilizace obyvatelstva"
+  citace:
+  - text: …až by skončili všichni aktéři podvodu COVID-19 před vojenským tribunálem a čelili by spravedlivým
+      trestům.
+  teror:
+    terc: Fauci, Gates, Smejkal, Prymula, Hořejší, Flegr, Kubek, Chlíbek
+    hranicni: false

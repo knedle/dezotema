@@ -46,6 +46,12 @@ vyroky:
     Young dle Zítka uzavírá, že statistická pravděpodobnost náhodnosti takových čísel je „1 ku 100 miliardám" — tedy je „statisticky nemožné, aby tato vakcína lidi nezabíjela", zejména u šarží začínajících písmenem „E". Zítko připojuje vlastní rámec: úmrtí nenastávala ihned po vpichu (to by vyvolalo ostražitost), ale v tempu 3–5 let. Doplňuje i další čísla z řečí jiných aktérů: Helmut Sterz v Bundestagu — 60 000 mrtvých jen po Pfizeru v Německu; britský poslanec — 150 milionů celosvětově; Tucker Carlson — 17 milionů.
 
     ⚡ **Konflikt:** Novozélandská zdravotní data o úmrtnosti šarží Barryho Younga (zaměstnance Te Whatu Ora) byla nezávisle vyhodnocena jako statisticky chybná interpretace — čísla nezohledňují, že nejstarší šarže byly podány nejstarší a nejnemocnější populaci. Regulační orgány tvrzení o stonásobně vyšší smrtnosti šarží nepotvrdily.
+  osoby:
+  - osoba: barry-young
+    vztah: pozitivni
+    kontext: 'Nová konkrétní čísla smrtnosti šarží Pfizer z NZ databáze: šarže 1 = 152/711 (21,4 %), šarže
+      2 = 38/221 (17,2 %), šarže 3 = 48/310 (15,5 %); běžná úmrtnost jen 0,75 %, pravděpodobnost náhody
+      „1 ku 100 miliardám"'
   podtema: Šarže vakcín
 - id: zitko-2026-06-01-03
   typ: tvrzeni

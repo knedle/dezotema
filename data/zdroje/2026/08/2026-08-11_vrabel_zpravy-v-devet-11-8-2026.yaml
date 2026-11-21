@@ -16,6 +16,48 @@ zdroj:
     dodávky USA zbraní Ukrajině, migrace-dvojí metr/Safe Europe Act, RT novinářka Fedorova, trest smrti
     Libanon, Asad/al-Šaraa) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md).
     Predikce (Hormuz do 13.–14. 8.) extrahována bezvýjimečně; bez stoch. teroru.'
+  osoby:
+  - osoba: andras-baka
+    vztah: rozporuplny
+    kontext: Zvolen maďarským prezidentem jako jediný kandidát strany Tisza — Vrabel kritizuje způsob
+      zvolení jako „totalitní" nezávisle na osobních kvalitách kandidáta
+  - osoba: marek-novak
+    vztah: pozitivni
+    kontext: Poslanec vládního hnutí, terč falešného úmrtního parte na sociálních sítích — chválen jako
+      jediný politik, který splnil slib a prosazoval prohlášení Landsmannschaftu za extremistickou organizaci
+  prehled:
+  - tema: Poslanec Novák
+    text: falešné úmrtní parte na Facebooku, bagatelizace útoku, obhajoba Nováka jako spojence v kauze
+      Landsmannschaftu — nezpracováno
+  - tema: Zdravotnictví
+    text: chybí lék tamoxifen na rakovinu prsu, centralizace onkologických pracovišť, kritika ministra
+      zdravotnictví za spolupráci s WHO místo řešení léků — nezpracováno
+  - tema: Nákup vojenských dronů
+    text: 17,6 mil. Kč zpronevěřeno bez trestného činu, srovnání s vlastním trestním stíháním — nezpracováno
+  - tema: Strnad/CSG
+    text: zbrojařský obchod s polským Dezametem (100 mil. eur), kritika „hrdinství" zbrojařů — nezpracováno
+  - tema: Turecko dodává USA zbraně Ukrajině (kazetová munice) placené z PURL/peněz ČR
+    text: nezpracováno
+  - tema: Nová EU pravidla pro obaly
+    text: sarkastická kritika regulace bez hlasování parlamentu — nezpracováno
+  - tema: EU platí influencery a tlačí na Meta/TikTok kvůli „dezinformacím" o Ceutě
+    text: → [DSA a cenzura internetu](../dsa-cenzura.md)
+  - tema: Komise „neumí spočítat" úroky z půjčky 90 mld. eur Ukrajině
+    text: → [Suverenita a EU](../suverenita-eu.md)
+  - tema: Hormuzský průliv — 40. opakování cyklu manipulace ceny ropy
+    text: → [Blízký východ](../blizky-vychod.md)
+  - tema: Maďarsko — Baka zvolen prezidentem, pokračování politických čistek
+    text: → [Suverenita a EU](../suverenita-eu.md)
+  - tema: Migrace
+    text: dvojí metr vůči navracení uprchlíků, odmítnutí iniciativy Safe Europe Act — nezpracováno (opakování
+      zavedené teze)
+  - tema: RT novinářka Ksenia Fedorova vyhoštěna z Francie, paralela
+    text: RT novinářka Ksenia Fedorova vyhoštěna z Francie, paralela s vlastní manželčinou kauzou — nezpracováno
+  - tema: Libanon zrušil trest smrti
+    text: vlastní postoj k trestu smrti — nezpracováno
+  - tema: Bašár Asad odsouzen k smrti v nepřítomnosti + nový syrský
+    text: Bašár Asad odsouzen k smrti v nepřítomnosti + nový syrský prezident al-Šaraa jako bývalý velitel
+      al-Nusry — nezpracováno
 vyroky:
 - id: vrabel-2026-08-11-01
   typ: tvrzeni
@@ -77,3 +119,23 @@ vyroky:
     i Orbána) jako předváděné navenek coby „revoluce" osvobozující zemi od údajně totalitního a zkorumpovaného
     režimu Orbána — odměnou je uvolnění zadržovaných peněz z programu Erasmus a dalších dotací pro Maďarsko.'
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-08-11-05
+  typ: predikce
+  temata:
+  - blizky-vychod
+  nadpis: Trump do čtvrtka/pátku oznámí otevření Hormuzu, cena ropy pak klesne
+  text: Vrabel předpovídá, že rostoucí cena ropy Brent (+5 % za týden) bude dál stoupat do čtvrtka, nejpozději
+    pátku, kdy Donald Trump oznámí otevření Hormuzského průlivu — čímž umožní „svým kamarádům" vydělat
+    na předem uzavřených sázkách na pokles ceny. Jde o 40. opakování téhož cyklu, který podle Vrabela
+    pozoruje od května 2026.
+  predikce:
+    horizont: do 13.–14. 8. 2026
+    stav: vyvraceno
+    horizont_do: 2026-08-14
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: Trump otevření Hormuzu neoznámil, průliv prohlásil za území pod kontrolou USA a zůstal z velké
+        části uzavřen
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: 'Vrabel 13. a 15. 8.: spor o kontrolu průlivu, průliv „z velké části uzavřen“.'

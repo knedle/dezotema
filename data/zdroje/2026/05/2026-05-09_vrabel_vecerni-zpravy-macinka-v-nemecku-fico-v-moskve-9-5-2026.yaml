@@ -18,6 +18,28 @@ zdroj:
     parlamentu, ultimátum prezidentovi do 31. 5.; Mélenchon: Francie opustí NATO (prezidentské volby 2027);
     Venezuela vydala 13,5 kg obohaceného uranu USA (Írán ne); česká policie chránila Ukraince útočícího
     na Čecha kvůli fašistickému symbolu.'
+  prehled:
+  - tema: 'Večerní zprávy. Témata: Macinka v Berlíně 8. 5.'
+    text: setkal se s Wageführem (čestný člen Sudetoněmeckého landsmannschaftu), omluvil se za „deficit
+      v návštěvách Německa", zveřejnil video s Rammstein „Du hast mich" = „historicky nejhorší diplomatický
+      akt od Havlovy humanitární bombardování"
+  - tema: Fico v Moskvě
+    text: Putin nabídl jadernou elektrárnu Slovensku + energetickou spolupráci
+  - tema: Putinův projev ke Dni vítězství
+    text: „Vyhráli jsme WWII, vyhrajeme i tuto válku"
+  - tema: EU Den
+    text: Robert Schuman dle Vladimíry Výtové byl spolupracovník nacistů (strůjce Mnichovského diktátu,
+      žil pod ochranou gestapa, zahájena beatifikace)
+  - tema: Zelenský slaví EU den jako hlava státu spojeného ve WWII s
+    text: Zelenský slaví EU den jako hlava státu spojeného ve WWII s nacisty
+  - tema: Peter Magyar (nový maďarský PM)
+    text: vlajka EU na parlamentu, ultimátum prezidentovi do 31. 5.
+  - tema: Mélenchon
+    text: Francie opustí NATO (prezidentské volby 2027)
+  - tema: Venezuela vydala 13,5 kg obohaceného uranu USA (Írán ne)
+    text: Venezuela vydala 13,5 kg obohaceného uranu USA (Írán ne)
+  - tema: česká policie chránila Ukraince útočícího na Čecha kvůli
+    text: česká policie chránila Ukraince útočícího na Čecha kvůli fašistickému symbolu.
 vyroky:
 - id: vrabel-2026-05-09-01
   typ: tvrzeni
@@ -28,6 +50,11 @@ vyroky:
     Ministr zahraničí Macinka navštívil Berlín 8. května 2026 — na Den vítězství. Setkal se s Wageführem, čestným členem Sudetoněmeckého Landsmannschaftu, a na tiskovce se omluvil za „deficit v návštěvách Německa." Poté zveřejnil video z návštěvy podložené skladbou Rammstein „Du hast mich."
 
     Vrabel to hodnotí jako „historicky nejhorší diplomatický akt od Havlovy humanitární bombardování" a sarkasmem komentuje: český ministr zahraničí slaví Den vítězství v Berlíně s čestným členem organizace přímého nástupce Henleinovy strany a jako hudební podkres vybere německou kapelu zpívající o „ty jsi mě zneužil/chtěl."
+  osoby:
+  - osoba: jan-wagefuhr
+    vztah: neutralni
+    kontext: Čestný člen Sudetoněmeckého Landsmannschaftu; Macinka ho navštívil v Berlíně 8. 5. (Den vítězství)
+      a omluvil se mu za „deficit v návštěvách Německa"
   podtema: Parlament, politické a stranické reakce
 - id: vrabel-2026-05-09-02
   typ: tvrzeni
@@ -51,6 +78,11 @@ vyroky:
     Vrabel informuje, že slovenský premiér Robert Fico 9. 5. přijal pozvání na Den vítězství do Moskvy — jako jeden z mála evropských lídrů. Putin mu jako první ťukl skleničkou a veřejně nabídl Slovensku výstavbu jaderné elektrárny a hlubokou energetickou spolupráci. Vrabel to hodnotí jako strategický signál: Rusko preferuje přímou dohodu se zeměmi, které odmítají satelitní poslušnost EU.
 
     Ve vysílání 10. 5. Vrabel dodává, že Putin zároveň navrhl Gerharda Schrödera (bývalého německého kancléře) jako potenciálního zprostředkovatele EU–Rusko na mírových jednáních — s podmínkou: zástupce musí být někdo, kdo na Rusko nezaútočil. Vrabel to hodnotí jako logický krok: Schröder je jedním z mála vlivných evropských politiků, kteří si zachovali funkční vztahy s Moskvou.
+  osoby:
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: Na Dnu vítězství přijel do Moskvy — Putin mu jako první ťukl, nabídl jadernou elektrárnu
+      Slovensku a energetickou spolupráci; Vrabel ho hodnotí pozitivně jako samostatného lídra
   dalsi_zdroje:
   - 2026-05-10_vrabel_nedelni-vysilani-hantavirus-macinka-resume-rubio-10-5-2026
   podtema: Zahraniční aktéři a precedenty
@@ -64,6 +96,11 @@ vyroky:
     do 31. května k rezignaci. Vrabel ho označuje jako „tvrdého fašounka" — v jeho podání jde o politika
     loajálního bruselské linii, který po Orbánově éře přinese Maďarsku rychlou reintegraci do mainstreamu
     EU.
+  osoby:
+  - osoba: peter-magyar
+    vztah: negativni
+    kontext: 'Nový maďarský premiér, vyvěsil vlajku EU na parlament, ultimátum prezidentovi do 31. 5.
+      — Vrabel: „tvrdý fašounek" loajální bruselské linii'
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-05-09-07
   typ: tvrzeni
@@ -74,4 +111,21 @@ vyroky:
     francouzské prezidentské volby v roce 2027, Francie pod jeho vedením opustí NATO. Vrabel to zmiňuje
     jako jednu ze sil, které mohou v blízkých letech přeformovat atlantické spojenectví — vedle Trumpových
     výroků o NATO jako „papírovém drakovi."'
+  osoby:
+  - osoba: jean-luc-melenchon
+    vztah: pozitivni
+    kontext: Prohlásil, že pokud vyhraje francouzské prezidentské volby 2027, Francie opustí NATO — Vrabel
+      to cituje jako pozitivní signál změny atlantického řádu
   podtema: Zahraniční aktéři a precedenty
+- id: jean-luc-melenchon-2026-05-09-01
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Francie opustí NATO po jeho vítězství v prezidentských volbách 2027
+  text: Mélenchon veřejně deklaroval, že pokud vyhraje francouzské prezidentské volby v roce 2027, Francie
+    pod jeho vedením opustí NATO. Vrabel tento výrok cituje jako jeden ze signálů potenciálního rozpadu
+    atlantického spojenectví.
+  mluvci: jean-luc-melenchon
+  predikce:
+    horizont: po francouzských prezidentských volbách 2027
+    stav: ceka

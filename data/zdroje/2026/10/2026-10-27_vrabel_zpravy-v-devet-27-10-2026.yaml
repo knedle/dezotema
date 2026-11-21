@@ -8,6 +8,73 @@ zdroj:
   prepis: prepisy/done/2026-10-27_Ladislav-Vrabel_27-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: 1 h 37 min, zprávy čte Zuzana; krátký srbský klip (28:14–29:06) nezpracován.
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: Vždy klidný, má „vnitřní sílu“
+  - osoba: j-d-vance
+    vztah: negativni
+    kontext: „Herec“ vyrobený a zaplacený
+  prehled:
+  - tema: Babiš přijal Fica, asi 20 demonstrantů
+    text: demonstranti jsou „zmatení“; obnova Československa by musela vzejít od Slováků.
+  - tema: Pavel vyzval diplomaty k tlaku na Rusko
+    text: „orwellovský“ mír válkou; k míru vedou jen dohody o odzbrojení (opakuje).
+  - tema: Stubb a Støre volali Putinovi
+    text: volali oni jemu; Putin bude s Evropou jednat „za ruských podmínek“, zástupce EU v Abú Zabí jen
+      „pozoruje“, což je „ostuda“.
+  - tema: Izraelské volby, účast 74 %
+    text: čeká, že voliči „Satanjahua“ „vypískají“ (opakuje) → viz [Predikce](../predikce.md)
+  - tema: Vláda chce zakotvit korunu do ústavy
+    text: „padělek“; podle čl. 10 Ústavy má přednost smlouva s EU, korunu uhájí jen vystoupení z EU
+    vyrok: vrabel-2026-10-27-05
+  - tema: Okamura pro zrušení ČT a ČRo, ministři SPD proti zápočtu let Ukrajincům
+    text: „hezká prohlášení“, SPD 13 let falešnou opozicí (opakuje).
+  - tema: Fialova vs. Babišova vláda
+    text: Fialova „nás terorizovala, ale upřímně“, současná lže (opakuje).
+  - tema: Studentská vláda v Srbsku nezavede sankce proti Rusku
+    text: „možná bude dobrá“, studenti provedli „nenásilnou revoluci, to, co my jsme chtěli“; Vučić uznal
+      porážku, „takhle to má být“
+    vyrok: vrabel-2026-10-27-04
+  - tema: Protesty v Evropě
+    text: jádrem jsou studenti proti válce, přidala se Antifa, propalestinské skupiny a muslimové (opakuje).
+  - tema: Německé KSK trénuje dlouhé operace v mrazu
+    text: „Stalingrad“; po třech týdnech „uvolnění“ přijde vystřízlivění, Rusové chtějí být do března
+      v Kyjevě, konflikt s Evropou bude dlouhý a vleklý (opakuje).
+  - tema: 'Putin: Nord Stream byl teroristický útok'
+    text: říká to „od roku 2022 z Václaváku“, Rajchl si to „trapně“ přivlastňuje (opakuje).
+  - tema: Lula porazil Bolsonara, Bolsonaro hledaný policií
+    text: politika je „mafiánský systém“, který likviduje opozici (Magyar, Trump, Čapí hnízdo, jeho manželka)
+    vyrok: vrabel-2026-10-27-02
+  - tema: Ukrajinští lékaři odmítají rusky mluvící pacienty
+    text: ČR je „taky nacistická“; Zeman by měl za výrok o „genech“ do vězení či uklízet ulice v oranžovém
+      mundúru, křiklouni na Fica do vězení → viz [Stochastický teror](../stochasticky-teror.md)
+  - tema: Útok na Vrabela na demonstraci (2023)
+    text: „teroristický akt“, policie útočníkovi pomohla utéct, „za to by měly padat hlavy“ (opakuje).
+  - tema: Německo kupuje ukrajinské střely Bars
+    text: „absolutní rabování“, platíme to my (opakuje).
+  - tema: Rekordní zájem firem o Filipínce, kvóty pro Indii
+    text: s uprchlíky z islámských zemí od ledna ČR „za pět let nikdo nepozná“ → viz [Predikce](../predikce.md)
+  - tema: Nizozemsko ruší 16 % míst ve státní správě kvůli AI
+    text: nezaměstnanost se „dělá schválně“, aby lidé šli do armády; nutný nepodmíněný příjem a vyšší
+      daně firmám s AI
+    vyrok: vrabel-2026-10-27-01
+  - tema: Volný trh, „jsem absolutní levičák“
+    text: k trhu „velmi pravicový“, jinak „absolutní komunista“; levice a pravice neexistují, USA jsou
+      „klasičtí opresoři“
+    vyrok: vrabel-2026-10-27-03
+  - tema: Lidé od Muska pronikli do systémů Anthropicu (řízený test)
+    text: nic není neprolomitelné, kvantové počítače prolomí zabezpečení „v řádu sekund“.
+  - tema: Ropná skvrna u SAE
+    text: ironie na Green Deal (papírová brčka vs. ropná skvrna).
+  - tema: Vance o „malých diktátorech“
+    text: Vance je „herec“; Putin, Trump i Babiš mají „vnitřní sílu“, Zelenskyj a Okamura ne.
+  - tema: 'Trump: válku s Íránem nezačaly USA'
+    text: „čisté lži“, Írán je oběť (opakuje).
+  - tema: Nová SZP po roce 2027
+    text: EU věci vždy zkomplikuje.
+  - tema: Rumunsko, Georgescu, Brazílie
+    text: EU neuznává jen ruské volby (opakuje).
 vyroky:
 - id: vrabel-2026-10-27-01
   typ: tvrzeni
@@ -39,6 +106,10 @@ vyroky:
   citace:
   - text: My jsme se dostali do systému politického, který je mafiánský. Tady, když někdo má jiný politický
       názor, tak ho ta druhá strana, pakliže má moc, likviduje.
+  osoby:
+  - osoba: flavio-bolsonaro
+    vztah: pozitivni
+    kontext: „Ve skutečnosti měl být prezident“, oběť podvodu
   podtema: Politická kultura
 - id: vrabel-2026-10-27-03
   typ: tvrzeni
@@ -56,6 +127,10 @@ vyroky:
   citace:
   - text: Dneska jediné, co existuje, jsou elity globalistické, které okrádají lidi, anebo boj o práva
       nás, obyčejných lidí, a o naší zem.
+  osoby:
+  - osoba: josef-kupcik
+    vztah: rozporuplny
+    kontext: „Super kluk“ a „kovaný komunista“, neměl pouštět čs. hymnu; souhlasí s ním, že USA jsou opresoři
   podtema: Politická kultura
 - id: vrabel-2026-10-27-04
   typ: tvrzeni
@@ -71,6 +146,10 @@ vyroky:
     porážky dává za vzor: „takhle to má být“.'
   citace:
   - text: Oni skutečně udělali nenásilnou revoluci, to, co my jsme chtěli.
+  osoby:
+  - osoba: studentske-hnuti
+    vztah: pozitivni
+    kontext: „Možná bude dobré“, nenásilná revoluce podle jeho plánu (posun od skepse)
   podtema: Česká suverenita
 - id: vrabel-2026-10-27-05
   typ: tvrzeni
@@ -88,3 +167,65 @@ vyroky:
   citace:
   - text: Jediná možnost, jak si zachovat placení korunou, je vystoupit z Evropské unie.
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-10-27-06
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: ČR „za pět let nikdo nepozná“
+  text: S tempem příchodu cizinců a s uprchlíky z islámských zemí od ledna 2027 se ČR během pěti let k
+    nepoznání promění.
+  citace:
+  - text: A do toho začnou k nám vozit od ledna uprchlíky z islámských zemí, no tak to teprve uvidíte,
+      jak se začne proměňovat Česká republika. Za pět let ji nikdo nepozná.
+  predikce:
+    horizont: '2031'
+    stav: ceka
+- id: vrabel-2026-10-27-07
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: Netanjahu izraelské volby prohraje
+  text: Izraelští voliči „Satanjahua“ „vypískají ven“ (s výhradou „můžu se plést“).
+  citace:
+  - text: Typu, že to lidi tomu Benjaminovi, Satanjahuovi, spočítají a že ho vypískají ven, ale můžu se
+      plést.
+  predikce:
+    horizont: výsledek voleb 27.–28. 10. 2026
+    stav: castecne
+    horizont_do: 2026-10-28
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: Netanjahuův blok ve volbách 27. 10. ztratil většinu (53 mandátů proti 48 opozice), zůstal
+        ale největším blokem a výsledkem je patová situace, ne jasná porážka
+      stav: castecne
+    - datum: 2026-11-20
+      text: Podle Al Jazeery (1. 11. 2026) nemá žádný blok většinu a jednání o vládě pokračují.
+- id: vrabel-2026-10-27-08
+  typ: stoch-teror
+  temata:
+  - suverenita-eu
+  nadpis: Miloš Zeman
+  text: 'Terč: Miloš Zeman.'
+  citace:
+  - text: Miloš Zeman, který řekl, že Rusko je agresor nebo agresivní, že to mají v genech, by měli do
+      vězení. Já nejsem proto, aby lidi chodili do vězení, tak bych mu dal náhradní trest, oblíknul bych
+      ho do oranžového munduru a nechal bych ho tam o opilce, ať prostě uklízí ulice.
+  osoby:
+  - osoba: milos-zeman
+    vztah: negativni
+    kontext: Za výrok o „agresivitě v genech“ by měl do vězení či uklízet ulice v oranžovém mundúru
+  teror:
+    terc: Miloš Zeman
+    hranicni: false
+- id: vrabel-2026-10-27-09
+  typ: stoch-teror
+  temata:
+  - suverenita-eu
+  nadpis: demonstranti proti Ficovi v Praze
+  text: 'Terč: demonstranti proti Ficovi v Praze.'
+  citace:
+  - text: …ruských švábů, jak si to mají, jak si to vůbec můžou dovolit? Za to by měli jít normálně do
+      vězení.
+  teror:
+    terc: demonstranti proti Ficovi v Praze
+    hranicni: false

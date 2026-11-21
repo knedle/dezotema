@@ -9,6 +9,65 @@ zdroj:
   rezim: vrabel
   poznamka: 20 min, živě během studentské demonstrace za ČT; z velké části opakuje večerní zprávy téhož
     dne.
+  osoby:
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: Jeho vláda „nebojuje za mír“ a je „servilní“, ale globalisté ji podle něj chtějí svrhnout,
+      protože se ČR neúčastní cvičení koalice ochotných
+  prehled:
+  - tema: 'Studentská demonstrace za ČT a ČRo (FAMU: „občanská neposlušnost“, odvolání Klempíře)'
+    text: „operace řízená ze CIA“ přes rektory a nové Studentstvo podle srbského scénáře; studenti svrhnou
+      vládu; řečníka by trestně stíhal → viz [Predikce](../predikce.md), [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-11-10-02
+  - tema: Babiš a Fico odmítli Merzovo „vydírání“
+    text: prohlášení nemají reálný dopad, „když vás manžel mlátí, rozveďte se“, tedy vystoupit z EU (opakuje).
+  - tema: Zelenskyj se z Donbasu nestáhne, chce nejdřív příměří
+    text: Rusové mu nevěří po Istanbulu 2022 a nepodepsaném Anchorage, příměří by sloužilo jen k nazbrojení
+      (opakuje).
+  - tema: Stížnost na Zelenského za použití ruštiny
+    text: spolu s pokutou Budanovovi „absolutně čistý nacismus“ (opakuje).
+  - tema: První den jednání v Abú Zabí (dohoda o výměně zajatců)
+    text: vyjednavači bez mandátu nemohou udělat průlom, jde o Trumpovu předvolební kampaň (opakuje).
+  - tema: 'Von der Leyenová: jednání o architektuře až po příměří'
+    text: příměří chtějí, aby mohli Ukrajinu nazbrojit „i jadernými zbraněmi“; Trumpova denuklearizace
+      s Čínou a Ruskem je to, co sám říká půl roku; Musk prý uznal, že Západ měl v roce 2021 podpořit
+      Rusko.
+  - tema: 454 mld. eur na obranu za rok
+    text: vysvětlení drahoty, Evropa „na pokraji bankrotu“, úspory lidí půjdou do zbraní → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-10-06
+  - tema: 'Massie: impeachment ministra války'
+    text: jen vtipkuje (na obrázku prý „Moravec“, „Messi je fotbalista“).
+  - tema: Nový předseda brněnské ODS Matyáš Svoboda (syn exprimátora), místopředseda Fialův zeť
+    text: „feudalismus“, funkce se dědí.
+  - tema: Nový Kneset
+    text: Netanjahu poslán do opozice, jak čekal; oblast klidná nebude (opakuje).
+  - tema: 'Trump: Izrael zaplatí válku s Íránem'
+    text: nesmysl, Kongres je „zlobbovaný“ Izraelem; Trump „ždímá“ všechny díky „hloupým“ politikům (von
+      der Leyenová, Macinka).
+  - tema: Země Perského zálivu zřídí společné velitelství v Kuvajtu
+    text: USA by z regionu měly zmizet, islámské země se mezi sebou domluví, pokud je Západ nebude štvát.
+  - tema: Merz trvá na ETS2 od 2028
+    text: muž BlackRocku, ETS jako přesun peněz lidí ke globalistickým korporacím (opakuje).
+  - tema: Novela energetického zákona (odvod 90 % nad stropem)
+    text: „drbání se pravou rukou za levým uchem“; vystoupit z EU, rodinám elektřinu zdarma
+    vyrok: vrabel-2026-11-10-01
+  - tema: Tanker s ruskou naftou se otočil před New Yorkem
+    text: americké firmy se navzdory Trumpovu zrušení sankcí bojí ruskou ropu koupit.
+  - tema: Lidé jako „pasiva“ v éře AI
+    text: elity chtějí méně lidí, vysvětlení deindustrializace, válek a hmyzu v jídle
+    vyrok: vrabel-2026-11-10-04
+  - tema: 4000 migrantů na El Hierru
+    text: „vítačky“ se sny o černoších, původní obyvatelé do armády; Evropa skončí jako indiáni v rezervacích
+    vyrok: vrabel-2026-11-10-05
+  - tema: „Začíná nová revoluce pod vedením CIA“
+    text: výzva FAMU k „bordelu“ je „svým způsobem terorismus“, demonstrace za „půl milionu“, Babiš má
+      padnout kvůli neúčasti na cvičení koalice ochotných; příští vláda „promigrační a prounijní“
+    vyrok: vrabel-2026-11-10-02
+  - tema: Russell Brand
+    text: „překročili jsme Rubikon“, bez pádu vlád „už nebude návratu“; změnu přinese až válka nebo „občanská
+      válka v Evropě“ (opakuje).
+  - tema: Pochod za svobodu slova
+    text: po soudu Tomáše Hrdličky 23. 11., případně po soudu Kateřiny Blahníkové.
 vyroky:
 - id: vrabel-2026-11-10-03
   typ: tvrzeni
@@ -29,4 +88,8 @@ vyroky:
   citace:
   - text: Mám takový pocit, že nám právě začíná nová revoluce v České republice […] a myslím si, že pod
       vedením CIA.
+  osoby:
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: Vláda, která by „víc podporovala zasílání našich vojáků do bojových akcí“
   podtema: Náboženský a okultní výklad moci

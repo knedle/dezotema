@@ -17,6 +17,30 @@ zdroj:
     Francií = státní piráctví; Maďarsko — Magyar hrozí změnou ústavy k odvolání prezidenta Sulyoka; Starobělsk
     útok na kolej (21 studentek, video, Budanovovy výhrůžky) — ČR spoluzodpovědná (Babiš schválil 90 mld
     EUR, 60 % na zbraně).'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: 'Na konferenci Revize Česka prosazoval přijetí eura („lepší být u stolu, kde se rozhoduje")
+      — Vrabel: euro poškozuje suverenitu ČR'
+  prehled:
+  - tema: „Zprávy v devět s komentářem" (se Zuzkou). Klíčová témata
+    text: euro jako ztráta suverenity (ČNB ztratí kontrolu úroků, odliv kapitálu) + Bulharsko měsíc po
+      vstupu čelí sankcím EU za deficit
+  - tema: NATO 5 % HDP
+    text: „opozice" (Piráti/STAN) posouvá laťku, aby koalice vypadala umírněně, ČR na prvním místě jediná
+      pro vystoupení z NATO
+  - tema: Euroclear odvolání
+    text: Rusko vyhrálo arbitráž o zmrazená aktiva (von der Leyen/Kallas/Babiš ať platí z platu)
+  - tema: Norsko vstupuje do EU kvůli válce (EU jako vojenská
+    text: Norsko vstupuje do EU kvůli válce (EU jako vojenská struktura, „velký evropský bratr")
+  - tema: Trump manipuluje cenou ropy přes výroky o Hormuzu/Íránu
+    text: Trump manipuluje cenou ropy přes výroky o Hormuzu/Íránu
+  - tema: tanker Tagor zadržen Francií = státní piráctví
+    text: tanker Tagor zadržen Francií = státní piráctví
+  - tema: Maďarsko
+    text: Magyar hrozí změnou ústavy k odvolání prezidenta Sulyoka
+  - tema: Starobělsk útok na kolej (21 studentek, video, Budanovovy výhrůžky)
+    text: ČR spoluzodpovědná (Babiš schválil 90 mld EUR, 60 % na zbraně).
 vyroky:
 - id: vrabel-2026-06-01-01
   typ: tvrzeni
@@ -30,6 +54,11 @@ vyroky:
   citace:
   - text: 'Opozice by měla říkat: my nechceme být v NATO, my tam nechceme platit. A u nás je to tak, že
       koalice říká chceme platit 2 % a opozice říká my taky chceme být v NATO, ale chceme platit 5 %.'
+  osoby:
+  - osoba: ivan-bartos
+    vztah: negativni
+    kontext: 'V Litvě na shromáždění NATO spoluschválil směřování k 5 % HDP na obranu; Vrabel: „opozice"
+      posouvá laťku, aby koaliční 2 % vypadala umírněně'
   podtema: Ekonomický program PRO
 - id: vrabel-2026-06-01-02
   typ: tvrzeni
@@ -44,6 +73,15 @@ vyroky:
     2. **Ztráta měnové politiky**: Česká národní banka dnes suverénně rozhoduje o úrokových sazbách, čímž řídí množství peněz v systému i inflaci. Po vstupu do eurozóny tuto pravomoc převezme Evropská centrální banka.
 
     Jako konkrétní varování uvádí **Bulharsko**: měsíc po vstupu do eurozóny (1. ledna) už čelí postupu EU při nadměrném schodku — EU mu nařizuje srazit deficit z 3,5 % pod 3 %, zavést závazný strop rozpočtu a hrozí pokutou až 0,05 % HDP každých 6 měsíců. Vrabel: „stráta suverenity minimálně v tomhle je naprosto evidentní." Premiér Radev navíc hodí vinu na předchozí proevropskou vládu, která prý maskovala čísla — stejnou rétoriku („může za to bývalá vláda") Vrabel slyší i v ČR a v Rumunsku. Přijetí eura v ČR považuje za nevyhnutelné, protože voliči v roce 2025 zvolili vládu, která zemi v EU zadržela.
+  osoby:
+  - osoba: enrico-letta
+    vztah: negativni
+    kontext: 'Citován: odmítání eura je „hysterie", národní suverenita bez EU je iluze — Vrabel oponuje
+      (euro = reálná ztráta suverenity)'
+  - osoba: rumen-radev
+    vztah: neutralni
+    kontext: Bulharský premiér — měsíc po vstupu do eurozóny čelí postupu EU při nadměrném schodku; vinu
+      hází na předchozí proevropskou vládu (stejná rétorika jako v ČR)
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-06-01-03
   typ: tvrzeni
@@ -56,6 +94,11 @@ vyroky:
     slíbil odvolat osobnosti dosazené Orbánem za 16 let. Vrabel označuje krok za tvrdé „čistky" mířící
     až na hlavu státu a přirovnává Magyara k jednomu (nejmenovanému) českému politikovi, kterého považuje
     za „stejně zkaženého".
+  osoby:
+  - osoba: peter-magyar
+    vztah: negativni
+    kontext: Hrozí změnou ústavy k odvolání prezidenta Sulyoka — Vrabel označuje za „čistky" a přirovnává
+      k jednomu (nejmenovanému) českému politikovi
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-06-01-04
   typ: tvrzeni
@@ -67,6 +110,11 @@ vyroky:
     Kreml (Peskov) ji označil za „zahraniční pirátství". Vrabel se přidává na ruskou stranu: jde o porušení
     mezinárodního práva a pirátství. Varuje, že opakované porušování mezinárodního práva povede k tomu,
     že začne platit „právo silnějšího" — a Rusko pak ukáže, kdo je silnější.'
+  osoby:
+  - osoba: emmanuel-macron
+    vztah: negativni
+    kontext: 'Obhájil zadržení tankeru Tagor jako bezpečnostní/ekologické riziko — Vrabel: státní piráctví
+      porušující mezinárodní právo'
   podtema: Průběh války, útoky a „terorismus"
 - id: vrabel-2026-06-01-05
   typ: tvrzeni
@@ -78,6 +126,15 @@ vyroky:
     Vrabel se vrací k útoku na studentskou kolej ve Starobělsku (21 zabitých studentek, 44 zraněných) z předchozích dnů a pouští divákům video z místa — záběry posledních zpráv obětí rodičům a vyprošťování těl ze sutin. Zdůrazňuje záměrnost: Ukrajinci zaútočili ráno, když studentky spaly, ve třech vlnách dronů střídaných těžkou municí, aby uprchlíkům zabránili v útěku z budovy. Putin slíbil, že pachatelé ponesou „zasloužený a nevyhnutelný trest". Vrabel pouští i výrok šéfa ukrajinské rozvědky Kyryla Budanova, že „brzy budou velmi vážné problémy na ruském území" a útoky budou pokračovat.
 
     Vrabel z toho vyvozuje přímou spoluzodpovědnost ČR: premiér Babiš v prosinci schválil 90 miliard EUR pro Ukrajinu (30 % na chod státu, 60 % na výrobu zbraní); „my mu platíme jeho plat", financujeme drony, které dopadly na kolej. „Máme parlamentní demokracii a zvolili jsme si Andreje Babiše" — proto jsou občané ČR spoluzodpovědní i za to, co přijde.
+  osoby:
+  - osoba: kyrylo-budanov
+    vztah: negativni
+    kontext: 'Šéf ukrajinské rozvědky — výhrůžka „brzy budou velmi vážné problémy na ruském území", útoky
+      budou pokračovat; Vrabel: ČR mu financuje plat'
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: 'V prosinci schválil 90 mld EUR pro Ukrajinu (30 % stát, 60 % zbraně) — Vrabel: ČR přímo
+      spoluzodpovědná za útok na kolej ve Starobělsku'
   podtema: Průběh války, útoky a „terorismus"
 - id: vrabel-2026-06-01-06
   typ: tvrzeni

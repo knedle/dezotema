@@ -68,6 +68,11 @@ vyroky:
     ale ne podíl na společných službách (úklid, výtah, ostraha), a poukazuje na to, že 20 % Ukrajinců
     v ČR jsou děti/senioři a jen 60 % pracuje — ekonomicky srovnatelné s 20% nezaměstnaností, což nemůže
     být pro stát čistým přínosem.'
+  osoby:
+  - osoba: jan-grolich
+    vztah: negativni
+    kontext: V debatě o nákladech na ukrajinskou migraci označen za „naprostého ekonomického analfabeta
+      a notorického lháře"
 - id: rajchl-2026-08-02-04
   typ: tvrzeni
   temata:

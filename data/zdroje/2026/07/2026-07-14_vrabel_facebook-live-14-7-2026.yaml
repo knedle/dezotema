@@ -28,6 +28,27 @@ zdroj:
     (18) Ukrajina — pád vlády Svyrydenkové, Zelenskyj „diktátor" — [valka-nato-rusko.md](valka-nato-rusko.md).
     (19) Wagenknechtová — Německo stranou konfliktu — [valka-nato-rusko.md](valka-nato-rusko.md). Bez
     stoch. teroru.'
+  prehled:
+  - tema: 'Zpracováno 19 témat ("Zprávy v devět s komentářem"): (1) Koalice ochotných'
+    text: protiraketová obrana, Babiš chce ČR do projektu balistických střel — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (2) Evropský prokurátor vyšetřuje dotace Agrofertu — [kauzy.md](../kauzy.md). (3) Bulharsko odmítá
+      koalici ochotných (Radev) — [valka-nato-rusko.md](../valka-nato-rusko.md). (4) Donbas ~95 % obsazen,
+      kritika mediálního rámování — [valka-nato-rusko.md](../valka-nato-rusko.md). (5) Polsko — podzimní
+      vojenské cvičení koalice ochotných — [valka-nato-rusko.md](../valka-nato-rusko.md). (6) Doživotí
+      za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů — [politicky-system.md](../politicky-system.md).
+      (7) Maďarsko — odvolání prezidenta Šujoka, právo na odpor, paralela s Pavlem — [suverenita-eu.md](../suverenita-eu.md).
+      (8) Larry Johnson zesměšňuje plán útoku na Kharg Island — [blizky-vychod.md](../blizky-vychod.md).
+      (9) Německé pivovary/VW propouštění + predikce AI/AGI 2027–2028 — [ceny-energie.md](../ceny-energie.md),
+      [predikce.md](../predikce.md). (10) Trump zvrat v Hormuzské dani, blokáda Íránu — [blizky-vychod.md](../blizky-vychod.md).
+      (11) Rubio/ICC — sankce, dvojí metr suverenity — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (12) Filip Turek — nehoda, tlak na rezignaci, Vrabel ho brání — [kauzy.md](../kauzy.md). (13) Reflect
+      Orbital — vesmírná zrcadla, konspirace o počasí — [konspirace.md](../konspirace.md). (14) Sojuz
+      na ISS — rusko-americká spolupráce, slovanská jednota — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (15) Indie odmítá dohodu s USA, BRICS vs. NATO — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (16) Švédská europoslankyně nahlásila dánského kolegu policii — [migrace.md](../migrace.md). (17)
+      Britská policajtka a „barevná karta" — [migrace.md](../migrace.md). (18) Ukrajina — pád vlády Svyrydenkové,
+      Zelenskyj „diktátor" — [valka-nato-rusko.md](../valka-nato-rusko.md). (19) Wagenknechtová — Německo
+      stranou konfliktu — [valka-nato-rusko.md](../valka-nato-rusko.md). Bez stoch. teroru.
 vyroky:
 - id: vrabel-2026-07-14-01
   typ: tvrzeni
@@ -92,6 +113,11 @@ vyroky:
     dříve mu prý nepomohl při jmenování ministrem — a vidí v tom potvrzení Babišovy povahy.
   citace:
   - text: Ale to, co mám rád, je pravda. To, co mám rád, je spravedlnost. A prostě buďme spravedliví.
+  osoby:
+  - osoba: filip-turek
+    vztah: rozporuplny
+    kontext: Vrabel ho nazývá „nejhorším náckem" na scéně, ale přesto ho brání v kauze dopravní nehody
+      jako nespravedlivě tlačeného k rezignaci
   podtema: Filip Turek — dopravní nehoda a tlak na rezignaci
 - id: vrabel-2026-07-14-06
   typ: tvrzeni
@@ -155,6 +181,11 @@ vyroky:
     Pavlův předvolební slib z roku 2025 nejmenovat žádného ministra, který by chtěl vystoupit z EU/NATO
     — což podle něj představuje srovnatelné ústavní překročení pravomocí prezidenta vůči demokraticky
     zvolené vládě.'
+  osoby:
+  - osoba: viktor-orban
+    vztah: rozporuplny
+    kontext: Volá po „právu na odpor" proti odvolání prezidenta Šujoka — Vrabel srovnává s Pavlovým předvolebním
+      slibem
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-07-14-11
   typ: tvrzeni
@@ -172,6 +203,10 @@ vyroky:
     stíháním a signalizovat novým lidem, že za rok mohou být vyměněni také. Vrabel to označuje za „diktátorství
     v moderním pojetí dotažené do absolutní briliantnosti" a předpokládá, že západní média a vlády (včetně
     české) budou i nadále líčit tyto kroky jako boj proti korupci a demokratizaci.'
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: Obměnil vládu i vyšetřovatele uprostřed korupčního vyšetřování — „diktátor par excellence"
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-14-12
   typ: tvrzeni
@@ -192,6 +227,11 @@ vyroky:
     Celkově to Vrabel považuje za další důkaz, že Babiš je poslušná loutka EU/NATO — horší než Pavel s
     Fialou, protože svým voličům úspěšně lže (maloval si na tvář českou vlajku, sliboval „Česko na prvním
     místě", zatímco dělá opak).
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Tlačí ČR do protiraketového projektu balistických střel a zároveň „podrazil" koaličního partnera
+      Filipa Turka — potvrzuje pověst poslušné loutky EU/NATO
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-14-13
   typ: tvrzeni
@@ -240,6 +280,11 @@ vyroky:
     země, unášet a zabíjet hlavy států včetně duchovních vůdců a dětí, zatímco jakýkoli pokus trestního
     tribunálu tato jednání stíhat jako zločiny proti mezinárodnímu právu vede k tomu, že se USA snaží
     soud oslabit.'
+  osoby:
+  - osoba: marco-rubio
+    vztah: negativni
+    kontext: Vede kroky proti Mezinárodnímu trestnímu soudu ve jménu americké suverenity — Vrabel v tom
+      vidí dvojí metr
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-14-17
   typ: tvrzeni
@@ -283,4 +328,37 @@ vyroky:
     a překračující jednu červenou linii za druhou. Vrabel jen krátce komentuje, že Wagenknechtová (mimo
     AfD, s vlastní stranou) věci popisuje „naprosto přesně", a připomíná svou dřívější předpověď, že se
     realita začne veřejně probírat.
+  osoby:
+  - osoba: sahra-wagenknechtova
+    vztah: pozitivni
+    kontext: Přesně popisuje, že se Německo stává přímou stranou ukrajinského konfliktu
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-07-14-20
+  typ: predikce
+  temata:
+  - ceny-energie
+  nadpis: Plná automatizace/AGI do 2027–2028 přinese masovou nezaměstnanost
+  text: S odkazem na závody mezi Anthropic, OpenAI a DeepMind předpovídá dosažení plné automatizace/AGI
+    (umělé obecné inteligence) do roku 2027–2028, což povede k nezaměstnanosti přesahující 50 %. Zdůrazňuje,
+    že tento dopad „nikdo politicky neřeší", a připomíná vlastní přednášku o ChatGPT na olomouckém náměstí
+    v roce 2023 jako důkaz, že na téma upozorňoval včas. V souvislosti s tím zmiňuje aktuální uzavírání
+    německých pivovarů (Eichbaum po ~350 letech, Hofbräuhaus Wolters po ~400 letech) a plánované propouštění
+    až 120 000 zaměstnanců Volkswagenu jako první příznaky širší ekonomické transformace.
+  citace:
+  - text: Do roku 2027, 2028 bude plná automatizace, plné AGI, a nikdo to politicky neřeší.
+  dalsi_zdroje:
+  - 2026-07-15_vrabel_facebook-live-15-7-2026
+  - 2026-07-16_vrabel_facebook-live-16-7-2026
+  predikce:
+    horizont: 2026–2028 (nejbližší odhad „příští rok", opakovaně potvrzovaný odhad 2027, vnější horizont
+      2028)
+    stav: ceka
+    vyhodnoceni:
+    - datum: 2026-07-15
+      text: 'update: Vrabel horizont dále zpřesňuje/zpřísňuje — očekává, že už „příští rok" dojde k plně
+        automatizované generální umělé inteligenci schopné sama sebe vylepšovat a trénovat bez lidského
+        zásahu, s postupem k „válce strojů" mezi technologiemi do let 2028–2029.'
+    - datum: 2026-07-16
+      text: 'update: V souvislosti s Trumpovým zákazem vydání nového modelu OpenAI (odvolávka na národní
+        bezpečnost) znovu potvrzuje horizont roku 2027 jako nejpravděpodobnější pro plnou automatizaci
+        a stoprocentní ztrátu lidských pracovních míst mimo zákonem vyhrazené pozice.'

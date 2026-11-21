@@ -30,6 +30,10 @@ vyroky:
     jde podle něj o 29 bilionů Kč, tedy asi 9 500 tun měnového zlata, což by z Československa „udělalo
     velmoc". Nárok má ale jen ČSR, které reparace přiřkla Pařížská reparační konference 21. 12. 1945,
     ne „korporace Česko a Slovensko" vzniklé 1. 1. 1993.'
+  osoby:
+  - osoba: katerina-konecna
+    vztah: rozporuplny
+    kontext: Správně upozorňuje na reparace, ale „komunistům nejdou počty" (20 vs. 29 bilionů)
 - id: zitko-2026-10-04-03
   typ: tvrzeni
   temata:
@@ -43,6 +47,13 @@ vyroky:
     za „křivopřísežnictví, velezradu a vlastizradu". Soudy jsou podle něj „soukromé firmy" s obchodními
     čísly DUNS. Návratem k ČSR z roku 1918 bychom byli „mimo jurisdikci EU a NATO", které ovládají „potomci
     fašistů a nacistů".'
+  osoby:
+  - osoba: vaclav-havel
+    vztah: negativni
+    kontext: Přísahal třem subjektům — „křivopřísežnictví, velezrada a vlastizrada"
+  - osoba: bob-acer
+    vztah: pozitivni
+    kontext: Texty na profilu Čermáka „skoro stejné, co opakovaně tvrdí Bob Acer"
 - id: zitko-2026-10-04-04
   typ: tvrzeni
   temata:

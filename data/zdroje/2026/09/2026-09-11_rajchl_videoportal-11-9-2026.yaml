@@ -20,4 +20,12 @@ vyroky:
     srovnání, která podle něj ukazují stejnou nekonzistenci: Eva Decroix použila slovo „sволoč" a Pavel
     Novotný měl prohlásit, že by Češi „potřebovali válku" a museli „podřezat ženy a děti" — u obou bez
     srovnatelné medializace. Jakob na to reaguje odchodem ze studia se slovy „jste proruský trol".'
+  osoby:
+  - osoba: eva-decroix
+    vztah: negativni
+    kontext: Použila slovo „sволoč" — příklad dvojího metru vůči Foltínovu výroku „svině"
+  - osoba: pavel-novotny
+    vztah: negativni
+    kontext: Měl prohlásit, že by Češi „potřebovali válku" a museli „podřezat ženy a děti" — bez medializace
+      srovnatelné s obviněním Filipa Turka z nacismu
   podtema: Politická kultura

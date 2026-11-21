@@ -25,4 +25,9 @@ vyroky:
     který může politická strana udělat".'
   citace:
   - text: Ta strana totiž říká mladým lidem, že za ně bojuje, přičemž proti ním aktivně bojuje.
+  osoby:
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: Předražený nákup doplňků ke zbraním za státní peníze, hlava strany podporující zvyšování
+      daní
   podtema: Politické strany — kritika STAN

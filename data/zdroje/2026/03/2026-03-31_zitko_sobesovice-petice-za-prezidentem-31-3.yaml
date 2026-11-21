@@ -49,4 +49,9 @@ vyroky:
     covidových opatření a vyzývají prezidenta Petra Pavla, aby se k věci vyjádřil. Peková tvrdí, že jí
     nikdo z politiků — ani Petr Kotlár, ani Robert Fico, ani prezident Pavel — nepřijal k přezkoumání
     vzorky vakcín.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Adresát petice — Zítko a Peková ho vyzývají k reakci na covidová pochybení a jejich trestní
+      stíhání
   podtema: Trestní stíhání kritiků covidu

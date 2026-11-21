@@ -12,6 +12,31 @@ zdroj:
     Maďarsko prezident/Szijjártó, dron Bulharsko/Lipsko, Argentina půda, Německo/ČR zbraně, Ukrajina kartonová
     demokracie, Musk/Starlink, Turecko Dardanely, Nawrocki, Zelenskyj Bělehrad — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md).
     Predikce (Rusko 95% vyhraje) a stoch. teror (Nawrocki) extrahovány bezvýjimečně.'
+  prehled:
+  - tema: Maďarsko — dosazení prezidenta Baky bez řádného konce mandátu
+    text: → [Suverenita a EU](../suverenita-eu.md)
+  - tema: Vyšetřování Szijjártóa z korupce — politicky motivované stíhání opozice
+    text: → [Suverenita a EU](../suverenita-eu.md)
+  - tema: Dron/výbuch v Bulharsku u plynovodu, pokračování série „ruských" incidentů
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Argentina — protesty proti skupování půdy cizinci, kritika ČR
+    text: → [Konspirační teorie](../konspirace.md)
+  - tema: Trump
+    text: plán tanečního sálu s „vojenským komplexem" v Bílém domě — bez komentáře, nezpracováno
+  - tema: Německo/ČR — dvojí metr v dodávkách zbraní (houfnice vs. Česká muniční iniciativa)
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: Ukrajina jako „kartonová demokracie"
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Elon Musk odmítl Starlink pro útoky na ruské území
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Dron v Lipsku
+    text: doplnění do stejné série — → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Turecko omezuje plavbu Dardanely — „pátá kolona" v Evropě
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Varování polskému prezidentu Nawrockému — riziko potrestání Ruskem
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Zelenskyj v Bělehradu — oprava médií + kritika Vučičovy právní nekonzistence
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
 vyroky:
 - id: vrabel-2026-08-08-01
   typ: tvrzeni
@@ -136,3 +161,28 @@ vyroky:
 
     ⚡ **Poznámka:** Odhad „95% pravděpodobnosti" ruského vítězství je Vrabelův osobní odhad, nikoli podložené vojenské hodnocení.
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-08-08-10
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Rusko vyhraje válku na Ukrajině s „95% pravděpodobností"
+  text: V souvislosti s kritikou polského prezidenta Nawrockého Vrabel odhaduje, že konflikt na Ukrajině
+    „s 95% pravděpodobností" skončí ruským vítězstvím — na rozdíl od narativu, že je Rusko „zahnané do
+    kouta" a prohrává. Tvrdí, že fronta jednoznačně postupuje směrem ke Kyjevu a že ukrajinské úspěchy
+    jsou omezeny na ojedinělé teroristické údery, nikoli vojenský postup.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-08-08-11
+  typ: stoch-teror
+  temata:
+  - valka-nato-rusko
+  nadpis: Karol Nawrocki (polský prezident)
+  text: jmenovaný terč, dehumanizace přirovnáním k nacistům („ty největší nacisty, kteří šířili proti
+    ruskou nenávist"), předjímání a implicitní schvalování retribuce ze strany Ruska po skončení války
+  citace:
+  - text: Tak se mu klidně může stát, že rusové můžou třeba po skončení té války si tyhle lidi vyhledat
+      a třeba si je odsoudit. A můžou je i potrestat.
+  teror:
+    terc: Karol Nawrocki (polský prezident)
+    hranicni: false

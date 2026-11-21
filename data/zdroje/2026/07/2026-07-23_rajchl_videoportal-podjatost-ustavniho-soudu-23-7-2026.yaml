@@ -27,4 +27,9 @@ vyroky:
   citace:
   - text: Petr Pavel tedy buď absolutně nezná zákon o ústavním soudu, anebo vědomě obelhává český národ.
       Já osobně jsem přesvědčen, že druhá varianta je ta správná.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Diletant nebo lhář" — tvrdil, že námitka podjatosti soudu předem podkopává důvěru v justici,
+      opak toho, co stanoví §37 zákona o ÚS
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

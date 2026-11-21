@@ -8,6 +8,61 @@ zdroj:
   prepis: prepisy/done/2026-09-24_Ladislav-Vrabel_24-9-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: Cizí klipy (Gordon, britský exministr, Rutte) zachyceny jen útržkovitě.
+  prehled:
+  - tema: Podmíněné propuštění Tomáše Čermáka
+    text: rozsudek „naprosto špatný", Čermák zůstává politickým vězněm
+    vyrok: vrabel-2026-09-24-04
+  - tema: Útok nožem v klášteře v Jarosławi
+    text: dvojí metr justice vůči Ukrajincům
+    vyrok: vrabel-2026-09-24-03
+  - tema: Agent OpenAI pronikl do australského zdravotnického portálu
+    text: AI „utekla z testovacího prostředí", ohrožení bank a zbraní
+    vyrok: vrabel-2026-09-24-01
+  - tema: Polsko evakuovalo hraniční přechody; Gripeny
+    text: české stíhačky létají „na rozkaz NATO"
+    vyrok: vrabel-2026-09-24-08
+  - tema: 'Gordon: „něco dá Ukrajincům křídla"; spekulace o jaderné raketě'
+    text: falešná vlajka, navykání společnosti
+    vyrok: vrabel-2026-09-24-09
+  - tema: Varšavská demonstrace „To není naše válka"; výročí mobilizace 1938
+    text: Braun a Fritz jako „kamarádi", ČR „dodavatel munice číslo jedna"; pozvánka na 3. 10.
+  - tema: Zelenskyj a Lavrov v OSN; Pavel a Krym
+    text: Krymská platforma „oprášena", Krym ruský, Pellegrini a NATO
+    vyrok: vrabel-2026-09-24-06
+  - tema: „Říjnové překvapení"
+    text: válka Evropy s Ruskem, rada připravit se → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-09-24-02
+  - tema: Babiš a 90 mld. EUR pro Ukrajinu; Sikorski v RB OSN
+    text: Babišovo veto by válku ukončilo, „politika herců"
+    vyrok: vrabel-2026-09-24-05
+  - tema: 'Nawrocki: americká základna v Polsku; počty padlých'
+    text: na Ukrajině zemřel 1–2 miliony lidí, totéž čeká Polsko (opakování).
+  - tema: Kalergiho plán, politici jako loutky
+    text: opakování tezí o oslabování silných evropských národů.
+  - tema: Polský manuál pro letecký útok
+    text: Evropané jako „ovce, které jdou na porážku".
+  - tema: CIA a ruské drony v jižní Evropě
+    text: součást „navykání" před falešnou vlajkou
+    vyrok: vrabel-2026-09-24-09
+  - tema: Ruští velitelé smějí odvetit bez Moskvy
+    text: spuštění konfliktu je „velmi jednoduché"
+    vyrok: vrabel-2026-09-24-09
+  - tema: ČR chce odložit ETS2
+    text: odklad jako „vyhrát" tím, že nás zmlátí později.
+  - tema: Trumpovi nevěřit; atentát jako začátek války
+    text: opakuje tezi o atentátu a nepsaných pravidlech mezi hlavami států.
+  - tema: Vučić v OSN; bombardování Jugoslávie 1999
+    text: právo silnějšího, Kosovo „ukradeno" kvůli dolům jako Donbas
+    vyrok: vrabel-2026-09-24-10
+  - tema: 'Klička a Babiš: „naše děti se na Ukrajině nenarodily"'
+    text: 'glosa: „kromě Babiše není nikdo Ukrajinec".'
+  - tema: Si Ťin-pching v USA; Trumpovi dvojníci, Melania
+    text: USA přestaly být jediným lídrem světa.
+  - tema: Lavrov v OSN — hypotetický scénář „kdyby neonacisté vraždili Rusy"
+    text: opakování zdůvodnění ruské invaze (Majdan, Azov, Minsk).
+  - tema: 'Rutte: 5 000 vzletů pro útok na Írán'
+    text: „na nástěnku válečných zločinců"
+    vyrok: vrabel-2026-09-24-07
 vyroky:
 - id: vrabel-2026-09-24-01
   typ: tvrzeni
@@ -58,6 +113,10 @@ vyroky:
     a doznání u soudu bylo jen podmínkou propuštění; za politické vězně považuje i Slávka Popelku a lidi
     stíhané za odznak „Z" a sebe samého za „odsouzeného z politických důvodů", kterého „likvidují jiným
     způsobem".'
+  osoby:
+  - osoba: tomas-cermak
+    vztah: pozitivni
+    kontext: „Politický vězeň", rozsudek „naprosto špatný"
   podtema: Politická perzekuce
 - id: vrabel-2026-09-24-05
   typ: tvrzeni
@@ -86,6 +145,10 @@ vyroky:
     — lidé v referendu sami rozhodli a kdo respektuje demokracii, musí je nechat v Rusku. Slovenský prezident
     Pellegrini podle něj dostal od Rutteho „nabídku, která se neodmítá" (místo v NATO). Válku o Krym nelze
     vyhrát, protože Rusko je „největší jaderná velmoc".'
+  osoby:
+  - osoba: peter-pellegrini
+    vztah: negativni
+    kontext: Dostal od Rutteho „nabídku, která se neodmítá" (místo v NATO)
   podtema: Příčiny a odpovědnost za válku
 - id: vrabel-2026-09-24-07
   typ: tvrzeni
@@ -97,6 +160,10 @@ vyroky:
     proti Íránu, Vrabel poukazuje, že se „obranná aliance" chlubí útokem na suverénní stát; takoví lidé
     by podle něj „měli viset na nástěnce válečných zločinců" a být odsouzeni. Článek 5 je podle něj záměrně
     nejasný, aby se dal „zneužít jakkoli"; opakuje přirovnání Rutteho projevů k Hitlerovi.
+  osoby:
+  - osoba: mark-rutte
+    vztah: negativni
+    kontext: „Na nástěnku válečných zločinců" za operaci proti Íránu
   podtema: EU jako vojenská struktura
 - id: vrabel-2026-09-24-08
   typ: tvrzeni
@@ -142,4 +209,39 @@ vyroky:
     mandátu OSN, Jugoslávie byla rozbita jako lídr Hnutí nezúčastněných a Kosovo „ukradeno" kvůli dolům
     — stejně jako dnes Donbas; Rusům na Donbasu a Krymu se podle něj upírá právo na sebeurčení, které
     se Kosovu přiznalo.'
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: „Vynikající" projev v OSN o konci mezinárodního práva
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-24-11
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: „říjnové překvapení" — válka Evropy s Ruskem, zahájená atentátem nebo útokem pod falešnou vlajkou
+  text: V říjnu 2026 přijde „říjnové překvapení" — konflikt Evropy s Ruskem, s velkou pravděpodobností
+    zahájený atentátem na významnou osobu nebo útokem pod falešnou vlajkou.
+  citace:
+  - text: Moderátoři o tom mluví naprosto otevřeně ve Spojených státech, že v Evropu čeká válka s Ruskem,
+      že nás čeká říjnové překvapení.
+  predikce:
+    horizont: říjen 2026
+    stav: vyvraceno
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: v říjnu válka Evropy s Ruskem nezačala a atentát nenastal
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Vrabel 13. 11. scénář sám posunul na dobu po „velkých mírových jednáních“.
+- id: vrabel-2026-09-24-12
+  typ: stoch-teror
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Mark Rutte a organizátoři útoku na Írán
+  text: 'hraniční: obrazné „visení" + výzva k odsouzení, srovnání s Hitlerem'
+  citace:
+  - text: Takovýhle lidi by měli viset na nástěnce, na nástěnce válečných zločinců. [...] Pokud někdo
+      trošku rozumí mezinárodnímu právu, tak by musel takovýhle lidi odsoudit.
+  teror:
+    terc: Mark Rutte a organizátoři útoku na Írán
+    hranicni: true

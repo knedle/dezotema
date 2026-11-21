@@ -15,6 +15,43 @@ zdroj:
     dron Lipsko, Turecko Černé moře, migrace Vondra/Gregor, Vučič/Zelenskyj, výbuch Emkov, Podněstří,
     Dardanely/muslimské NATO, Lamanšský průliv) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md).
     Predikce (demografická proměna ČR 20/35/50 let) extrahována bezvýjimečně; bez stoch. teroru.'
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Obhajován za přijetí Zelenského v Bělehradu jako nutný diplomatický krok bez zbraní pro Ukrajinu
+      — „nejlepší prezident na světě"
+  prehled:
+  - tema: Zemětřesení v Kolumbii — spekulace o HAARP a Trumpově zájmu o TechNate
+    text: → [Konspirační teorie](../konspirace.md)
+  - tema: FPV drony v ČR pro ukrajinské veterány; kritika odmítání ochrany ukr. mužům, „karma" pro operátory
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Izrael odmítl mírový plán pro Gazu
+    text: „Rada pro nemovitosti", USA/Izrael války jako byznys (Vietnam, Irák, Albright) — nezpracováno
+      (opakování zavedené teze)
+  - tema: 81. výročí Nagasaki
+    text: kritika servility Japonska i ČR vůči USA — nezpracováno
+  - tema: Dronový útok na Tatarstán (13 mrtvých) — „naše ruce jsou od krve"
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Dron na letišti v Lipsku
+    text: DNA shoda s Litvou, paralela s Vrběticemi — nezpracováno (pokračování série z 8. 8.)
+  - tema: Turecko
+    text: moratorium na střelbu v Černém moři — nezpracováno (pokračování série z 8. 8.)
+  - tema: Migrace
+    text: 'spor Vondra/Gregor: „problém je migrace, ne nelegální migrace", islám/džihád, 90 % útoků páchají
+      legální migranti — nezpracováno (opakování zavedené teze)'
+  - tema: Vučič a přijetí Zelenského v Bělehradu
+    text: obhajoba jako diplomacie, kritika médií — nezpracováno (pokračování z 8.–9. 8.)
+  - tema: Výbuch v bulharské zbrojovce Emkov
+    text: paralela s Vrběticemi (sarkasticky „Čuk a Gek") — nezpracováno
+  - tema: Podněstří
+    text: ruské varování, že útok na něj = útok na Rusko — nezpracováno
+  - tema: Turecko omezuje průjezd Dardanelami + „muslimské jaderné
+    text: Turecko omezuje průjezd Dardanelami + „muslimské jaderné NATO" (Turecko–Pákistán–Saúdská Arábie)
+      — nezpracováno (pokračování série z 8. 8.)
+  - tema: Migrace přes Lamanšský průliv
+    text: rekord 230 lidí na jednom člunu + osobní historka (manželka Srbka na hranici) — nezpracováno
+  - tema: Ceuta — sexuální napadení nezletilých migrantů jako „kulturní" jev
+    text: → [Migrace](../migrace.md)
 vyroky:
 - id: vrabel-2026-08-10-01
   typ: tvrzeni
@@ -28,6 +65,11 @@ vyroky:
     mohlo jít o odvetu za to, že Kolumbie nedostatečně podporuje Trumpův plán vytvořit „TechNate" v Jižní
     Americe směrem ke Grónsku. Sám dodává, že to může být i čirá náhoda nebo přirozený jev. Připojuje
     k tomu obecné pozorování, že hoří tankery v Černém moři a obzor je v plamenech.'
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Odmítá jeho tvrzení, že „klimatická změna skončila" — Vrabel trvá na tom, že člověk má vliv
+      na podnebí (kácení lesů, betonizace, větrníky)
   podtema: Historické konspirační výklady
 - id: vrabel-2026-08-10-02
   typ: tvrzeni
@@ -71,3 +113,20 @@ vyroky:
     vracet válečné uprchlíky zpět. Predikuje, že až Ukrajincům dojdou „lidské baterie" na frontě, budou
     muset na frontu ti, kdo je tam posílali.
   podtema: Stav Ukrajiny a mobilizace
+- id: vrabel-2026-08-10-05
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: 'postupná demografická proměna ČR: za 20 let jako Rakousko, za 35 let jako Británie, za 50 let
+    „islámská"'
+  text: Pokud ČR nadále setrvá u „západních" hodnot a přístupu k migraci, bude podle Vrabela do 20 let
+    vypadat jako dnešní Rakousko, o dalších 15 let (tedy za 35 let) jako dnešní Británie, a do 50 let
+    už nebude většinově osídlena „původními bílými obyvateli", ale bude islámská — jeho syn se prý ještě
+    může dožít okamžiku, kdy ČR přestane být „Česká". Anglii už považuje za „ztracenou" bez ohledu na
+    to.
+  citace:
+  - text: Za 50 let můj syn se možná ještě dožije toho, že Česká republika už nebude Česká, už tam nebude
+      většinově osídlená původními bílými obyvateli, ale bude islámská.
+  predikce:
+    horizont: 20 let (Rakousko), 35 let (Británie), 50 let (demografická většina)
+    stav: ceka

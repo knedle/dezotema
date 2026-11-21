@@ -12,6 +12,25 @@ zdroj:
     rozsudek SPD, referendum (Tejc), EET, NATO vrtulníky Viper do Polska, migrace/Ceuta/islám, Izrael–Gaza–Velký
     Izrael, Kushnerovy realitní projekty, skupování orné půdy, odposlech telefonů, 3 biliony eur ztráta,
     větrníky (toxický odpad do ČR), zákaz dokumentu „Vina". ~20 zpráv s komentářem (moderátorka Zuzka)'
+  osoby:
+  - osoba: tulsi-gabbard
+    vztah: pozitivni
+    kontext: Rezignovala kvůli nemoci manžela — „opravdu pracovala pro lidi", Vrabel lituje odchodu; nahradil
+      ji „realiták" William Polter
+  - osoba: william-polter
+    vztah: neutralni
+    kontext: Nový šéf americké rozvědky — Vrabel ironicky „kolega realitní makléř, odborník na pravém
+      místě"
+  - osoba: miroslav-sladek
+    vztah: pozitivni
+    kontext: Vrabel s ním dělal kampaň pod podmínkou vynechání „romské otázky"; Sládek souhlasil — uveden
+      jako kontrast k protiromské rétorice SPD
+  prehled:
+  - tema: Hlavní bloky
+    text: vztahy s Ruskem (fórum Petrohrad), ukrajinské útoky na civilní cíle jako terorismus, rozsudek
+      SPD, referendum (Tejc), EET, NATO vrtulníky Viper do Polska, migrace/Ceuta/islám, Izrael–Gaza–Velký
+      Izrael, Kushnerovy realitní projekty, skupování orné půdy, odposlech telefonů, 3 biliony eur ztráta,
+      větrníky (toxický odpad do ČR), zákaz dokumentu „Vina".
 vyroky:
 - id: vrabel-2026-06-03-01
   typ: tvrzeni
@@ -28,6 +47,11 @@ vyroky:
     „sionistickému režimu", který rozpoutává války. Kritizuje ČR za apriorní podporu (ohlášené veto proti
     opatřením EU vůči izraelským ministrům) — Babiš a Macinka podle něj „mají ruce od krve". Navazuje
     na [Genocida v Gaze (2. 6.)](#genocida-v-gaze-a-apriorní-podpora-izraele-českou-vládou-vrabel-2-6-2026).'
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Ruce od krve" za apriorní krytí Izraele (veto sankcí); ovládá český potravinový řetězec
+      a „bude spolupracovat s globalisty"; voliči ho volili pro konec muniční iniciativy, nedodržel
 - id: vrabel-2026-06-03-02
   typ: tvrzeni
   temata:
@@ -41,6 +65,15 @@ vyroky:
     v Gaze — „na hřbitově, kde je zem prosáklá krví". Albánci si dle Vrabela vzali příklad ze srbských
     protestů. Vrabel staví do kontrastu „obyčejné" realitní makléřství (prodej domů lidem prchajícím před
     válkou) a vnucování projektů do zemí, kde je nikdo nechce.'
+  osoby:
+  - osoba: jared-kushner
+    vztah: negativni
+    kontext: Realitní makléř stavící „na hřbitovech" — projekty v Albánii (1,4 mld. USD), Bělehradě a
+      Gaze; lidé v Srbsku i Albánii protestují
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: „Realitní makléř" plánující s Kushnerem turistická letoviska v Gaze „na hřbitově prosáklém
+      krví"
 - id: vrabel-2026-06-03-03
   typ: tvrzeni
   temata:
@@ -53,6 +86,10 @@ vyroky:
     a přeprodávají ropu z USA či Venezuely nebo ji nakupují od Ruska a draho přeprodávají Evropě, tedy
     k elitám na vrcholu pyramidy. Občané to zaplatili z vlastních kapes. Navazuje na jeho tezi o evropském
     ekonomickém modelu postaveném na levné ruské energii (viz [EU ekonomika v sutinách](#eu-ekonomika-v-sutinách--ztráta-levných-ruských-energií-jako-příčina-krize)).'
+  osoby:
+  - osoba: kirill-dmitrijev
+    vztah: neutralni
+    kontext: 'Citován z fóra v Petrohradu: EU ztratila ~3 biliony eur odstřižením od ruské energie'
   podtema: Ekonomika, sankce a BRICS
 - id: vrabel-2026-06-03-04
   typ: tvrzeni
@@ -104,6 +141,11 @@ vyroky:
     lidi" — chystá se změna v tom, kdo produkuje a kontroluje potravinový řetězec; v ČR ho podle Vrabela
     ovládá Andrej Babiš, který „bude spolupracovat s globalisty". Navazuje na jeho výklad globalistů útočících
     na rodinu, stát, národ a náboženství (viz [Globalisté bojují vždy proti čtyřem věcem](#globalisté-bojují-vždy-proti-čtyřem-věcem-rodina-stát-národ-náboženství-vrabel-17-5-2026)).'
+  osoby:
+  - osoba: bill-gates
+    vztah: negativni
+    kontext: Označen za největšího vlastníka orné půdy v USA; skupování půdy = globalistická kontrola
+      potravin
   podtema: Globalistická agenda a další výklady
 - id: vrabel-2026-06-03-08
   typ: tvrzeni
@@ -114,6 +156,11 @@ vyroky:
     Škrlová, která se dříve „prezentovala jako Jan Lipavský" a říká „úplně ty stejné věci". Výrok paroduje
     proatlantickou kontinuitu české zahraniční politiky (Macinka = pokračovatel Lipavského) a využívá
     motiv záměny/dvojníků politiků (viz [Dvojníci a klony politiků a celebrit](#dvojníci-a-klony-politiků-a-celebrit)).
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: „Ruce od krve" za krytí Izraele; satiricky „odhalen" jako převlek Barbary Škrlové (dříve
+      Lipavský)
   podtema: Globalistická agenda a další výklady
 - id: vrabel-2026-06-03-09
   typ: tvrzeni
@@ -147,6 +194,11 @@ vyroky:
     poslance Koláře (TOP 09) zapsat členství v EU a NATO přímo do ústavy, čímž by se vystoupení stalo
     fakticky nemožným. Navazuje na opakovanou tezi o chybějícím prováděcím zákonu o referendu (srov. Černohorský,
     [Absence referenda](#absence-referenda-jako-důkaz-ne-demokracie--sjezd-lm-jako-konkrétní-příklad-25-5-2026)).'
+  osoby:
+  - osoba: jeronim-tejc
+    vztah: neutralni
+    kontext: Předkládá ústavní zákon o referendu — Vrabel vítá záměr, ale kritizuje parametry (300k podpisů,
+      kvórum 35 %, vyloučení EU/NATO)
   podtema: Ekonomický program PRO
 - id: vrabel-2026-06-03-11
   typ: tvrzeni
@@ -160,6 +212,10 @@ vyroky:
     miliardové dotace. Odmítá státní kontrolu i „z Bruselu řízené plánované hospodářství"; ideál vidí
     ve „volném trhu" (odkazuje na Klausovu kupónovou privatizaci). Malí podnikatelé podle něj musí odpracovat
     mnohem více hodin než zaměstnanci, aby dosáhli srovnatelného příjmu.
+  osoby:
+  - osoba: alena-schillerova
+    vztah: neutralni
+    kontext: Prosazuje návrat EET s bezplatnou aplikací — Vrabel odmítá jako zátěž pro malé živnostníky
   podtema: Ekonomický program PRO
 - id: vrabel-2026-06-03-12
   typ: tvrzeni
@@ -173,6 +229,11 @@ vyroky:
     režimy by nevolili. Vrabel z toho vyvozuje spoluodpovědnost ČR a Západu — voliči Babiše prý dali hlas
     s očekáváním konce muniční iniciativy, financování i dodávek zbraní Ukrajině, k čemuž nedošlo. Navazuje
     na [Muniční iniciativa = spoluzodpovědnost ČR](nato-zbrojeni-militarizace.md#muniční-iniciativa--spoluzodpovědnost-čr-za-teror-proti-ruským-civilistům-vrabel-2-6-2026).
+  osoby:
+  - osoba: marija-zacharovova
+    vztah: neutralni
+    kontext: 'Citována souhlasně: „Západ sponzoruje ukrajinský terorismus prostřednictvím NATO"; kdyby
+      občané věděli, že platí zabíjení civilistů, nevolili by takové režimy'
   podtema: Průběh války, útoky a „terorismus"
 - id: vrabel-2026-06-03-13
   typ: tvrzeni
@@ -211,4 +272,40 @@ vyroky:
     zkušenosti (pole větrníků mezi Maďarskem a Rakouskem) tvrdí, že z rychle se otáčejících listů (400+
     km/h) se uvolňuje sklolaminát a „jed" do ovzduší, který vítr roznáší do dálky. Navazuje na jeho tvrzení
     o 60 kg nanočástic na větrník (viz [konspirace.md — chemtrails a větrníky](konspirace.md#chemtrails-sypání-těžkých-kovů-do-atmosféry-větrníky-60-kg-nanočástic-vrabel-15-5-2026)).
+  osoby:
+  - osoba: filip-turek
+    vztah: negativni
+    kontext: „Zmocněnec pro větrníky" — pod ním se má do ČR instalovat 500 turbín; výmluva „protože Evropská
+      unie"
   podtema: Kulturní a občanský odpor
+- id: vrabel-2026-06-03-16
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: „Za pět let Českou republiku nikdo nepozná"
+  text: Pokud ČR neuzavře hranice a nevystoupí z EU, stane se součástí migračního paktu (přijímání migrantů
+    od 2027) a za pět let bude násilí migrantů „na denním pořádku" — „Českou republiku nikdo nepozná".
+    Británii naopak označuje za stát, který už „překročil bod návratu".
+  citace:
+  - text: '...za pět let Českou republiku nikdo nepozná a tohle bude na denním pořádku.'
+  predikce:
+    horizont: ~2031 (5 let)
+    stav: ceka
+- id: vrabel-2026-06-03-17
+  typ: stoch-teror
+  temata:
+  - konspirace
+  nadpis: Volodymyr Zelenský
+  text: dehumanizující přezdívka „Holodomír" + normalizace/anticipace jeho zabití Ruskem
+  citace:
+  - text: už by Holodomír Zelenský byl čtyři a půl roku po smrti, protože Rusové se svými přesnými střelami
+      už by ho dávno zlikvidovali, kdyby potřebovali. [...] možná, že se nakonec odhodlají k tomu, že
+      sundají i to vedení Ukrajiny.
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: „Holodomír Zelenský" — Vrabel spekuluje, že ho Rusko „už dávno zlikvidovalo, kdyby potřebovalo",
+      a možná „sundá vedení Ukrajiny" (viz [stochastický teror](../stochasticky-teror.md))
+  teror:
+    terc: Volodymyr Zelenský
+    hranicni: false

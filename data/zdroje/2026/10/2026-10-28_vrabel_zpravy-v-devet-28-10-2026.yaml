@@ -9,6 +9,58 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 7 min, zprávy čte Zuzana; úryvek Vondráčkova videa a Krylova píseň nezpracovány; závěrečná
     organizační pasáž k plakátům 17. 11.
+  osoby:
+  - osoba: russell-brand
+    vztah: pozitivni
+    kontext: „Jeden z největších bojovníků proti globalismu a deep state“
+  - osoba: jana-kovarova
+    vztah: pozitivni
+    kontext: Jediná politička, u které „neviděl faul“
+  prehled:
+  - tema: 108 let republiky, Pavel a Babiš kladou věnce
+    text: oblékl se do černého, protože „suverenitu nemáme“; pouští Krylův „Pochod marodů“.
+  - tema: Vondráček sbírá podpisy pod dopis von der Leyenové
+    text: místo vyjednání suverenity rozdává letáky; Srbsko je jediné místo, kde nenásilná revoluce „opravdu
+      změnila režim“; „gratuluju vlastencům, kteří volili SPD“
+    vyrok: vrabel-2026-10-28-03
+  - tema: Národní divadlo ve stávkové pohotovosti
+    text: rozehrává se to od televize přes umělce ke studentům, protesty se šíří Evropou „jako kdyby je
+      psali globalisté“ (opakuje).
+  - tema: „Neuznáváte nikoho?“
+    text: uznává každého, kdo nelže; z politiků jen senátorku Kovářovou.
+  - tema: Merz děkuje Japonsku
+    text: spojují se „nacistické státy druhé světové války“ na začátku třetí světové války.
+  - tema: 'Kosová: Srbsko bez sankcí do EU nepostoupí'
+    text: Srbové sankce nedají, kdo by je navrhl, toho „lidi roztrhají“ → viz [Predikce](../predikce.md)
+  - tema: Flávio Bolsonaro uprchl do USA
+    text: demokracie na Západě znamená „kdo má větší kvér a méně svědomí“ (opakuje).
+  - tema: Britský rozpočet s rezervou na válku s Íránem
+    text: „zuří válka, lidi nebudou mít peníze“.
+  - tema: Srážka vlaků ve Španělsku (68 mrtvých)
+    text: napadá ho, že to „někdo udělal schválně“.
+  - tema: Izraelské volby bez vítěze
+    text: Velký Izrael volbami rozbít nenechají, „kdyby volby mohly něco změnit, dávno by je zakázali“.
+  - tema: Russell Brand u soudu
+    text: „jeden z největších bojovníků proti globalismu“, obvinění ze znásilnění jsou nástroj likvidace
+      kritiků (opakuje).
+  - tema: Ryan Williams zadržen pro terorismus kvůli příspěvkům o islámu
+    text: Británie trestá slova jako terorismus; Mohamed byl podle něj „pedofil“, „historický fakt“
+    vyrok: vrabel-2026-10-28-01
+  - tema: Turecko varuje kvůli útokům v Černém moři
+    text: ironie „určitě to byli Rusové ukrajinskými drony“.
+  - tema: Nizozemský premiér Jetten
+    text: „neuvěřitelně“ protiruský projev; posměšky na jeho soukromí.
+  - tema: Putin nazval Muska géniem
+    text: Musk „nemá Sarmat, Kinžál, Orešník“, Rusové „brzo doženou“ satelitní internet.
+  - tema: Přistání na Měsíci a plochá Země
+    text: zpochybňuje přistání na Měsíci (Kubrick), kulatou Zemi poprvé odkládá „do šedé zóny“
+    vyrok: vrabel-2026-10-28-02
+  - tema: Pfizergate, von der Leyenová před EPPO
+    text: vakcíny i zbraně se kupují „z ruky“; požár u brněnského zbrojaře nebyl ruský útok, ale „konkurence“;
+      zbrojaři „žijí z krve“
+    vyrok: vrabel-2026-10-28-04
+  - tema: Evropský mírový nástroj 4,9 mld. €
+    text: představitelky EU „jsou satanistky“ (opakuje).
 vyroky:
 - id: vrabel-2026-10-28-01
   typ: tvrzeni
@@ -24,6 +76,10 @@ vyroky:
   citace:
   - text: A to, co řekl, je věc, kterou říkám taky. Někdo, kdo si vezme za ženu šestiletou holčičku a
       sexuálně ji konzumuje v jejích devíti letech, pro mě je taky pedofil.
+  osoby:
+  - osoba: ryan-williams
+    vztah: pozitivni
+    kontext: „Sympatický kluk“, s jeho výroky o islámu souhlasí
   podtema: Trestání politického projevu
 - id: vrabel-2026-10-28-02
   typ: tvrzeni
@@ -54,6 +110,13 @@ vyroky:
   citace:
   - text: Takže to je jediný, kde se zatím podařilo jako tím bojem proti těm elitám, nenásilnou revolucí,
       opravdu změnit režim.
+  osoby:
+  - osoba: libor-vondracek
+    vztah: negativni
+    kontext: Sbírá podpisy pod dopis von der Leyenové místo vyjednání suverenity
+  - osoba: ursula-von-der-leyenova
+    vztah: negativni
+    kontext: Pfizergate, zakázky z ruky, „satanistky“
   podtema: Česká suverenita
 - id: vrabel-2026-10-28-04
   typ: tvrzeni
@@ -71,3 +134,15 @@ vyroky:
   - text: Že by to byly Rusové, to si nemyslím, kdyby Rusové chtěli zaútočit na nějakého zbrojaře, tak
       tam přiletí balistická raketa na výrobnu zbraní.
   podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-10-28-05
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: nová srbská vláda sankce proti Rusku nezavede
+  text: Srbsko sankce proti Rusku nezavede; kdyby je nová vláda navrhla, budou ulice znovu plné.
+  citace:
+  - text: Kdyby někdo z nich přišel s takovým nápadem, jakože by Srbsko mělo dát Rusku sankce, no tak
+      budou ulice plný znovu.
+  predikce:
+    horizont: po ustavení srbské vlády
+    stav: ceka

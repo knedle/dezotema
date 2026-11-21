@@ -13,6 +13,21 @@ zdroj:
     technologie), Lagarde varuje před příděly potravin v Evropě, EU ekonomika v sutinách (ztráta ruských
     energií, BYD vs. německá auta), Írán — Trump zrušil Pakistan talks, Finsko — zákon o jaderných zbraních,
     Zelenský-Aliyev.'
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: Označen za korupčníka — „zlaté záchody, Lamborghini a Ferrari"; říjen 90 mld. EUR přijal
+      radostně jako vydírací páku na Evropu
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: „Feudalismus" — vysílá zeťáka (Kushnera) a obchodního partnera (Witkowa) jako diplomaty;
+      neustále bluffuje, nelze mu věřit
+  prehled:
+  - tema: Večerní zprávy se Zuzkou. Klíčová témata
+    text: JP Morgan 1,5 bilionu USD do evropské obrany (= globalisté financují zbrojní průmysl jako Hitler),
+      FBI vyšetřuje zmizení 15+ amerických vědců (jaderné/kosmické technologie), Lagarde varuje před příděly
+      potravin v Evropě, EU ekonomika v sutinách (ztráta ruských energií, BYD vs. německá auta), Írán
+      — Trump zrušil Pakistan talks, Finsko — zákon o jaderných zbraních, Zelenský-Aliyev.
 vyroky:
 - id: vrabel-2026-04-25-01
   typ: tvrzeni
@@ -29,6 +44,11 @@ vyroky:
   - text: Tohle je model, na kterém Evropa zbohatla od druhé světové války. Bohužel Evropa od roku 2022
       nemá plyn... to znamená, Evropa musí jít teď bojovat do Hormuzského průlivu, aby si vybojovala nějaký
       plyn.
+  osoby:
+  - osoba: christine-lagarde
+    vztah: neutralni
+    kontext: 'Citována jako zdroj: ECB prezidentka varuje před nezlepšením energetické situace a možnými
+      příděly potravin'
   podtema: Rusko a energetická krize EU
 - id: vrabel-2026-04-25-02
   typ: tvrzeni
@@ -42,3 +62,19 @@ vyroky:
     fondy) financovaly Hitlera a druhou světovou válku. Současná Evropa přešla na model ekonomiky postavené
     na výrobě zbraní, protože svůj původní model (levné energie + qualitní výrobky) ztratila.
   podtema: Rusko a energetická krize EU
+- id: vrabel-2026-04-25-03
+  typ: predikce
+  temata:
+  - ceny-energie
+  nadpis: Příděly potravin v Evropě
+  text: Evropu čeká ekonomická krize hlubší než v době COVIDu, přičemž nelze vyloučit zavedení přídělů
+    potravin — toto varování cituje z vystoupení Christiny Lagarde (prezidentky ECB).
+  predikce:
+    horizont: nejbližší měsíce od dubna 2026
+    stav: vyvraceno
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: žádný evropský stát příděly potravin nezavedl
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Lagardeová v červnu a červenci mluvila jen o růstu cen potravin od roku 2027.

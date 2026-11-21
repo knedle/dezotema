@@ -47,6 +47,11 @@ vyroky:
   citace:
   - text: Dovolím si zastoupit naši veřejnoprávní televizi a nabídnout vám naši hymnu v podání největšího
       českého barda Jarka Nohavici […]. A nechci za to nic.
+  osoby:
+  - osoba: jaromir-nohavica
+    vztah: pozitivni
+    kontext: „Legenda, největší český bard" — ČT cenzurovala (utnula) jeho zpěv hymny na MS v hokejbalu,
+      prý kvůli jeho mírovým postojům
   dalsi_zdroje:
   - 2026-06-23_rajchl_hymna-od-nohavicy-ct-cenzura-23-6-2026
   - 2026-06-23_cernohorsky_ct-cenzura-hymny-nohavica-23-6-2026
@@ -86,6 +91,15 @@ vyroky:
     něj „díky médiím jedno oko pootevřené" (řeší byty, ne dozimetr, vrtulníky či pět podezřelých úmrtí).'
   citace:
   - text: Jaký jste strážci demokracie, když si vybíráte jenom některé kauzy?
+  osoby:
+  - osoba: mikulas-minar
+    vztah: negativni
+    kontext: Zpronevěřil 7 mil. při zakládání nikdy nevzniklé strany; Milion chvilek jako vlivová struktura
+      nesmířená s výsledkem voleb
+  - osoba: tomas-paukner
+    vztah: pozitivni
+    kontext: „Servíruje na stříbrném podnose" velké korupční kauzy (vrtulníky, Hladík, Dvořák/dozimetr),
+      které média ignorují; Seznam mění pravidla, aby demaskoval jeho pseudonym
   podtema: Dvojí metr v médiích
 - id: rajchl-2026-06-21-05
   typ: tvrzeni
@@ -100,6 +114,11 @@ vyroky:
     - **Ukrajinské děti se neasimilují.** Proti tvrzení ministra Plagy o dobré asimilaci tvrdí, že velká část ukrajinských dětí do školy nechodí, nebo neumí pořádně česky; jediný žák nerozumějící výkladu zdržuje vzdělávání celé třídy. Navrhuje vytvořit jim vlastní třídy, ale ne na úkor vzdělávání českých dětí — zdůrazňuje, že nejde o národnost („i kdyby byli z Bangladéše").
 
     Navazuje na [Rozdíl mezi Ukrajinci před válkou a po válce (Rajchl, 16. 6.)](#rozdíl-mezi-ukrajinci-před-válkou-a-po-válce-zrušit-dávky-a-dočasnou-ochranu--rajchl-16-6-2026).
+  osoby:
+  - osoba: vaclav-laska
+    vztah: negativni
+    kontext: Jeho statistika o nižším podílu odsouzených Ukrajinců označena za „demagogii nejtěžšího kalibru"
+      (ignoruje délku trestního řízení)
 - id: rajchl-2026-06-21-06
   typ: tvrzeni
   temata:
@@ -119,6 +138,15 @@ vyroky:
   citace:
   - text: Petr Pavel je kašpár, který se předvádí před televizními kamerami […] vyhrazuje pozici prezidenta
       naší země.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Pózer/kašpár", ne osobnost — fotí Le Mans/MotoGP, leze na stožáry, kult osobnosti à la Kim
+      Čong-un (Eva Pavlová „Madonna"), nebyl v Lidicích; Babiš by byl lepší prezident
+  - osoba: ivana-tykac
+    vztah: pozitivni
+    kontext: Spekuluje se o její prezidentské kandidatuře — Rajchl by ji preferoval před Pavlem, „dělala
+      by čest Pražskému hradu"
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-06-21-07
   typ: tvrzeni
@@ -140,6 +168,11 @@ vyroky:
   citace:
   - text: V tuto chvíli je naše nejvyšší vyznamenání v rukou člověka, který adoruje nacizmus. Takhle prosté
       to je.
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: „Adoruje nacizmus" (pojmenování jednotky po UPA) — drží řád Bílého lva, který by mu měl být
+      odebrán jako polský řád Bílé orlice
   podtema: Stav Ukrajiny a mobilizace
 - id: rajchl-2026-06-21-08
   typ: tvrzeni
@@ -160,3 +193,34 @@ vyroky:
   dalsi_zdroje:
   - 2026-06-18_rajchl_videoportal-leopard-vs-zachrana-zivotu-18-6-2026
   podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: rajchl-2026-06-21-09
+  typ: predikce
+  temata:
+  - media-propaganda
+  nadpis: Britský premiér Starmer „zítra" složí funkci
+  text: Rajchl uvádí, že se začalo spekulovat, že britský premiér Keir Starmer „zítra" (22. 6.) složí
+    funkci — sám to vítá a označuje Starmera za velmi neúspěšného premiéra, který zapíše do historie „neslavně".
+  citace:
+  - text: Dnes čerstvě se začalo spekulovat, že zítra složí funkci premiér Velké Británie Keir Starmer.
+  predikce:
+    horizont: 22. 6. 2026
+    stav: potvrzeno
+    horizont_do: 2026-06-22
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: Starmer 22. 6. 2026 oznámil rezignaci z funkce premiéra i lídra labouristů (referoval Vrabel
+        ve [Zprávách v devět 22. 6.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026), který ji označil
+        za „cynický podvod demokratické obnovy").
+      stav: potvrzeno
+- id: rajchl-2026-06-21-10
+  typ: predikce
+  temata:
+  - ceny-energie
+  nadpis: Evropský průmysl skoupí Čína kvůli Green Dealu
+  text: Rajchl předpovídá, že kvůli Green Dealu (vysoké ceny energií) evropský automobilový a další průmysl
+    nezanikne, ale skoupí ho čínští akcionáři — Evropa skončí jako „kolonie Číny".
+  citace:
+  - text: Evropský automobilový průmysl nezanikne. Bude pokračovat dál. Jenom ji skoupí čínští akcionáři.
+  predikce:
+    horizont: neurčeno
+    stav: ceka

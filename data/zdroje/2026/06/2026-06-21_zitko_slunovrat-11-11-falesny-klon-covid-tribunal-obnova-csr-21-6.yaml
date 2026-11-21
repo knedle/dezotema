@@ -32,6 +32,11 @@ zdroj:
     (Pavel „neměl koule" odpovědět na otevřený dopis Pekové). Logistika (Ráj Litice 4.–6. 7., sv. Jan
     24. 6. — výročí jeho zatčení, křest knihy J. Peterkové) nezpracována. Živé vysílání na letní slunovrat
     (11:11) na náhradním profilu Pavel Zítko'
+  osoby:
+  - osoba: valerij-pjakin
+    vztah: neutralni
+    kontext: Ruský „akademik" blízký Putinovi — citován, že „na 99,9 %" bude obnoveno Československo jako
+      po druhé světové válce
 vyroky:
 - id: zitko-2026-06-21-01
   typ: tvrzeni
@@ -67,4 +72,35 @@ vyroky:
     trestní oznámení. Mechanismus „dosazování vybraných loutek" zobecňuje na „jakékoliv volby". Tematicky
     navazuje na Vrabelovu tezi, že [v prezidentských volbách „vytáhnou herce"](#vrabel-jako-pravdivostní-extrémista-kritika-kultury-o-nikom-se-nemluví--pokrytectví-rajchla-21-6-2026)
     i na [konspirační výklad CIA dosazující elity](konspirace-ceskoslovensko.md#cia-dosadila-a-řídí-české-elity-klaus-havel-zeman-prezidenta-vybírá-cia--vrabel-21-6-2026).
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Vládní koaliční poslanec" — nesplněné „desatero" z 26. 1. (vystoupení z WHO, zrušení očkovací
+      strategie, odstoupení od pandemické smlouvy); „buď máte výsledky, nebo výmluvy"
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Neměl koule" odpovědět na otevřený dopis Soni Pekové (doručen do datové schránky); skrývá
+      se před dotazy, výjezdy s prověřenými lidmi
   podtema: Volby
+- id: zitko-2026-06-21-03
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Andrej Babiš, Petr Fiala + „všichni odpovědní"
+  text: 'Terč: Andrej Babiš, Petr Fiala + „všichni odpovědní".'
+  citace:
+  - text: Vlády Babiše i Fialy „stoprocentně namočené" do „masových vražd, genocidy a sterilizace národa"
+      injekcemi biozbraně COVID-19; opakovaná výzva, aby „všichni odpovědní stáli před vojenským tribunálem"
+      (Norimberk 2.0) a „čelili spravedlivému trestu"
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Spolu s Fialovou vládou „stoprocentně namočen" do „masových vražd, genocidy a sterilizace
+      národa" injekcemi biozbraně COVID-19; krevní testy by ukázaly placebo vs. ostrá šarže
+  - osoba: petr-fiala
+    vztah: negativni
+    kontext: Korporátní představitel spoluzodpovědný za „genocidu a sterilizaci" COVID vakcinací — musí
+      stanout před tribunálem
+  teror:
+    terc: Andrej Babiš, Petr Fiala + „všichni odpovědní"
+    hranicni: false

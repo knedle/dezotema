@@ -14,6 +14,13 @@ zdroj:
     AFD, vystoupení z EU jako záchrana, Starmer 2030 + zbrojení jako byznys, jaderné odzbrojení (výzva).
     Závěr: meta o pořadu + osobní (logistika, nezpracováno). Zprávy v devět s komentářem (moderátorka
     Zuzka)'
+  prehled:
+  - tema: Hlavní bloky
+    text: 'falešní mesiáši dosazení globalisty (Magyar protest, Trump/Merz/Babiš), Polsko vs. UPA, Putin
+      v Petrohradu, ukrajinské útoky hluboko + blízký konec SVO, Ukrajinci nechtějí bojovat (TCK), lodě
+      Azov/Černé moře, Arménie perzekuce + síť Rothschild–Trump, Braun v EP + hrozba zákazu AFD, vystoupení
+      z EU jako záchrana, Starmer 2030 + zbrojení jako byznys, jaderné odzbrojení (výzva). Závěr: meta
+      o pořadu + osobní (logistika, nezpracováno).'
 vyroky:
 - id: vrabel-2026-06-06-01
   typ: tvrzeni
@@ -27,6 +34,11 @@ vyroky:
     označuje (z pohledu světa) za „nejkritizovanější místo na světě" — víc než USA (kvůli Íránu) i Izrael.
     Kontrastuje to s pohledem, kde ekonomika = byznys a čísla, a politika slouží dobrým vztahům mezi zeměmi.
     Rozšiřuje záznam z [BRICS předčil G7](#brics-předčil-g7-putin-varuje-před-usdt-a-digitálním-eurem-vrabel-5-6-2026).'
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: 'Petrohrad: ekonomika „znásilněna politikou"; Luhanská a z ~75 % Doněcká republika pod kontrolou
+      — SVO se blíží ke konci'
   podtema: Ekonomika, sankce a BRICS
 - id: vrabel-2026-06-06-02
   typ: tvrzeni
@@ -41,6 +53,11 @@ vyroky:
     v Německu a EP stranu AfD — podle průzkumů nejsilnější v zemi: zrušit „ve jménu demokracie" nejsilnější
     zvolenou stranu označuje za vnitřně rozporné a za stejný mechanismus, jakým jsou v ČR likvidovány
     menší strany (vč. jeho hnutí ČR na prvním místě).'
+  osoby:
+  - osoba: grzegorz-braun
+    vztah: pozitivni
+    kontext: Polský europoslanec, jemuž v EP vypnuli mikrofon („obětujete krev Ukrajinců") — Vrabel ho
+      označuje za obdivovaného „kolegu" (zmiňuje i hašení chanukové menory a trhání vlajek EU)
   podtema: Trestání politického projevu
 - id: vrabel-2026-06-06-03
   typ: tvrzeni
@@ -69,6 +86,11 @@ vyroky:
     F-35, 90 mld. pro Ukrajinu, jaderné zbraně), bulharský Radev, rumunský Georgescu (zakázán soudem).
     Klíčová teze: svět není rozdělen horizontálně (Rusko vs. Západ), ale vertikálně — „elity proti obyčejným
     lidem"; volíme ty, koho nám elity dosadí přes média a sponzory. Navazuje na [Trump jako mesijáš globalistů](#trump-jako-mesijáš-globalistů-předpověď-z-let-20202021--vrabel-5-5-2026).'
+  osoby:
+  - osoba: peter-magyar
+    vztah: negativni
+    kontext: Tisíce Maďarů protestují — „zradil" sliby o ochraně hranic, zrušil veto; Vrabel ho řadí mezi
+      globalisty dosazené „falešné mesiáše"
 - id: vrabel-2026-06-06-05
   typ: tvrzeni
   temata:
@@ -83,6 +105,11 @@ vyroky:
     dostávají shadowban). Cíl v Arménii: odříznout zemi od ruského vlivu a zřídit americké vojenské základny
     pro budoucí útok na Rusko. Predikuje, že globalisté „svého člověka" dosadí (jako u Orbána/Magyara).
     Navazuje na [Arménie 50 mil. eur](valka-nato-rusko.md#arménie-50-mil-eur-a-polská-žádost-o-americkou-základnu--obkličování-ruska-vrabel-4-6-2026).'
+  osoby:
+  - osoba: ned-rothschild
+    vztah: neutralni
+    kontext: Dědic rodu Rothschildů, příbuzensky propojený s Trumpy (přes Kushnerovu sestru); s Ivankou
+      a Kushnerem na jachtě u albánského ostrova — Vrabel jej staví do centra „globalistické sítě"
 - id: vrabel-2026-06-06-06
   typ: tvrzeni
   temata:
@@ -147,4 +174,13 @@ vyroky:
     za miliardy a sabotoval mír 2022). Zmiňuje ruskou EMP zbraň (mohla by v okruhu 30 km vyřadit veškerou
     elektroniku — analogie s knihou Tma Ondřeje Neffa) a varuje, že při pokračujícím ostřelování Ruska
     může „Orešník" přiletět už 2026/2027, ne až 2030.'
+  osoby:
+  - osoba: keir-starmer
+    vztah: negativni
+    kontext: 'Prohlásil, že Rusko může napadnout NATO/Británii 2030, a vyzval ke zbrojení — Vrabel: zbrojení
+      = byznys a politický vliv, britské tajné služby jen „odposlechly" německou rétoriku'
+  - osoba: boris-johnson
+    vztah: negativni
+    kontext: Vyzval „Ukrajina musí vyhrát"; dle Vrabela sabotoval mírová jednání 2022 a přijel za Zelenským
+      se sponzorem, jenž získal zbrojní zakázku za miliardy
   podtema: Eskalace a hrozba rozšíření konfliktu

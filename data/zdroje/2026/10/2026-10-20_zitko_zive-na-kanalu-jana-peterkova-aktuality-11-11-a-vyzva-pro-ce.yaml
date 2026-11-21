@@ -43,6 +43,16 @@ vyroky:
     se proti Rusku neobrátil“.'
   citace:
   - text: Míč, tak jak byl předán v roce 2018 Vladimírem Putinem Donaldu Trumpovi, je na straně Čermáka.
+  osoby:
+  - osoba: zitko
+    vztah: pozitivni
+    kontext: S Zítkem má ověřit identitu Čermáka v živé konfrontaci
+  - osoba: renata-bernardy
+    vztah: negativni
+    kontext: „Dóra a Macecha“; dřív tvrdila, že Čermáka udala žena — „kdo lže?“
+  - osoba: patrik-tusl
+    vztah: neutralni
+    kontext: Na TV Šalingrad prý tvrdil, že Čermáka udala žena
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-10-20-03
   typ: tvrzeni
@@ -55,6 +65,10 @@ vyroky:
     do ČNR, po dohodě s Mečiarem si prý „prohodili role“ a Stráský „doklepal“ rozdělení jako premiér bez
     důvěry. Nově dodává, že „nezákonnost“ začala už tím, že Beneš v roce 1948 nepodepsal komunistickou
     ústavu.'
+  osoby:
+  - osoba: iva-millerova
+    vztah: pozitivni
+    kontext: 'Banner: zákony po 29. 3. 1990 neplatné'
 - id: zitko-2026-10-20-04
   typ: tvrzeni
   temata:
@@ -71,6 +85,10 @@ vyroky:
     (Christian B. Wallace) o dohodě o mlčenlivosti, kterou prý podepisují účastníci „skupiny Tier 4b“
     při čerpání peněz z QFS: nesmějí sdělit místo centra, jména ani výši alokace. QFS podle Zítka už v
     některých lokalitách USA běží; přijdou i kvantové telefony a med beds.'
+  osoby:
+  - osoba: pavel-tykac
+    vztah: negativni
+    kontext: Elektřinu prý vyrábí za 15 haléřů, lidé platí přes 10 Kč
 - id: zitko-2026-10-20-05
   typ: tvrzeni
   temata:
@@ -87,3 +105,66 @@ vyroky:
   - text: Vy sledujete film v repríze, protože už všichni čelní představitelé deep state byli vyřešeni,
       to znamená byli popraveni. […] Takže je údajně připraveno 500 tisíc rozsudků, které budou přímo
       vykonány.
+  osoby:
+  - osoba: bill-gates
+    vztah: negativni
+    kontext: „Popraven 2013“ za očkování v Indii; má stanout před soudem v Leeuwardenu
+  - osoba: peter-stassen
+    vztah: pozitivni
+    kontext: Vede obžalobu proti Gatesovi, Bourlovi a Ruttemu
+- id: zitko-2026-10-20-06
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: americké poločasové volby „vůbec nemusí proběhnout“, místo nich EBS
+  text: Volby do Kongresu USA začátkem listopadu se podle Zítka vůbec nemusí konat, protože v rámci „vyložení
+    karet“ přijde vysílání EBS a „velké finále“ operace „Red October“.
+  citace:
+  - text: Moje predikce je, že k těm poločasovým volbám ve Spojených státech začátkem listopadu vůbec
+      nemusí dojít, protože v rámci vyložení karet a vysílání EBS bude možná úplně něco jiného než volby
+      ve Spojených státech.
+  predikce:
+    horizont: 3. 11. 2026
+    stav: vyvraceno
+    horizont_do: 2026-11-03
+    vyhodnoceni:
+    - datum: &id001 2026-11-20
+      text: volby 3. 11. proběhly, demokraté ovládli Sněmovnu i Senát; EBS nenastal
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Výsledek doložen Vrabelovým přehledem ze 4. 11. a zahraničními médii. Test EBS proběhl až
+        17. 11., bez výpadku.
+- id: zitko-2026-10-20-07
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: proces s Gatesem, Bourlou a Ruttem v Leeuwardenu 22. 10.
+  text: 22. 10. 2026 má v nizozemském Leeuwardenu začít „dlouho očekávaný proces“, v němž budou na lavici
+    obžalovaných (osobně, nebo přes právní zástupce) Bill Gates, Albert Bourla a Mark Rutte. Obžalobu
+    má vést právník Peter Stassen.
+  citace:
+  - text: Tohleto je dlouho, dlouho očekávaný proces, který se odehraje v Holandsku 22.
+  predikce:
+    horizont: 22. 10. 2026
+    stav: castecne
+    horizont_do: 2026-10-22
+    vyhodnoceni:
+    - datum: *id001
+      text: jednání v Leeuwardenu 22. 10. proběhlo, ale jako civilní řízení s právními zástupci, ne trestní
+        proces s obžalovanými
+      stav: castecne
+    - datum: 2026-11-20
+      text: Rechtbank Noord-Nederland oznámil ústní jednání ve věci covidové žaloby na 22. 10. 2026. Zítko
+        26. 10. sám uvádí, že „byli tam jejich právníci“.
+- id: zitko-2026-10-20-08
+  typ: stoch-teror
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: policie, tajné služby, „hejtři a fízlové“ (deep state)
+  text: v kontextu „popravených“ čelních představitelů deep state
+  citace:
+  - text: Je údajně připraveno 500 tisíc rozsudků, které budou přímo vykonány. Takže i ti vocasové, kteří
+      si myslí z řad policie, tajných služeb, hejtrů, fízlů, že je ochrání jejich páníčci, tak kdepak
+  teror:
+    terc: policie, tajné služby, „hejtři a fízlové“ (deep state)
+    hranicni: false

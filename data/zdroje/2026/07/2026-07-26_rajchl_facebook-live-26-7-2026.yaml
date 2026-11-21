@@ -17,6 +17,11 @@ zdroj:
     (8) Útok mačetou v Berlíně, pokrytectví levice — [migrace.md](migrace.md). (9) Konkrétní návrhy k
     migraci — opakování rozšířené o nové příklady — [migrace.md](migrace.md). (10) Slyšení Fauciho 29.
     7. — [covid-vakciny.md](covid-vakciny.md). Bez nových predikcí (opakuje 19. 7.) a stoch. teroru.'
+  osoby:
+  - osoba: karel-schwarzenberg
+    vztah: rozporuplny
+    kontext: Úmrtí — Rajchl vyjadřuje upřímnou soustrast, oceňuje, že si vždy stál pevně za svým názorem,
+      ač s ním v mnohém nesouhlasil
 vyroky:
 - id: rajchl-2026-07-26-01
   typ: tvrzeni

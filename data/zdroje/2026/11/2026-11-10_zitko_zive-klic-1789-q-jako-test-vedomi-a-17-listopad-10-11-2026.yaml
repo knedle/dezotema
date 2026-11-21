@@ -31,6 +31,10 @@ vyroky:
     až budou „všichni aktéři, propagátoři“ postaveni před soud.'
   citace:
   - text: Nikdy tu nešlo o zdraví, šlo o to, kdo měl moct říct ne.
+  osoby:
+  - osoba: albert-bourla
+    vztah: negativni
+    kontext: „Veterinář“, který „to začal píchat do lidí“
   podtema: Slovenský poslanec Jaroslav Paška a selhání SÚKL (Zítko, 15. 9. 2026)
 - id: zitko-2026-11-10-02
   typ: tvrzeni
@@ -44,6 +48,13 @@ vyroky:
     a „mírová smlouva směřující k ukončení následků druhé světové války se blíží“. Spojení ČSR podle něj
     nebude problém, protože protektorát a Slovenský stát se po válce také znovu spojily. Americký celostátní
     test nouzového varování 17. 11. může být podle něj test, nebo „na tvrdo“ („důvěřujte plánu“).'
+  osoby:
+  - osoba: vaclav-klaus
+    vztah: negativni
+    kontext: Rozdělení ČSFR jako velezrada
+  - osoba: vladimir-meciar
+    vztah: negativni
+    kontext: Rozdělení ČSFR jako velezrada
 - id: zitko-2026-11-10-03
   typ: tvrzeni
   temata:
@@ -66,3 +77,7 @@ vyroky:
     něj „konec obchodování s dětmi, konec výroby adrenochromu“ (prý mizí 8 milionů dětí ročně).'
   citace:
   - text: JFK byl starter a Donald Trump je finisher.
+  osoby:
+  - osoba: robert-fico
+    vztah: neutralni
+    kontext: Podle něj přiznal upravené referendum o vstupu do EU

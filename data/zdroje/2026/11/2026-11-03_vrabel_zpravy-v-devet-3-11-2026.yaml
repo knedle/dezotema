@@ -9,6 +9,61 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 8 min, zprávy čte Zuzka; vysíláno v den amerických voleb do Kongresu; krátká videa (dům
     u Kyjeva); Vrabel se omlouvá, že zprávy dostal až na místě.
+  osoby:
+  - osoba: sergej-lavrov
+    vztah: rozporuplny
+    kontext: Jeho výrok o „krátké válce“ s Evropou je „blabla, odstrašení“
+  - osoba: karol-nawrocki
+    vztah: rozporuplny
+    kontext: Volání po amerických vojácích kvůli vnitřní stabilitě „nechápe“
+  - osoba: michal-strnad
+    vztah: negativni
+    kontext: Znovu otevírá továrny na TNT a nitroglycerin pro munici proti Rusku
+  prehled:
+  - tema: Nawrocki chce plán trvalé přítomnosti amerických vojsk
+    text: spojitost vnitřní stability Polska s americkými vojáky „nechápe“, „překvapivé vyjádření“.
+  - tema: Volby do Kongresu USA
+    text: Trump zradil voliče (Venezuela, Írán, cla), „mírovou kartu“ hraje jen před volbami; po volbách
+      se do 1–2 týdnů vrátí k válkám, demokraté nejspíš získají Sněmovnu, možný impeachment → viz [Predikce](../predikce.md)
+  - tema: 'Trump ve Fox News: konec americké finanční pomoci Izraeli'
+    text: „poslední divoká karta“ a „předvolební tah“.
+  - tema: Eskalace námořní války v Černém a Azovském moři
+    text: „přituhuje a NATO se sune blíž k Rusku“ (opakuje).
+  - tema: Schůzka Západu o zárukách (4. 11.) a jednání v Abú Zabí (10.–11. 11.)
+    text: „Cčkové setkání“ a „předvolební PR“ — Witkoff a Kushner jsou „realitní makléři“; jedinou zárukou
+      je vojenská neutralita Ukrajiny s nejvýš 100 tisíci vojáky, vstup do EU by EU „stáhl ke dnu“ → viz
+      [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-03-03
+  - tema: Rusko, „nacistický režim“ a obklíčení
+    text: Rusové denacifikaci „dotáhnou do konce“; 90% pravděpodobnost války Západu s Ruskem (opakuje).
+  - tema: 'Divák: obrana NATO proti ruským zbraním'
+    text: Lavrovova „krátká válka“ je „blabla, odstrašení“, válka s Evropou by trvala 5–10 let (opakuje).
+  - tema: SBU podezírá bývalou mluvčí Zelenského Mendelovou z velezrady
+    text: hrozí jí „trest smrti“ nebo „nájemný zabiják“; sám drží „low profile“, na Západě jsou v bezpečí
+      jen ti, kdo „jedou s NATO a s EU“; „boj elit proti lidem“
+    vyrok: vrabel-2026-11-03-01
+  - tema: Střety u objektu Azovu u Kyjeva
+    text: „první důkazy“, jak „ukrajinský režim“ mučí vlastní lidi; Rusko jsme podle něj měli podpořit
+      „především diplomaticky“, napadení Ukrajiny „nikdy neřekl“
+    vyrok: vrabel-2026-11-03-02
+  - tema: 'Zelenskyj v PBS: „tlačte na Putina, ne na mě“'
+    text: bez komentáře.
+  - tema: CSG rozšiřuje výrobu TNT a nitroglycerinu v Řecku a Německu
+    text: výroba se rozkládá do zahraničí, „abychom to my neviděli“; Babiš lže o muniční iniciativě (opakuje).
+  - tema: Lotyšsko jako centrum výroby dronů pro Ukrajinu
+    text: bez komentáře.
+  - tema: Finsko se připojilo k francouzskému jadernému odstrašení
+    text: totéž čeká ČR (opakuje).
+  - tema: Největší cvičení brigády NATO v Lotyšsku
+    text: i covidu předcházelo strategické cvičení.
+  - tema: Grónsko schválilo dohodu o bezpečnosti Arktidy
+    text: USA potřebují Grónsko pro raketové základny (opakuje).
+  - tema: Bojkot zápasů s Ruskem
+    text: „čím víc nenávisti proti Rusku, tím horší to ve finále bude“ (opakuje).
+  - tema: Arménie zvažuje žádost o vstup do EU
+    text: ironicky, že brzy bude jednat s Macronem o jaderných zbraních.
+  - tema: Kybernetické útoky na chladicí systémy supermarketů
+    text: chytrá zařízení jsou nebezpečná.
 vyroky:
 - id: vrabel-2026-11-03-01
   typ: tvrzeni
@@ -24,6 +79,13 @@ vyroky:
     policii i armádu.'
   citace:
   - text: Bohužel to, to, čím procházíme, je boj elit proti lidem.
+  osoby:
+  - osoba: julia-mendelova
+    vztah: pozitivni
+    kontext: „Řekla pravdu“, „je mi to opravdu líto“
+  - osoba: reiner-fullmich
+    vztah: pozitivni
+    kontext: Chtěl soudy „proti té západní mafii“, je ve vězení
   podtema: Politická perzekuce
 - id: vrabel-2026-11-03-02
   typ: tvrzeni
@@ -59,4 +121,78 @@ vyroky:
     stoprocentní jistotou“.'
   citace:
   - text: Tohle to je jediná možná bezpečnostní záruka pro Ukrajinu, že bude vojensky neutrální.
+  osoby:
+  - osoba: steve-witkoff
+    vztah: negativni
+    kontext: S Kushnerem „realitní makléři“, nevolení; setkání kvůli nim „Cčkové“
+  - osoba: jared-kushner
+    vztah: negativni
+    kontext: „Realitní makléř“ bez mandátu
   podtema: Vyjednávání a mír
+- id: vrabel-2026-11-03-04
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: jednání v Abú Zabí (10.–11. 11.) nepřinese žádný pozitivní výsledek
+  text: Americko-rusko-ukrajinská jednání budou jen „předvolební PR“; zazní, jak byla konstruktivní, ale
+    nic z nich nevzejde.
+  citace:
+  - text: Neočekávám od toho vůbec žádný výsledek, který by byl nějak pozitivní.
+  predikce:
+    horizont: 10.–11. 11. 2026
+    stav: potvrzeno
+    horizont_do: 2026-11-11
+    vyhodnoceni:
+    - datum: &id001 2026-11-20
+      text: jednání v Abú Zabí přinesla jen dohodu o výměně zajatců, bez mírového průlomu
+      stav: potvrzeno
+    - datum: 2026-11-20
+      text: Vrabel 10.–11. 11. dohodu o výměně zajatců sám označil za „ne průlom“ a Rusko podle Medinského
+        územní výměnu odmítá.
+- id: vrabel-2026-11-03-05
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Trump se po volbách do Kongresu do 1–2 týdnů vrátí k válečné politice
+  text: Mírová rétorika vydrží nanejvýš týden či dva, pak Trump znovu rozjede války a „objeví se něco“,
+    proč je potřeba pomáhat Ukrajině.
+  citace:
+  - text: myslím si, že politika Donalda Trumpa pomalu, možná ještě třeba týden, dva týdny, vydrží v nějakém
+      takovém hodu, ale myslím si, že pomalu začne otáčet a pojede zase to, co je před těmi dvěmi měsíci.
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Zradil voliče (Venezuela, Írán, cla), před volbami jen „mírová karta“ a „předvolební PR“
+  predikce:
+    horizont: do poloviny listopadu 2026
+    stav: vyvraceno
+    vyhodnoceni:
+    - datum: *id001
+      text: 'do poloviny listopadu se Trump k válečné politice nevrátil: slíbil spolupráci s demokraty,
+        odmítl jaderný útok na Írán a 19. 11. jednal s Putinem a Si'
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Doloženo Vrabelovými denními přehledy 4.–19. 11. Vrabel teď „druhé kolo“ války s Íránem čeká
+        mezi 19. 11. a 7. 12.
+- id: vrabel-2026-11-03-06
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: demokraté získají Sněmovnu reprezentantů, možný je pokus o impeachment
+  text: V den voleb do Kongresu odhaduje, že demokraté nejspíš vyhrají Sněmovnu reprezentantů (Senát nejistý)
+    a že může přijít pokus o impeachment.
+  citace:
+  - text: Očekávám, že demokraky by mohly vyhrát s nímovnou reprezentantů, to si myslím, že je docela
+      pravděpodobný.
+  predikce:
+    horizont: výsledky voleb 3.–4. 11. 2026; impeachment neurčeno
+    stav: potvrzeno
+    horizont_do: 2026-11-04
+    vyhodnoceni:
+    - datum: *id001
+      text: (Sněmovna); impeachment 🕐
+      stav: potvrzeno
+    - datum: *id001
+      text: Podle zpráv čtených 4. 11. demokraté ovládli Sněmovnu reprezentantů i Senát ([Ladislav Vrabel
+        — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)); impeachment
+        zatím nenastal.

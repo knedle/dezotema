@@ -8,6 +8,13 @@ zdroj:
   prepis: prepisy/done/2026-09-28_Jiří-Černohorský_Facebook-Live.txt
   rezim: standard
   poznamka: Úsek 29:24–40:19 je předčítaná AI rešerše o Vrabelově trestní kauze.
+  osoby:
+  - osoba: pavel-krejci
+    vztah: negativni
+    kontext: „Úchylák", vyšachoval ho ze strany
+  - osoba: renata-bernardy
+    vztah: negativni
+    kontext: Dvakrát ho udala, placený web
 vyroky:
 - id: cernohorsky-2026-09-28-01
   typ: tvrzeni
@@ -21,6 +28,10 @@ vyroky:
     ⚡ **Konflikt:** Vrabel své odsouzení prezentuje jako politickou perzekuci za „zaškrtnutí okýnka" o bezdlužnosti a „náhradu škody, ne dotaci" (viz [osoby/vrabel.md](osoby/vrabel.md)).
   citace:
   - text: Ladislav Vrábel je za mě obyčejný hochštapler a podvodník.
+  osoby:
+  - osoba: vrabel
+    vztah: negativni
+    kontext: „Hochštapler a podvodník", „kolaborant", „táhni do Srbska"
   podtema: Kauza Jesenicko — Stanjura obviněn ze zneužití povodňové půjčky
 - id: cernohorsky-2026-09-28-02
   typ: tvrzeni
@@ -44,6 +55,13 @@ vyroky:
     Vlastním testem ukazuje, že programy stran jsou zaměnitelné a „právně nevymahatelné".'
   citace:
   - text: Za mě Vrábel se Sládkem jsou největší zasraný, zamrdaný kurvy na této vlastenecké scéně.
+  osoby:
+  - osoba: miroslav-sladek
+    vztah: negativni
+    kontext: „Klasický rasista", násilí, „zalez do kanálu"
+  - osoba: katerina-konecna
+    vztah: pozitivni
+    kontext: Pomáhá nezištně
   podtema: Volby
 - id: cernohorsky-2026-09-28-04
   typ: tvrzeni
@@ -66,6 +84,10 @@ vyroky:
     kdokoliv"); omlouvá se lidem, které nazval hlupáky, i Pavlu Zítkovi za vulgární nařčení, že profil
     založil on — „v tomhle případě jsem hlupák já". ⚡ Zítko omluvu v následujících dnech označil za „teatrální"
     a profil připisuje Čermákovu otčímovi (viz [kauzy.md](kauzy.md#propuštění-údajného-tomáše-čermáka-jako-sehraný-justiční-podvod-s-dvojníkem-zítko-2427-9-2026)).'
+  osoby:
+  - osoba: tomas-cermak
+    vztah: rozporuplny
+    kontext: Soucitné rady, varování před násilím; profil možná od „lidí kolem Čermáka"
   podtema: USA — volební systém
 - id: cernohorsky-2026-09-28-07
   typ: tvrzeni
@@ -76,3 +98,28 @@ vyroky:
     posunout"; jmenovitě viní ředitelku a třídní učitelku, OSPOD, psychiatričku, policistu „pana Bílého",
     státní zástupkyni a soudkyni, která prý „sama sebe z podjatosti vyšetřovala" — „zatneme jim tipec".'
   podtema: Šmírování dětí státem
+- id: cernohorsky-2026-09-28-08
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: Ladislav Vrabel, Miroslav Sládek
+  text: výzva k fyzickému napadení, vyhnání a uvěznění
+  citace:
+  - text: tady těmhle dvou zmrdům rozbít rypáky. Jenom rozbít rypáky, nakopat prdele a vykopat je z České
+      republiky. Vrábele táhni do hajzlu, do toho svýho Srbska [...] A Sládku, ty už zalez někam do kanálu"
+      + „A já bych ho zašil natvrdo
+  teror:
+    terc: Ladislav Vrabel, Miroslav Sládek
+    hranicni: false
+- id: cernohorsky-2026-09-28-09
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Pavel Zítko
+  text: dehumanizace + výzva k uvěznění
+  citace:
+  - text: ten zmrd patří do kriminálu, nic jinýho, vyjebanej, zasranej, skurvenej zmrd, který ojebává
+      lidi
+  teror:
+    terc: Pavel Zítko
+    hranicni: false

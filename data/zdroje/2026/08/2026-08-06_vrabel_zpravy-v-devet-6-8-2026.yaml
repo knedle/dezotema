@@ -12,6 +12,31 @@ zdroj:
     Trump/Vance/Thiel technokracie, Írán–Omán Hormuz, klimatický adaptační plán, Irsko neutralita — viz
     [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (zlato/stříbro) extrahována
     bezvýjimečně. Bez stoch. teroru.'
+  prehled:
+  - tema: 81. výročí Hirošimy
+    text: kritika USA a propojení s jaderným deštníkem Francie — nezpracováno plně
+  - tema: Migrace — Ceuta (incident s granátem) a Lex Ukrajina 7 (konec výjimky z migračního paktu)
+    text: → [Migrace a islamizace](../migrace.md)
+  - tema: Dron na letišti v Lipsku — doplněné detaily (munice z Francie, Dobrindt, Foltyn)
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: G7 platí víc na dluhovou službu než na obranu
+    text: teorie o zadlužování jako přípravě na válku — nezpracováno plně
+  - tema: Trump/Vance/Hegseth a Peter Thiel/Palantir jako technokratická budoucnost
+    text: → [Digitální kontrola](../digitalni-kontrola.md)
+  - tema: Trump a cla
+    text: ekonomická válka s Čínou jako další fronta — nezpracováno plně
+  - tema: Zlato/stříbro
+    text: Čína zakazuje „papírové zlato", banky skupují fyzický kov — extrahována predikce
+  - tema: Írán–Omán dohoda o Hormuzském průlivu, USA v regionu „prohrálo"
+    text: → [Blízký východ](../blizky-vychod.md)
+  - tema: Polsko
+    text: 50. balíček vojenské pomoci Ukrajině navzdory sporům o Banderu — krátká zmínka
+  - tema: Ázerbájdžán–Ukrajina energetická spolupráce
+    text: krátká zmínka
+  - tema: Národní klimatický adaptační plán — jen 2,5 % na vodu, zbytek na Green Deal
+    text: → [Větrné elektrárny](../vetrniky.md)
+  - tema: Irsko opouští vojenskou neutralitu
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
 vyroky:
 - id: vrabel-2026-08-06-01
   typ: tvrzeni
@@ -102,3 +127,16 @@ vyroky:
     o vodě, ačkoli jde jen o marginální část celkové částky, kterou nazývá „ideologickou agendou 2030"
     rozpracovanou do vládní strategie.'
   podtema: Kulturní a občanský odpor
+- id: vrabel-2026-08-06-07
+  typ: predikce
+  temata:
+  - digitalni-kontrola
+  nadpis: cena zlata a stříbra po dokončení výprodeje „papírového" zlata prudce vzroste
+  text: Vrabel tvrdí, že Čína zakázala obchodování s „papírovým zlatem" (nekrytým fyzickým kovem) a nechává
+    obchodovat jen fyzické zlato na burze v Šanghaji; podobně JP Morgan a další západní centrální banky
+    už půl roku vyprodávají své papírové zásoby zlata a stříbra, aby uměle udržely nízkou cenu, dokud
+    si samy nenakoupí dostatek fyzického kovu. Až tento proces skupování dokončí, očekává, že cena zlata
+    a stříbra „půjde velmi silně nahoru" — doporučuje to jako tip pro dlouhodobé investory.
+  predikce:
+    horizont: neurčeno
+    stav: ceka

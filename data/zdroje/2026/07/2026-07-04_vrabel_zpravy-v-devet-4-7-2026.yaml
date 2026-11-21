@@ -25,6 +25,24 @@ zdroj:
     Vedlejší téma: MO koupilo bytový komplex v Jincích pro vojáky + Vrabelova vzpomínka na šikanu na vojně
     — [valka-nato-rusko.md](valka-nato-rusko.md). Bez stoch. teroru. Pravidelný přehled zahraničních a
     domácích zpráv s komentářem'
+  prehled:
+  - tema: Zpracováno 12 témat
+    text: '(1) Poslanec Matecki v polském Sejmu kritizuje Ukrajinu za velebení UPA — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (2) Rusko oznámilo dobytí Konstantinovky, Zelenskyj vyzývá Putina na schůzku tam — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (3) Putin: bezpečnostní pásmo dle intenzity úderů → predikce preventivního úderu na Pobaltí — [valka-nato-rusko.md](../valka-nato-rusko.md)
+      + [predikce.md](../predikce.md). (4) AfD sjezd v Erfurtu — globalismus vs. suverenismus, 4 pilíře
+      — [suverenita-eu.md](../suverenita-eu.md). (5) Ukrajinský dronový útok na ropný terminál u Petrohradu
+      — vtažení NATO do konfliktu — [valka-nato-rusko.md](../valka-nato-rusko.md). (6) Trump k 250 letům
+      USA („komunista nebo vlastenec") + Vrabelova esej o americké historii — [suverenita-eu.md](../suverenita-eu.md).
+      (7) ⚡ Konflikt: Vrabel odmítá teorii o pokračující existenci Československa (vs. Zítko/Konspirátor)
+      — [konspirace.md](../konspirace.md). (8) Medvedev kritizuje útok USA na Írán, Vrabel žádá mezinárodní
+      izolaci USA — [blizky-vychod.md](../blizky-vychod.md). (9) BRICS se mění z obchodního uskupení na
+      bezpečnostní pakt — [valka-nato-rusko.md](../valka-nato-rusko.md). (10) EU otevře 8. 7. šestý klastr
+      přístupových jednání s Ukrajinou — [valka-nato-rusko.md](../valka-nato-rusko.md). (11) Von der Leyen:
+      bez nových vlastních zdrojů klesne rozpočet EU o 40 % — [suverenita-eu.md](../suverenita-eu.md).
+      (12) Ázerbájdžán/Arménie diverzifikace energie od Ruska, Trump hrozí EU ukončením dodávek — [ceny-energie.md](../ceny-energie.md).
+      Vedlejší téma: MO koupilo bytový komplex v Jincích pro vojáky + Vrabelova vzpomínka na šikanu na
+      vojně — [valka-nato-rusko.md](../valka-nato-rusko.md). Bez stoch. teroru.'
 vyroky:
 - id: vrabel-2026-07-04-01
   typ: tvrzeni
@@ -42,6 +60,11 @@ vyroky:
     práv žen jinou cestou. Volá po tom, aby se „celý svět spojil" a USA potrestal — vojensky je izoloval
     mezi oceány a nechal je hospodařit jen s vlastním dolarem; zdůrazňuje, že si nepřeje kolaps ani bankrot
     USA, jen konec jejich zasahování do ostatních zemí.
+  osoby:
+  - osoba: dmitrij-medvedev
+    vztah: pozitivni
+    kontext: Jeho kritiku útoku USA na Írán jako „zhroucení mezinárodního práva" Vrabel stoprocentně sdílí,
+      chválí ho jako vzdělaného člověka s dobrým historickým přehledem
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-07-04-02
   typ: tvrzeni
@@ -106,6 +129,11 @@ vyroky:
     Trumpa na 350 mld. dolarů od EU jako náhradu za zbraně dodané Ukrajině v letech 2022–2024 jako další
     příklad tohoto mechanismu. Ministra zahraničí Petra Macinku kritizuje za projev, že česká svoboda
     pochází ze svobody USA — označuje to za ztrátu soudnosti.'
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: 'Projev o tom, že česká svoboda pochází ze svobody USA — Vrabel: „už prostě nevidí svět takový,
+      jaký je"'
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-07-04-06
   typ: tvrzeni
@@ -139,6 +167,15 @@ vyroky:
     verzi než dosavadní ukrajinské válečné propagandě (odkazuje na [kritiku Fedorova v ukrajinském parlamentu,
     3. 7.](#tck-brutalita-a-nespokojenost-v-ukrajinském-parlamentu--66--chce-mír-vrabel-3-7-2026)). Predikuje,
     že ruská armáda bude postupovat směrem na Kramatorsk a fakticky ovládne celou Doněckou oblast.
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: 'Vyzval Putina na schůzku v dobité Konstantinovce — Vrabel: „plácnutí do vzduchu", Zelenskyj
+      je na jednání s Putinem „opravdu malý pán"'
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: Oznámení o rozšiřování „bezpečnostního pásma" bere jako logické a promyšlené; souhlasí s
+      Medveděvovou kritikou USA
   podtema: Průběh války, útoky a „terorismus"
 - id: vrabel-2026-07-04-08
   typ: tvrzeni
@@ -168,6 +205,11 @@ vyroky:
     sloupům za krádež jídla, i policií) se řeší jen velebení dávných postav. Přirovnává to k tomu, jako
     by oběť znásilnění byla kritizována za to, že si pachatel při vniknutí rozkopal dveře. Navazuje na
     [Polsko žádá Ukrajinu o přejmenování jednotky po UPA (6. 6.)](#polsko-žádá-ukrajinu-o-přejmenování-jednotky-po-upa-vrabel-6-6-2026).
+  osoby:
+  - osoba: dariusz-matecki
+    vztah: pozitivni
+    kontext: Poslanec PiS kritizoval v Sejmu Ukrajinu za velebení UPA — Vrabel oceňuje „aspoň trošku zdravého
+      rozumu", ale považuje to za nedostatečné
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-07-04-10
   typ: tvrzeni
@@ -212,3 +254,18 @@ vyroky:
   dalsi_zdroje:
   - 2026-07-05_vrabel_nedelni-vysilani-5-7-2026
   podtema: Eskalace a hrozba rozšíření konfliktu
+- id: vrabel-2026-07-04-13
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Rusko provede preventivní úder na místa s jadernými zbraněmi u svých hranic
+  text: Až si bude Rusko jisté chystaným útokem na svém území, provede preventivní vojenský úder (analogický
+    24. únoru 2022 vůči Ukrajině) na území, kde by mohly být umístěny zbraně ohrožující Rusko — týkalo
+    by se to zemí s dlouhým doletem raket blízko ruských hranic, jako Litva, Lotyšsko, Estonsko a Finsko,
+    které aktuálně ruší zákazy umístění jaderných zbraní.
+  citace:
+  - text: Předpokládám, že Rusové budou dělat podobnou věc, jakou udělali 24. února roku 2022 směrem k
+      Ukrajině.
+  predikce:
+    horizont: neurčeno (podmíněno dalším rozmístěním jaderných zbraní v Pobaltí/Finsku)
+    stav: ceka

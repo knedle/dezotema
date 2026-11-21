@@ -9,6 +9,13 @@ zdroj:
   rezim: standard
   poznamka: 1 h 2 min, pravidelné nedělní vysílání („Pokus o puč v Polsku, Rusové zpět na MS, koncesionářské
     poplatky a uměle vyvolaná hysterie aspenovské kliky politických neziskovek v ČR“); až 4 100 diváků.
+  osoby:
+  - osoba: filip-turek
+    vztah: pozitivni
+    kontext: „Klobouk dolů“, odvážně podpořil start Rusů
+  - osoba: jan-molacek
+    vztah: negativni
+    kontext: Stížnost k Radě ČT za porušení etického kodexu
 vyroky:
 - id: rajchl-2026-11-01-01
   typ: tvrzeni
@@ -31,6 +38,13 @@ vyroky:
   citace:
   - text: Česká televize není zárukou demokracie. To je lež, kterou tady neustále šíří libtardi, kteří
       nemají žádný věcný argument.
+  osoby:
+  - osoba: mikulas-minar
+    vztah: negativni
+    kontext: „Zdefraudoval“ 7 mil., „měl by sedět ve vězení“, „srab“
+  - osoba: boris-stastny
+    vztah: rozporuplny
+    kontext: Respektuje jeho jiný názor na start Rusů; DAMU mu zakázala vstup
   podtema: Česká televize a mainstreamová média
 - id: rajchl-2026-11-01-02
   typ: tvrzeni
@@ -47,6 +61,13 @@ vyroky:
     kvůli bratrovi v Rusku včetně zveřejnění adresy její rodiny.'
   citace:
   - text: Aspen je VUML, novodobým VUML, který si řídili oni, velmi chytře, pozor, to si musí nechat.
+  osoby:
+  - osoba: bara-starkova
+    vztah: negativni
+    kontext: Absolventka Aspenu, „eurokomsomolka“ vyslaná řídit protest
+  - osoba: natalie-vachatova
+    vztah: pozitivni
+    kontext: „Mladá, skvělá, inteligentní žena“, oběť „bolševického“ lynče
   podtema: Dvojí metr v médiích
 - id: rajchl-2026-11-01-03
   typ: tvrzeni
@@ -67,6 +88,19 @@ vyroky:
   citace:
   - text: My na jednu stranu oceňujeme člověka, který tady reálně vyzývá k atentátu na politické představitele,
       na druhé straně budeme trestněprávně stíhat […] nějaké komentující jedince na mém facebookovém profilu.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Komunistický rozvědčík“, „etalon pokleslosti“, vyznamenání jako „fraška“
+  - osoba: jan-hrebejk
+    vztah: negativni
+    kontext: „Notorický alkoholik“, „ochlasta“, vyzval k „vybombardování“ hotelu Štekl
+  - osoba: milos-zeman
+    vztah: pozitivni
+    kontext: Jedna ze tří nejvýznamnějších postav po listopadu, měl být vyznamenán
+  - osoba: milan-kundera
+    vztah: pozitivni
+    kontext: Jeden z nejvýznamnějších literátů, měl být vyznamenán
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-11-01-04
   typ: tvrzeni
@@ -85,6 +119,16 @@ vyroky:
   citace:
   - text: Buď to zrušíme Evropskou komisi a centralizaci moci z Bruselu, nebo pojďme odejít z Evropské
       unie.
+  osoby:
+  - osoba: karol-nawrocki
+    vztah: pozitivni
+    kontext: „Prezident na svém místě“, zachoval se „nesmírně statečně“
+  - osoba: donald-tusk
+    vztah: negativni
+    kontext: S „kumpány“ provádí puč přes Ústavní soud
+  - osoba: jaros-aw-kaczynski
+    vztah: pozitivni
+    kontext: „Absolutně podepisuju“ jeho výzvu zrušit Komisi, nebo odejít z EU
   podtema: Česká suverenita
 - id: rajchl-2026-11-01-05
   typ: tvrzeni
@@ -104,3 +148,43 @@ vyroky:
   citace:
   - text: Tak buď tedy respektujeme všechno, nebo nic.
   podtema: Zahraniční aktéři a precedenty
+- id: rajchl-2026-11-01-06
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: po zrušení poplatků se „za rok, za dva“ nestane nic; vítězství PiS udělá z Polska hybatele rozštěpení
+    EU
+  text: Pokud vláda změnu financování ČT prosadí, do roka či dvou se ukáže, že „se nestalo vůbec nic“,
+    a hysterie skončí. Pokud v polských volbách vyhraje PiS s Konfederacemi, Polsko bude „hlavním hybatelem
+    rozštěpení Evropské unie“.
+  citace:
+  - text: Protlačíme tu změnu, tak všichni po roce, po dvou letech uvidí, že se nestalo vůbec nic a bude
+      po hysterii.
+  predikce:
+    horizont: 1–2 roky; polské parlamentní volby 2027
+    stav: ceka
+- id: rajchl-2026-11-01-07
+  typ: stoch-teror
+  temata:
+  - media-propaganda
+  nadpis: Mikuláš Minář
+  text: jmenovaný terč + výzva k uvěznění (obvinění z „defraudace“ 7 mil.)
+  citace:
+  - text: To je člověk, který by měl sedět ve vězení. […] Tenhle člověk by měl sedět v kriminále“; „není
+      většího sraba v Česku
+  teror:
+    terc: Mikuláš Minář
+    hranicni: false
+- id: rajchl-2026-11-01-08
+  typ: stoch-teror
+  temata:
+  - petr-pavel
+  nadpis: Jan Hřebejk; „eurohujerská lůza“
+  text: 'Terč: Jan Hřebejk; „eurohujerská lůza“.'
+  citace:
+  - text: Hřebejk „notorický alkoholik“, „ochlasta“, „absolutní hulvát“; odpůrci vlády „eurohujerská lůza
+      lidí, kteří neznají nic jiného než nátlak, násilí, výhrůžky“ — jmenovaný terč a kolektivní dehumanizace
+      (bez výzvy k trestu)
+  teror:
+    terc: Jan Hřebejk; „eurohujerská lůza“
+    hranicni: false

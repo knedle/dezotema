@@ -13,6 +13,23 @@ zdroj:
     na 2030, referendum bez EU/NATO/euro; Německo-Ukraina drony 1 500 km + BRAVE1 platforma; Kaya Kalas
     odmítla Schrödera, nabídla sebe jako vyjednavačku; Írán/Trump křehké příměří; Trump 4 pilíře Pentagon
     strategie; Trump manipulace finančních trhů přes Hormuz.'
+  prehled:
+  - tema: Večerní zprávy se Zuzkou. Klíčová témata
+    text: Macinka/Posselt/Landsmannschaft (Šöder na sjezd + Pražský hrad)
+  - tema: Landovský vládní zmocněnec NATO (3,5 % + 1,5 % = 5 % HDP do
+    text: Landovský vládní zmocněnec NATO (3,5 % + 1,5 % = 5 % HDP do 2035)
+  - tema: euro odloženo na 2030, referendum bez EU/NATO/euro
+    text: euro odloženo na 2030, referendum bez EU/NATO/euro
+  - tema: Německo-Ukraina drony 1 500 km + BRAVE1 platforma
+    text: Německo-Ukraina drony 1 500 km + BRAVE1 platforma
+  - tema: Kaya Kalas odmítla Schrödera, nabídla sebe jako vyjednavačku
+    text: Kaya Kalas odmítla Schrödera, nabídla sebe jako vyjednavačku
+  - tema: Írán/Trump křehké příměří
+    text: Írán/Trump křehké příměří
+  - tema: Trump 4 pilíře Pentagon strategie
+    text: Trump 4 pilíře Pentagon strategie
+  - tema: Trump manipulace finančních trhů přes Hormuz.
+    text: Trump manipulace finančních trhů přes Hormuz.
 vyroky:
 - id: vrabel-2026-05-11-01
   typ: tvrzeni
@@ -53,6 +70,11 @@ vyroky:
     Putin reagoval, že je ochotný jednat s kýmkoliv, ale chce konstruktivní jednání s někým, kdo v Rusku
     „nedělal problémy". Vrabel: jak může za EU vyjednávat někdo, kdo veřejně podporuje hluboké údery do
     ruského území?'
+  osoby:
+  - osoba: kaja-kalas
+    vztah: negativni
+    kontext: 'Odmítla Schrödera jako zprostředkovatele mírových jednání a nabídla na jeho místo sebe —
+      Vrabel: sabotáž míru ze strachu ze skutečného ukončení války'
   podtema: Vyjednávání a mír
 - id: vrabel-2026-05-11-04
   typ: tvrzeni
@@ -75,6 +97,11 @@ vyroky:
     BRAVE1 zaměřené na bezpilotní systémy, elektronický boj a robotiku. Vrabel upozorňuje: drony s dosahem
     1 500 km nejsou určeny k obraně frontové linie, ale k úderům hluboko do ruského území. Dle Vrabela
     jde o taktiku „státního terorismu" cílenou na destabilizaci ruské společnosti.'
+  osoby:
+  - osoba: boris-pistorius
+    vztah: neutralni
+    kontext: Německý ministr obrany — schválil program dronů 1 500 km s Ukrainou přes platformu BRAVE1;
+      Vrabel referuje bez přímého hodnocení
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-05-11-06
   typ: tvrzeni

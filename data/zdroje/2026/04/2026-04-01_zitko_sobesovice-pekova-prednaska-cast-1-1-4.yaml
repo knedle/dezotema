@@ -8,6 +8,11 @@ zdroj:
   prepis: prepisy/done/2026-04-01_Československo-TV2_Videoportál_2.txt
   rezim: standard
   delka: 1:40:28 — 28. 3. 2026 Soběšovice, MUDr. Peková přednáška, 1. část
+  osoby:
+  - osoba: milan-kubek
+    vztah: rozporuplny
+    kontext: Dříve varoval před vakcínami pro děti — pak svůj postoj změnil; Zítko to označuje za příklad
+      covidové revoluce hodnot
 vyroky:
 - id: zitko-2026-04-01-02
   typ: tvrzeni

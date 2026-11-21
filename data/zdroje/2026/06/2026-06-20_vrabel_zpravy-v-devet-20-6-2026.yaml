@@ -16,6 +16,25 @@ zdroj:
     (Larry Johnson, ex-CIA — patogeny na genetický profil Rusů); Babiš = Pavel, žádná změna (L-39 pro
     Ukrajinu); Bělorusko — Zelenský vyhrožuje, Gajdukevič „celý arzenál" (konflikt ne před summitem NATO).
     Zprávy v devět s komentářem (moderátorka Zuzka)
+  prehled:
+  - tema: Válka NATO/EU/Ukrajina vs. Rusko („opona spadne", lháři von
+    text: Válka NATO/EU/Ukrajina vs. Rusko („opona spadne", lháři von der Leyen/Costa, Trump 350 mld $)
+  - tema: Irán–USA memorandum (14 bodů z Al Jazeera/Al-Arabia) =
+    text: Irán–USA memorandum (14 bodů z Al Jazeera/Al-Arabia) = kapitulace USA + shortování ropy/krypta
+  - tema: migrace = Kalergiho plán/globalistická agenda (přijdou
+    text: migrace = Kalergiho plán/globalistická agenda (přijdou desítky milionů)
+  - tema: klimatické změny + chemtrails (bílé slunce, těžké
+    text: klimatické změny + chemtrails (bílé slunce, těžké kovy/hliník)
+  - tema: Miloš Zeman se obhajuje za řád Bílého lva Zelenskému (ČR má
+    text: Miloš Zeman se obhajuje za řád Bílého lva Zelenskému (ČR má odebrat, Lorencová vrátila řád)
+  - tema: cenzura RT/Sputnik (zprávy se v ČR nedají otevřít)
+    text: cenzura RT/Sputnik (zprávy se v ČR nedají otevřít)
+  - tema: biolaboratoře na Ukrajině (Larry Johnson, ex-CIA
+    text: patogeny na genetický profil Rusů)
+  - tema: Babiš = Pavel, žádná změna (L-39 pro Ukrajinu)
+    text: Babiš = Pavel, žádná změna (L-39 pro Ukrajinu)
+  - tema: Bělorusko
+    text: Zelenský vyhrožuje, Gajdukevič „celý arzenál" (konflikt ne před summitem NATO).
 vyroky:
 - id: vrabel-2026-06-20-01
   typ: tvrzeni
@@ -34,6 +53,11 @@ vyroky:
     ostudu" a geopolitickou ztrátu — válku rozpoutal zbytečně. Opakuje i tezi o shortování ropy/krypta
     těsně před Trumpovými oznámeními. Rozšiřuje [Írán „memorandum" podepsáno (15. 6.)](#írán-memorandum-podepsáno-14-6-hormuz-otevřen-19-6-netanjahu-nespokojen--vrabel-15-6-2026)
     a [Írán memorandum: detaily (16. 6.)](#írán-memorandum-detaily-a-izrael-jako-překážka--vrabel-16-6-2026).'
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Memorandum s Íránem = „absolutní kapitulace USA" a jeho ostuda; spoluviník války; shortování
+      ropy/krypta; chce po Evropě 350 mld $
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-06-20-02
   typ: tvrzeni
@@ -63,6 +87,11 @@ vyroky:
     & Veatch a CH2M Hill a americký státní rozpočet; existenci prý potvrdila i šéfka amerických tajných
     služeb. Johnson zároveň kritizoval Západ a WHO, že ruská varování označovaly za dezinformace. Rozšiřuje
     [Gabbard oficiálně odtajnila dokumenty o 120 biolaboratořích (13. 6.)](#gabbard-oficiálně-odtajnila-dokumenty-o-120-biolaboratořích--konspirace-se-stala-pravdou-vrabel-13-6-2026).
+  osoby:
+  - osoba: larry-johnson
+    vztah: neutralni
+    kontext: Bývalý důstojník CIA citován jako zdroj o biolaboratořích USA na Ukrajině (patogeny na „genetický
+      profil" Rusů)
 - id: vrabel-2026-06-20-04
   typ: tvrzeni
   temata:
@@ -102,6 +131,11 @@ vyroky:
     kteří čekali změnu, se dočkali jen rétoriky „Česko na prvním místě", kterou Babiš „uspí národ", a
     pak se pokračuje dál. Navazuje na [Umělý konflikt vláda vs. prezident; Babiš/Macinka „předstírají
     opozici" (13. 6.)](#umělý-konflikt-vláda-vs-prezident-babišmacinka-předstírají-opozici-vůči-fialovi--vrabel-13-6-2026).
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: L-39 pro ukrajinské letectvo — „žádná změna", dělá totéž co Pavel; „Česko na prvním místě"
+      jen uspává národ
   podtema: Demokracie a politický systém
 - id: vrabel-2026-06-20-07
   typ: tvrzeni
@@ -117,6 +151,14 @@ vyroky:
     NATO/EU/Ukrajiny proti Rusku. Cituje Trumpovo prohlášení, že Evropa má zaplatit 350 mld. $ za Bidenovy
     zbraně, i tezi, že Trump (sám biznismen, který válku spoluzaložil za prvního období) se po anglicku
     „vycouvává" a hraje mírotvorce. Navazuje na [Tři fáze konfliktu Západ–Rusko (31. 5.)](#tři-fáze-konfliktu-západrusko-od-majdanu-k-terorismu-na-ruském-území-vrabel-31-5-2026).'
+  osoby:
+  - osoba: ursula-von-der-leyen
+    vztah: negativni
+    kontext: „Lhářka" — líčí, že Ukrajina sama vítězí a útočí, slibuje otevírání dalších klastrů přístupových
+      jednání
+  - osoba: antonio-costa
+    vztah: negativni
+    kontext: „Lhář" o ukrajinském vítězství; marně se snažil dovolat do Ruska kvůli diplomatické schůzce
   podtema: Příčiny a odpovědnost za válku
 - id: vrabel-2026-06-20-08
   typ: tvrzeni
@@ -147,4 +189,76 @@ vyroky:
     by měla řád odebrat jako Polsko, a pokud toho Zeman není schopen, měl se aspoň omluvit národu. Připomíná
     Janu Lorencovou, která řád Bílého lva v roce 2022 na Václaváku vrátila. Navazuje na [Zelenského náborová
     propaganda a odebrání řádu (Navrocki) — Vrabel (19. 6.)](#zelenského-náborová-propaganda-a-odebrání-řádu-navrocki--vrabel-19-6-2026).'
+  osoby:
+  - osoba: milos-zeman
+    vztah: negativni
+    kontext: 'Obhajuje udělení Řádu bílého lva Zelenskému („neutekl") — Vrabel: zostudil ČR i sám sebe,
+      měl se omluvit národu, ČR má řád odebrat'
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: Vyhrožuje Bělorusku (stáhnout zbraně do týdne); přirovnán k lupiči vraždícímu v bance a beroucímu
+      rukojmí
+  - osoba: jana-lorencova
+    vztah: pozitivni
+    kontext: „Opravdový hrdina" — v roce 2022 na Václaváku vrátila Řád bílého lva na protest proti ocenění
+      Zelenského
   podtema: Stav Ukrajiny a mobilizace
+- id: vrabel-2026-06-20-10
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Konflikt s Běloruskem nepřijde před summitem NATO
+  text: Vrabel očekává, že přes Zelenského výhrůžky Bělorusku nedojde k otevřenému konfliktu „teď" — před
+    summitem NATO podle něj žádný takový konflikt nebude, byť eskalace už probíhá.
+  citace:
+  - text: Myslím si, že se to nestane teď, protože se čeká na summit NATO. Před summitem NATO předpokládám,
+      že žádný takový konflikt nebude, ale ta eskalace už je.
+  predikce:
+    horizont: do summitu NATO (čeká se na summit NATO)
+    stav: potvrzeno
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: do summitu NATO v Ankaře (7.–8. 7.) konflikt s Běloruskem nenastal
+      stav: potvrzeno
+    - datum: 2026-11-20
+      text: Doloženo Vrabelovými vysíláními z 26.–29. 6.
+- id: vrabel-2026-06-20-11
+  typ: predikce
+  temata:
+  - blizky-vychod
+  nadpis: Klid kolem Íránu vydrží jen do podzimních primárek v USA
+  text: Vrabel odhaduje, že současný stav (memorandum, otevírání Hormuzu) je jen dočasný a vydrží do podzimu,
+    než proběhnou americké primárky; poté podle něj bude konflikt pokračovat dál.
+  citace:
+  - text: Obávám se, že tahle situace může trvat jenom do podzimku, až projdou primárky a Donald Trump
+      uspěje, tak se obávám, že ten konflikt bude probíhat dál.
+  predikce:
+    horizont: podzim 2026 (po amerických primárkách)
+    stav: ceka
+- id: vrabel-2026-06-20-12
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: Čekají nás „desítky milionů" migrantů a velká demografická změna
+  text: Vrabel předpovídá, že dosavadní migrace (miliony z Afriky a Blízkého východu) je jen začátek —
+    kvůli válkám, vedrům/klimatu a otevřeným hranicím přijdou „desítky milionů" lidí a velká změna ve
+    složení evropského obyvatelstva.
+  citace:
+  - text: Zatím jezdí miliony lidí z Afriky a z Blízkého východu, ale jakmile půjdou desítky milionů,
+      tak to uvidíme teprve, ty změny, a myslím si, že to přijde.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-06-20-13
+  typ: stoch-teror
+  temata:
+  - blizky-vychod
+  nadpis: Donald Trump, Benjamin Netanyahu
+  text: 'Terč: Donald Trump, Benjamin Netanyahu.'
+  citace:
+  - text: 'Souhlasně reaguje na divácký komentář („Netanyahu je masový vrah jeden i druhý, i guillotina
+      je málo pro vrah"): „Zastávám váš názor." — schválení popravy/gilotiny pro jmenované za dění v Gaze,
+      Libanonu a Íránu'
+  teror:
+    terc: Donald Trump, Benjamin Netanyahu
+    hranicni: false

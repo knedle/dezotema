@@ -24,4 +24,9 @@ vyroky:
   citace:
   - text: Na rozdíl od vás, který byste nám chtěl nutit euro a zrušit právo VETA, to je vlastní zrada,
       to je kolaborace.
+  osoby:
+  - osoba: jd-vance
+    vztah: pozitivni
+    kontext: 'Citován jako autorita, která upozornila na rozdíl: EU zasahuje do voleb přes DSA (neférové),
+      USA otevřeně podporuje konzervativce (standardní politika)'
   podtema: Česká suverenita

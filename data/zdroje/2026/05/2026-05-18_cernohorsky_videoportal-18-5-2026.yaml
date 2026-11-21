@@ -37,4 +37,24 @@ vyroky:
     obhajoval, označil za „hajzla."'
   citace:
   - text: Sám prezident České republiky. Dal záštitu sudeto německému Landsmannschaftu, jejich sjezdu.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Dal záštitu sjezdu Sudetoněmeckého Landsmannschaftu; dle Černohorského porušuje čl. 1 Ústavy;
+      „adept na trest smrti"
+  - osoba: martin-dvorak
+    vztah: negativni
+    kontext: Označen za „hajzla" za veřejnou obhajobu záštity Landsmannschaftu prezidentem Pavlem
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
+- id: cernohorsky-2026-05-18-03
+  typ: stoch-teror
+  temata:
+  - benesovy-dekrety
+  nadpis: Petr Pavel
+  text: v kontextu výzvy k novému zákonu o velezradě, bezprostředně po zjištění, že Pavel dal záštitu
+    sjezdu Sudetoněmeckého Landsmannschaftu
+  citace:
+  - text: Pavel by byl adeptem na trest smrti pověšením
+  teror:
+    terc: Petr Pavel
+    hranicni: false

@@ -10,6 +10,10 @@ zdroj:
   rezim: standard
   poznamka: '1 h 1 min 10 s, odpolední vysílání (před večerním „nikdo tam nebyl“). Nevybráno: prodloužení
     blokace FB do 15. 1.'
+  osoby:
+  - osoba: petr-varhanik
+    vztah: pozitivni
+    kontext: Jediný další, kdo nabídl profil k vysílání
 vyroky:
 - id: zitko-2026-10-18-01
   typ: tvrzeni
@@ -49,4 +53,11 @@ vyroky:
     probuzení“.'
   citace:
   - text: Tohle není žádnej test na Zítka, tohle je test na vás, co všechno jste jim schopný zkousnout.
+  osoby:
+  - osoba: cernohorsky
+    vztah: negativni
+    kontext: „Jedenáctiletý“, v „honu na Zítka“ s Bernardy „jeden šik“
+  - osoba: jana-peterkova
+    vztah: pozitivni
+    kontext: Půjčila mu profil k vysílání
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)

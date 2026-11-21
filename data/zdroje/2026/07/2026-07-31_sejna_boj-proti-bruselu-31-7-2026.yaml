@@ -24,4 +24,8 @@ vyroky:
     von der Leyenovou a migraci.'
   citace:
   - text: Green Deal se stalo, Uršula von der Leyen se stala, migrace se stala a jdeme prostě do kytek.
+  osoby:
+  - osoba: ursula-von-der-leyen
+    vztah: negativni
+    kontext: Spojována s Green Dealem a úpadkem síly EU
   podtema: Česká suverenita

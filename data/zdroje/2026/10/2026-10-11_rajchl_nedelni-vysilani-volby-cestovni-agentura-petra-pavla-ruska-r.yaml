@@ -20,6 +20,16 @@ vyroky:
     - **„Demokratický plyn“:** USA a Německo podle něj jednají s Ruskem o obnovení dodávek přes Nord Stream, pokud ho Američané odkoupí; „pak už ten plyn je demokratický… ideologicky očištěný do čista“. Zásobníky v ČR i Německu jsou prý nejméně naplněné za deset let a „hrozí nám obrovská krize v oblasti dodávek plynu“.
   citace:
   - text: Biznis vždycky vyhraje nad ideologií. V každém případě a za každých podmínek.
+  osoby:
+  - osoba: donald-trump
+    vztah: pozitivni
+    kontext: Nákup ruské ropy jako vzor prosazování národních zájmů — „vůbec mu to nevyčítám“
+  - osoba: jan-farsky
+    vztah: negativni
+    kontext: Nazval nákup ruské ropy kolaborací a vlastizradou — „takže Trump je kolaborant?“
+  - osoba: zdenek-hrib
+    vztah: negativni
+    kontext: Výmluvy po debaklu Pirátů „naprosto směšné“
   podtema: Rusko a energetická krize EU
 - id: rajchl-2026-10-11-02
   typ: tvrzeni
@@ -33,6 +43,14 @@ vyroky:
     Eva Pavlová podle něj výrokem, že za prezidentovu neúčast u voleb „může stát“, „nasadila korunu všemu“. Zákon, že komunální volby jsou vždy první víkend v říjnu, platí dva roky a volba ze zahraničí by vyžadovala hlasovací lístky všech asi 6 000 obcí na každé ambasádě. Mluvčí Hradu Vít Kolář ji označil za „soukromou osobu“. Rajchl proto bude „jednoznačně pracovat na tom, aby jí byla apanáž odejmuta“: „Proč jí tedy dáváme 106 tisíc korun měsíčně? … Za to, že je něčí manželkou.“
   citace:
   - text: Pokud se jedná o soukromou osobu, tak jí nemá už platit stát.
+  osoby:
+  - osoba: eva-pavlova
+    vztah: negativni
+    kontext: Výrok, že za neúčast prezidenta u voleb může stát, je „výsměch“; jako „soukromé osobě“ jí
+      má být odebrána apanáž 106 tis.
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Let do Maroka soukromým tryskáčem — „klientelismus“, „někdo si ho vydržuje“, „papaláš“
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-10-11-03
   typ: tvrzeni
@@ -48,6 +66,10 @@ vyroky:
     v zakázkách ministerstva obrany: „nebudeme to kupovat u Rheinmetallu, u Saabu, u Lockheed Martinu“.
     Za současného nastavení podle něj dvojnásobná práce nezbohatí ČR, „jenom z ní odejde dvakrát více
     dividend do Německa, Francie, Ameriky“.'
+  osoby:
+  - osoba: stan
+    vztah: negativni
+    kontext: „Čiré zlo“
   podtema: Ekonomický program PRO
 - id: rajchl-2026-10-11-04
   typ: tvrzeni
@@ -76,6 +98,13 @@ vyroky:
     vyjadřuje „jasnou podporu všem kandidátům hnutí ANO“ a vyzývá voliče PRO, aby v Ostravě volili Lucii
     Baránkovou a na Příbramsku Barboru Daňhovou. Hlasy PRO se ve 2. kole podle něj „fakticky zdvojnásobují“,
     protože klesá účast; půjde o to, „jestli to budou ODSáci, nebo zástupci hnutí ANO“.'
+  osoby:
+  - osoba: lucie-barankova
+    vztah: pozitivni
+    kontext: Výzva podpořit ji ve 2. kole senátních voleb v Ostravě
+  - osoba: barbora-danhova
+    vztah: pozitivni
+    kontext: Výzva podpořit ji ve 2. kole na Příbramsku
   podtema: Senátní kandidáti
 - id: rajchl-2026-10-11-06
   typ: tvrzeni
@@ -93,4 +122,53 @@ vyroky:
     Pražany, kteří zvolili STAN („čiré zlo“) i po kauze Dozimetr, popisuje jako oběti „stockholmského syndromu“: „Jak kdyby vás jedna parta přes čtyřmi lety okradla… a vy jste ji za čtyři roky zvolili.“ Hlaváček podle něj den po volbách ohlásil dražší MHD a rezidentní parkování: „Chtěli jste to, máte to mít.“ Piráti „dostali vypráskáno“ (v Praze ze 17 na 9 %).
   citace:
   - text: Kdekoliv jsme se postavili na jednu kandidátku, tam jsme uspěli.
+  osoby:
+  - osoba: martin-gara
+    vztah: pozitivni
+    kontext: „Neuvěřitelně poctivý kluk“, přes 5 % v Havířově
   podtema: Komunální volby
+- id: rajchl-2026-10-11-07
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: válka skončí dohodou Trump–Putin, Rusko dostane Kramatorsk a Slovjansk
+  text: Trump „už Zelenského obětoval“ a s Putinem se dohodne na míru; Rusko získá ještě Kramatorsk a
+    Slovjansk a „bude po válce“.
+  citace:
+  - text: Je už jenom otázka času, než se s Putinem domluví na podmínkách uzavření míru. Kdy to dopadne
+      tak, jak jsem říkal celou dobu. To znamená, že Rusko dostane ještě Kramatorsk a Slovjansk a bude
+      po válce.
+  predikce:
+    horizont: neurčeno („otázka času“)
+    stav: ceka
+- id: rajchl-2026-10-11-08
+  typ: predikce
+  temata:
+  - ceny-energie
+  nadpis: obrovská krize v dodávkách plynu
+  text: Kvůli nejméně naplněným zásobníkům za deset let (ČR i Německo) hrozí Evropě „obrovská krize v
+    oblasti dodávek plynu“; Německo proto přijme ruský plyn přes Nord Stream v americkém vlastnictví.
+  citace:
+  - text: My máme nejméně naplněné zásobníky za poslední deset let. Němci mají nejméně naplněné zásobníky
+      za poslední deset let. A hrozí nám obrovská krize v oblasti dodávek plynu.
+  predikce:
+    horizont: zima 2026/27
+    stav: ceka
+- id: rajchl-2026-10-11-09
+  typ: stoch-teror
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Volodymyr Zelenskyj
+  text: 'Terč: Volodymyr Zelenskyj.'
+  citace:
+  - text: Zelenský je opravdu nejzkorumpovanějším člověkem asi na celém světě. A člověkem, který okrádá
+      své vlastní spoluobčany v době války. To je největší možný hyenismus. […] Okrást vlastní lidi v
+      době války. To je prostě, nezlobte se na mě, ale to si zaslouží trest smrti.
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: „Nejzkorumpovanější člověk na světě“, okrádání v době války „si zaslouží trest smrti“ (→
+      [stoch. teror](../stochasticky-teror.md))
+  teror:
+    terc: Volodymyr Zelenskyj
+    hranicni: false

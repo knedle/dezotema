@@ -14,6 +14,13 @@ zdroj:
     „pevnost Amerika"/TechNate, Izrael–Libanon příměří, Černá hora/Albánie do EU + Kushnerův ostrov, Srbsko
     a Čína. Závěr: realitní reklama + meta o formátu pořadu (logistika, nezpracováno). Zprávy v devět
     s komentářem (moderátorka Zuzka)'
+  prehled:
+  - tema: Hlavní bloky
+    text: 'Zelenský dopis Putinovi (příměří vs. vyjednávání), ukrajinské útoky (Záporožská JE, Azov, Konstanca),
+      zbrojní byznys bez výběrových řízení (Rammstein, Kolář/Macinka), Scott Ritter o jaderné válce, BRICS
+      předčil G7 + varování před USDT/digitálním eurem, Kuba sankce + Euroclear, „pevnost Amerika"/TechNate,
+      Izrael–Libanon příměří, Černá hora/Albánie do EU + Kushnerův ostrov, Srbsko a Čína. Závěr: realitní
+      reklama + meta o formátu pořadu (logistika, nezpracováno).'
 vyroky:
 - id: vrabel-2026-06-05-01
   typ: tvrzeni
@@ -24,6 +31,11 @@ vyroky:
     (závazek zastavit nepřátelské akce a pokračovat v rozhovorech). Hodnotí ji jako „super zprávu" — vítá
     každou dohodu, která zastaví zabíjení — ale dává jí malou šanci na trvalost vzhledem k dosavadnímu
     chování Izraele.
+  osoby:
+  - osoba: ivanka-trump
+    vztah: negativni
+    kontext: S Kushnerem (a Nedem Rothschildem) si chce vzít chráněný albánský ostrov (bývalá voj. základna)
+      na realitní projekt — Albánci protestují
 - id: vrabel-2026-06-05-02
   typ: tvrzeni
   temata:
@@ -76,6 +88,11 @@ vyroky:
     (připomíná Reagana a Gorbačova v Reykjavíku, stažení raket středního doletu) — to je dle něj skutečný
     úkol diplomacie, na rozdíl od Macinky, který „jezdí do USA domlouvat výrobu zbraní". Připomíná, že
     proti jadernému zbrojení „brojí celou dobu" a byl za to odsouzen (kauza F-35).'
+  osoby:
+  - osoba: scott-ritter
+    vztah: pozitivni
+    kontext: Bývalý zbrojní inspektor OSN — argument, že jadernou válku nelze vyhrát; výzva k návratu
+      k odzbrojení a diplomacii (Reykjavík)
 - id: vrabel-2026-06-05-06
   typ: tvrzeni
   temata:
@@ -119,6 +136,15 @@ vyroky:
     jako první" (to Rusko dlouhodobě odmítá) a interpretuje Zelenského náhlou ochotu k míru jako důsledek
     blízké vojenské prohry a tvrdších ruských úderů na Kyjev. Vrabel je přesvědčen, že to neskončí podle
     Zelenského podmínek.'
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: 'Odmítl Zelenského otevřený dopis (příměří až po vyjednání klíčových otázek); na fóru v Petrohradu:
+      BRICS předčil G7, varování zemím před USDT/digitálním eurem, důraz na národní měny a suverenitu'
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: Otevřený dopis Putinovi s výsměchem a výhrůžkami (i osobně Putinovi); chce příměří „jako
+      první" — dle Vrabela kvůli blízké vojenské prohře
   podtema: Vyjednávání a mír
 - id: vrabel-2026-06-05-09
   typ: tvrzeni
@@ -134,6 +160,15 @@ vyroky:
     stíhaček) a dnes Petra Macinku (jezdí do Kongresu domlouvat výrobu zbraní pro USA). Politici se podle
     něj do funkcí dostávají proto, že jim kampaně platí zbrojaři — a důsledkem jsou drahé energie, jídlo
     (40 % lidí nevyjde s příjmy) a mrtví.'
+  osoby:
+  - osoba: petr-kolar
+    vztah: negativni
+    kontext: Označen za zprostředkovatele zbrojních obchodů (jako velvyslanec v USA vedl delegaci při
+      nákupu stíhaček); „prezidentův přítel po boku"
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: „Protiruský nácek a prozápadní globalista" (satirický vtip); jezdí do Kongresu domlouvat
+      výrobu zbraní pro USA — dělá opak diplomacie
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-06-05-10
   typ: tvrzeni
@@ -147,4 +182,27 @@ vyroky:
     víza pro Rusy, sankce proti Rusku, spolupráci s Čínou (investice ~1 mld. USD, 6 000 výrobků bez cla,
     hypersonické balistické rakety, sledovací technologie) i řešení Kosova. Vrabel předpokládá spojení
     Srbska s Republikou srbskou (Milorad Dodik) a Srbsko opět staví jako model multivektorové suverenity.'
+  osoby:
+  - osoba: milorad-dodik
+    vztah: pozitivni
+    kontext: Uhájil pozici v Republice srbské; na fóru v Petrohradu jednal s Lavrovem; Vrabel předpokládá
+      budoucí spojení se Srbskem
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: 'Odmítl víza pro Rusy i sankce, velké obchody s Čínou (investice, hypersonické rakety) —
+      Vrabel: Srbsko do EU nevstoupí, vzor multivektorové suverenity'
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-06-05-11
+  typ: predikce
+  temata:
+  - blizky-vychod
+  nadpis: Černá hora vstoupí do EU nejpozději do roku 2028
+  text: Na základě projevů ze summitu EU–Západní Balkán v Tivatu Vrabel tvrdí, že Černá hora vstoupí do
+    EU „nejpozději do roku 2028" (pro investory do nemovitostí dobrá zpráva, pro zemi špatná). Srbsko
+    podle něj naopak do EU nevstoupí (kvůli obchodu s Čínou a spolupráci s Ruskem).
+  citace:
+  - text: Do roku 2028 si myslím, že nejpozději Černá hora bude součástí Evropské unie.
+  predikce:
+    horizont: do 2028
+    stav: ceka
+    horizont_do: 2028-12-31

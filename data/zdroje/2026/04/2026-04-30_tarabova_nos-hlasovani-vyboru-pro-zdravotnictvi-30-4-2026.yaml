@@ -9,6 +9,14 @@ zdroj:
   rezim: standard
   delka: '10:10'
   poznamka: 'Zhlédnutí: 20 433'
+  osoby:
+  - osoba: vlastimil-valek
+    vztah: negativni
+    kontext: Ministr zdravotnictví, jehož vláda připravila NOS; schválena vládou v demisi — Tarabová považuje
+      za nelegitimní
+  - osoba: adam-vojtech
+    vztah: negativni
+    kontext: Jako nový/opětovný ministr zdravotnictví ANO přítomen při přípravě NOS
 vyroky:
 - id: tarabova-2026-04-30-01
   typ: tvrzeni
@@ -24,4 +32,12 @@ vyroky:
     škodlivé účinky očkování uvádí autismus, ADHD, ekzémy, alergie a onkologická onemocnění u dětí. Vyzývá
     k odmítnutí jakýchkoli nátlaků: „nátlaky jsou pro otroky." Připomíná komunální volby 9.–10. října
     2026 a výměnu 27 senátorských křesel jako příležitost ke změně.'
+  osoby:
+  - osoba: rajchl
+    vztah: pozitivni
+    kontext: Přítomen na výboru jako pozorovatel; Tarabová ho uvádí jako symbol boje PRO proti NOS
+  - osoba: bill-gates
+    vztah: negativni
+    kontext: Označen za klíčového finančního podporovatele WHO — důkaz, že WHO je soukromá, nikoliv mezivládní
+      instituce
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)

@@ -21,6 +21,43 @@ zdroj:
     22 zemí EU svolává jednání k Ceutě, osobní historka Calais/Barcelona, Trump odmítl licenci na Patrioty,
     Polské stíhačky/JETECT propouštění, umělá inteligence nahradí práci, Norimberk — síť lákající nezletilé,
     financování ukrajinského zbrojení (90 mld. EUR/PURL). Bez stoch. teroru.'
+  prehled:
+  - tema: Itálie dočasně uzavřela Schengen pro Španělsko
+    text: politické gesto bez reálného efektu
+  - tema: EU dvojí řeč o migraci (von der Leyen, Konečná)
+    text: opakování bez posunu → [Migrace a islamizace](../migrace.md)
+  - tema: Španělsko mění postup u migrantů tvrdících, že jsou nezletilí
+    text: nebudou automaticky deportováni
+  - tema: 22 zemí EU svolává mimořádné jednání ministrů vnitra kvůli
+    text: 22 zemí EU svolává mimořádné jednání ministrů vnitra kvůli Ceutě
+  - tema: Osobní historka z Calais/Barcelony/Marseille
+    text: „no-go zóny" jako důkaz nebezpečnosti migrace v Evropě
+  - tema: USA/Izrael připravují bombardování Íránu, odkaz na Žirinovského predikci
+    text: → [Blízký východ](../blizky-vychod.md)
+  - tema: Rozdělená společnost jako nástroj kontroly
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Trump odmítl licenci na výrobu Patriotů pro Ukrajinu
+    text: nekonzistence výroků
+  - tema: USA opouští vedení SAKU (Wiesbaden)
+    text: další potvrzení teze NATO vs. Rusko → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: USA chtějí obnovit mírová jednání, skepse
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Trump/Ukrajina nerostné bohatství, Harabin o Anglosasech
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md), [Predikce](../predikce.md)
+  - tema: Francouzský jaderný deštník
+    text: opakování bez posunu → [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md)
+  - tema: Polské stíhačky a ruský průzkumný letoun
+    text: → [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md)
+  - tema: JETECT Plzeň
+    text: propouštění 300 lidí, spojeno s AI/robotizací
+  - tema: Umělá inteligence nahradí většinu pracovních míst
+    text: obsáhlá úvaha o robotizaci profesí
+  - tema: Norimberk
+    text: síť lákající nezletilé dívky na drogy (Syřané) — spojuje s migračním paktem
+  - tema: Harabinův rozsudek „Rusko není agresor" — oprava nepřesné interpretace
+    text: → [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md)
+  - tema: Financování ukrajinského zbrojení (90 mld. EUR, NATO 40 mld., PURL 140 mil. Kč)
+    text: rozbor mechanismu plateb
 vyroky:
 - id: vrabel-2026-08-01-01
   typ: tvrzeni
@@ -36,6 +73,10 @@ vyroky:
     do konfliktu (Egypt, Irák, Izrael, Libanon, Írán, Kuvajt, Saúdská Arábie, SAE, Bahrajn, Katar) — s
     tím, že brzy přijde na řadu i Sýrie. Doplňuje otevřené zklamání z Donalda Trumpa, kterého dříve podporoval
     a vychvaloval, ale nyní jej hodnotí jako „největšího válečného prezidenta", co pamatuje.
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Otevřené zklamání — „největší válečný prezident, co pamatuju"; chystá bombardování Íránu
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-08-01-02
   typ: tvrzeni
@@ -147,4 +188,21 @@ vyroky:
     tuto argumentaci přijal. Vrabel zdůrazňuje, že jde o rozdíl mezi „soud řekl, že Rusko není agresor"
     a „soud řekl, že to nelze hodnotit" — a apeluje na přesnost při šíření takových zpráv, aby nevznikaly
     zbytečné nepřesnosti.'
+  osoby:
+  - osoba: stefan-harabin
+    vztah: pozitivni
+    kontext: Osobní „kamarád" ze slovenské vlastenecké scény — citován s tezí o Anglosasech štvoucích
+      Slovany proti sobě
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-08-01-10
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: západní část Ukrajiny se v příštích letech rozplyne do Polska a Maďarska
+  text: K Trumpovu vyjádření o americké těžbě ukrajinských nerostů Vrabel predikuje, že se západní část
+    Ukrajiny (ta, kterou nezabere Rusko) v příštích letech postupně „rozplyne" do sousedních zemí — Polska,
+    Maďarska a dalších. Odkazuje na Putinovo vyjádření, že se v příštích 10 letech budou přepisovat hranice
+    i dalších států EU.
+  predikce:
+    horizont: cca 10 let
+    stav: ceka

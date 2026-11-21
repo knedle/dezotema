@@ -7,3 +7,10 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/1070501685862788
   prepis: prepisy/done/2026-10-05_Jindřich-Rajchl_Bez-ropy-a-plynu-z-Ruska-se-Evropa-prostě-neobejde-Ať.txt
   rezim: standard
+  osoby:
+  - osoba: afd
+    vztah: pozitivni
+    kontext: Doufá v jejich vítězství a společné zrušení EU; AfD jedná s Gazpromem
+  - osoba: marine-le-penova
+    vztah: pozitivni
+    kontext: Doufá v jejich vítězství a společné zrušení EU; AfD jedná s Gazpromem

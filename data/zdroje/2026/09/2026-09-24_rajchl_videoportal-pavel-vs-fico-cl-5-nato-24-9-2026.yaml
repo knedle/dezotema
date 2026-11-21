@@ -7,6 +7,11 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/1117016814175417
   prepis: prepisy/done/2026-09-24_Jindřich-Rajchl_152K-views-15K-reactions-Ve-sporu-Petra-Pavla-a-Rober.txt
   rezim: standard
+  osoby:
+  - osoba: andrzej-duda
+    vztah: neutralni
+    kontext: Citován jako svědek (podcast Rymanowski Live, 1. 9. 2025) Zelenského snahy svést útok na
+      Rusko
 vyroky:
 - id: rajchl-2026-09-24-01
   typ: tvrzeni
@@ -42,4 +47,16 @@ vyroky:
     slibuje, že udělá vše, aby Česko do války s Ruskem zataženo nebylo.'
   citace:
   - text: Česká republika se nemůže ocitnout ve válce za žádnou cenu. Říkám to jasně a jednoznačně.
+  osoby:
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: Ve sporu s Pavlem o čl. 5 NATO stojí „jednoznačně" na jeho straně — realista, má to „v hlavě
+      srovnané stokrát víc" než váleční štváči
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Troubí do války", patrně by si přál, aby začala co nejdříve
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Dle Dudy se ho po dopadu rakety v Polsku snažil přesvědčit, aby „hodili vinu na Putina" a
+      zatáhli Evropu do války
   podtema: Zahraniční aktéři a precedenty

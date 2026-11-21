@@ -8,6 +8,48 @@ zdroj:
   prepis: prepisy/done/2026-09-29_Ladislav-Vrabel_29-9-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: Chybí úvod [00:00–03:07].
+  prehled:
+  - tema: 'Babiš po schůzce s Pavlem: dvě brigády do Pobaltí'
+    text: porušený slib, vojáci „žoldáci", scénář mobilizace
+    vyrok: vrabel-2026-09-29-05
+  - tema: Účel shromáždění 3. 10.
+    text: proti jadernému zbrojení, válka „nevyhnutelná".
+  - tema: Passerelle klauzule
+    text: „Anglosasové se rozhodnou, Slované mašírují"
+    vyrok: vrabel-2026-09-29-04
+  - tema: Omezená jaderná válka
+    text: „do sedmi hodin", zastánci odstrašení „psychopati"
+    vyrok: vrabel-2026-09-29-01
+  - tema: 'Komise: snížit spotřebu plynu'
+    text: hrozba v lednu–únoru; „nehrozí" znamená „hrozí".
+  - tema: Wadephul na Slovensku
+    text: „čestný člen Landsmannschaftu" (opakování).
+  - tema: 'Rusko: izolace Kaliningradu = jaderné zbraně'
+    text: NATO „teroristická organizace".
+  - tema: 'Grynkewich: útoky připisovat jen s důkazy'
+    text: „měsíc a půl bez jediného důkazu".
+  - tema: USA se stahují z Iráku
+    text: „mají se stáhnout z celého světa domů".
+  - tema: Burnham; Británie „islámská země"
+    text: „za 20–30 let Sýrie"
+    vyrok: vrabel-2026-09-29-02
+  - tema: Rubio, Trump a Fairford
+    text: „máslo na hlavě".
+  - tema: 'Francie: stávky'
+    text: umí stávkovat; Francie se rozpadá.
+  - tema: Proč je Británie krásná země
+    text: Londýn „kdyby tam nebyli muslimové"; Češi „nafoukaní".
+  - tema: Putin a delegace Republiky srbské
+    text: spojení se Srbskem do 3–5 let → viz [Predikce](../predikce.md)
+  - tema: Elif Eralp a Rote Hilfe; česká levice
+    text: bývalá jednička Stačilo! s Antifou; Kalergi.
+  - tema: Trump a zmírnění sankcí
+    text: „poznáte je po ovoci".
+  - tema: Útok nožem ve Stážkově
+    text: „Bůh je mrtvý", ministerstvo spokojenosti
+    vyrok: vrabel-2026-09-29-03
+  - tema: Odpověď divákovi („utopie")
+    text: „oligarchie, novodobý feudalismus".
 vyroky:
 - id: vrabel-2026-09-29-01
   typ: tvrzeni
@@ -79,3 +121,20 @@ vyroky:
   citace:
   - text: Jsou to žoldáci [...] Žoldáci v době války prostě jdou umírat.
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-29-06
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: Republika srbská se do 3–5 let spojí se Srbskem; Británie bude za 20–30 let „jako Sýrie"
+  text: Do tří, nejpozději pěti let se Republika srbská spojí se Srbskem a vznikne „rozšířené Srbsko";
+    Vučić i Dodik vyhrají volby. Británie bude za 20–30 let „něco jako Sýrie".
+  citace:
+  - text: Očekávám, že do tří let, maximálně do pěti, ale do tří let se spojí Republika Srpská se Srpskem,
+      vznikne rozšířené Srpsko.
+  osoby:
+  - osoba: milorad-dodik
+    vztah: pozitivni
+    kontext: Vyhraje volby, spojení Republiky srbské se Srbskem
+  predikce:
+    horizont: 2029–2031; 2046–2056
+    stav: ceka

@@ -20,6 +20,30 @@ zdroj:
     teritoriální celistvost Ukrajiny vs. Kosovo — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md)
     — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (mobilizace, 2–3
     roky války, Poláci další na řadě) a stochastický teror (Okamura na frontu) extrahovány bezvýjimečně.'
+  prehled:
+  - tema: Historický rámec (husitství/ateismus) a ohlášení shromáždění „Člověk na prvním místě" (3. 10.)
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Ceny elektřiny — „1000% marže", Tykač/Křetínský
+    text: → [Ceny energie](../ceny-energie.md)
+  - tema: „Hadička" — odčerpávání národního bohatství od 1989
+    text: → [Konspirační teorie](../konspirace.md)
+  - tema: EU propojuje LGBT agendu s financováním Rearm Europe
+    text: → [Rodina a děti](../rodina-deti.md)
+  - tema: Doplnění vlastní perzekuce po 2022 — zproštění Ústavním soudem, „Kryt"
+    text: → [Politický systém](../politicky-system.md)
+  - tema: „Národ má právo takovou vládu svrhnout" — porušené sliby vlastenecké scény
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Sociální sítě jako závislost a politický nástroj — volání po regulaci
+    text: → [Digitální kontrola](../digitalni-kontrola.md)
+  - tema: „Posloupnost mobilizace" a kritika francouzského jaderného deštníku
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Vučič a Zelenskyj v Bělehradu
+    text: podrobná rekonstrukce schůzky a večeře s Koštunicou — nezpracováno (opakování/rozšíření tématu
+      z 8. 8.)
+  - tema: Kritika Okamury — poslal by ho na frontu, srovnání s Ivanem Davidem v Srbsku
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Teorie o likvidaci Slovanů — Poláci „další na řadě"; „Ukrajina má být zrušena" (paralela s Kosovem)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
 vyroky:
 - id: vrabel-2026-08-09-01
   typ: tvrzeni
@@ -34,6 +58,11 @@ vyroky:
     Za viníky označuje energetické magnáty Pavla Tykače a Daniela Křetínského a státní politiku cenových
     stropů, kterou popisuje jako nástroj, který chrání zisky „energetických baronů" na úkor domácností,
     místo aby snížil ceny přímo u zdroje.
+  osoby:
+  - osoba: pavel-tykac
+    vztah: negativni
+    kontext: Spolu s Křetínským viněn z „1000% marže" na ceně elektřiny v ČR díky státní politice cenových
+      stropů chránící energetické barony
   dalsi_zdroje:
   - 2026-10-30_vrabel_zpravy-v-devet-30-10-2026
   podtema: Elektřina — marže a ceny
@@ -151,6 +180,11 @@ vyroky:
     v Srbsku, kde měl srbské politiky přemlouvat ke vstupu do EU, s postojem Ivana Davida, který podle
     Vrabela naopak srbským politikům řekl otevřeně, že jejich cílem v Evropském parlamentu je EU „rozbít"
     — z toho vyvozuje, že Okamura jen předstírá suverenistickou a vlastenskou pozici.'
+  osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: Za dřívější výrok o poslání mladíka na frontu Vrabel odpovídá, že prvního na frontu by poslal
+      jeho — v Srbsku měl místo Ivana Davida přemlouvat politiky ke vstupu do EU
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-08-09-10
   typ: tvrzeni
@@ -174,3 +208,40 @@ vyroky:
   citace:
   - text: Za dva dny jsem v Srbsku. V jediné vojensky neutrální zemi, která do té války nepůjde.
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-08-09-11
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: 'scénář cesty k mobilizaci v ČR: incident → uzavření hranic → odvody podle ročníků'
+  text: 'Vrabel popisuje explicitní scénář, jak podle něj bude vypadat cesta ČR k mobilizaci: zesilující
+    zprávy o „ruských útocích" jsou přípravou narativu; dojde k nespecifikovanému incidentu, po kterém
+    se vyhlásí stav ohrožení státu nebo válečný stav a uzavřou hranice; na frontě začne chybět dostatek
+    vojáků, nejdřív se povolají aktivní zálohy a následně proběhne mobilizace podle vojenských ročníků.'
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-08-09-12
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: plán „Česká republika na prvním místě" může zahrnovat 2–3 roky války
+  text: V rámci ohlášení nového shromáždění „Člověk na prvním místě" Vrabel předpovídá, že v rámci 5–10letého
+    plánu na obnovu české suverenity si národ „možná bude muset projít" dvěma až třemi lety války, než
+    dojde k výsledku, který si představuje (rozpad vlivu EU a nadnárodních korporací v ČR).
+  dalsi_zdroje:
+  - 2026-08-29_vrabel_facebook-live-29-8-2026
+  predikce:
+    horizont: 5–10 let (válka odhadem 2–3 roky v rámci tohoto období)
+    stav: ceka
+- id: vrabel-2026-08-09-13
+  typ: stoch-teror
+  temata:
+  - valka-nato-rusko
+  nadpis: Tomio Okamura
+  text: jmenovaný terč, výzva poslat ho na smrtelně nebezpečnou frontovou linii jako trest za dřívější
+    výrok o mladíkovi
+  citace:
+  - text: Prvního bych poslal Okamuru za tohleto [...] za to by ho poslal umřít na frontu, Okamura.
+  teror:
+    terc: Tomio Okamura
+    hranicni: false

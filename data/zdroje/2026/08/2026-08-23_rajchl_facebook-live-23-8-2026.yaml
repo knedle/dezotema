@@ -7,6 +7,11 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/1596065672228858
   prepis: prepisy/done/2026-08-23_Jindřich-Rajchl_Facebook-Live.txt
   rezim: standard
+  osoby:
+  - osoba: matej-ondrej-havel
+    vztah: negativni
+    kontext: Přezdívka „Baby Fiala" — v TV debatě v argumentačním deficitu vytáhl narážku na SMS z Kremlu,
+      což Rajchl označuje za „totální dno"
 vyroky:
 - id: rajchl-2026-08-23-02
   typ: tvrzeni
@@ -64,6 +69,11 @@ vyroky:
     sféry SSSR.
   citace:
   - text: On je celoživotní oportunista. On bude vždycky sloužit každému režimu, který bude zrovna u moci.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Projev u Českého rozhlasu 21.8. „nejbizarnější moment české politiky od 1918" — „celoživotní
+      oportunista" bez páteře, přirovnán k nacistovi omlouvajícímu se za Lidice
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-08-23-06
   typ: tvrzeni

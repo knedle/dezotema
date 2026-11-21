@@ -19,6 +19,20 @@ zdroj:
     [predikce.md](predikce.md). (11) Zelenskyj a nový premiér Burnham — [politicky-system.md](politicky-system.md).
     (12) Putin navýšil ozbrojené síly, USA omezují dovoz surovin — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md).
     Bez stoch. teroru.'
+  prehled:
+  - tema: Zpracováno 12 témat
+    text: (1) Vláda schválila akcelerační zóny (menší rozsah, stejný cíl 30,1 % OZE) — [vetrniky.md](../vetrniky.md).
+      (2) České dluhopisy klesají kvůli zahraniční politice — [ceny-energie.md](../ceny-energie.md). (3)
+      Zpráva o extremismu, „rekorytarizace" MV — [kauzy.md](../kauzy.md). (4) Nelegální obchod s orgány
+      (Wolfman, Kosovo, Ukrajina) — [konspirace.md](../konspirace.md). (5) 85. výročí masakru v Garavicích,
+      paralela s Ukrajinou — [valka-nato-rusko.md](../valka-nato-rusko.md). (6) Trumpova manipulace cenou
+      ropy (Írán) — [ceny-energie.md](../ceny-energie.md). (7) Sankce EU a vrtulníky Kamov ve Španělsku
+      — doplnění zdroje — [suverenita-eu.md](../suverenita-eu.md). (8) Eskalace Saúdská Arábie–Jemen —
+      [blizky-vychod.md](../blizky-vychod.md). (9–10) Putinova predikce o západní Ukrajině pro Polsko/Maďarsko/Rumunsko,
+      zadlužení Ukrajiny — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [predikce.md](../predikce.md).
+      (11) Zelenskyj a nový premiér Burnham — [politicky-system.md](../politicky-system.md). (12) Putin
+      navýšil ozbrojené síly, USA omezují dovoz surovin — [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md).
+      Bez stoch. teroru.
 vyroky:
 - id: vrabel-2026-07-27-01
   typ: tvrzeni
@@ -178,3 +192,18 @@ vyroky:
     nyní poprvé mluví veřejně), ale rozhodla se pokračovat v agendě Green Dealu zahájené vládou Petra
     Fialy v rámci Národního plánu obnovy.'
   podtema: Politická reakce v ČR
+- id: vladimir-putin-2026-07-27-01
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Západní Ukrajina připadne Polsku, Maďarsku a Rumunsku
+  text: Západní části Ukrajiny (dříve připojené k Ukrajině za Stalina) by mohly v horizontu několika let
+    až desetiletí připadnout Polsku, Maďarsku a Rumunsku, kterým dle Putina historicky patřily — označil
+    to za „historický návrat".
+  citace:
+  - text: Tato území byla Ukrajině připojena za vlády Josipa Stalina... může k takovému vývoji dojít v
+      horizontu několika let až desetiletí.
+  mluvci: vladimir-putin
+  predikce:
+    horizont: několik let až desetiletí
+    stav: ceka

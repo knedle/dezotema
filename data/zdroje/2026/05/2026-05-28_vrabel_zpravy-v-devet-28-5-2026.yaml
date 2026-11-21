@@ -11,6 +11,23 @@ zdroj:
   poznamka: 'Zprávy v devět. Témata: Nariškin — EU = centrum světového konfliktu; Macinka nabídl USA výrobu
     dronů v ČR (Heydrich paralela); rektorka JAMU odvolaná za sundání vlajky; Netanyahu 70% Gazy; Zelenský
     dopis Trumpovi; Babiš střet zájmu; Švédsko+Gripen 60 mld. Kč; USA-Irán 60-denní memorandum.'
+  prehled:
+  - tema: 'Zprávy v devět. Témata: Nariškin'
+    text: EU = centrum světového konfliktu
+  - tema: Macinka nabídl USA výrobu dronů v ČR (Heydrich paralela)
+    text: Macinka nabídl USA výrobu dronů v ČR (Heydrich paralela)
+  - tema: rektorka JAMU odvolaná za sundání vlajky
+    text: rektorka JAMU odvolaná za sundání vlajky
+  - tema: Netanyahu 70% Gazy
+    text: Netanyahu 70% Gazy
+  - tema: Zelenský dopis Trumpovi
+    text: Zelenský dopis Trumpovi
+  - tema: Babiš střet zájmu
+    text: Babiš střet zájmu
+  - tema: Švédsko+Gripen 60 mld. Kč
+    text: Švédsko+Gripen 60 mld. Kč
+  - tema: USA-Irán 60-denní memorandum.
+    text: USA-Irán 60-denní memorandum.
 vyroky:
 - id: vrabel-2026-05-28-01
   typ: tvrzeni

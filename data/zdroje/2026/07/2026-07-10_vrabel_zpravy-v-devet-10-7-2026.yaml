@@ -19,6 +19,19 @@ zdroj:
     (9) Zelenskyj schválil památníky UPA/Bandera (Ukrajina + Venezuela) — [valka-nato-rusko.md](valka-nato-rusko.md).
     (10) Dotace 9,5 mil. Kč na obnovu německých hrobů v ČR — [benesovy-dekrety.md](benesovy-dekrety.md).
     Bez predikcí a stoch. teroru.'
+  prehled:
+  - tema: 'Zpracováno 10 témat: (1) Trump nevylučuje bezletovou zónu nad Ukrajinou'
+    text: '[valka-nato-rusko.md](../valka-nato-rusko.md). (2) Teorie „týdenního cyklu" eskalace/deeskalace
+      Írán vázaná na burzu — [blizky-vychod.md](../blizky-vychod.md). (3) Zalužný (Telegraph): Ukrajina
+      nevyhrává — [valka-nato-rusko.md](../valka-nato-rusko.md). (4) Erdogan podporuje PURL, Trump slibuje
+      F-35 Turecku — [valka-nato-rusko.md](../valka-nato-rusko.md). (5) EU povoluje Ukrajině nákup britské
+      techniky, Rearm Europe 800 mld. — [valka-nato-rusko.md](../valka-nato-rusko.md). (6) EU 6. klastr
+      s Ukrajinou vs. Srbsko 20 let čeká — [valka-nato-rusko.md](../valka-nato-rusko.md). (7) Okamura
+      kritizuje PURL, ač SPD řídí obranu — pokrytectví — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (8) Střet policie s demonstranty v Berlíně kvůli Rheinmetall — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (9) Zelenskyj schválil památníky UPA/Bandera (Ukrajina + Venezuela) — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (10) Dotace 9,5 mil. Kč na obnovu německých hrobů v ČR — [benesovy-dekrety.md](../benesovy-dekrety.md).
+      Bez predikcí a stoch. teroru.'
 vyroky:
 - id: vrabel-2026-07-10-01
   typ: tvrzeni
@@ -61,6 +74,11 @@ vyroky:
     spor do kontextu vyostřených vztahů s Polskem kolem stejného tématu (viz výše) a předpokládá, že po
     volbách polský protest opět „zavře" a spolupráce s Ukrajinou na vstupu do EU bude pokračovat jako
     dřív.
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: Schválil výstavbu památníků UPA/Bandera na Ukrajině i ve Venezuele (~70 mil. eur, spolufinancováno
+      EU)
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-07-10-04
   typ: tvrzeni
@@ -106,6 +124,11 @@ vyroky:
     za „chybu v úsudku" Západu, který si podle něj v posledních týdnech (zejména kolem summitu v Ankaře)
     osvojil propagandistický narativ, že Ukrajina vyhrává — Zalužnyj jako možný budoucí prezident tuto
     verzi otevřeně popírá.
+  osoby:
+  - osoba: valerij-zaluznyj
+    vztah: neutralni
+    kontext: V Telegraphu varuje, že Ukrajina nevyhrává — Vrabel to čte jako popření západní propagandy
+      o ukrajinském vítězství
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-10-07
   typ: tvrzeni
@@ -125,6 +148,11 @@ vyroky:
     z amerických dluhopisů, které by při překročení 5 % mohly zhroutit americkou i evropskou ekonomiku;
     Trumpa přirovnává k pilotovi „přistávajícího letadla s vysazenými motory", který se zatím daří „plundrovat
     Evropu" (energie, zbraně, GMO potraviny) na úkor USA.'
+  osoby:
+  - osoba: recep-tayyip-erdogan
+    vztah: rozporuplny
+    kontext: Na summitu podpořil PURL i pomoc Ukrajině; „neřízená střela" ochotná spolupracovat s NATO,
+      EU i Ruskem zároveň; dostane od Trumpa F-35
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-10-08
   typ: tvrzeni
@@ -155,6 +183,11 @@ vyroky:
     dohody domlouvají, patří právě SPD (ministr Jaromír Zuna) — pokud tedy Okamura s rozhodnutím nesouhlasí,
     jde o rozhodnutí jeho vlastní strany, ne cizí. Připomíná, že SPD navíc porušila předvolební slib,
     když na pozici ministra obrany nedosadila samotného Okamuru (lídra strany), ale místo něj generála.'
+  osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: Kritizuje příspěvek do PURL, ač jeho vlastní strana (SPD) řídí ministerstvo obrany přes které
+      se dohoda uzavřela — označeno za pokrytectví
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-10-10
   typ: tvrzeni

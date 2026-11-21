@@ -7,6 +7,10 @@ zdroj:
   url: https://www.facebook.com/100085862388850/videos/2631890077243253
   prepis: prepisy/done/2026-08-28_Jiří-Černohorský-Živě_Facebook-Live.txt
   rezim: standard
+  osoby:
+  - osoba: marketa-pekarova-adamova
+    vztah: negativni
+    kontext: Nová přezdívka „kosočtverec bez čárky" nahrazující dřívější vulgární označení
 vyroky:
 - id: cernohorsky-2026-08-28-01
   typ: tvrzeni
@@ -19,6 +23,11 @@ vyroky:
     pobouřením kolem jiného nedopatření se státní vlajkou. Zmiňuje, že vstupenky na veřejné setkání s
     prezidentem měly stát 5 000 Kč. Opakuje svou obvyklou narážku, že Pavel není schopen „uživit manželku"
     z prezidentského platu.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Kritizován za použití státní vlajky při startu závodu; drahé vstupenky (5000 Kč) na veřejné
+      setkání; opakovaná narážka na neschopnost „uživit manželku"
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: cernohorsky-2026-08-28-02
   typ: tvrzeni
@@ -73,3 +82,21 @@ vyroky:
     kromě samotného dítěte — s odkazem na statistiku, že 13 % (1,3 mil.) lidí v ČR neušetří z výplaty
     ani korunu.
   podtema: Eutanazie
+- id: cernohorsky-2026-08-28-06
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Zbyněk Stanjura
+  text: jmenovaný terč + explicitní výzva k trestu (dlouhé vězení a cíleně nízký důchod)
+  citace:
+  - text: tenhle ten krypl, který lítá po svobodě, má být ve vězení a to nevím na jak dlouho, já bych
+      mu to dal minimálně z mrdovy, než půjde do důchodu, a ten důchod bych mu stanovil, ty vole, na patnáct
+      tisíc korun.
+  osoby:
+  - osoba: zbynek-stanjura
+    vztah: negativni
+    kontext: Terč výzvy k dlouhému vězení a cíleně nízkému důchodu (15 000 Kč) v souvislosti s odpovědností
+      za státní dluh
+  teror:
+    terc: Zbyněk Stanjura
+    hranicni: false

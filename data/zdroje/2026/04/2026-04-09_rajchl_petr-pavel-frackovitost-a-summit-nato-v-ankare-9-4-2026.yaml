@@ -9,6 +9,13 @@ zdroj:
   rezim: standard
   delka: '1:55'
   poznamka: 'Zhlédnutí: 209 557'
+  osoby:
+  - osoba: danuse-nerudova
+    vztah: negativni
+    kontext: Označena za „intelektuálního giganta" (ironicky) za podporu Pavlovy snahy jet na NATO summit
+  - osoba: filip-turek
+    vztah: neutralni
+    kontext: Uveden jako precedent — Pavel i tehdy dle Rajchla ohýbal Ústavu při odmítání jeho jmenování
 vyroky:
 - id: rajchl-2026-04-09-01
   typ: tvrzeni
@@ -23,4 +30,9 @@ vyroky:
     oznámení na Macinku skončila do ztracena.'
   citace:
   - text: Aby se přestal chovat jako král a šašek v jednom.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Označen za lháře o Ústavě — domáhá se účasti na NATO summitu v Ankaře, přestože zahraniční
+      politiku určuje vláda; chování označeno jako „frackoství"
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

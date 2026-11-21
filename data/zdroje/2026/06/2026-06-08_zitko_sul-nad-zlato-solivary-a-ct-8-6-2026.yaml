@@ -14,6 +14,11 @@ zdroj:
     projekt Zbudza pro ruskou ropu/plyn zmařen, Poldi Kladno, slov. zbrojovky); rozšíření ČT „výpalné"
     (plat GŘ Chudárka 346 800 + bonusy, 3000 vs 500 zaměstnanců, neoprávněné poplatky od 12. 3. 2020).
     Zhlédnutí: 633'
+  osoby:
+  - osoba: hynek-chudarek
+    vztah: negativni
+    kontext: GŘ ČT — plat 346 800 Kč + pololetní bonusy až 3,4 mil./rok; Zítko jako symbol „výpalného"
+      ČT za jednostranné vysílání
 vyroky:
 - id: zitko-2026-06-08-01
   typ: tvrzeni
@@ -32,3 +37,21 @@ vyroky:
     Očkování COVID-19 pak interpretuje jako útok na „paměť národa" — likvidaci pamětníků těchto privatizačních
     zločinů. Navazuje na jeho výklad rozdělení ČSR jako vlastizrady a ČR/SR jako „korporací" (viz [Villa
     Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026)).'
+  osoby:
+  - osoba: vladimir-meciar
+    vztah: negativni
+    kontext: Lidé „blízcí Mečiarově vládě" prý vyhrožováním a odčerpáním úvěru zmařili projekt Zbudza
+      (sklad ruské ropy/plynu) a likvidovali Solivary Prešov
+- id: zitko-2026-06-08-02
+  typ: stoch-teror
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: „pachatelé COVID-19" + Fléger, Prymula, Kubek, Chlíbek
+  text: 'Terč: „pachatelé COVID-19" + Fléger, Prymula, Kubek, Chlíbek.'
+  citace:
+  - text: Jmenovaní podporovatelé „bezhlavýho zabodávání experimentální vakcínou" označeni za viníky „zabíjení
+      biologickou zbraní hromadného ničení, genocidy a sterilizace obyvatelstva"; opakovaná výzva, aby
+      „pachatele zločinu COVID-19 všichni stanuli před spravedlivým vojenským tribunálem"
+  teror:
+    terc: „pachatelé COVID-19" + Fléger, Prymula, Kubek, Chlíbek
+    hranicni: false

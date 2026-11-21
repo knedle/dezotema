@@ -8,6 +8,49 @@ zdroj:
   prepis: prepisy/done/2026-10-12_Ladislav-Vrabel_12-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: 47 min, zprávy čte Zuzana. Úsek [31:11–31:21] (pasáž o Tuskovi) v přepisu chybí.
+  prehled:
+  - tema: Babiš dal pobyt více Ukrajincům než Fiala, migrační pakt od ledna
+    text: „urychluje příchod připrchlíků“, od ledna z Afriky; rasové stereotypy („inženýr s kyselinou“)
+      → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-12-01
+  - tema: 'Okamura: EU má jednat s Ruskem o míru'
+    text: „blbost“, „japonská mozkovna“, chválí Ivana Davida
+    vyrok: vrabel-2026-10-12-02
+  - tema: Řehka a drony „Charlie One“ v Plzni
+    text: „obranný dron“ je nesmysl, Plzeň bude cílem
+    vyrok: vrabel-2026-10-12-03
+  - tema: Trump obhajuje dohodu s Ruskem o naftě
+    text: ⚡ do voleb v USA tři týdny „euforie“ → viz [Predikce](../predikce.md)
+  - tema: Možné odvolání velvyslankyně Guilfoyle
+    text: v USA je nelegální jednání spíš „kvalifikace“ pro postup.
+  - tema: 'Mirošnik: Evropa může tlačit Ukrajinu proti dohodě USA–Rusko'
+    text: „docela možné“. Ruská ropa od USA za čtyřnásobek je lepší než žádná, „každý si povinně nakupte
+      dřevo a kamna“.
+  - tema: 22. sankční balíček (ČR podpořila)
+    text: sankce „fungují“, ovšem proti evropské ekonomice „0,1 % od stagnace“.
+  - tema: 'Burnham: Rusko zasahovalo do brexitu'
+    text: politický tah k návratu do EU. Vzpomíná na večeři s Andrewem Bridgenem, „Rusko může za všechno“.
+  - tema: 'Grynkewich: útok na NATO bude zmařen'
+    text: „ani jedno slovo pravda“, „měli by se léčit“
+    vyrok: vrabel-2026-10-12-04
+  - tema: Tuskův „předválečný“ projev
+    text: válce nelze zabránit, přijdou „tvrdé postihy“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-12-04
+  - tema: Saúdové nemají záchytné střely proti Hútíům
+    text: bez komentáře.
+  - tema: Turci zadrženi za žhářský útok na stanici Starlink v Polsku
+    text: ironicky „to jsou prostě Rusové, Turci se jen maskují“.
+  - tema: Zadržen muž za výhrůžky atentátem Tuskovi
+    text: ⚡ „ani se nedivím“, fantazie o jelenovi a Tuskovi → viz [Stochastický teror](../stochasticky-teror.md)
+  - tema: Telefonát Zelenskyj–Tusk, Trump a ukrajinské volby
+    text: Polsko „další na řadě“, „šílenci“ budou souzeni, Rusko není agresor
+    vyrok: vrabel-2026-10-12-04
+  - tema: 'Sikorski: zavřít ruské konzuláty, omezit víza'
+    text: „stejná pakáž“ jako Tusk, rušení diplomacie vede k válce
+    vyrok: vrabel-2026-10-12-04
+  - tema: 'Peskov: Putin zastaví útoky v den ukrajinských voleb'
+    text: vojáci budou „povinně“ volit, vítěze určí „globalisté“ (Zalužnyj, nebo Zelenskyj). Rusové na
+      volby útočit nebudou.
 vyroky:
 - id: vrabel-2026-10-12-01
   typ: tvrzeni
@@ -22,6 +65,10 @@ vyroky:
     buď kyselinu, nebo bombu, lékaře tak, že má v ruce skalpel“, řidiče tak, že „vjede do davu“, a obecně
     o „každém, kdo má odstín barvy pleti trošku tmavší, než je tamhle ten kousek dřeva“ (viz [Stochastický
     teror](stochasticky-teror.md)). Lidé, kterým se to nelíbí, budou podle něj „potlačováni“.'
+  osoby:
+  - osoba: katerina-konecna
+    vztah: negativni
+    kontext: „Kačenka z Nového Jičína“ vymyslela legální migrační cesty z Afriky
 - id: vrabel-2026-10-12-02
   typ: tvrzeni
   temata:
@@ -34,6 +81,13 @@ vyroky:
     vyčítá, že v Srbsku vyzýval Srby ke vstupu do EU: „Od Tomia Okamury jsem ještě nikdy neslyšel žádnou
     chytrou větu… to je asi tolik Tomiovi Okamurovi a jeho obrovské japonské mozkovně.“ Jako protiklad
     chválí Ivana Davida (SPD).'
+  osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: „Nikdy chytrou větu“, „japonská mozkovna“, v Srbsku agitoval pro EU
+  - osoba: ivan-david
+    vztah: pozitivni
+    kontext: Protiklad Okamury — odmítal EU
   podtema: USA — volební systém
 - id: vrabel-2026-10-12-03
   typ: tvrzeni
@@ -45,6 +99,10 @@ vyroky:
     že „obranný dron“ je nesmysl, protože drony slouží k doručování náloží „hluboko do Ruska“: „to může
     vymyslet zase jenom takový zelený mozek, jako je Karel Řehka“. Výroba podle něj udělá z Plzně cíl
     raket a sarkasticky připomíná, že Plzeňáci jsou na bombardování zvyklí z války.'
+  osoby:
+  - osoba: karel-rehka
+    vztah: negativni
+    kontext: „Zelený mozek“, drony v Plzni
   podtema: EU jako vojenská struktura
 - id: vrabel-2026-10-12-04
   typ: tvrzeni
@@ -66,4 +124,79 @@ vyroky:
     takhle neřekl, ale kdyby třeba vyvážel popelnice“ (viz [Stochastický teror](stochasticky-teror.md)).
     Prohlášení generála NATO Grynkewiche, že útok na NATO bude zmařen, je podle něj lež, protože NATO
     nemá protivzdušnou obranu proti zbraním typu Sarmat: „ty lidi by se měli buď léčit“.'
+  osoby:
+  - osoba: donald-tusk
+    vztah: negativni
+    kontext: „Předválečný“ projev, „pakáž“, „světu by bylo líp, kdyby tady nebyl“ (→ [stoch. teror](../stochasticky-teror.md))
+  - osoba: rados-aw-sikorski
+    vztah: negativni
+    kontext: „Stejná pakáž“ jako Tusk, ruší diplomacii, „Poláci nás zatahují do války“
+  - osoba: alexus-grynkewich
+    vztah: negativni
+    kontext: „Ani jedno slovo pravda“, „měli by se léčit“
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-10-12-05
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: do amerických voleb „euforie“, pak obrat
+  text: Následující 2–3 týdny do amerických voleb budou ve znamení „euforie“, že vše jde správným směrem;
+    poté se situace změní (navazuje na predikci z 10. 10.).
+  citace:
+  - text: Teď budeme mít všichni pocit tři týdny, že se všechno ubírá správným směrem. Stejně tak, jako
+      jsme měli před posledními americkými volbami.
+  predikce:
+    horizont: americké volby do Kongresu (3. 11. 2026)
+    stav: castecne
+    horizont_do: 2026-11-03
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: předvolební „euforie“ (energetické příměří, jednání) se dá doložit, jednoznačný obrat po volbách
+        ale zatím nenastal
+      stav: castecne
+    - datum: 2026-11-20
+      text: Po 3. 11. Trump dál mluvil o „velké dohodě“ a 19. 11. jednal s Putinem a Si. Vrabel 19. 11.
+        tvrdí, že „euforie“ trvala 4–5 týdnů a summitem končí.
+- id: vrabel-2026-10-12-06
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Evropa půjde do války; tvrdé postihy pro ty, kdo nestojí za Ukrajinou; Polsko „na řadě“ kolem
+    přelomu roku
+  text: Válce Evropy s Ruskem se podle něj téměř nedá zabránit. Proti lidem, kteří nejsou na straně Ukrajiny,
+    „začnou přicházet tvrdé postihy“ a Polsko je „další na řadě“, s prvními změnami kolem přelomu roku
+    2026/27.
+  citace:
+  - text: Říkám vám, že Polsko je další na řadě a nemyslím si, že to bude trvat dlouho… osobně bych viděl,
+      že jako někdy na přelomu roku, že už by se mohly nějaké věci začít měnit.
+  predikce:
+    horizont: přelom roku 2026/27; jinak neurčeno
+    stav: ceka
+- id: vrabel-2026-10-12-07
+  typ: stoch-teror
+  temata:
+  - valka-nato-rusko
+  nadpis: Donald Tusk (a Radosław Sikorski)
+  text: k zadržení muže, který vyhrožoval Tuskovi atentátem; fantazie o zamíření v blízkosti Tuska
+  citace:
+  - text: Ne, že bych to chtěl schvalovat, jo, to ne, ale jako ani se nedivím. […] a šel tam okolo Tusk,
+      jo, a teď jsem měl zamířenýho takhle toho jelena. A ten Tusk by byl vedle. […] možná by světu bylo
+      líp, jak kdyby tady nebyl, to bych jako takhle neřekl, ale kdyby pracoval někde jinde, kdyby třeba
+      vyvážel popelnice.“ / „A Sikorský to samý.
+  teror:
+    terc: Donald Tusk (a Radosław Sikorski)
+    hranicni: false
+- id: vrabel-2026-10-12-08
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: migranti z Afriky / lidé tmavší pleti
+  text: rasová dehumanizace a kriminalizace, bez výzvy k násilí
+  citace:
+  - text: inženýra poznáte tak, že má v ruce buď to kyselinu nebo bombu, lékaře poznáte tak, že má v ruce
+      skalpel, jenom kdybyste nevěděli, když ho potkáte v noci na ulici“ / řidiče „poznáte tak, když se
+      rozjede auto a vyjede do davu“ / „každý, kdo má odstín barvy pleti trošku tmavší, než je tamhle
+      ten kousek dřeva
+  teror:
+    terc: migranti z Afriky / lidé tmavší pleti
+    hranicni: false

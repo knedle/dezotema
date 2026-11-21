@@ -9,6 +9,10 @@ zdroj:
   rezim: standard
   poznamka: 3 h 35 min; většinu tvoří komentovaná nahrávka Zítkova výslechu na policii v Chomutově 13.
     11. 2023; vysíláno před setkáním v Holýšově; zpracováno podle shrnutí pomocného agenta.
+  osoby:
+  - osoba: roman-cechmanek
+    vztah: neutralni
+    kontext: Náhlou smrt naznačuje jako následek očkování
 vyroky:
 - id: zitko-2026-10-30-01
   typ: tvrzeni
@@ -101,6 +105,13 @@ vyroky:
     burze „z vašeho kolaterálního účtu“; USA se staly korporací v roce 1871 díky Rothschildům a Rockefellerům
     a česká policie má prý na autech znak SS. Smrt Alexandra Dubčeka podle něj nesla „všechny rysy práce
     tajných služeb“ a Klaus prý vytuneloval důchodový fond (333 mil. USD).'
+  osoby:
+  - osoba: alexander-dubcek
+    vztah: neutralni
+    kontext: Jeho smrt nesla „rysy práce tajných služeb“
+  - osoba: vaclav-klaus
+    vztah: negativni
+    kontext: Vytuneloval důchodový fond (333 mil. USD)
 - id: zitko-2026-10-30-09
   typ: tvrzeni
   temata:
@@ -156,3 +167,42 @@ vyroky:
     se podle něj vracejí do Maďarska a na Slovensko a manželka jednoho poslance prý vezla přes hranice
     30 milionů dolarů.
   podtema: Vyjednávání a mír
+- id: zitko-2026-10-30-14
+  typ: predikce
+  temata:
+  - blizky-vychod
+  nadpis: po skončení „smlouvy na stát Izrael“ 31. 10. nastane „velký územně právní problém“
+  text: K 31. 10. 2026 končí „smlouva na stát Izrael“; poté vznikne velký územně právní problém s Palestinci
+    (Čína a Saúdská Arábie už prý vydaly mapy bez Izraele).
+  citace:
+  - text: Tam bude velký územně právní problém s Palestincema.
+  predikce:
+    horizont: od 31. 10. 2026
+    stav: vyvraceno
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: po 31. 10. žádný „územně právní problém“ kolem Izraele nenastal; ani Zítko se k němu v pozdějších
+        vysíláních nevrací
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: V izraelském zpravodajství je po 31. 10. jen povolební patová situace. Zítkovy přepisy z listopadu
+        téma „smlouvy na stát Izrael“ nezmiňují.
+- id: zitko-2026-10-30-15
+  typ: stoch-teror
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: „covidoví lékaři“, Melissa Moore; migranti; Ukrajinci; Patrik Tušl, Renata Bernardy
+  text: 'Terč: „covidoví lékaři“, Melissa Moore; migranti; Ukrajinci; Patrik Tušl, Renata Bernardy.'
+  citace:
+  - text: 'Souhlasné líčení údajných poprav „covidových lékařů, který píchali do lidí injekce“ a technoložky
+      Moderny Melissy Moore („140 kilo“); o těch, kdo by stříkali chemtrails: „toho by zastřelili“; obhajoba
+      výroku „vezmeme je za držky a hodíme je do řeky“; migranti „hordy“ s výzvou k deportaci, Ukrajinci
+      „fašouni“; Tušl „zmrd“, „kripl“, Bernardy „kanál zla“ — hraniční (bez přímé výzvy ke konkrétnímu
+      násilí)'
+  osoby:
+  - osoba: melissa-moore
+    vztah: negativni
+    kontext: Technoložka Moderny, údajně popravena; zesměšňována kvůli váze
+  teror:
+    terc: „covidoví lékaři“, Melissa Moore; migranti; Ukrajinci; Patrik Tušl, Renata Bernardy
+    hranicni: true

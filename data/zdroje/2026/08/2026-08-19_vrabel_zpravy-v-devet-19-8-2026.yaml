@@ -7,6 +7,43 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1054683694216927
   prepis: prepisy/done/2026-08-19_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Tvrzení o vyslání 50 000 severokorejských vojáků do Ruska označeno KLDR za nepodložené a
+      „zinscenované" — čteno jako další „štvaní" proti Rusku
+  prehled:
+  - tema: Letiště Karlovy Vary
+    text: armáda přebírá, náklady ~1 mld. Kč, sarkastický komentář — nezpracováno
+  - tema: Kritika 21% DPH na dotace veřejné dopravy od 2028
+    text: satira „daň z daně" — nezpracováno
+  - tema: Kritika STAN/koalice za DPH zákon schválený v 2024
+    text: narážka na „lidi padající z oken" — nezpracováno
+  - tema: Evropská energetika v létě — sucho omezuje jádro/vodní zdroje, LNG ohroženo Blízkým východem,
+      návrat k uhlí, kritika „diverzifikace"
+    text: → [Ceny energie](../ceny-energie.md)
+  - tema: Zasypané a zatopené uhelné doly — kritika Babišovy vlády
+    text: → [Ceny energie](../ceny-energie.md)
+  - tema: Sabotáž Nord Streamu, zadržený Ukrajinec
+    text: ironicky navrhuje mu medaili, tvrdí že akci provedla Ukrajina na příkaz USA — nezpracováno
+  - tema: Nový ukrajinský ministr obrany Chmara
+    text: posměšný komentář k rétorice „mír skrze vítězství" — nezpracováno
+  - tema: Rusko hasí požáry v Srbsku
+    text: komentář o „spojencích" vs. Rusku — nezpracováno
+  - tema: KLDR popírá vyslání 50 000 vojáků na Ukrajinu — vyvrácení „štvaní" Zelenského
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Írán
+    text: možné útoky na jihovýchodní Evropu, NATO reakce — varování o nebezpečí i pro ČR — nezpracováno
+      (opakování dřívějších varování)
+  - tema: Venezuelské zlato přesouváno do USA
+    text: otázka, kde je české zlato (Londýn) — nezpracováno
+  - tema: Vietnam — deaktivace 86 mil. bankovních účtů bez digitální identity — rozvedeno do tématu digitální
+      dystopie
+    text: → [Digitální kontrola](../digitalni-kontrola.md)
+  - tema: M. T. Greene o jaderných zbraních proti Íránu
+    text: nedůvěra v předvídatelnost Trumpa, „Čechovova puška" — nezpracováno
+  - tema: SAE pozastavily obchod s Íránem
+    text: výklad petrodolarového systému — nezpracováno
 vyroky:
 - id: vrabel-2026-08-19-01
   typ: tvrzeni

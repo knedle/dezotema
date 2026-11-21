@@ -8,6 +8,10 @@ zdroj:
   prepis: prepisy/done/2025-11-14_Jiří-Černohorský-Živě_5-let-zpu011bt-u010cESKO-ud83eudd2cud83eudd2cud.txt
   rezim: standard
   delka: '22:28'
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Kšiltovky „Za lepší Česko" označeny za součást systematického šíření pojmu „Česko"
 vyroky:
 - id: cernohorsky-2025-11-14-01
   typ: tvrzeni
@@ -27,6 +31,22 @@ vyroky:
   - text: Česko je plán a to už od roku 93. Vlastně už po rozpadu Československa. Po tom podvodu.
   - text: Budou počítat s tím, že jednoho krásného dne nějaký kolaborantský parchan vyhlásí referendum
       o přiřazení České republiky jakožto Česka k Německu.
+  osoby:
+  - osoba: eduard-benes
+    vztah: pozitivni
+    kontext: Citován jako vizionář, který předvídal pokusy o zrušení dekretů; dekrety označuje za základ
+      majetkového pořádku
+  - osoba: karel-schwarzenberg
+    vztah: negativni
+    kontext: Označen za „kolaboranta", který řekl, že Benešovy dekrety jsou zbytečné a že mluvit německy
+      by nebylo od věci
+  - osoba: ludek-kovanda
+    vztah: negativni
+    kontext: V ČT označil Česko za „17. spolkovou republiku Německa" — Černohorský to považuje za nepřeřeknutí
+  - osoba: daniel-herrmann
+    vztah: negativni
+    kontext: Bývalý ministr kultury (KDU-ČSL), „jen tak mimochodem" zmínil přiřazení k Německu — označen
+      za „kolaboranta"
   podtema: Germanizace, restituce a „Česko je plán“
 - id: cernohorsky-2025-11-14-02
   typ: tvrzeni

@@ -48,4 +48,25 @@ vyroky:
     a Novákovi — extrémně rozšiřuje starší tezi o tříštění vlastenecké scény (viz [Zklamání z reakce na
     sjezd v Brně](benesovy-dekrety.md#zklamání-z-reakce-na-sjezd-v-brně--slíbený-otevřený-dopis-se-nikdy-nerealizoval-černohorský-26-6-2026))
     o konkrétní obvinění ze špionáže a zrady uvnitř vlastního tábora.
+  osoby:
+  - osoba: dan-novak
+    vztah: negativni
+    kontext: Veřejně se chlubil, že věděl o zmařené reklamní kampani na dopravním podniku Brna a že Černohorského
+      „slušně poslali do prdele"
+  - osoba: tarabova
+    vztah: negativni
+    kontext: Obviněna, že jí (spolu s Novákem) někdo ze soukromého chatu komunity vynáší interní informace
   podtema: Nová alternativní média
+- id: cernohorsky-2026-08-17-11
+  typ: stoch-teror
+  temata:
+  - media-propaganda
+  nadpis: „Boreček" (zaměstnanec Dopravního podniku města Brna)
+  text: jmenovaný terč + explicitní násilná fantazie fyzického napadení, v souvislosti se zmařenou reklamní
+    zakázkou
+  citace:
+  - text: Já ho, já fakt toho Borecka nemám rád, a pokud to jenom trochu půjde, tak mu jednou rozbíjí
+      rypák, v nějakým tom kleši.
+  teror:
+    terc: „Boreček" (zaměstnanec Dopravního podniku města Brna)
+    hranicni: false

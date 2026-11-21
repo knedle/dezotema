@@ -12,6 +12,16 @@ zdroj:
     argumentaci: Benešovy dekrety jako součást ústavního pořádku; Wittikobund — vnitřní spor v Landsmannschaftu
     o rušení dekretů; statuta „curik nachajmat"; Pavel za Evropské spojené státy. Senátoři, kteří nepodají
     žalobu, se sami dopouštějí velezrady.'
+  prehled:
+  - tema: Krátký klip věnovaný výhradně kauze Petr Pavel /
+    text: 'Krátký klip věnovaný výhradně kauze Petr Pavel / Landsmannschaft. Vrabel rozšiřuje právní argumentaci:
+      Benešovy dekrety jako součást ústavního pořádku'
+  - tema: Wittikobund
+    text: vnitřní spor v Landsmannschaftu o rušení dekretů
+  - tema: statuta „curik nachajmat"
+    text: statuta „curik nachajmat"
+  - tema: Pavel za Evropské spojené státy. Senátoři, kteří nepodají
+    text: Pavel za Evropské spojené státy. Senátoři, kteří nepodají žalobu, se sami dopouštějí velezrady.
 vyroky:
 - id: vrabel-2026-05-18-05
   typ: tvrzeni

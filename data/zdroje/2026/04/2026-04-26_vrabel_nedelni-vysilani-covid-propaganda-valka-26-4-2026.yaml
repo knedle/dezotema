@@ -12,6 +12,19 @@ zdroj:
     zakázky bez výběrových řízení, COVID = Ukrajina (stejná propaganda šablona), vakcíny bez odpovědnosti
     výrobce, lockdowny jako porušení lidských práv, Lavrov hrozí Evropě, 90 mld. EUR pro Ukrajinu schváleno
     s Babišem, EU čl. 42.7 — kolektivní obrana při ruském útoku.'
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Jako premiér po 5 dnech ve funkci schválil v Radě Evropy půjčku 90 mld. EUR Ukrajině; spokojeně
+      se fotí s EU lídry na Kypru
+  - osoba: sergej-lavrov
+    vztah: neutralni
+    kontext: Citován — „obrání vše, má k tomu sílu a největší armádu v Evropě; nebude to pro Evropu dobře"
+  prehled:
+  - tema: 'Nedělní živé vysílání. Klíčová témata: COVID jako vojenská operace'
+    text: krytí pro miliardové zakázky bez výběrových řízení, COVID = Ukrajina (stejná propaganda šablona),
+      vakcíny bez odpovědnosti výrobce, lockdowny jako porušení lidských práv, Lavrov hrozí Evropě, 90
+      mld. EUR pro Ukrajinu schváleno s Babišem, EU čl. 42.7 — kolektivní obrana při ruském útoku.
 vyroky:
 - id: vrabel-2026-04-26-01
   typ: tvrzeni
@@ -25,6 +38,10 @@ vyroky:
   citace:
   - text: V covidu společnosti vytvořily strach, aby mohly obejít zákon o veřejných zakázkách a aby mohly
       udělat obrovské, miliardové obchody s vakcínami bez zadání výběrových řízení.
+  osoby:
+  - osoba: ursula-von-der-leyen
+    vztah: negativni
+    kontext: Nakoupila vakcíny za 100+ mld. EUR bez výběrových řízení; vede Evropu do hospodářské katastrofy
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 - id: vrabel-2026-04-26-02
   typ: tvrzeni

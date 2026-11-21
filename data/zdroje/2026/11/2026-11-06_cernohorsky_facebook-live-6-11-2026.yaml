@@ -26,6 +26,10 @@ vyroky:
   citace:
   - text: Za mě z největší pravděpodobností dostala Šebelová nasypáno. S dalšíma. Aby tohle svinstvo prosazovali.
       A takhle funguje politika.
+  osoby:
+  - osoba: jaroslava-sebelova
+    vztah: negativni
+    kontext: Za eutanazii dětí „dostala nasypáno“
   podtema: Milion chvilek — struktura a financování
 - id: cernohorsky-2026-11-06-02
   typ: tvrzeni
@@ -52,6 +56,13 @@ vyroky:
     neexistuje“.'
   citace:
   - text: Jestliže tohle se prolomí, konečná. Konečná. Hotovo.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Stupidní figura“, „kretén“, „kripl z Hradu“; s Lichtenštejny „ruku v ruce“
+  - osoba: katerina-konecna
+    vztah: pozitivni
+    kontext: Vstup k Patriotům „není zrada“, ale politický vývoj
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: cernohorsky-2026-11-06-04
   typ: tvrzeni
@@ -69,6 +80,10 @@ vyroky:
     kdo věří teorii o „vyměněném“ Čermákovi, je podle něj „idiot“.'
   citace:
   - text: Tady se nepracuje s fakty. Tady se pracuje, prosím vás, s předpokladem.
+  osoby:
+  - osoba: tomas-cermak
+    vztah: pozitivni
+    kontext: Nebyl vinen, odsouzen „za předpoklad“; „nechte Toma na pokoji“
   podtema: Politická perzekuce
 - id: cernohorsky-2026-11-06-05
   typ: tvrzeni
@@ -82,6 +97,19 @@ vyroky:
     nic neptají a o kauze mlčí, stejně jako o tom, že Robert Fico během voleb odletěl soukromě na dovolenou.'
   citace:
   - text: 'Viděli jste ze zpravodajství ČT: kam jste, Fialo, dali tohle tady, 660 milionů?'
+  osoby:
+  - osoba: petr-fiala
+    vztah: negativni
+    kontext: „Idiot“, ODS a STAN pod jeho vedením vyvedly z kampeličky 660 mil.
+  - osoba: jiri-hynek
+    vztah: negativni
+    kontext: „Debil“, „kunda“; mlčí o kampeličce
+  - osoba: fridrichova
+    vztah: negativni
+    kontext: „Debil“, „kunda“; mlčí o kampeličce
+  - osoba: robert-fico
+    vztah: negativni
+    kontext: „Kašpar“, během voleb odletěl na dovolenou
   podtema: USA — volební systém
 - id: cernohorsky-2026-11-06-06
   typ: tvrzeni
@@ -100,6 +128,19 @@ vyroky:
     nepomohli; Štefan Bartoš je podle informací, které má, „jednoznačně vinen“.'
   citace:
   - text: V čem je síla lidí? […] A udělalo to pár desítek lidí. A pořád to nechcete pochopit.
+  osoby:
+  - osoba: zdenek-chytra
+    vztah: pozitivni
+    kontext: Zpracoval Istanbulskou úmluvu, spolupráce na jejím zastavení 2018
+  - osoba: vrabel
+    vztah: negativni
+    kontext: „Šmejd“, nikomu konkrétně nepomohl
+  - osoba: renata-bernardy
+    vztah: negativni
+    kontext: Má vlastní médium placené lidmi, nikomu nepomohla; „zmrd“
+  - osoba: stefan-bartos
+    vztah: negativni
+    kontext: „Vyměnil pravdu za lež“, podle jeho informací „jednoznačně vinen“
   podtema: USA — volební systém
 - id: cernohorsky-2026-11-06-07
   typ: tvrzeni
@@ -118,6 +159,19 @@ vyroky:
     sílu uvádí 600 tisíc lidí hlásících se k moravské národnosti.'
   citace:
   - text: Kritika? Jasně. Je potřeba. A co dál? Co dál? Co chcete dělat dál?
+  osoby:
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: Kritizuje je, ale „nic lepšího“ nemáme
+  - osoba: tomio-okamura
+    vztah: rozporuplny
+    kontext: Kritizuje je, ale „nic lepšího“ nemáme
+  - osoba: petr-macinka
+    vztah: rozporuplny
+    kontext: Kritizuje je, ale „nic lepšího“ nemáme
+  - osoba: spd
+    vztah: negativni
+    kontext: Devět let nic neudělala, referendum a odvolatelnost nepřišly
   podtema: Vlastní vládní program „kdybych byl Babišem" (Černohorský)
 - id: cernohorsky-2026-11-06-08
   typ: tvrzeni
@@ -136,4 +190,57 @@ vyroky:
   citace:
   - text: Úřad prezidenta, úřad hlavy státu, na to nestačí být milej, na to nestačí být usměvavej, na
       to nestačí mít jenom ty správný názory.
+  osoby:
+  - osoba: adriana
+    vztah: rozporuplny
+    kontext: Může být „úžasná a inteligentní“, ale kandidatura „není normální“
   podtema: Prezidentské volby
+- id: cernohorsky-2026-11-06-09
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Vít Rakušan
+  text: pojmenovaný terč + výzva k fyzickému napadení a uvěznění s popiratelným dovětkem
+  citace:
+  - text: Rakušan, tam je potřeba rozbít rypák. Hajzl zkurvenej a do kriminálu s ním. […] Já Rakušanovi
+      nevyhrožuji. Já jenom skonstatuju, co by mu patřilo.
+  osoby:
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: „Potřeba rozbít rypák“, „do kriminálu s ním“; 30 tis. migrantů
+  teror:
+    terc: Vít Rakušan
+    hranicni: false
+- id: cernohorsky-2026-11-06-10
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Pavel Zítko, Jiří Hradil
+  text: pojmenované terče + dehumanizace („dobytek“) + přání trestu
+  citace:
+  - text: tyhle zmrdi dva, vyjebaní […] byl bych šťastnej, kdyby tenhle zmrd Zítko skončil minimálně aspoň
+      na ty tři, čtyři roky v kriminále“; „takovej Zítko dobytek rozhodně je, Hradil rozhodně dobytek
+      je
+  osoby:
+  - osoba: zitko
+    vztah: negativni
+    kontext: Udal a „stalkuje“ Čermáka, „dobytek“, „prodá i vlastní matku“; trestní oznámení
+  - osoba: zitko
+    vztah: negativni
+    kontext: „Idiot“, „dobytek“, spolu se Zítkem stalkuje Čermáka; trestní oznámení
+  teror:
+    terc: Pavel Zítko, Jiří Hradil
+    hranicni: false
+- id: cernohorsky-2026-11-06-11
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: migranti („negři, černoši, arabové“) a zastánci migrace
+  text: 'Terč: migranti („negři, černoši, arabové“) a zastánci migrace.'
+  citace:
+  - text: Komentář „vůči negrům, černochům, arabům a všechny té veškeré té verbeži“; zastánce migrace
+      („kretény“) by „vzal a dal je do těch táborů, do těch get“ — rasová dehumanizace skupiny („verbež“)
+      + fantazie o internaci odpůrců
+  teror:
+    terc: migranti („negři, černoši, arabové“) a zastánci migrace
+    hranicni: false

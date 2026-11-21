@@ -15,6 +15,31 @@ zdroj:
     s falešnými sledujícími (Facebook smazal: 100k→35k, Instagram ~8k); Ukraina mobilizace — TCK, falešné
     invalidní průkazy, seznamy Ukrajinců na Západě; 400 tisíc mladých Ukrajinců (18–24) odešlo přes „dočasnou
     ochranu" na Západ — plán zařadit je do evropské armády; demonstrace na Staroměstském náměstí 9. 5.'
+  osoby:
+  - osoba: gerhard-schroder
+    vztah: neutralni
+    kontext: 'Putin ho navrhl jako zprostředkovatele EU–Rusko na mírových jednáních — podmínka: musí jít
+      o někoho, kdo na Rusko nezaútočil'
+  prehled:
+  - tema: 'Nedělní dlouhé vysílání. Témata: hantavirus'
+    text: Deutsche Welle, přenos člověk-člověk, Moderna má vakcínu (podezřelé), Vrabelův příběh o příteli
+      zemřelém za 2 dny, srovnání s covidem
+  - tema: Macinka v Německu résumé + detailní analýza
+    text: Macinka v Německu résumé + detailní analýza
+  - tema: Fico v Moskvě
+    text: Putin navrhl Gerharda Schrödera jako zprostředkovatele EU
+  - tema: Putinův projev ke Dni vítězství
+    text: Putinův projev ke Dni vítězství
+  - tema: Marco Rubio
+    text: USA odstupuje od mírových jednání
+  - tema: Rajchlův skandál s falešnými sledujícími (Facebook smazal
+    text: 100k→35k, Instagram ~8k)
+  - tema: Ukraina mobilizace
+    text: TCK, falešné invalidní průkazy, seznamy Ukrajinců na Západě
+  - tema: 400 tisíc mladých Ukrajinců (18–24) odešlo přes „dočasnou ochranu" na Západ
+    text: plán zařadit je do evropské armády
+  - tema: demonstrace na Staroměstském náměstí 9. 5.
+    text: demonstrace na Staroměstském náměstí 9. 5.
 vyroky:
 - id: vrabel-2026-05-10-01
   typ: tvrzeni
@@ -36,6 +61,11 @@ vyroky:
   text: 'Vrabel ve vysílání 10. 5. 2026 informuje, že Facebook smazal Rajchlovi falešné sledující: jeho
     stránka klesla z přibližně 100 tisíc na 35 tisíc fanoušků a Instagram z neznámého počtu na přibližně
     8 tisíc. Vrabel to komentuje kriticky — nakupování sledujících považuje za podvod na vlastním publiku.'
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Facebook smazal falešné sledující — stránka klesla z ~100 k na 35 k, Instagram na ~8 k; Vrabel
+      to označuje za podvod na vlastním publiku
   podtema: Ekonomický program PRO
 - id: vrabel-2026-05-10-03
   typ: tvrzeni
@@ -56,4 +86,20 @@ vyroky:
     zprostředkování mírových jednání mezi Ruskem a Ukrainou. Vrabel to hodnotí jako důsledek Trumpovy
     frustrace z neochoty obou stran ke kompromisu — USA přestávají hrát roli mediátora, čímž se válka
     ve střednědobém horizontu přesouvá výhradně do evropské geopolitické sféry.
+  osoby:
+  - osoba: marco-rubio
+    vztah: negativni
+    kontext: 'Oznámil, že USA odstupují od aktivního zprostředkování mírových jednání — Vrabel: válka
+      se přesouvá výhradně do evropské geopolitické sféry'
   podtema: Vyjednávání a mír
+- id: vrabel-2026-05-10-05
+  typ: predikce
+  temata:
+  - covid-vakciny
+  nadpis: Hantavirus jako příští pandemie
+  text: Vrabel na základě reportáže Deutsche Welle o hantaviru s přenosem člověk-člověk varuje, že jde
+    o potenciální zárodek příští pandemie — srovnatelný s ranou fází covidu. Podezřelé je, že Moderna
+    má vakcínu připravenou ještě před globálním rozšířením.
+  predikce:
+    horizont: neurčeno (blízká budoucnost)
+    stav: ceka

@@ -18,6 +18,11 @@ vyroky:
     s otázkami, na které mohli znát odpověď jen oni dva, návštěva u něj ve věznici v Liberci není možná
     a v televizním vysílání o něm byl místo něj údajně pouštěn jen „hologram". Z toho usuzuje, že Čermák
     možná není reálně ve výkonu trestu.'
+  osoby:
+  - osoba: tomas-cermak
+    vztah: rozporuplny
+    kontext: Spolupracovník/kamarád, u jehož uvěznění Zítko nově spekuluje, že reálně nemusí být ve výkonu
+      trestu
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-08-29-02
   typ: tvrzeni
@@ -45,4 +50,9 @@ vyroky:
     „divadlo pro lidi"; cituje i komentáře diváků (Zuzka, Libuška Žohová) pod jejím příspěvkem s touto
     výtkou. Zmiňuje také, že žádný z šesti dosavadních porotců nenominoval nikoho z pronásledovaných kritiků
     covidu.'
+  osoby:
+  - osoba: martina-kocijanova
+    vztah: negativni
+    kontext: Porotkyně ankety o svobodě projevu — vyzvala diváky k tipům, ale nominovala pětici jmen,
+      která se v komentářích vůbec neobjevila
   podtema: Politická perzekuce

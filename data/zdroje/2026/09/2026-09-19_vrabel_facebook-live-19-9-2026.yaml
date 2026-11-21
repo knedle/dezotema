@@ -93,3 +93,17 @@ vyroky:
     že Grónsko dnem podpisu fakticky ztrácí suverenitu a stává se závislým na rozhodnutích Washingtonu
     — „slova o suverenitě a sebeurčení" označuje za rétoriku, „aby se koza nažrala a vlk zůstal celý".'
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-19-07
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: v příštích parlamentních volbách bude kandidovat ukrajinská politická strana
+  text: Na základě odhadu ~2 milionů Ukrajinců žijících v ČR (a rostoucí „ukrajinizace" společnosti i
+    armády) Vrabel předpovídá, že v příštích parlamentních volbách bude kandidovat ukrajinská politická
+    strana a bude „dost úspěšná", protože bude mít hodně voličů.
+  citace:
+  - text: Myslím, že v odhodnosti můžeme očekávat v příštích parlamentních volbách nějakou ukrajinskou
+      politickou stranu, která bude kandidovat. A bude pravděpodobně dost úspěšná.
+  predikce:
+    horizont: příští parlamentní volby (řádně 2029, není-li konkrétní datum uvedeno jinak)
+    stav: ceka

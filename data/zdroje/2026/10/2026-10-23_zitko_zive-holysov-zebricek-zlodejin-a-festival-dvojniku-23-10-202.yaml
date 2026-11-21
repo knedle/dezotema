@@ -8,6 +8,10 @@ zdroj:
   prepis: prepisy/done/2026-10-25_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt
   rezim: standard
   poznamka: '1 h 28 min, večerní vysílání (Večerníček: Josef Lada, „Liška se stává slavnou“ — nezpracováno).'
+  osoby:
+  - osoba: martin-turek
+    vztah: negativni
+    kontext: Spravuje profil „Politický vězeň Čermák“, „vyhrožovačky“
 vyroky:
 - id: zitko-2026-10-23-01
   typ: tvrzeni
@@ -27,6 +31,13 @@ vyroky:
   citace:
   - text: Pokud by se náhodou ten podezřelý falešný Tomáš Čermák odmítal sejít, no tak je to takový důkaz,
       že všechno nemusí být tak, jak vypadá.
+  osoby:
+  - osoba: renata-bernardy
+    vztah: negativni
+    kontext: „Vymývání mozků a manipulace“, přejímá „sračky“ falešného profilu
+  - osoba: marcela-maruskova
+    vztah: rozporuplny
+    kontext: Udělala „spoustu ošklivých věcí“, ale potvrdila, že by Zítko Čermáka neudal
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-10-23-02
   typ: tvrzeni
@@ -61,3 +72,19 @@ vyroky:
     finanční systém (QFS). Rozdíly v očích a výšce mají dokazovat i „výměnu“ Tomáše Čermáka.'
   citace:
   - text: Vidíte, jsou si podobný, ale stejný nejsou.
+  osoby:
+  - osoba: donald-trump
+    vztah: pozitivni
+    kontext: Přítomen popravě Hillary Clintonové; jeho děti „Čechoslováci“
+- id: zitko-2026-10-23-04
+  typ: stoch-teror
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: Hillary Clintonová, Henry Kissinger, Simon Cowell, Kevin Spacey, John Cusack aj.
+  text: souhlasné líčení údajných poprav jmenovaných osob (tvrdí, že už proběhly; bez přímé výzvy)
+  citace:
+  - text: vedle popravená Hillary Clinton […] dřív než jí oběsily […] Donald Trump byl přítomen popravy,
+      trest smrti oběšením“; celebrity označené za pedofily „popraven, nahrazen
+  teror:
+    terc: Hillary Clintonová, Henry Kissinger, Simon Cowell, Kevin Spacey, John Cusack aj.
+    hranicni: false

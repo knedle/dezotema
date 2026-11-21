@@ -9,3 +9,8 @@ zdroj:
   rezim: standard
   delka: '1:50'
   poznamka: 'Zhlédnutí: 180 317'
+  osoby:
+  - osoba: peter-magyar
+    vztah: negativni
+    kontext: Den po maďarských volbách otevřel otázku Benešových dekretů — Rajchl to označuje za varovný
+      signál; sleduje zda se jako nový PM podrobí 27 supermilníkům EU

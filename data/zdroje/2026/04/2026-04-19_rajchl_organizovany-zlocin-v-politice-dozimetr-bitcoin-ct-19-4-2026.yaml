@@ -11,6 +11,10 @@ zdroj:
   poznamka: 'Nedělní live: cenzura Petra Pavla (hysterie opozice), dobrovolné ČT poplatky, Sudetoněmecký
     Landsmannschaft, Pavel a Lichtenštejni, energetická diverzifikace, Dozimetr (Fremr/Rakušan), Bitcoin
     (Stanjura s přístrojem). Zhlédnutí: neznámo'
+  osoby:
+  - osoba: danuse-nerudova
+    vztah: negativni
+    kontext: Označena za „hloupější, než jsme doufali" po výroku o rafinérii PKN Orlen
 vyroky:
 - id: rajchl-2026-04-19-01
   typ: tvrzeni
@@ -26,6 +30,11 @@ vyroky:
     jedna výpověď (Pavel Dovhomilú) — ale pro stíhání STAN a TOP 09 nestačí výpovědi 7–8 svědků, kteří
     shodně uvádějí, že strany peníze inkasovaly. Rajchl byl nominován do nové parlamentní vyšetřovací
     komise pro kauzu Dozimetr.'
+  osoby:
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: Jiří Fremr ve výpovědi potvrdil, že Rakušan byl aktivní v šifrované síti KryptoCalt — přímý
+      rozpor s Rakušanovými dřívějšími tvrzeními
   podtema: Kauza Dozimetr
 - id: rajchl-2026-04-19-02
   typ: tvrzeni

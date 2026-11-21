@@ -10,6 +10,72 @@ zdroj:
   poznamka: 1 h 27 min, zprávy čte Zuzka; den summitu EU v Dublinu, dva dny před demonstrací na Letné.
     23 témat v denním přehledu, 10 s vlastním úhlem (⚡). Stochastický teror nezjištěn. Zpracováno podle
     podkladů pomocného agenta.
+  osoby:
+  - osoba: karel-havlicek
+    vztah: negativni
+    kontext: Dodává letadla Ukrajině, „vždycky takový byl“
+  - osoba: ivan-trojan
+    vztah: negativni
+    kontext: „Půjde pracovat pro CIA“
+  prehled:
+  - tema: Demonstrace za ČT a ČRo 15. 11. na Letné, financování z rozpočtu
+    text: „politický převrat“ řízený CIA přes Studentstvo, rektory a divadla, poplatky jen záminka, kulminace
+      17. 11.
+    vyrok: vrabel-2026-11-10-02
+  - tema: Zrušený pochod 17. 11., telefonát majora Koláře
+    text: policie zatýká mírumilovné, ne ty s dlažebními kostkami (opakuje).
+  - tema: Evropský vyjednávací tým po Dublinu
+    text: „šaškárna“, osm vyjednavačů proti jednomu, vedou je „největší váleční štváči“ Merz a Tusk.
+  - tema: 'Kallasová: nejdřív příměří, pak mír'
+    text: příměří s evropskými vojsky a „článkem 5“ je „kopice dynamitu“, EU nechce mír
+    vyrok: vrabel-2026-11-13-05
+  - tema: Rusko zve pozorovatele na Donbas, spor o kontrolovaná území, Kallasová o mučení zajatců
+    text: takhle se nedohodnou, podobenství o sousedovi s hruškami.
+  - tema: EU tráví 90 % času Ukrajinou
+    text: její vedení je „finančně závislé“ na válce a vizi rozparcelovaného Ruska
+    vyrok: vrabel-2026-11-13-05
+  - tema: Euroclear varuje před použitím ruských aktiv (210 mld. eur)
+    text: vyvlastnění je „krádež“, ze 70 mld. pro Ukrajinu se „bůh ví kolik rozkrade“
+    vyrok: vrabel-2026-11-13-05
+  - tema: 'Rasmussen: poslat britská a francouzská vojska na Ukrajinu'
+    text: eskalace přinese teroristické útoky a hořící rafinerie i do ČR, vlastní sen o frontě.
+  - tema: Trump nařídil Vanceovi omezit Írán a řešit korupci v demokratických státech
+    text: „telenovela Bílý dům“.
+  - tema: Vance možná nebude kandidovat, Babiš skončí, pokud nebude prezident
+    text: „super“, ale nahradí ho jiný „parkičkář globalistů“.
+  - tema: Soud EU zamítl polské žaloby proti Fit for 55
+    text: soud vždy rozhodne proti suverenitě, koruna v ústavě je „krmení voličů“
+    vyrok: vrabel-2026-11-13-04
+  - tema: Migranti ve Španělsku a v ČR
+    text: solidarita podle migračního paktu, „promíchání“ s Ukrajinci (opakuje).
+  - tema: Soudy a volby (SPD, Rumunsko)
+    text: soudy ruší nevhodné výsledky (opakuje).
+  - tema: Russell Brand odsouzen, zrušené účty, Fuellmich
+    text: odsouzen bez důkazů, Brand „gentleman“ (opakuje).
+  - tema: Výpadek Microsoftu, odstoupení šéfa NVIDIE, ceny zlata, propad stříbra a kryptoměn
+    text: „stádium drancování“, akcie „ultra nebezpečné“
+    vyrok: vrabel-2026-11-10-06
+  - tema: 'Chorvatsko: 22 obžalovaných za nacistická gesta ve Splitu'
+    text: Ukrajina je „nacistická země, nacistický režim“
+    vyrok: vrabel-2026-11-13-05
+  - tema: Německý rozpočet 2027 a dluh ČR
+    text: dluhy Babiše a Merze zaplatí lidé majetkem (bail-in, Řecko)
+    vyrok: vrabel-2026-11-10-06
+  - tema: Mossad v USA kvůli Íránu
+    text: válka potrvá, „dokud neudělají velký Izrael“
+    vyrok: vrabel-2026-11-13-01
+  - tema: Atentáty na ruské důstojníky v Petrohradu a Moskvě
+    text: po mírových jednáních přijde teroristický útok na významnou osobu „a pak to začne“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-13-07
+  - tema: Havlíček dodává Ukrajině letadla, Babiš a Zelenskyj „největší kamarádi“
+    text: lidé zvolili „menší zlo“ místo změny.
+  - tema: Podpálené auto Juliana Reichelta (NIUS)
+    text: policie bagatelizuje, ČT není nezávislá
+    vyrok: vrabel-2026-11-13-03
+  - tema: 'Rutte: výdaje +250 mld. USD, chybí letecké palivo'
+    text: „platit budete“, válka likviduje EU (opakuje).
+  - tema: Summit v Dublinu a 70 mld. eur
+    text: ⚡ „sází“, že Babiš s půjčkou souhlasí → viz [Predikce](../predikce.md)
 vyroky:
 - id: vrabel-2026-11-13-01
   typ: tvrzeni
@@ -53,6 +119,13 @@ vyroky:
     Brand podle něj „gentleman“ odsouzený bez důkazů.
   citace:
   - text: Jediný, čím jsme omezený, je vězení.
+  osoby:
+  - osoba: julian-reichelt
+    vztah: pozitivni
+    kontext: „Náš člověk“, nezávislý novinář
+  - osoba: russell-brand
+    vztah: pozitivni
+    kontext: „Gentleman“ odsouzený bez důkazů
   podtema: Nová alternativní média
 - id: vrabel-2026-11-13-04
   typ: tvrzeni
@@ -90,6 +163,16 @@ vyroky:
   citace:
   - text: Evropská unie […] prostě tlačí dál tu svoji představu, možná ne svojí, možná někoho jinýho,
       že Rusko by mělo být poraženo, rozparcelováno.
+  osoby:
+  - osoba: kaja-kallasova
+    vztah: negativni
+    kontext: „Hází vidle“ do jednání, příměří jako past
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: „Největší váleční štváči“ v čele evropského týmu
+  - osoba: donald-tusk
+    vztah: negativni
+    kontext: „Největší váleční štváči“ v čele evropského týmu
   podtema: Vyjednávání a mír
 - id: vrabel-2026-11-13-06
   typ: tvrzeni
@@ -105,6 +188,10 @@ vyroky:
     „Když přijde run na banku“, mohou lidé o peníze přijít.'
   citace:
   - text: Protože jsme ve stádiu drancování.
+  osoby:
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: „Super, že končí“, ale sází, že souhlasí s 70 mld. pro Ukrajinu
   podtema: EU jako vojenská struktura
 - id: vrabel-2026-11-13-07
   typ: tvrzeni
@@ -121,3 +208,23 @@ vyroky:
   - text: Ale to budou velká mírová jednání. Pak bude teroristický útok na někoho významného, mezinárodně
       významného, a pak to začne.
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-11-13-08
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: po „velkých mírových jednáních“ přijde teroristický útok na mezinárodně významnou osobu a pak
+    válka v Evropě
+  text: Po velkých mírových jednáních bude spáchán teroristický útok na „někoho mezinárodně významného“
+    a „pak to začne“, tedy válka, která se rozšíří i na území EU.
+  citace:
+  - text: Ale to budou velká mírová jednání. Pak bude teroristický útok na někoho významného, mezinárodně
+      významného, a pak to začne.
+  dalsi_zdroje:
+  - 2026-11-14_vrabel_zpravy-v-devet-14-11-2026
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+    vyhodnoceni:
+    - datum: 2026-11-14
+      text: 'Výpadky v USA a propady trhů označuje za „první příznaky pádu Západu“: „z historického hlediska
+        následuje velká válka“. Konflikt s Íránem podle něj „bude trvat roky“.'

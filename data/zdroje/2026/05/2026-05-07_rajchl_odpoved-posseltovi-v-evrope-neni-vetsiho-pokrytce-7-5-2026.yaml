@@ -23,4 +23,9 @@ vyroky:
   citace:
   - text: Nevážený pane Posselte, v Evropě není většího pokrytce a lháře nežte vy.
   - text: Vy jste pouze změnil taktiku a nastavil jste nám hezčí tvář, abychom vám uvěřili.
+  osoby:
+  - osoba: bernd-posselt
+    vztah: negativni
+    kontext: Označen za „největšího pokrytce a lháře v Evropě"; jeho organizace je přímý nástupce Henleinovy
+      strany; v minulosti nazval Benešovy dekrety „virem k vymýcení" a „zombiemi k pohřbení"
   podtema: Bernd Posselt a požadavky na zrušení dekretů

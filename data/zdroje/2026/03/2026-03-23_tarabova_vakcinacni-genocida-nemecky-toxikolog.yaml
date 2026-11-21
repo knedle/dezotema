@@ -10,6 +10,13 @@ zdroj:
   delka: '4:55'
   poznamka: 'Přepis v němčině — svědectví bývalého šéftoxikologa Pfizer Europe v parlamentním výboru.
     Zhlédnutí: 3 472'
+  osoby:
+  - osoba: adam-vojtech
+    vztah: negativni
+    kontext: Kritizován za to, že na ministerstvu zdravotnictví nadále prosazuje mRNA vakcíny
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Zmíněn jako spoluviník — „věřili jsme špatným odborníkům, že, pane Babiši?"
 vyroky:
 - id: tarabova-2026-03-23-01
   typ: tvrzeni

@@ -8,6 +8,44 @@ zdroj:
   prepis: prepisy/done/2026-10-15_Ladislav-Vrabel_15-10-2026-Večerní-zprávy-s-komentářem.txt
   rezim: vrabel
   poznamka: 41 min, zprávy čte Zuzana. Sdílené video protestů v Evropě [17:04–18:01] bez zvuku.
+  prehled:
+  - tema: Summit Evropské rady a Babiš
+    text: muniční iniciativa pokračuje navzdory slibu, šance „max. 5 %“
+    vyrok: vrabel-2026-10-15-04
+  - tema: Slovensko a Rusko obnovují mezivládní komisi
+    text: Orbán „zlikvidován“, Fico „na řadě“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-15-04
+  - tema: Bělorusko připravené na jaro 2027 (Belpol)
+    text: dvojí metr, naše zbrojení je „obrana“, jejich „diktátoři“. Je jen otázka, „kdo první škrtne
+      sirkou“.
+  - tema: 'Musk: Zelenskyj má odejít'
+    text: Musk je „nasazený kůň“ armády, politici jsou figurky
+    vyrok: vrabel-2026-10-15-02
+  - tema: Medveděv o srbských volbách
+    text: protesty platí „globalisté“, Vučić vyhraje 80:20
+    vyrok: vrabel-2026-10-15-04
+  - tema: Protesty ve Francii, Itálii, Británii a Belgii (video)
+    text: migranti s palestinskými vlajkami, „polínka“, občanská válka se přelije → viz [Stochastický
+      teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-15-03
+  - tema: Gotland jako opěrný bod NATO
+    text: Kaliningrad, Pobaltí a Polsko jsou „časované bomby“, ČR posílá „víc než polovinu munice“.
+  - tema: Útok na rafinerii v Rjazani, Zelenskyj „zrazen Trumpem“
+    text: „strašné melodrama“ herce.
+  - tema: 'Írán: 135 útoků na státy Perského zálivu'
+    text: bez komentáře.
+  - tema: 'Trump: válka s Íránem brzy skončí, Macinka a Havlíček o cenách'
+    text: „hovadina“, nafta po volbách 60 Kč, v zimě 70 Kč → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-15-01
+  - tema: Soud kvůli Nord Streamu, Sikorski
+    text: akce na pokyn USA, k Hitlerovi se má přirovnávat spíš Zelenskyj, Sikorskému „pavilon C“
+    vyrok: vrabel-2026-10-15-05
+  - tema: Německo potřebuje 6 bilionů € na klimatickou neutralitu
+    text: „ožebračit a zadlužit“, nový světový řád s kredity
+    vyrok: vrabel-2026-10-15-02
+  - tema: Sasko-Anhaltsko chce ukončit pomoc Ukrajině
+    text: „vyslyšeli naši výzvu“, Makejev „velvysranec“
+    vyrok: vrabel-2026-10-15-05
 vyroky:
 - id: vrabel-2026-10-15-01
   typ: tvrzeni
@@ -19,6 +57,13 @@ vyroky:
     zásoby plynu. Macinka se podle něj „naučil od Trumpa“ chválit sám sebe. „Benzín a nafta stojí padesát.
     Za chvilku po volbách bude stát šedesát, v zimě možná už sedmdesát.“ Brzy prý lidé budou řešit, čím
     budou doma topit. Írán označuje za „konflikt Donalda Trumpa“.'
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Chválí se za ceny energií, „hovadina“
+  - osoba: karel-havlicek
+    vztah: negativni
+    kontext: Spoluautor údajného zabránění růstu cen
   podtema: Energetika a Rusko
 - id: vrabel-2026-10-15-02
   typ: tvrzeni
@@ -35,6 +80,10 @@ vyroky:
     říká, že peníze půjdou z úspor Němců: „celá zelená ideologie a válka znamená v podstatě ožebračit
     Němce… ožebračit a zadlužit“. Cílem je podle něj „nový světový řád, kde budou všude kamery“, sledování,
     místo peněz kredity od státu a práce nahrazená AI a robotizací.'
+  osoby:
+  - osoba: elon-musk
+    vztah: negativni
+    kontext: „Nasazený kůň“ globalistů, pracuje pro armádu USA
   podtema: Náboženský a okultní výklad moci
 - id: vrabel-2026-10-15-03
   typ: tvrzeni
@@ -66,6 +115,16 @@ vyroky:
     než ČR. EU je podle něj „na vrcholu svojí existence a teď už to půjde jenom dolů“.'
   citace:
   - text: Viktor Orbán… ten už byl zlikvidován. […] Robert Fico je podle mě na řadě.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Nestojí za slovem, muniční iniciativa pokračuje, „max. 5 %“
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: Suverenista „na řadě“ k odstranění
+  - osoba: viktor-orban
+    vztah: pozitivni
+    kontext: „Zlikvidován“, nástupce ho chce do vězení
   podtema: Česká suverenita
 - id: vrabel-2026-10-15-05
   typ: tvrzeni
@@ -83,4 +142,63 @@ vyroky:
     Ukrajinského velvyslance Makejeva nazývá „velvysrancem“. Ukrajinský režim podle něj „vyhazuje lidi
     jako přezrálé hrušky“ a válku nemůže vyhrát bez zapojení celého NATO a jaderných zbraní. Zelenskyj
     je „diktátor bez voleb“, který se bojí, „kdo ho oddělá první“.'
+  osoby:
+  - osoba: oleksij-makejev
+    vztah: negativni
+    kontext: „Velvysranec“
+  - osoba: rados-aw-sikorski
+    vztah: negativni
+    kontext: „Pavilon C a třikrát denně fialovou tabletku“
+  - osoba: afd
+    vztah: pozitivni
+    kontext: Sasko-Anhaltsko „vyslyšelo naši výzvu“
+  - osoba: bsw
+    vztah: pozitivni
+    kontext: Sasko-Anhaltsko „vyslyšelo naši výzvu“
   podtema: Stav Ukrajiny a mobilizace
+- id: vrabel-2026-10-15-06
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: Vučić vyhraje srbské volby (80:20); Fico je „na řadě“ k odstranění
+  text: Aleksandar Vučić vyhraje nadcházející srbské volby s pravděpodobností 80 %; Robert Fico bude dalším
+    „zlikvidovaným“ suverenistou.
+  citace:
+  - text: Takže za mě osmdesát ku dvaceti, že vyhraje Aleksandar Vučić. […] Robert Fico je podle mě na
+      řadě.
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: „Jediný suverenistický politik“, výhra 80:20
+  predikce:
+    horizont: srbské volby; Fico neurčeno
+    stav: vyvraceno
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: volby 25. 10. vyhrálo studentské hnutí, Vučić uznal porážku (sám Vrabel v [Ladislav Vrabel
+        — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026))
+      stav: vyvraceno
+- id: vrabel-2026-10-15-07
+  typ: predikce
+  temata:
+  - ceny-energie
+  nadpis: pohonné hmoty po volbách 60 Kč, v zimě možná 70 Kč
+  text: Benzín a nafta zdraží z 50 Kč na 60 Kč po volbách a v zimě možná na 70 Kč; lidé budou řešit, čím
+    topit.
+  citace:
+  - text: Benzín a nafta stojí padesát. Za chvilku po volbách bude stát šedesát, v zimě možná už sedmdesát.
+  predikce:
+    horizont: po volbách / zima 2026/27
+    stav: ceka
+- id: vrabel-2026-10-15-08
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: migranti (protestující v západní Evropě)
+  text: opakované rasové přirovnání (k „polínkům“) v souvislosti s „občanskou válkou“, bez výzvy k násilí
+  citace:
+  - text: vidíte migranty s barvou pleti trošku světlejší, než je moje černá obrazovka na telefonu. Dneska
+      nejsem doma, abych to přirovnával k polínkům
+  teror:
+    terc: migranti (protestující v západní Evropě)
+    hranicni: false

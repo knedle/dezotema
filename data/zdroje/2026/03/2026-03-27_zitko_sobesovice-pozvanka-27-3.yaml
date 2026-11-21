@@ -7,6 +7,10 @@ zdroj:
   url: https://m.facebook.com/watch/?v=789843423778912
   prepis: prepisy/done/2026-03-27_Československo-TV2_Videoportál.txt
   rezim: standard
+  osoby:
+  - osoba: adam-vojtech
+    vztah: negativni
+    kontext: Označen za „covidového ministra", kritizován za setrvání ve vládní koalici s odpůrci covidu
 vyroky:
 - id: zitko-2026-03-27-01
   typ: tvrzeni
@@ -20,6 +24,10 @@ vyroky:
   citace:
   - text: Z toho covidu pan Vladimír Putin během pár dní vyléčil doslova celou planetu. Ta byla vykurírovaná,
       takže se zjistilo, že se covid šířil zejména televizním vysíláním.
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: Paradoxně přisuzován zásluhy za „ukončení" covidové pandemie svou invazí na Ukrajinu
   dalsi_zdroje:
   - 2026-08-04_zitko_videoportal-4-8-2026-3
   podtema: Původ a povaha pandemie

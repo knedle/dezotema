@@ -47,6 +47,11 @@ vyroky:
   - text: Jestli je to pojaté jako pokus na lidech, tak oni museli vědět, jaké šarže do které země a v
       jakém počtu posílají. Který jsou třeba to placebo. Nebo kteří tam té látky mají míň a pak víc. Oni
       věděli moc dobře, co dělají.
+  osoby:
+  - osoba: ursula-von-der-leyen
+    vztah: negativni
+    kontext: „Svině Vondelénová" — dodala europoslancům začerněné smlouvy s Pfizerem; odpovědná za 90
+      mld. EUR na Ukrajinu
   podtema: Šarže vakcín
 - id: cernohorsky-2026-05-25-03
   typ: tvrzeni
@@ -61,6 +66,11 @@ vyroky:
   - text: Mě to probudilo to, že jsem viděl, co se děje v Itálii, co se děje v Německu, ve Francii, pak
       ve Švédsku. [...] Pamatujete Refugees will come? Honem rychle imigranti sem. Bartoš, kterej se halil
       do vlajky Antify a šel v tom průvodu. Všichni popírali no-go zóny ve Švédsku, v Norsku.
+  osoby:
+  - osoba: pavel-bartos
+    vztah: negativni
+    kontext: Označen za „vítače" imigrantů — šel průvodem obalený vlajkou Antify; spoluoznačen jako „sráč"
+      a „pitomec"
 - id: cernohorsky-2026-05-25-04
   typ: tvrzeni
   temata:
@@ -73,6 +83,11 @@ vyroky:
   citace:
   - text: Petr Pavel, odpornost sama. Nejhorší svině skurvená od dob Emanuela Moravce České republice.
       Největší odporná svině skurvená na hradě od návštěvy Adolfa Hitlera.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Mu by člověk nejradši rošlapal rypák, flusil mu do ksichtu" — bezprostředně dodal „ale to
+      nemůžete udělat, tenhle hajzl je chráněnej"
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: cernohorsky-2026-05-25-06
   typ: tvrzeni
@@ -102,3 +117,61 @@ vyroky:
   - text: 90 miliard Evropské unie na Ukrajinu. 60 miliard na zbraně a 30 miliard pro ukrajinskéúředníky.
       Ty vole, to je neuvěřitelný.
   podtema: Průběh války, útoky a „terorismus"
+- id: cernohorsky-2026-05-25-10
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: Ukončení veřejné činnosti k 20. 6. 2027
+  text: 'Černohorský veřejně oznamuje, že pokud se nic zásadního nezmění — lidé nepřestanou být pasivní
+    a nepřestanou čekat na spasitele — ke dni 20. 6. 2027 definitivně ukončí svoji veřejnou činnost. O
+    tomto kroku prý přemýšlí 8 let. Jako paralelu uvádí Petra Černého Orteka, který po 7 letech skončil
+    se stejným zdůvodněním: „za těch sedm let se nic nezměnilo."'
+  citace:
+  - text: 20. 6. 6. 2027, 2027 — pokud se něco radikálně nezmění v naší společnosti, pokud vy lidé nezačnete
+      přemýšlet jinak, nedokážete prostě udělat ten krok, že to budete vy, jenž budou tvořit tu budoucnost
+      — tak ano, 20. 6. 6. 2027 končím definitivně. Už mě nebude.
+  predikce:
+    horizont: 20. 6. 2027
+    stav: ceka
+    horizont_do: 2027-06-20
+- id: cernohorsky-2026-05-25-11
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Masivní ruský útok na Kyjev
+  text: Po útoku ukrajinskych dronů, které zabily studenty na koleji v Luhansku, Černohorský predikuje
+    masivní ruskou odvetnou akci přímo na Kyjev.
+  citace:
+  - text: Já vám říkám, v Kijevě zažijou Sylvestra. V Kijevě zažijou Sylvestra. To bude ohňostroj. To
+      bude strašný.
+  predikce:
+    horizont: neurčeno (implicit brzy po útoku na Luhansku)
+    stav: ceka
+- id: cernohorsky-2026-05-25-13
+  typ: stoch-teror
+  temata:
+  - benesovy-dekrety
+  nadpis: Martin Dvořák
+  text: vybízení publika k násilné fantazii vůči jmenovitě označenému politikovi
+  citace:
+  - text: Máte sto chutí vzít ty televize a toho hajzla uškrtit [...] nebo tu televizi vzít a vyhodit
+      ho z okna
+  osoby:
+  - osoba: martin-dvorak
+    vztah: negativni
+    kontext: „Máte sto chutí vzít ty televize a toho hajzla uškrtit [...] nebo tu televizi vzít a vyhodit
+      ho z okna" — násilná fantazie vůči poslanci STAN
+  teror:
+    terc: Martin Dvořák
+    hranicni: false
+- id: cernohorsky-2026-05-25-14
+  typ: stoch-teror
+  temata:
+  - petr-pavel
+  nadpis: Petr Pavel
+  text: bezprostředně za tím dodává „ale to nemůžete udělat, protože tenhle hajzl je chráněnej"
+  citace:
+  - text: Mu by člověk nejradši, když by ho viděl, tak mu taky nejradši rošlapal rypák, flusil mu do ksichtu
+  teror:
+    terc: Petr Pavel
+    hranicni: false

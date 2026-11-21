@@ -11,6 +11,22 @@ zdroj:
     druhu“. Zpracováno všech 15 témat. Citované výhrůžky a komentáře (Hedija, SMS, komentáře k Ficovi)
     nejsou Rajchlovy výroky, proto nejsou ve stochastickém teroru. Hraniční „zločinný, kriminální režim“
     (Ukrajina) a „pokrytci, farizejové… krev na rukou“ nesplňují kritérium dehumanizace ani výzvy k trestu.
+  osoby:
+  - osoba: roman-maca
+    vztah: negativni
+    kontext: Šíří „lež“, že krakovský střelec byl pravicový radikál
+  - osoba: filip-turek
+    vztah: pozitivni
+    kontext: Souhlasí s ním, že ČT zprivatizovat
+  - osoba: vaclav-moravec
+    vztah: negativni
+    kontext: „Svině“, „svoloč“, „vlastizrádce“, „nácek“ — urážky bez zájmu ČT
+  - osoba: david-matasek
+    vztah: negativni
+    kontext: Vulgární reakce v den atentátu na Fica
+  - osoba: natalie-vachatova
+    vztah: pozitivni
+    kontext: „Nesmírně inteligentní, schopná“; oběť lynče (Havel, Bartošek)
 vyroky:
 - id: rajchl-2026-11-08-01
   typ: tvrzeni
@@ -48,6 +64,10 @@ vyroky:
     pak bude vidět, kdo neziskovky financuje, a on už „nebude muset psát tyto příspěvky“.'
   citace:
   - text: Musíme za každou cenu prosadit zákon FARA.
+  osoby:
+  - osoba: oto-klempir
+    vztah: pozitivni
+    kontext: Správně odmítl dotaci spolku Díky, že můžeme
   podtema: Milion chvilek — struktura a financování
 - id: rajchl-2026-11-08-03
   typ: tvrzeni
@@ -64,6 +84,10 @@ vyroky:
     by to měli být“. Kampelička podle něj nesmí zůstat opomenuta, stejně jako bitcoinová kauza a Dozimetr
     (tam prý „udělali posun“). Pokud policie neuspěje, navrhne další vyšetřovací komise. Srovnej s Černohorským
     v [politicky-system.md](politicky-system.md).
+  osoby:
+  - osoba: petr-fiala
+    vztah: negativni
+    kontext: Kampelička ODS; ironicky přebírá jeho „nebudu jednat pod tlakem demonstrací“
   podtema: Kauza Jesenicko — Stanjura obviněn ze zneužití povodňové půjčky
 - id: rajchl-2026-11-08-04
   typ: tvrzeni
@@ -80,6 +104,10 @@ vyroky:
     zařazení.
   citace:
   - text: Takže hanba vám, že jste schopní i na pozadí této tragédie takhle neuvěřitelně lhát.
+  osoby:
+  - osoba: tomas-paukner
+    vztah: pozitivni
+    kontext: Ukázal, že krakovský střelec byl levicový radikál; rozpracoval téma financování Stárkové
   podtema: Náboženský a okultní výklad moci
 - id: rajchl-2026-11-08-05
   typ: tvrzeni
@@ -101,6 +129,10 @@ vyroky:
     daň na propagandu“ ve prospěch EU a Kyjeva.'
   citace:
   - text: Já nehodlám jednat pod tlakem, já hodlám co nejdříve zrušit koncesionářské poplatky.
+  osoby:
+  - osoba: hamplova
+    vztah: pozitivni
+    kontext: Společně se rozhodli nejít na demonstraci Svatopluku
   podtema: Česká televize a mainstreamová média
 - id: rajchl-2026-11-08-06
   typ: tvrzeni
@@ -115,6 +147,22 @@ vyroky:
     - SMS „smrt českým podlidem“, kterou policii předal i s telefonním číslem, zůstala podle něj bez odezvy.
 
     Komentář „na každou svini se vaří voda“ pod jeho příspěvkem přitom policie po upozornění Pirátů („bonzáci největšího kalibru“) prověřuje hned druhý den. Sám tento výrok odsuzuje, ale buď má být trestný v obou případech, nebo v žádném, a podle něj v žádném. Proto jeho asistenti nabízejí stíhaným komentujícím právní radu. Předem tvrdí, že reportáž bude „zmanipulovaná“ a redaktoři jsou „zbabělci“ a „lháři“.
+  osoby:
+  - osoba: barbora-starkova
+    vztah: negativni
+    kontext: Organizátorka „umělých“ protestů placených ze zahraničí
+  - osoba: otakar-foltyn
+    vztah: negativni
+    kontext: „Svině“, „svoloč“, „vlastizrádce“, „nácek“ — urážky bez zájmu ČT
+  - osoba: eva-decroix
+    vztah: negativni
+    kontext: „Svině“, „svoloč“, „vlastizrádce“, „nácek“ — urážky bez zájmu ČT
+  - osoba: jan-farsky
+    vztah: negativni
+    kontext: „Svině“, „svoloč“, „vlastizrádce“, „nácek“ — urážky bez zájmu ČT
+  - osoba: danuse-nerudova
+    vztah: negativni
+    kontext: Označila je za „proruskou sebranku“
   podtema: Dvojí metr v médiích
 - id: rajchl-2026-11-08-07
   typ: tvrzeni
@@ -127,6 +175,10 @@ vyroky:
     podle něj pomoc „rozkrádá“, EU Ukrajině půjčila 90 miliard a ta teď chce dalších 70. Ukrajinu nazývá
     „zločinným, kriminálním režimem“ (zmiňuje i odhalený dům, kde se mučili vlastní občané). Kritikům
     startu ruských hokejistů vyčítá, že nekřičí, že Ukrajině „už nedáme ani korunu“.'
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Rozkrádá pomoc, jeho tajná služba spolupracuje s mafií
 - id: rajchl-2026-11-08-08
   typ: tvrzeni
   temata:
@@ -141,6 +193,10 @@ vyroky:
   citace:
   - text: A Petr Pavel to říká jenom, protože mu dorazily nové notičky, protože před dvěma lety říkal
       úplně o 180 stupňů něco jiného.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Dejme Putinovi bonbon“ až po „nových notičkách“; „bolševický rozvědčík“
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-11-08-09
   typ: tvrzeni
@@ -160,6 +216,13 @@ vyroky:
     protože by z něj „za dvě minuty“ udělal „úplného pitomce“.'
   citace:
   - text: Věk ani pohlaví není zásluha.
+  osoby:
+  - osoba: petr-macinka
+    vztah: rozporuplny
+    kontext: Kamarád a přínos politice, ale výrok o „ruských mužatkách“ „extrémně nešťastný“
+  - osoba: matej-hlavaty
+    vztah: negativni
+    kontext: Lže, že útočí jen na ženy; Tetín zachránila jen dotace; bojí se debaty
   podtema: Politická kultura
 - id: rajchl-2026-11-08-10
   typ: tvrzeni
@@ -194,6 +257,10 @@ vyroky:
   citace:
   - text: Já se podepisuju pod výrok Jaroslava Kačinského, buď zrušíme Evropskou komisi v čele s von der
       Lejenovou, nebo pojďme vystoupit z Evropské unie.
+  osoby:
+  - osoba: jaros-aw-kaczynski
+    vztah: pozitivni
+    kontext: Podepisuje se pod „zrušit Komisi, nebo vystoupit z EU“
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: rajchl-2026-11-08-12
   typ: tvrzeni

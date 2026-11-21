@@ -7,6 +7,39 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1619053556504070
   prepis: prepisy/done/2026-08-28_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Komentář Vladimíra Štěpána k Dukovanům/Temelínu — kritika jeho nekonzistence k EU
+    text: → [Ceny energie](../ceny-energie.md)
+  - tema: Nejbohatší Čech Michal Strnad a Křetínský
+    text: „digitální feudalismus" — nezpracováno
+  - tema: MPSV škrtá podporu v nezaměstnanosti od 2027
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Von der Leyen v Paříži o konci levných energií
+    text: nezpracováno (opakování)
+  - tema: EU „Unie úspor a investic"
+    text: varování před programovatelnými penězi — nezpracováno
+  - tema: Putin na fóru v Nižním Novgorodu, citace Emira Kusturici
+    text: nezpracováno
+  - tema: Německý generál Kujat kritizuje podporu Ukrajiny
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Babišova „schizofrenie" k rozpočtu EU (pokrač.)
+    text: → [Suverenita a EU](../suverenita-eu.md)
+  - tema: Mladičův pohřeb se státními poctami (pokrač.)
+    text: nezpracováno (opakování)
+  - tema: Konfrontace Koriny Rybářové s Petrem Hájkem
+    text: → [Jaderné zbraně](../jaderne-zbrane.md)
+  - tema: Venezuela/OPEC — vzorec „demokratizace"
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Rusko testovalo mezikontinentální raketu z Plesecku
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Anthropic vyhrál spor s Pentagonem
+    text: nezpracováno
+  - tema: Lavrov o multipolárním světě
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Zelenskyj nařídil 1000 dronových úderů denně
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: '"Sušenky" z recyklovaného PET plastu jako budoucí potravina'
+    text: → [Konspirace](../konspirace.md)
 vyroky:
 - id: vrabel-2026-08-28-01
   typ: tvrzeni

@@ -18,6 +18,51 @@ zdroj:
     society/Agenda 2030; Okamura v Srbsku — znechucení; Konečná: politicky rozumná ale osobně nedůvěryhodná
     (dvakrát ho zradila ve volbách); Zelenský si zaslouží trest smrti (demokraticky přes zákon); Vrabel
     prodává pozemky v Srbsku (1 ha za 2 250–2 300 EUR); česká „opozice" = síť Klaus/ODS.'
+  osoby:
+  - osoba: katerina-konecna
+    vztah: rozporuplny
+    kontext: Politicky rozumná, ale dvakrát ho osobně zradila ve volbách — sponzoři jí nedovolili být
+      s Vrabelem na demonstraci
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: 'Setkal se se Zelenským 3. 5. — Vrabel: potvrzení jeho proatlantické a prounijní orientace'
+  prehled:
+  - tema: Pravidelné nedělní vysílání. Klíčová témata
+    text: Vrabel vyhrál případ u Ústavního soudu (svoboda slova)
+  - tema: RT.com a Sputnik blokovány českými internet. providerem
+    text: RT.com a Sputnik blokovány českými internet. providerem
+  - tema: Vrabel čelí rozsudku 25. 5. (podmínka)
+    text: Vrabel čelí rozsudku 25. 5. (podmínka)
+  - tema: Matthias Desmet
+    text: teorie Mass Formation (totalita vzniká z osamělosti + prázdného zaměstnání + volné úzkosti
+  - tema: 20 % společnosti pohání totalitarismus
+    text: 20 % společnosti pohání totalitarismus
+  - tema: jedinou obranou je upřímně mluvit pravdu)
+    text: jedinou obranou je upřímně mluvit pravdu)
+  - tema: COVID rouška chirurgická, lockdowny kontraproduktivní
+    text: COVID rouška chirurgická, lockdowny kontraproduktivní
+  - tema: Babiš setkal se Zelenským 3. 5.
+    text: Babiš setkal se Zelenským 3. 5.
+  - tema: Filip Turek kritika
+    text: zmenšil jen větrné zóny, měl je zrušit
+  - tema: Macinka kritika
+    text: „americká servility"
+  - tema: ČR na zlomovém bodě s EU (nyní break-even, dříve čistý
+    text: ČR na zlomovém bodě s EU (nyní break-even, dříve čistý příjemce)
+  - tema: Schengen ≠ členství EU
+    text: Schengen ≠ členství EU
+  - tema: depopulační agenda/chemtraily/cashless society/Agenda 2030
+    text: depopulační agenda/chemtraily/cashless society/Agenda 2030
+  - tema: Okamura v Srbsku
+    text: znechucení
+  - tema: Konečná
+    text: politicky rozumná ale osobně nedůvěryhodná (dvakrát ho zradila ve volbách)
+  - tema: Zelenský si zaslouží trest smrti (demokraticky přes zákon)
+    text: Zelenský si zaslouží trest smrti (demokraticky přes zákon)
+  - tema: Vrabel prodává pozemky v Srbsku (1 ha za 2 250–2 300 EUR)
+    text: Vrabel prodává pozemky v Srbsku (1 ha za 2 250–2 300 EUR)
+  - tema: česká „opozice" = síť Klaus/ODS.
+    text: česká „opozice" = síť Klaus/ODS.
 vyroky:
 - id: vrabel-2026-05-03-01
   typ: tvrzeni
@@ -28,6 +73,11 @@ vyroky:
   text: 'Vrabel dodává, že masová formace vytváří totalitarismus: „20 % společnosti pohání totalitarismus.
     60 % jde s proudem. 20 % odolává." Jedinou obranou je dle Desmeta mluvit pravdu upřímně a neustále
     — ne proto, že to změní zasažené 30 %, ale proto, že to drží živé vědomí zbývajících 20 %.'
+  osoby:
+  - osoba: matthias-desmet
+    vztah: pozitivni
+    kontext: Belgický psycholog, teorie Mass Formation — Vrabel ji aplikuje na covidovou i válečnou propagandu;
+      jedinou obranou je mluvit pravdu
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 - id: vrabel-2026-05-03-02
   typ: tvrzeni
@@ -58,6 +108,11 @@ vyroky:
     smrti — avšak výhradně demokratickou cestou, tedy zákonným soudem. Vrabel vysvětluje: Zelenský byl
     zvolen s mandátem ukončit válku na Donbasu, ale místo toho válku eskaloval a způsobil statisíce mrtvých.
     Z mandátu, který dostal, vyvodil pravý opak — Vrabel to označuje za zradu voličů v té nejtěžší kategorii.'
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: Zaslouží si trest smrti (demokraticky přes zákon) — byl zvolen ukončit válku, místo toho
+      ji eskaloval
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-05-03-05
   typ: tvrzeni
@@ -68,6 +123,11 @@ vyroky:
     požadavků a udržování ČR na trajektorii, která by ji mohla vtáhnout do přímého konfliktu s Ruskem.
     Macinka podepsal bez veřejné debaty přistoupení ČR k různým vojenským závazkům (bunker koalice, F-35
     zálohy) a pokračuje v kurzu, který ČR z pohledu Ruska staví do role spolupachatele.
+  osoby:
+  - osoba: jan-macinka
+    vztah: negativni
+    kontext: „Americká servility" — udržuje ČR ve válečné trajektorii podepisováním závazků bez veřejné
+      debaty
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-05-03-06
   typ: tvrzeni
@@ -77,4 +137,9 @@ vyroky:
   text: 'Vrabel v nedělním vysílání 3. 5. 2026 kritizoval postup Filipa Turka (Motoristé sobě): větrné
     zóny pouze zmenšil, místo aby je zcela zrušil. Vrabel preferuje alternativy: jaderná energie a malé
     reaktory (Rolls-Royce).'
+  osoby:
+  - osoba: filip-turek
+    vztah: negativni
+    kontext: Jen zmenšil větrné zóny místo jejich zrušení; Vrabel preferuje jádro/uhlí/Rolls-Royce malé
+      reaktory
   podtema: Politická reakce v ČR

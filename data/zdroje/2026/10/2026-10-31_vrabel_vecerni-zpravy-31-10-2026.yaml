@@ -9,6 +9,55 @@ zdroj:
   rezim: vrabel
   poznamka: 59 min, zprávy čte Zuzka; krátké ukázky rozhovoru s Fritzem a videa s Braunem; Vrabel v úvodu
     omylem uvádí datum 30. 10.
+  osoby:
+  - osoba: petr-hajek
+    vztah: negativni
+    kontext: „Propagandista“, „politruk“
+  - osoba: grzegorz-braun
+    vztah: pozitivni
+    kontext: Vede demonstraci před polským ÚS
+  - osoba: jaros-aw-kaczynski
+    vztah: rozporuplny
+    kontext: Mluví o vystoupení z EU, ale jsou to „jen prohlášení“
+  prehled:
+  - tema: Ústavní krize v Polsku (suspendace předsedy ÚS, policie v areálu soudu, Nawrocki přerušil cestu
+      do Senegalu)
+    text: ⚡ „ústavní puč“ připravený den předem, cílem je ovládnout ÚS, „sfalšovat volby“ a vyměnit Nawrockého;
+      ČR je „už převrácená“; za převratem britská tajná služba → viz [Suverenita a EU](../suverenita-eu.md)
+  - tema: Odvolání Tuska, 800 policistů do Varšavy, Kaczyński o vystoupení z EU
+    text: Kaczyńského prohlášení jsou jen slova, PiS „se zařadí“; je „spíš pesimistický“.
+  - tema: ČR, Maďarsko, Slovensko
+    text: Babiš nechal zahraniční politiku Pavlovi a „jenom chodí a plní“; další na řadě je Fico (opakuje).
+  - tema: Násilí na protestech v Evropě
+    text: policie „bezdůvodně mlátí lidi“ a převléká se za demonstranty, jde o „něco řízeného“ s cílem
+      chaosu; brzy přijde i do V4 a ČR
+    vyrok: vrabel-2026-10-31-01
+  - tema: USA schválily Ukrajině 500 raket Patriot
+    text: dodávky zbraní odmítá, obranné Patrioty jsou „jediná výjimka“; Trump kupuje Zelenského podporu,
+      válka se protáhne.
+  - tema: Zelenskyj u Erdogana
+    text: „pan Herec“, od jednání nic nečeká.
+  - tema: 'Francie: třetí týden protestů'
+    text: padne Macron, nástupce bude „ještě horší“ → viz [Predikce](../predikce.md)
+  - tema: Starosta Trappes chce trestat teorii „velké výměny“
+    text: výměnu obyvatelstva potvrzuje; Francie do roku 2050 muslimská, v českých městech za 10 let víc
+      migrantů než původních obyvatel → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-31-02
+  - tema: COP17 v Jerevanu
+    text: „agenda 2030“.
+  - tema: 'Divák: „17. 11. bude výměna vlády“'
+    text: „nesmysl“, Babišova vláda plní Brusel „jako švýcarské hodinky“, globalisté potřebují rozdělenou
+      společnost („rozděl a panuj“); Trikolora, SPD a PRO jsou „odnože ODS“
+    vyrok: vrabel-2026-10-31-03
+  - tema: Protesty proti datovým centrům v Texasu
+    text: centra sbírají data o všem, AI „programuje“ společnost, „aby šla jako ovce na porážku“ (opakuje).
+  - tema: Protiletadlové systémy u Mar-a-Lago
+    text: Trump „nechal vyvraždit celé vedení“ Íránu, „oko za oko“, útoku na Trumpa by „se nedivil“ →
+      viz [Stochastický teror](../stochasticky-teror.md)
+  - tema: Pavel nevyloučil jednání s Putinem a ruský plyn
+    text: „špinavý kabát“, který otáčí (opakuje).
+  - tema: FSB a USA varují před útokem v Moskvě
+    text: americká a ruská tajná služba spolupracují, „zatímco britská se snaží o převrat v Polsku“.
 vyroky:
 - id: vrabel-2026-10-31-01
   typ: tvrzeni
@@ -56,3 +105,56 @@ vyroky:
   - text: To, co je potřeba pro globalisty, je udržet v napětí společnost, poštvanou proti sobě, aby se
       lidi nemohli sjednotit proti válce nebo proti tomu, že máme draho.
   podtema: Politická kultura
+- id: vrabel-2026-10-31-06
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: Francie bude do roku 2050 „stoprocentně muslimskou zemí“
+  text: Migrací a vyšší porodností migrantů se Francie do roku 2050 stane muslimskou zemí.
+  citace:
+  - text: Tam do roku 2050 Francie bude stoprocentně muslimskou zemí.
+  predikce:
+    horizont: '2050'
+    stav: ceka
+- id: vrabel-2026-10-31-07
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: ve velkých českých městech bude za 10 let víc migrantů než původních obyvatel
+  text: Přes migrační pakt a dovoz pracovníků bude do deseti let ve velkých českých městech žít víc migrantů
+    než původních obyvatel.
+  citace:
+  - text: Za takových deset let určitě se dočkáme toho, že naše hlavní města, že tam bude žít víc imigrantů,
+      víc migrantů než původního obyvatelstva.
+  predikce:
+    horizont: cca 2036
+    stav: ceka
+- id: vrabel-2026-10-31-08
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: padne Macron, nástupce povede ještě horší politiku
+  text: Třetí týden francouzských protestů skončí pádem Macrona; nástupce (snad Lagardeová) povede ještě
+    horší politiku, jako Burnham po Starmerovi.
+  citace:
+  - text: Nakonec předpokládám, že to dopadne tak, že padne Macron.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-10-31-09
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Donald Trump
+  text: 'Terč: Donald Trump.'
+  citace:
+  - text: Ale na druhou stranu, kdyby mě někdo vyvraždil moji rodinu, […] no tak bych řekl, OK, tak oko
+      za oko, zub za zub, jako to přece nemůžeme jen tak nechat. Takže ani bych se nedivil, kdyby byl
+      nějaký útok na Donalda Trumpa.“ (výslovně dodává, že k terorismu nevyzývá)
+  osoby:
+  - osoba: donald-trump
+    vztah: rozporuplny
+    kontext: Kupuje Zelenského podporu, „vyvraždil vedení Íránu“; útoku na něj by se „nedivil“
+  teror:
+    terc: Donald Trump
+    hranicni: false

@@ -23,6 +23,15 @@ vyroky:
   citace:
   - text: Kdyby tohle udělal Miloš Zeman, tak vám říkám, mainstream, česká televize vybuchne, vole, vybuchne.
       Konec s pořadama, žádný studio Kamarád, vole. A jel by tam Miloš Zeman.
+  osoby:
+  - osoba: milos-zeman
+    vztah: rozporuplny
+    kontext: Srovnáván s Pavlem — u Zemana by leak tajných dokumentů způsobil mediální bouři; dříve kritizován
+      za pro-ruskou orientaci
+  - osoba: franta-kubasek
+    vztah: neutralni
+    kontext: Zveřejnil smlouvu Hradu se Seznamem Zprávy, na níž Černohorský odkazuje jako na důkaz mediální
+      závislosti
   podtema: Dvojí metr v médiích
 - id: cernohorsky-2026-01-27-02
   typ: tvrzeni

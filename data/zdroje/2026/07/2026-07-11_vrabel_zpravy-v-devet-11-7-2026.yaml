@@ -21,6 +21,21 @@ zdroj:
     Ukrajina „kolébka pravoslaví" — Vrabel rozporuje — [valka-nato-rusko.md](valka-nato-rusko.md). (12)
     ČEZ — 191 mil. Kč na odměnách vedení — [kauzy.md](kauzy.md). Stoch. teror: opakované a vygradované
     přání zavraždění Trumpa — [stochasticky-teror.md](stochasticky-teror.md).'
+  prehled:
+  - tema: Zpracováno 12 témat
+    text: '(1) Novela stavebního zákona umožňuje demolici bez souhlasu majitele, korupce developerů —
+      [kauzy.md](../kauzy.md). (2) Nová přísná pravidla pro pálení dřeva na zahrádkách — [kauzy.md](../kauzy.md).
+      (3) Trump vyhrožuje Íránu 1000 raketami — [blizky-vychod.md](../blizky-vychod.md). (4) USA schvalují
+      nové sankce proti Rusku (Graham) — [valka-nato-rusko.md](../valka-nato-rusko.md). (5) Ukrajina eskaluje
+      — nové velitelství, licence na Patrioty — [valka-nato-rusko.md](../valka-nato-rusko.md). (6) Rusko
+      přerušilo vodní cestu Don–Azovské moře, riziko hladomoru — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (7) Čína představila mikrovlnnou zbraň proti dronům — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (8) ⚡ Vrabel nesouhlasí s Contem — Rusko je nebezpečné, možný preventivní úder — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (9) Inflace jako nástroj okrádání o úspory (rozšíření teze) — [ceny-energie.md](../ceny-energie.md).
+      (10) Zpochybnění genocidy ve Srebrenici — [valka-nato-rusko.md](../valka-nato-rusko.md). (11) Budanov:
+      Ukrajina „kolébka pravoslaví" — Vrabel rozporuje — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (12) ČEZ — 191 mil. Kč na odměnách vedení — [kauzy.md](../kauzy.md). Stoch. teror: opakované a vygradované
+      přání zavraždění Trumpa — [stochasticky-teror.md](../stochasticky-teror.md).'
 vyroky:
 - id: vrabel-2026-07-11-01
   typ: tvrzeni
@@ -35,6 +50,11 @@ vyroky:
     a označuje ho za „absolutní zlo" a největšího „gangstera" na světě, srovnatelného s padouchem z filmů
     o Jamesi Bondovi. Vyzývá, aby se „celý svět spojil" a USA embargem/sankcemi/společnou armádní akcí
     obklíčil a zastavil coby „světového nepřítele číslo jedna" (viz i [stochasticky-teror.md](stochasticky-teror.md)).'
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Vyhrožuje Íránu 1000 raketami — Vrabel otevřeně přeje Íránu úspěch při jeho zabití (→ [stoch.
+      teror](../stochasticky-teror.md)); „absolutní zlo", největší gangster světa
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-07-11-02
   typ: tvrzeni
@@ -94,6 +114,11 @@ vyroky:
     definitivně skončila a USA se vrací k tvrdé konfrontaci s Ruskem. Zdůrazňuje ironii, že Graham byl
     už za vlády Joe Bidena jedním z nejagresivnějších zastánců vyzbrojování Ukrajiny a Trump s ním byl
     v kampani ostře v rozporu — přesto dnes spolu vyhlašují sankce společně.'
+  osoby:
+  - osoba: lindsey-graham
+    vztah: negativni
+    kontext: Republikánský senátor — dohodl s Trumpem nové sankce proti Rusku; „největší válečník světa",
+      dřívější aktivní podporovatel vyzbrojování Ukrajiny za Bidena
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-11-07
   typ: tvrzeni
@@ -108,6 +133,11 @@ vyroky:
     (podle všech zdrojů spíš verze PAC-2) — reálně se výroba pravděpodobně přesune do Německa, protože
     samotná výrobní kapacita je pro Rusko snadno viditelná ze satelitů a stala by se okamžitým cílem raket
     (Kinžal, Iskander, Orešnik) stejně jako plánované velitelství pro dalekonosné útoky.
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: Zřídil velitelství pro dalekonosné útoky na Rusko — Vrabel předpokládá, že ho Rusové brzy
+      zlikvidují
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-11-08
   typ: tvrzeni
@@ -174,6 +204,11 @@ vyroky:
     vyhnání čtvrt milionu Srbů, střelba na prchající ženy a děti ze vzduchu) — obojí označuje za bagatelizované
     či dokonce oslavované Západem. Uzavírá, že současná Evropská unie je „satanistická" a představuje
     „vládu nacismu".'
+  osoby:
+  - osoba: ratko-mladic
+    vztah: rozporuplny
+    kontext: Vrabel cituje jeho verzi Srebrenice (boj s teroristy, civilisté odvezeni) jako věrohodnější
+      než oficiální genocidu
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-11-12
   typ: tvrzeni
@@ -191,4 +226,22 @@ vyroky:
     církev je o „radosti ze života"). Dodává, že Zelenskyj na Ukrajině pravoslaví fakticky potlačuje —
     věřící navštěvující pravoslavné kostely měla mlátit armáda, pravoslavné svátky byly přesunuty na katolická
     data.'
+  osoby:
+  - osoba: kirilo-budanov
+    vztah: rozporuplny
+    kontext: Šéf ukrajinské vojenské rozvědky — tvrzení, že Ukrajina je „kolébka pravoslaví", Vrabel historicky
+      rozporuje
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-07-11-13
+  typ: stoch-teror
+  temata:
+  - blizky-vychod
+  nadpis: Donald Trump
+  text: explicitní přání úspěšného atentátu na jmenovaného prezidenta v reakci na jeho výhrůžku tisícem
+    raket Íránu; opakování a vygradování dřívějšího výroku z 9. 7.
+  citace:
+  - text: Docela to Iráncům přeju, aby se jim to povedlo. Ho někde dostat, Donalda Trumpa. [...] Vůbec
+      bych se nedivil, kdyby Donalda Trumpa někdo zavraždil.
+  teror:
+    terc: Donald Trump
+    hranicni: false

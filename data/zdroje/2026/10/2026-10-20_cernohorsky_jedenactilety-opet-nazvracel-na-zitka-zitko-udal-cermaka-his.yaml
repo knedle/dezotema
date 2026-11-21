@@ -42,4 +42,38 @@ vyroky:
   citace:
   - text: Zítko, neznám většího […] hajzla, než seš ty. A kdyby to jenom trochu šlo, tak bych ti do toho
       kriminálu pomohl. S chutí bych ti namazal tu skluzavku.
+  osoby:
+  - osoba: zitko
+    vztah: negativni
+    kontext: Udal Čermáka, aby se „vykoupil“; „zmrd“, „hajzl“, okrádá lidi (fény, andělské hlídky, prezidentská
+      sbírka); patří do kriminálu
+  - osoba: tomas-cermak
+    vztah: pozitivni
+    kontext: Profil je jeho; „obyčejný kluk“, kterému Zítko „strčil hlavu do oprátky“
+  - osoba: jana-peterkova
+    vztah: negativni
+    kontext: Mezi „zmrdy kolem Zítka“; možná znala Čermákovo číslo
+  - osoba: renata-bernardy
+    vztah: negativni
+    kontext: Mezi „zmrdy kolem Zítka“, zneužívali Čermákův případ
+  - osoba: libor-maly
+    vztah: negativni
+    kontext: Patřil k okolí Zítka; Zítka „naprášil“ kvůli dělení peněz
+  - osoba: tarabova
+    vztah: pozitivni
+    kontext: Poskytla mu podklady k Zítkovu přejmenovanému účtu
   podtema: USA — volební systém
+- id: cernohorsky-2026-10-20-03
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Pavel Zítko
+  text: dehumanizace + přání trestu, výzva k hromadnému trestnímu oznámení
+  citace:
+  - text: Zítko, neznám většího zasranýho, skurvenýho, zamrdanýho hajzla, než seš ty. A kdyby to jenom
+      trochu šlo, tak bych ti do toho kriminálu pomohl. S chutí bych ti namazal tu skluzavku […] aspoň
+      na 5–6 roků, kdybys tam byl, ty zmrde skurvenej.“ / „aby tenhle kripl skurvenej ušel po zásluze
+      do kriminálu
+  teror:
+    terc: Pavel Zítko
+    hranicni: false

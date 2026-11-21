@@ -8,6 +8,47 @@ zdroj:
   prepis: prepisy/done/2026-09-23_Ladislav-Vrabel_23-9-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: Vysíláno z auta v Srbsku; výpadek [26:34–27:26] a cizí video Trump–Zelenskyj [39:43–40:18].
+  prehled:
+  - tema: Pavel na summitu Krymské platformy
+    text: Krym je ruský (Kateřina, Chruščov, referendum), Ukrajina „měla přestat existovat", podpora „do
+      nekonečna"
+    vyrok: vrabel-2026-09-23-06
+  - tema: 'Pavel v OSN: ruská agrese, AI'
+    text: nekomentoval (vybitý telefon).
+  - tema: 'Rubio: zájem o omezené příměří'
+    text: USA jako falešný mírotvorce, opakování → zdroj doplněn ve [Válka na Ukrajině](../valka-ukrajina-prubeh.md)
+  - tema: Upřesnění výroku o Trumpovi a „nástěnce"
+    text: ⚡ nemyslel pověšení na strom, ale nástěnku zločinců po odsouzení → viz [Stochastický teror](../stochasticky-teror.md)
+  - tema: Pezeškján v OSN
+    text: útok USA na Írán = válečný zločin, měla rozhodnout MAAE/RB OSN
+    vyrok: vrabel-2026-09-23-02
+  - tema: Ruský Mi-8 vletěl do polského prostoru
+    text: bez paniky, ale „jedno sestřelené letadlo a už se jede".
+  - tema: USA mimo prohlášení EU–Ukrajina
+    text: „už jsem to komentoval".
+  - tema: 'Zelenskyj a von der Leyenová: deficit, úvěr 90 mld.'
+    text: EU pohlcuje Ukrajinu jako ČR, 20 bilionů úspor do zbrojení
+    vyrok: vrabel-2026-09-23-05
+  - tema: 'Trump a Rodríguezová: venezuelský dluh'
+    text: Venezuela jako kolonie USA → zdroj doplněn v [Blízký východ](../blizky-vychod.md)
+  - tema: Rusko v RB OSN zopakovalo válečné cíle
+    text: „není potřeba to opakovat".
+  - tema: 'Trump se Zelenským: Patrioty, ceny nafty'
+    text: USA by válku ukončily vypnutím Swiftu, internetu a ropy
+    vyrok: vrabel-2026-09-23-09
+  - tema: Fico žádá summit EU kvůli nafě
+    text: cynismus, jediné řešení ruská ropa a vystoupení z NATO
+    vyrok: vrabel-2026-09-23-03
+  - tema: 'Erdoğan: územní celistvost Ukrajiny'
+    text: odkazuje na výklad ke Krymu.
+  - tema: 'Anglie: zatčení za čepici s vlajkou'
+    text: „satanismus v přímém přenosu", v ČR brzy zatýkání za vlajku
+    vyrok: vrabel-2026-09-23-04
+  - tema: 'Sikorski: rýže, pumpa, evakuační zavazadlo'
+    text: 'ironicky: Sikorski prý viděl jeho vysílání „Zachraň se, kdo můžeš".'
+  - tema: 'Novovolynsk: ozbrojená obrana proti TCK'
+    text: „Ukrajinci budou Ukrajince střílet na ulici", hrozí i ČR
+    vyrok: vrabel-2026-09-23-07
 vyroky:
 - id: vrabel-2026-09-23-01
   typ: tvrzeni
@@ -29,6 +70,10 @@ vyroky:
     jen na základě rozhodnutí Rady bezpečnosti; americký útok je proto válečný zločin „sám o sobě i způsobem
     provedení" (vyvražděná vláda, „200 školaček"). Zdůrazňuje, že muslimským zemím nefandí — „čeho se
     nejvíc bojím, jsou muslimové v Evropě".'
+  osoby:
+  - osoba: masud-pezeskjan
+    vztah: pozitivni
+    kontext: Írán neporušil mezinárodní právo
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-09-23-03
   typ: tvrzeni
@@ -45,6 +90,10 @@ vyroky:
   citace:
   - text: Jediný, co má smysl, je nakupovat z Ruska ropu a plyn za dobrý ceny v dobrý kvalitě. Všechno
       ostatní je Donald Duck.
+  osoby:
+  - osoba: robert-fico
+    vztah: rozporuplny
+    kontext: Summit EU k nafě = „cynismus", sám součástí globalistických struktur NATO
   podtema: Rusko a energetická krize EU
 - id: vrabel-2026-09-23-04
   typ: tvrzeni
@@ -87,6 +136,10 @@ vyroky:
     „do nekonečna" a mír „není".'
   citace:
   - text: Takže pro mě je Krym ruský, a to především z hlediska mezinárodního práva a z hlediska historie.
+  osoby:
+  - osoba: nikita-chruscov
+    vztah: negativni
+    kontext: „Opilý Chruščov, který byl Ukrajinec" předal Krym
   podtema: Příčiny a odpovědnost za válku
 - id: vrabel-2026-09-23-07
   typ: tvrzeni
@@ -126,3 +179,29 @@ vyroky:
   - text: Kdyby Spojené státy dneska řekly evropským politikům, musíte ten konflikt do zítřka ukončit,
       jinak vám vypneme Swift, vypneme vám internet a nebudeme vám dodávat ropu, tak je vymalováno.
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-23-10
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: v ČR se bude za 2–3 roky zatýkat za českou vlajku a dojde ke scénám jako s TCK
+  text: Protože se v ČR lže jako v Británii, může se za dva až tři roky zatýkat za českou vlajku; násilné
+    scény jako s ukrajinskými náboráři TCK mohou v ČR nastat do 1–3 let, „možná za pár měsíců".
+  citace:
+  - text: Nemůžeme se divit, když by za dva roky třeba zatýkali někoho za to, že má českou vlajku. To
+      se klidně může stát, nebo za tři roky.
+  predikce:
+    horizont: 2027–2029
+    stav: ceka
+- id: vrabel-2026-09-23-11
+  typ: stoch-teror
+  temata:
+  - blizky-vychod
+  nadpis: Donald Trump (upřesnění výroku z 21. 9.)
+  text: relativizace dřívějšího výroku o „visení"; původní výrok z 21. 9. není v přepisech
+  citace:
+  - text: řekl jsem, že by neměl vyset na náskence [...] zrádců národa, že by měl vyset úplně někde jinde
+      [...] Samozřejmě jsem tím nemyslel, že by ho někdo měl pověsit na strom [...] by měl vyset po té,
+      co ho odsoudí [...] americký soud nebo nějaký mezinárodní soud
+  teror:
+    terc: Donald Trump (upřesnění výroku z 21. 9.)
+    hranicni: false

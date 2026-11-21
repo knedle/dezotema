@@ -24,4 +24,14 @@ vyroky:
     s názvem „Zneužívání měny Bitcoin" (100+ stran). Záznamy o pohybech jsou veřejně dohledatelné na blockchainu
     — přesto NCOZ ani NCTEKK pohyby na Jiříkovského peněženkách dosud neprověřily. Nový ministr spravedlnosti
     Jeroným Tejc (100+ dní ve funkci) nakonec oznámil podání trestního oznámení.
+  osoby:
+  - osoba: ondrej-havlik
+    vztah: neutralni
+    kontext: Autor bakalářské práce (THESS, 2019) o SHIB Marketplace — darknetovém tržišti s 39 918 BTC,
+      celková hodnota 100+ mld Kč; Zítko argumentuje, že orgány činné v trestním řízení (NCOZ/NCTEKK)
+      blockchain nekontrolovaly, ačkoli data byla veřejně dostupná
+  - osoba: jiri-tejc
+    vztah: neutralni
+    kontext: Poslanec, který podal trestní oznámení v kauze Bitcoin (darknetová tržiště); Zítko ho zmiňuje
+      jako toho, kdo oznámení podal
   podtema: Kauza Bitcoin — organizovaný zločin ve státní správě

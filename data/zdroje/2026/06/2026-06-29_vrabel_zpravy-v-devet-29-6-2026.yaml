@@ -17,6 +17,16 @@ zdroj:
     cesta do Asie, ruské útoky na Ukrajinu, Turecko/F-35/S-400, Írán-USA jednání, zemětřesení ve Venezuele)
     jen rychlý přehled bez samostatného zpracování. **Predikce:** akcie zbrojovek (viz [predikce.md](predikce.md)).
     Bez stoch. teroru. Pravidelný přehled zahraničních a domácích zpráv s komentářem'
+  prehled:
+  - tema: 'Tři zpracovaná témata: (1) Tři skutečně zásadní otázky summitu NATO'
+    text: 70 mld. EUR ročně pro Ukrajinu, vstup Ukrajiny do NATO (= válka s Ruskem), jaderné zbraně pro
+      ČR od Francie — [jaderne-zbrane.md](../jaderne-zbrane.md). (2) Únik sítě „Dialog" Petera Thiela
+      — 200 vlivných lidí rozhoduje bez demokratické kontroly, propojení s J. D. Vancem a Palantirem —
+      [digitalni-kontrola.md](../digitalni-kontrola.md). (3) Akcie Strnadovy zbrojovky −50 %, predikce
+      krátkodobého růstu před summitem NATO a dlouhodobého zániku zbrojovek — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      Ostatní zprávy (Benátská komise a Maďarsko, Lukašenko cesta do Asie, ruské útoky na Ukrajinu, Turecko/F-35/S-400,
+      Írán-USA jednání, zemětřesení ve Venezuele) jen rychlý přehled bez samostatného zpracování. **Predikce:**
+      akcie zbrojovek (viz [predikce.md](../predikce.md)). Bez stoch. teroru.
 vyroky:
 - id: vrabel-2026-06-29-01
   typ: tvrzeni
@@ -37,6 +47,15 @@ vyroky:
   citace:
   - text: To je 200 vlivných lidí, kteří se scházejí a rozhodují o našich životech, aniž bychom věděli,
       kdo to je. To nemá s demokracií co dělat.
+  osoby:
+  - osoba: peter-thiel
+    vztah: negativni
+    kontext: „Jeden z nejnebezpečnějších, nejvýše postavených lidí" — provozuje tajnou síť „Dialog" (200
+      vlivných lidí), sponzor J. D. Vance, majitel Palantiru
+  - osoba: j-d-vance
+    vztah: negativni
+    kontext: Americký viceprezident — dříve pracoval pro Petera Thiela, který je jeho hlavním sponzorem;
+      „Thiel stojí za ním a on stojí za Thielem"
 - id: vrabel-2026-06-29-02
   typ: tvrzeni
   temata:
@@ -73,4 +92,30 @@ vyroky:
   - text: Jednoho dne ty zbrojovky budou zničený, jednoho dne budou vyhozeny do povětří, ztratí veškerou
       hodnotu, a ty lidi, který jsou vlastníci těch zbrojovek, tak se budou snažit schovávat v Brazílii
       nebo v Argentině.
+  osoby:
+  - osoba: michal-strnad
+    vztah: rozporuplny
+    kontext: Akcie jeho zbrojovky klesly o 50 % — Vrabel předpovídá dočasný růst před summitem NATO, dlouhodobě
+      ale zánik zbrojařského byznysu
   podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-06-29-04
+  typ: predikce
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Akcie zbrojovek porostou před summitem NATO, dlouhodobě „budou zničeny"
+  text: 'I když akcie Michala Strnada aktuálně klesly o 50 % kvůli spekulacím o konci války, Vrabel předpovídá
+    jejich krátkodobý růst před červencovým summitem NATO v Ankaře (kde se očekává schválení zbrojních
+    obchodů za desítky až stovky miliard dolarů). Dlouhodobě ale předpovídá opak: zbrojovky „jednoho dne
+    budou zničeny, vyhozeny do povětří" a ztratí veškerou hodnotu, jejich vlastníci se budou muset skrývat
+    v Jižní Americe.'
+  citace:
+  - text: Uvidíme, jak dlouho to bude trvat, protože jednoho dne se to otočí, jednoho dne ty zbrojovky
+      budou zničený.
+  predikce:
+    horizont: krátkodobě do summitu NATO (7.–8. 7. 2026), dlouhodobě neurčeno
+    stav: ceka
+    horizont_do: 2026-07-08
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: Krátkodobý růst akcií zbrojovek před summitem v Ankaře se nepodařilo ověřit (jen zmínka o
+        „mírném růstu“ CSG). Dlouhodobá část je bez horizontu.

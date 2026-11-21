@@ -11,6 +11,10 @@ zdroj:
     na političky, Volyň/TikTok, Ukrajinci v ČR, konec války jen ruskými podmínkami/orešníky, ropa a nafta,
     energetika a datová centra, Pavel a veto jako velezrada, Tušl a Zítko, Jurečka „na elektrické křeslo",
     vlastenecká TV. Sdílená videa (Blaha, „Dominik"), čtená zpráva fanouška a osobní pasáže nezpracovány.
+  osoby:
+  - osoba: karel-havlicek
+    vztah: rozporuplny
+    kontext: „Velice inteligentní", ale v debatě neumlčel Jurečku
 vyroky:
 - id: cernohorsky-2026-09-22-01
   typ: tvrzeni
@@ -28,6 +32,10 @@ vyroky:
     po Židech". Viz [predikce](predikce.md).'
   citace:
   - text: Budete ještě vlastně vzpomínat na to, že jsme měli naftu za 50.
+  osoby:
+  - osoba: lubomir-blaha
+    vztah: pozitivni
+    kontext: Cituje ho a pouští jeho video
   podtema: Rusko a energetická krize EU
 - id: cernohorsky-2026-09-22-02
   typ: tvrzeni
@@ -45,6 +53,19 @@ vyroky:
     stojí 40 mld. Kč ročně na dotacích a vláda chce stavět větrníky jen kvůli závazkům vůči EU — Turkovo
     omezení akceleračních zón je „hovno platný"; za peníze vložené do OZE by podle něj „stály další Dukovany"
     (navazuje na solární dotace a [větrníky](vetrniky.md)).
+  osoby:
+  - osoba: zbynek-stanjura
+    vztah: negativni
+    kontext: „Má sedět v kriminále"
+  - osoba: kellnerovi
+    vztah: negativni
+    kontext: Datová centra s levnou elektřinou mimo burzu
+  - osoba: google
+    vztah: negativni
+    kontext: Datová centra s levnou elektřinou mimo burzu
+  - osoba: microsoft
+    vztah: negativni
+    kontext: Datová centra s levnou elektřinou mimo burzu
   podtema: Rusko a energetická krize EU
 - id: cernohorsky-2026-09-22-03
   typ: tvrzeni
@@ -90,6 +111,10 @@ vyroky:
     „chcípají hladem" a vybírají mezi léky a jídlem. Pavel si podle něj přeje válku a „jaderný holokaust",
     protože si myslí, že bude sám ochráněn, a těší se na mobilizaci — Černohorský prohlašuje, že by bojovat
     nešel („tahle země už mně nepatří"). Navazuje na [Pavel podporuje euro a chce se vzdát práva veta](suverenita-eu.md#pavel-podporuje-euro-a-chce-se-vzdát-práva-veta-v-zahraniční-politice--černohorský-3-7-2026).
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Vzdání se veta = velezrada, přeje si „jaderný holokaust" a mobilizaci
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: cernohorsky-2026-09-22-06
   typ: tvrzeni
@@ -109,6 +134,10 @@ vyroky:
     přidat, jsou hasiči (80–100 tisíc, „víc než jakýkoliv poslanec"), dobří učitelé (ne ti, kteří „tleskají
     LGBT") a zdravotníci, kteří se za covidu „nezaprodali" — ne policisté, kteří podle něj „slouží hajzlům
     nahoře" a kryjí „Oganesjanův gang".'
+  osoby:
+  - osoba: zdenek-hrib
+    vztah: negativni
+    kontext: Přeplatky za elektřinu 40 tis./měs.; „arogantní hajzl", ale už není u moci
   podtema: USA — volební systém
 - id: cernohorsky-2026-09-22-07
   typ: tvrzeni
@@ -131,6 +160,14 @@ vyroky:
     Dozimetr.'
   citace:
   - text: Protože my jsme takový ovcoidní kundy, že jim pořád budeme tleskat.
+  osoby:
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: „Menší zlo" než Fiala, hájí ho u dluhu a cen nafty; zvýšení platů = „arogance", servilita
+      k Ukrajině
+  - osoba: petr-macinka
+    vztah: rozporuplny
+    kontext: „Bourák", ale v otázce Ruska a Ukrajiny selhává
   podtema: USA — volební systém
 - id: cernohorsky-2026-09-22-08
   typ: tvrzeni
@@ -147,6 +184,13 @@ vyroky:
     že „zlegalizovala obchod s dětmi, s orgány, s vraždami, zbraněmi". Kritizuje také návrh Borise Šťastného
     (Motoristé) na neplacené první tři dny nemoci a ministra Juchelku za snížení podpory v nezaměstnanosti
     v době zvyšování politických platů. Viz [Stochastický teror](stochasticky-teror.md).
+  osoby:
+  - osoba: marian-jurecka
+    vztah: negativni
+    kontext: Okradl invalidy — „na elektrické křeslo"
+  - osoba: boris-stastny
+    vztah: negativni
+    kontext: Návrh neplacených prvních 3 dnů nemoci
   podtema: USA — volební systém
 - id: cernohorsky-2026-09-22-09
   typ: tvrzeni
@@ -165,6 +209,13 @@ vyroky:
     „žrát suchej chleba, než abych prosil a žebral o peníze"; dary, které kdy dostal, podle svých slov
     poslal na transparentní účet nebo potřebným. Přiznává, že jeho vulgarita odrazuje od sdílení, ale
     „jiný nebude". Navazuje na svou kritiku [vlastenecké scény jako byznysu](#podpora-robina-čumpelíka--kritika-vlastenecké-scény-příčovy-a-vlastních-diváků-za-slepé-tleskání-politikům-černohorský-31-8-2026).'
+  osoby:
+  - osoba: tusl
+    vztah: negativni
+    kontext: „Žebrá", falešné AI parte; přání smrti
+  - osoba: zitko
+    vztah: negativni
+    kontext: Lhal o vakcínách, 750 tis. na kampaň, „nejradši v kriminále"
   podtema: USA — volební systém
 - id: cernohorsky-2026-09-22-10
   typ: tvrzeni
@@ -180,6 +231,22 @@ vyroky:
     na chlapy" (Niedermayer, Zdechovský, v ČR Lipavský, Kupka, Jakob). Ve vztahu podle něj „určuje" žena
     jen jako součást „hry"; „feministické kundy" to už neumějí. Navazuje na svůj výrok o návratu žen „ke
     sporheltu".
+  osoby:
+  - osoba: kaja-kallasova
+    vztah: negativni
+    kontext: Sexistické urážky; „dementní krávy"
+  - osoba: ursula-von-der-leyenova
+    vztah: negativni
+    kontext: Sexistické urážky; „dementní krávy"
+  - osoba: danuse-nerudova
+    vztah: negativni
+    kontext: Sexistické urážky; „dementní krávy"
+  - osoba: tomas-zdechovsky
+    vztah: negativni
+    kontext: Homofobní urážky („atrapy na chlapy")
+  - osoba: ludek-niedermayer
+    vztah: negativni
+    kontext: Homofobní urážky („atrapy na chlapy")
   podtema: Genderové role
 - id: cernohorsky-2026-09-22-11
   typ: tvrzeni
@@ -218,4 +285,110 @@ vyroky:
     — viz [Stochastický teror](stochasticky-teror.md) a [predikce](predikce.md).'
   citace:
   - text: Evropa tleská sobě sama zničení. Evropa tleská válce.
+  osoby:
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: Vzor — Babiš se má přidat k jeho jednání s Putinem
   podtema: Zahraniční aktéři a precedenty
+- id: cernohorsky-2026-09-22-13
+  typ: predikce
+  temata:
+  - ceny-energie
+  nadpis: ruská ropa a plyn budou v zimě chybět; nafta 60–65 Kč a kolaps zásobování
+  text: Dodávky ruské ropy a plynu do Evropy nebudou a v zimě budou „jednoznačně" chybět; při eskalaci
+    přijdou fronty na čerpacích stanicích a nafta za 60–65 Kč, poté přídělový systém a do týdne kolaps
+    zásobování potravinami.
+  citace:
+  - text: Nejdřív budou fronty jako prase, a to už ta nafta bude stát 65 až 60 korun. Pak se to omezí
+      [...] v Turanu stačí typuju týden.
+  predikce:
+    horizont: zima 2026/2027 (podmíněno eskalací)
+    stav: ceka
+- id: cernohorsky-2026-09-22-14
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: při mobilizaci odejdou Češi do ruské armády a „popraví" politiky
+  text: Pokud vláda vyhlásí mobilizaci, spousta českých mužů odejde do Ruska, vstoupí dobrovolně do ruské
+    armády a politiky, kteří „ničí Českou republiku", popraví.
+  citace:
+  - text: Takže mobilizace? Jo, bude. Pokud to uděláte, tak vám garantuju [...] aby vás popravili. Aby
+      vás postříleli vy děvky. To se stane.
+  predikce:
+    horizont: podmíněno vyhlášením mobilizace
+    stav: ceka
+- id: cernohorsky-2026-09-22-15
+  typ: stoch-teror
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Volodymyr Zelenskyj a okolí, náboráři TCK
+  text: přání smrti jmenovaným
+  citace:
+  - text: Tuhle část Ukrajinců nenávidím. Ať, ať klidně pochcípaj, ať Zelenský a všichni kolem něho, ať
+      pochcípaj! Zmrdí skurvení!
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Titul „UPA" pro jednotku; „ať pochcípaj"
+  teror:
+    terc: Volodymyr Zelenskyj a okolí, náboráři TCK
+    hranicni: false
+- id: cernohorsky-2026-09-22-16
+  typ: stoch-teror
+  temata:
+  - valka-nato-rusko
+  nadpis: čeští politici „ničící Českou republiku"
+  text: přání/předpověď popravy politiků
+  citace:
+  - text: …a půjdou do Ruska a vstoupí dobrovolně do armády. Aby vás vy kurvy, který teď tady ničíte Českou
+      republiku, tak aby vás popravili. Aby vás postříleli vy děvky. To se stane.
+  teror:
+    terc: čeští politici „ničící Českou republiku"
+    hranicni: false
+- id: cernohorsky-2026-09-22-17
+  typ: stoch-teror
+  temata:
+  - valka-nato-rusko
+  nadpis: Kyjev, Lvov (obyvatelé Ukrajiny)
+  text: dehumanizace obyvatel měst v kontextu přání jejich bombardování
+  citace:
+  - text: Oni potřebujou vybombardovaný Kyjev. Potřebujou vybombardovaný Lvov. Hnízdo nacistických zmrdů.
+  teror:
+    terc: Kyjev, Lvov (obyvatelé Ukrajiny)
+    hranicni: false
+- id: cernohorsky-2026-09-22-18
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: Ukrajinci v ČR („nemalá část")
+  text: kolektivní dehumanizace a kriminalizace skupiny
+  citace:
+  - text: nemalá část těchto zasranejch, skurvenejch Ukrajinců, kteří dělají bordel, vraždí, znásilňujou,
+      chlastají v České republice
+  teror:
+    terc: Ukrajinci v ČR („nemalá část")
+    hranicni: false
+- id: cernohorsky-2026-09-22-19
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Tušl (vlastenecký aktivista)
+  text: přání smrti jmenovanému
+  citace:
+  - text: …že bys tušil, vole, šel, zdechl, vole, a bylo o jednoho hajzla míň, no mě to vůbec nebude vadit.
+  teror:
+    terc: Tušl (vlastenecký aktivista)
+    hranicni: false
+- id: cernohorsky-2026-09-22-20
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Marian Jurečka
+  text: výzva k popravě a kolektivnímu trestu rodiny
+  citace:
+  - text: Tomuhle hajzlovi za to, co způsobil invalidním důchodců, kdyby to šlo, tak já bych ho dal na
+      elektrický křeslo, ať si to užije hajzl. A samozřejmě předtím zabavit veškerý majetek, jeho celé
+      rodině a příbuzenstvu
+  teror:
+    terc: Marian Jurečka
+    hranicni: false

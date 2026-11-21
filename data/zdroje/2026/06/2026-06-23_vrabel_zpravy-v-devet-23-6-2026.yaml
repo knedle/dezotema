@@ -37,6 +37,56 @@ zdroj:
     vs. lid), ne horizontálně; elity vytvářejí konflikty, aby si udržely bohatství. Predikce: válka Bělorusko
     vs. NATO/Ukrajina možná „během pár dnů". Bez stoch. teroru. Zprávy v devět s komentářem (moderátorka
     Zuzka)'
+  osoby:
+  - osoba: marco-rubio
+    vztah: neutralni
+    kontext: Citován — USA do Íránu investovat nebude (memorandum o ~300 mld $ byla „hra"); Vrabel to
+      bere jako potvrzení své skepse
+  - osoba: grzegorz-braun
+    vztah: pozitivni
+    kontext: „Náš kamarád a kolega" — europoslanec a předseda Konfederace; Poláci dle Vrabela díky němu
+      dělají domobranu proti migračnímu paktu
+  prehled:
+  - tema: Lavrov
+    text: „spirit of Anchorage" jako možné získání času pro vyzbrojení Ukrajiny (analogie minských dohod
+      / Merkelové), cíle SVO (neutrální/nezařazená/nejaderná Ukrajina, zrušení diskriminace ruského jazyka
+      a pravoslaví, uznání Krymu/Donbasu/Novoruska), Bělorusko vtahováno do konfliktu (Rusko poskytne
+      vojenskou pomoc dle dohody o svazovém státě), výzva diplomatům opustit Kyjev = příprava tvrdého
+      útoku na Kyjev. Bělorusko — Zelenský schválil údery na běloruské rafinerie (běloruský benzín do
+      Ruska +13×), „poslední šance couvnout"
+  - tema: Vrabel
+    text: vysoká pravděpodobnost války NATO+Ukrajina vs. Bělorusko „během pár dnů" (predikce). Pavel a
+      summit NATO — vláda rozhodla, že nepojede, Hrad podal kompetenční žalobu k ÚS
+  - tema: Vrabel vyjmenoval všech 19 summitů NATO (1999–2025) a kdo ČR zastupoval
+    text: vždy prezident (Havel/Klaus/Zeman/Pavel), jen 2022 vedl delegaci Fiala (Zeman měl zákaz létat)
+      → „ostuda" je umělé téma odvádějící pozornost od ženutí do války
+  - tema: Storm Shadow (dolet ~450 km) na ruské území den po Starmerově pádu. Írán/USA
+    text: 'Mike Waltz (OSN): vojenské řešení na stole, Trump „z pozice síly"'
+  - tema: Rubio
+    text: USA do Íránu investovat nebude (memorandum ~300 mld $ byla „hra"), Trump chce 350 mld $ od Evropy
+  - tema: Vrabel
+    text: Trump nedává prostor diplomacii, ale kapitulaci, dlouhodobý cíl = „pevnost Amerika"/TechNate
+      a ovládnutí komodit, konflikt po podzimních primárkách bude pokračovat. Policejní brutalita Západu
+      (dánský novinář Lars Andersson zatčen doma za kritiku premiérky, Británie, němečtí policisté zmlátili
+      Poláky na hřbitově) = „předválečný stav" / likvidace opozice (covid jako „test" zlomení lidí)
+  - tema: ČR zastrašování (Čermák, odznak Z, Kutý). Migrace
+    text: muslimové = mladí muži „jedou dobýt Evropu"
+  - tema: francouzská žena dostala podmínku za „nenávist" poté, co
+    text: francouzská žena dostala podmínku za „nenávist" poté, co byla sexuálně napadena migrantem (pachatel
+      na svobodě). Albánie/Srbsko — protesty proti Kushnerovým rezortům (Albánci násilím, Srbové bez násilí
+      ubránili rozbombardovanou budovu v Bělehradě — architekti otevřený dopis)
+  - tema: Vrabel fandí, protesty mají smysl (Francouzská revoluce,
+    text: Vrabel fandí, protesty mají smysl (Francouzská revoluce, Srbsko Rio Tinto / dvoje volby)
+  - tema: ČR 2022 „nevydržela", podpora Rajchla = „největší politická chyba". V4
+    text: Babiš jede na summit V4 s novým maďarským premiérem Magyarem
+  - tema: vlastenci jásají, ale V4 je zase jednotná jen proto, že
+    text: vlastenci jásají, ale V4 je zase jednotná jen proto, že Magyar (i Babiš) mají na válku stejný
+      názor jako ostatní (Orbán byl jiný) = příprava na mobilizaci. Putin — multipolární svět, modernizace
+      jaderné triády, Istanbulské dohody 2022 + Anchorage modality. Polsko vs. Ukrajina — historická paměť
+      (Volyň) vítězí nad prozápadní touhou, Nawrocki odebral řád, Poláci domobrana (Braun/Konfederace).
+      Sense8 (Wachowski) — společnost rozdělena vertikálně (elity vs. lid), ne horizontálně
+  - tema: elity vytvářejí konflikty, aby si udržely bohatství. Predikce
+    text: válka Bělorusko vs. NATO/Ukrajina možná „během pár dnů". Bez stoch. teroru.
 vyroky:
 - id: vrabel-2026-06-23-01
   typ: tvrzeni
@@ -81,6 +131,11 @@ vyroky:
     jako ostatní" lídři (Ukrajina do EU, Rusko agresor, NATO zachránce, plnění závazků). Sjednocená V4
     tak podle něj není dobrá zpráva, ale příprava na to, „jak budou mobilizovat vaše syny". Navazuje na
     jeho tezi o Magyarovi jako „falešném mesiáši" a o umělé „opozici".'
+  osoby:
+  - osoba: peter-magyar
+    vztah: negativni
+    kontext: Nový maďarský premiér — díky němu je V4 zase „jednotná", protože má na válku stejný názor
+      jako ostatní (na rozdíl od Orbána) = příprava na mobilizaci
   podtema: Evropský parlament a V4 strategie
 - id: vrabel-2026-06-23-04
   typ: tvrzeni
@@ -101,4 +156,31 @@ vyroky:
     Navazuje na [Barbarossa 2.0 (22. 6.)](#barbarossa-20-tanky-do-litvy-mladí-ukrajinci-s-ss-symboly-české-motory-pro-drony-vrabel-22-6-2026).'
   citace:
   - text: Je úplně evidentní, že se Rusové chystají na tvrdý útok na Kyjev.
+  osoby:
+  - osoba: sergej-lavrov
+    vztah: neutralni
+    kontext: Citován — „spirit of Anchorage" mohl být získáním času (jako minské dohody/Merkelová); cíle
+      SVO; Rusko poskytne Bělorusku vojenskou pomoc; výzva opustit Kyjev
   podtema: Eskalace a hrozba rozšíření konfliktu
+- id: vrabel-2026-06-23-05
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Válka Bělorusko vs. NATO/Ukrajina možná „během pár dnů"
+  text: Vrabel považuje za „docela reálné" a „vysoce pravděpodobné", že po Zelenského opakovaných výhrůžkách
+    (a schválení úderů na běloruské rafinerie) Ukrajina — fakticky NATO přes Ukrajinu — během příštích
+    pár dnů zaútočí na Bělorusko, čímž se konflikt rozšíří o další zemi (Rusko slíbilo Bělorusku vojenskou
+    pomoc). Mírně eskaluje jeho [predikci z 20. 6.](#ladislav-vrabel--konflikt-s-běloruskem-nepřijde-před-summitem-nato-20-6-2026)
+    (že konflikt nepřijde před summitem NATO).
+  citace:
+  - text: Lze předpokládat s vysokou pravděpodobností, že se nám tady během příštích pár dnů může rozběhnout
+      další válka, a to mezi Běloruskem a v podstatě NATO.
+  predikce:
+    horizont: dny (konec června 2026)
+    stav: vyvraceno
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: válka Běloruska s NATO nebo Ukrajinou v následujících dnech nevypukla
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Vrabel 26.–29. 6. mluví jen o výhrůžkách a jednáních.

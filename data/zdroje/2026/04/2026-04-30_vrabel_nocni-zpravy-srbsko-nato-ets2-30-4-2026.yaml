@@ -14,6 +14,25 @@ zdroj:
     tvoří společné námořní síly; ETS2 — všichni čeští europoslanci hlasovali pro Nerudové amendment; EU
     nemá přehled o zásobách pohonných hmot; Peskov o Zelenském; Trump-Putin telefonát — nabízel příměří
     9. května.'
+  prehled:
+  - tema: 'Noční zprávy se Zuzkou. Klíčová témata: Okamura v Srbsku'
+    text: podporuje vstup Srbska do EU (Vrabel nesouhlasí)
+  - tema: EU zastavila platby Srbsku (soudnictví)
+    text: EU zastavila platby Srbsku (soudnictví)
+  - tema: politická história Srbska (Milošević → demokraté → Vučić)
+    text: politická história Srbska (Milošević → demokraté → Vučić)
+  - tema: Polsko plánuje armádu 500 000 do 2039
+    text: Polsko plánuje armádu 500 000 do 2039
+  - tema: UK + 9 zemí (DK, FI, IS, NO, SE, NL, EE, LV, LT) tvoří
+    text: UK + 9 zemí (DK, FI, IS, NO, SE, NL, EE, LV, LT) tvoří společné námořní síly
+  - tema: ETS2
+    text: všichni čeští europoslanci hlasovali pro Nerudové amendment
+  - tema: EU nemá přehled o zásobách pohonných hmot
+    text: EU nemá přehled o zásobách pohonných hmot
+  - tema: Peskov o Zelenském
+    text: Peskov o Zelenském
+  - tema: Trump-Putin telefonát
+    text: nabízel příměří 9. května.
 vyroky:
 - id: vrabel-2026-04-30-01
   typ: tvrzeni
@@ -57,4 +76,12 @@ vyroky:
     Vrabel ve vysílání 30. dubna 2026 komentuje návštěvu Tomia Okamury v Srbsku, kde vyjadřoval podporu srbské integraci do EU. Vrabel to označuje za protichůdné signály: Okamura v ČR odmítá EU jako přílišné zasahování do suverenity, ale v zahraničí ji doporučuje Srbsku. Vrabel zastává opačnou pozici — EU podle něj postupně ničí národní státy a Srbsko by se mělo tomuto vývoji bránit. Vučić je dle Vrabela pragmatický: hraje kartu EU, pokud mu to přináší výhody.
 
     EU mezitím zastavila platby z eurofondů Srbsku kvůli nevyhovujícímu soudnictví — Vrabel to vnímá jako typický tlakový mechanismus: buď přijmete pravidla, nebo přijdete o peníze. Srbsko si tak zachovává dvě tváře: plyn od Ruska + peníze z EU.
+  osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: 'V Srbsku podporuje vstup do EU — Vrabel: protichůdné signály, v ČR kritizuje EU, v zahraničí
+      ji doporučuje'
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: 'Srbsko hraje dvojí kartu: plyn od Ruska + eurofundy; Vrabel: pragmatismus hodný obdivu'
   podtema: Zahraniční aktéři a precedenty

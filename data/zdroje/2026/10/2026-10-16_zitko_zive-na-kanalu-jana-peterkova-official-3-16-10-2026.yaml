@@ -35,6 +35,32 @@ vyroky:
   citace:
   - text: Tomáši, pokud mě posloucháš, rozhodně nikde nevylejzej a zůstaň v bezpečí tam, kde seš, protože
       tvůj čas teprve přijde.
+  osoby:
+  - osoba: renata-bernardy
+    vztah: negativni
+    kontext: Zařazena mezi „mediální hrobníky“; tvrdí prý, že za covidu bral 400 tis./měs.; TV Šalingrad
+      jako „sekta“
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Korporátník“ mezi těmi, kdo ho „mediálně pohřbili“; kanál mu nenabídl
+  - osoba: tarabova
+    vztah: negativni
+    kontext: Mezi „mediálními hrobníky“; za falešným profilem má stát její „údajný přítel“ Dan Novas
+  - osoba: patrik-tusl
+    vztah: negativni
+    kontext: „Ochotně naskočil ve zvracení na Zítka“, nosí tričko „Česko, ne Československo“
+  - osoba: cernohorsky
+    vztah: negativni
+    kontext: „Jedenáctiletý“, první z „mediálních hrobníků“; jeho omluva „nedůvěryhodná“
+  - osoba: pavel-novotny
+    vztah: negativni
+    kontext: Za výzvy „k zabíjení žen a dětí“ dostal jen 3 měsíce; „vyslán“ do Liberce potvrdit Čermáka
+  - osoba: jana-peterkova
+    vztah: pozitivni
+    kontext: Zdarma mu zapůjčila kanál pro živé vysílání
+  - osoba: tomas-cermak
+    vztah: pozitivni
+    kontext: „Zůstaň v bezpečí… tvůj čas teprve přijde“ — čekají ho „na tanku s Prigožinem nebo Kadyrovem“
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-10-16-03
   typ: tvrzeni
@@ -64,3 +90,46 @@ vyroky:
     armádě, která „není váš nepřítel", a mít nabitá zařízení a zásoby vody a jídla. Zítko dodává, že se
     dlouho čekalo kvůli hrozbě občanské války „kvůli těm vymletým NPCčkům" a že mu NCTEKK možná proto
     vrátila telefony. Rakušan prý posílal instrukce „na 72 hodin".'
+- id: zitko-2026-10-16-05
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: EBS bude aktivován do 72 hodin, nejpozději před americkými midterms
+  text: Systém nouzového vysílání EBS má být aktivován do 72 hodin, podle Zítkova vlastního odhadu nejpozději
+    před volbami do Kongresu v USA. Mají následovat 3–10 „dní temnoty" a přechod na QFS.
+  citace:
+  - text: Systém nouzového vysílání Emergency Broadcast System EBS bude aktivován během následujících
+      72 hodin. […] Mělo by to být do poločasových voleb v USA. Takhle aspoň to cítím a vnímám.
+  predikce:
+    horizont: do 19. 10. 2026; nejpozději americké midterms (3. 11. 2026)
+    stav: vyvraceno
+    horizont_do: 2026-10-19
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: EBS nebyl aktivován do 19. 10. ani před volbami 3. 11.
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Zítko termíny dál posouvá. 16. 11. cituje text „i když k EBS nedojde dnes večer ani zítra“
+        a „jubileum“ přesouvá na leden.
+    - datum: 2026-10-16
+      text: 'Do 19. 10. EBS aktivován nebyl. 20. 10. Zítko predikci posunul: midterms „vůbec nemusí proběhnout“,
+        místo nich přijde EBS — [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka
+        (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)'
+- id: zitko-2026-10-16-06
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: Ivan Masaryk a kritici z řad „hejtrů“ (vč. „ukrajinského vězně z Trenčína“)
+  text: dehumanizace („hmyz“, „mouchy“) a implicitní hrozba trestu v rámci „vojenské operace“
+  citace:
+  - text: Teď může komentovat kdokoliv, takže i Masaryk, i tady ten hmyz, který je nalezlej […] je to
+      jako mouchy v letě, a i pro tyto idioty v závěru speciální vojenské operace, která se chýlí ke zdárnému
+      konci, i na ně bude myšleno, protože stále žijí na obláčku, že […] jejich páníčci […] je nějakým
+      způsobem zachrání. Nezachrání.
+  osoby:
+  - osoba: ivan-masaryk
+    vztah: negativni
+    kontext: „Hmyz“, na který „bude myšleno“ v závěru vojenské operace (→ [stoch. teror](../stochasticky-teror.md))
+  teror:
+    terc: Ivan Masaryk a kritici z řad „hejtrů“ (vč. „ukrajinského vězně z Trenčína“)
+    hranicni: false

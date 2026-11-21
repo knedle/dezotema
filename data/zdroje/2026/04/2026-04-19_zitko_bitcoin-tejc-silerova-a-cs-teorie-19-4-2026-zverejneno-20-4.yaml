@@ -11,6 +11,10 @@ zdroj:
   poznamka: 'Nedělní večerník: Bitcoin recap (Tejc + Šilerová, Blažek, Decroix zametačka); kritika Rajchla
     za přebírání Zítkových zásluh od června 2025; ČS teorie (Villa Tugendhat 26. 8. 1992, zákon 11/1918,
     tři koruny moci, ČR/SR jako korporace); pozvánky COVID tour. Zhlédnutí: 489'
+  osoby:
+  - osoba: alena-silerova
+    vztah: neutralni
+    kontext: Poslankyně, spolu s Tejcem podala společné trestní oznámení v kauze Bitcoin
 vyroky:
 - id: zitko-2026-04-19-01
   typ: tvrzeni
@@ -21,4 +25,8 @@ vyroky:
     Martin Stránský), který ho odmítl i s papírem od MS; Jiříkovský pak odjel na Tajvan. Petr Fiala a
     Eva Decroix absolvovali 21. 4. 2026 společný Facebook live — dle Zítka poprvé, kdy Fiala sáhl k tomuto
     formátu, což interpretuje jako výraz paniky.'
+  osoby:
+  - osoba: jiri-tejc
+    vztah: neutralni
+    kontext: Společně s Šilerovou podal nové TO v kauze Bitcoin — Zítko komentuje jako průlomový krok
   podtema: Kauza Bitcoin — organizovaný zločin ve státní správě

@@ -8,3 +8,16 @@ zdroj:
   prepis: prepisy/done/2026-10-04_Lenka-Tarabová_PRO-PRÁVO-RESPEKT-ODBORNOST-Programový-bod-PRO-Liberec.txt
   rezim: standard
   poznamka: Zpracován jen výrok do stochastického teroru; programový bod sám uživatel nevybral.
+vyroky:
+- id: tarabova-2026-10-04-01
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Sudetoněmecký landsmanšaft (členové)
+  text: kolektivní dehumanizace pojmenované skupiny bez výzvy k násilí
+  citace:
+  - text: na území Československa řádily nacistické zrůdy. Potomci těchto zrůd jsou součástí sudetoněmeckého
+      Landsmannschaftu.
+  teror:
+    terc: Sudetoněmecký landsmanšaft (členové)
+    hranicni: false

@@ -73,6 +73,11 @@ vyroky:
     ochotných". Vyjadřuje obavu o Ficovu bezpečnost (narážka na možný atentát). V téže souvislosti cituje
     výrok bývalé tiskové mluvčí Volodymyra Zelenského, že ten byl v prvních hodinách ruské invaze v panice
     a chtěl nechat odpálit ukrajinské mosty i s vlastními vojáky na nich, což vojáci odmítli provést.
+  osoby:
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: 'Odmítl automatické uplatnění čl. 5 NATO — Vrabel: „majstrštik", jediný odvážný politik v
+      NATO/EU (další obrat od negativního hodnocení z 8. 6.)'
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-09-18-06
   typ: tvrzeni

@@ -15,6 +15,26 @@ zdroj:
     řídí USA; Írán „telenovela" 38× + shortování ropy; migrační pakt i pro ČR, Británie/občanská válka,
     islám vs. křesťanství; G7 Evian; Gabbard odtajnila 120 biolaboratoří. Zprávy v devět s komentářem
     (moderátorka Zuzka)
+  prehled:
+  - tema: Lidice
+    text: válku vedli Němci, ne „nacisté" (Lipavský, deklarace 1997)
+  - tema: F-35 jako nosiče jaderných zbraní/příprava útoku na Rusko,
+    text: F-35 jako nosiče jaderných zbraní/příprava útoku na Rusko, tanky Leopard po D35, cvičení Suvalki
+      (10 000), Ukrajina dvojí metr (Kratochvíl) + 20 mld
+  - tema: Ozempic pro děti (Vojtěch/Novo Nordisk), AI DNA vakcína (39
+    text: Ozempic pro děti (Vojtěch/Novo Nordisk), AI DNA vakcína (39 lidí, McCullough)
+  - tema: umělý konflikt vláda vs. prezident (Macinka/Čína = jako
+    text: umělý konflikt vláda vs. prezident (Macinka/Čína = jako Fiala)
+  - tema: Izrael/Velký Izrael/Libanon/Týr, Netanjahu řídí USA
+    text: Izrael/Velký Izrael/Libanon/Týr, Netanjahu řídí USA
+  - tema: Írán „telenovela" 38× + shortování ropy
+    text: Írán „telenovela" 38× + shortování ropy
+  - tema: migrační pakt i pro ČR, Británie/občanská válka, islám vs.
+    text: migrační pakt i pro ČR, Británie/občanská válka, islám vs. křesťanství
+  - tema: G7 Evian
+    text: G7 Evian
+  - tema: Gabbard odtajnila 120 biolaboratoří.
+    text: Gabbard odtajnila 120 biolaboratoří.
 vyroky:
 - id: vrabel-2026-06-13-01
   typ: tvrzeni
@@ -29,6 +49,11 @@ vyroky:
     Německa a označil pozvání za „významné". Připomíná i [česko-německou deklaraci 1997](#česko-německá-deklarace-1997-jako-vzdání-se-válečných-reparací--vrabel-7-5-2026)
     (Havel, Zeman), kterou Německu „odpustila viny" a přiznala český „díl viny" — varuje, že s vymíráním
     pamětníků se historie přepisuje.
+  osoby:
+  - osoba: jan-lipavsky
+    vztah: negativni
+    kontext: „Největší ostuda české politiky" — jel slavit výročí konce WWII do Německa a označil pozvání
+      za významné
   podtema: Podstata dekretů, odsun a smíření
 - id: vrabel-2026-06-13-02
   typ: tvrzeni
@@ -64,6 +89,11 @@ vyroky:
     (bezpečnost). Vrabel to staví jako „dárek na rozloučenou" a další případ, kdy „ruská propaganda /
     konspirace" z roku 2022 (Nulandové přiznání Rubiovi) byla po 4,5 letech potvrzena oficiálním zdrojem
     USA. Rozšiřuje [40 z 120 — Gabbard a Hegseth (Rajchl, 31. 5.)](#biolaboratoře-usa-na-ukrajině-40-z-120--gabbard-a-hegseth-potvrdili-rajchl-31-5-2026).
+  osoby:
+  - osoba: tulsi-gabbard
+    vztah: pozitivni
+    kontext: „Dárek na rozloučenou" — oficiálně odtajnila dokumenty o 120 biolaboratořích USA ve 30 zemích
+      (NDI); potvrzení dřívější „konspirace"
 - id: vrabel-2026-06-13-05
   typ: tvrzeni
   temata:
@@ -94,6 +124,11 @@ vyroky:
     videu Macinkova „politického tatínka") podle něj slouží k tomu, aby lidé měli pocit, že „nežijeme
     v totalitě" a existují různé politické názory — přitom „dělají úplně to samé". Češe označuje za „politicky
     natvrdlé", protože narativu uvěřili.
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: „Obrovské zklamání" — obchod s Čínou „jen jak povolí EU"/obezřetnost = stejná politika jako
+      Fiala; vláda Babiše jen předstírá opozici vůči Fialovi
   podtema: Demokracie a politický systém
 - id: vrabel-2026-06-13-07
   typ: tvrzeni
@@ -108,4 +143,42 @@ vyroky:
     - **Tanky Leopard 2A4** poprvé pojedou po dálnici D35 (16. 6., 9 ks + vyprošťovací vozidlo) — Vrabel: „jako kdyby se chystalo, že se budou německé tanky přes ČR přesouvat směrem k Rusku."
     - **Cvičení u Suvalského koridoru** (Litva/Polsko/Německo/Francie, 16.–26. 6., ~10 000 vojáků, 600 ks techniky) u Kaliningradu označuje za cílenou provokaci a eskalaci („nedávejte sirky zpátky do krabičky"). Válku čeká „na spadnutí", oficiálně se mluví o roce 2029.
     - **Dvojí metr u Ukrajiny:** bojovat za Ukrajinu je povoleno (financujeme to — 90mld balíček, 30 % na chod státu, 60 % na zbraně; voják bere ~140 000 Kč/měs.), zatímco Ivan Kratochvíl a českoslovenští vojáci v záloze jsou stíháni za podporu ruských separatistů (soud 24. 7., hrozí 10 let). Ukrajina je v bankrotu a chce dalších 20 mld. dolarů.
+  osoby:
+  - osoba: ivan-kratochvil
+    vztah: pozitivni
+    kontext: Souzen (hrozí 10 let, soud 24. 7.) za podporu bojujících na straně ruských separatistů —
+      Vrabel jako příklad dvojího metru (za Ukrajinu bojovat lze); „nejvíc vláčený", přitom proti nikomu
+      nevypovídal
   podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-06-13-08
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: Od roku 2027 začnou do ČR jezdit autobusy migrantů z Afriky a Blízkého východu
+  text: Vrabel tvrdí, že výjimka ČR z přerozdělování migrantů (kvůli přijatým Ukrajincům) skončí a „od
+    příštího roku" (2027) začnou do ČR jezdit autobusy lidí z Afriky a Blízkého východu v rámci migračního
+    paktu.
+  citace:
+  - text: Od příštího roku prostě se budou procházet. Začnou jezdit k nám autobusy lidí z těch zemí Blízkého,
+      středního východu a Afriky.
+  predikce:
+    horizont: od roku 2027
+    stav: ceka
+- id: vrabel-2026-06-13-09
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Adam Vojtěch
+  text: pojmenovaný terč, násilná fantazie s deklarovanou popiratelností (reakce na hrazení Ozempicu dětem)
+  citace:
+  - text: držte mě, nebo pusťte mě na něj […] kdybych potkal Adama Vojtěcha, tak bych na něj určitě nezautočil
+      […] kdybych s ním byl na rybách a nikdo nás neviděl, tak bych se možná s tím prutem v ruce prudce
+      otočil" + „postavte si vedle toho [zničených dětských životů] jednoho Adama Vojtěcha
+  osoby:
+  - osoba: adam-vojtech
+    vztah: negativni
+    kontext: 'Lobbista za hrazení Ozempicu obézním dětem (Novo Nordisk) — „jeden z nejnebezpečnějších
+      léků"; Vrabel: „držte mě, nebo pusťte mě na něj" (viz [stochastický teror](../stochasticky-teror.md))'
+  teror:
+    terc: Adam Vojtěch
+    hranicni: false

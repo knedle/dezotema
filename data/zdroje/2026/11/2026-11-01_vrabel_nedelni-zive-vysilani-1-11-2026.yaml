@@ -9,6 +9,110 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 44 min, mluví jen Vrabel (bez hosta a moderátorky), čte dotazy diváků z komentářů; první
     polovina výklad plánu „ČR na prvním místě“, konec logistika pochodu 17. 11.; krátká němá videa z protestů.
+  osoby:
+  - osoba: miroslav-sladek
+    vztah: pozitivni
+    kontext: „Fenomén“, porazil Ovčáčka v páce; hájí jeho výrok o Romech
+  - osoba: jiri-ovcacek
+    vztah: pozitivni
+    kontext: „Sympaťák“
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Srbsko vedl „velmi dobře“
+  - osoba: rados-aw-sikorski
+    vztah: negativni
+    kontext: Jeden z „největších válečných štváčů v Evropě“
+  - osoba: karol-nawrocki
+    vztah: pozitivni
+    kontext: „Hájí národní zájmy Polska“
+  - osoba: mikulas-minar
+    vztah: negativni
+    kontext: Jeho demonstrace mají jen „štvát společnost“
+  prehled:
+  - tema: Komunita „rodina“, 800+ diváků denně
+    text: vyzývá ke schůzkám, malým shromážděním, peticím a lepení plakátů na pochod 17. 11.
+  - tema: Dlouhá vysílání místo krátkých videí
+    text: „hluboké vědění“ podle něj „rozemele blábol“; odmítá komentáře, že „jsme stále Československo“
+      nebo že „mikroorganismy neexistují“.
+  - tema: Plán „ČR na prvním místě“ — čtyři reformy
+    text: daňová, soudní, mediální a politická, odvolatelnost politiků, změna volebního systému (opakuje).
+  - tema: Srbsko po volbách
+    text: Vučić vedl stát dobře, studenti zachovávají ekonomiku i zahraniční politiku a posílají delegaci
+      do Moskvy kvůli plynu; „studenti si půjčili můj plán“ (opakuje).
+  - tema: Plán na 5–10 let, mezitím válka
+    text: změna přijde až po rozpadu EU a konci války; bývalí spolupracovníci „zapomněli“ na audit, mír
+      a vystoupení z EU a NATO; ČR má blíž k „nesvéprávnosti“ (opakuje).
+  - tema: Vlastní odsouzení za dotační podvod
+    text: šlo podle něj o odškodnění za covidové zavření firem (opakuje).
+  - tema: EU dotace
+    text: dotace jsou „naše peníze“ vrácené s podmínkami, tedy „podvod“; i u drahých energií čeká Babiš
+      na „evropské řešení“ (do 1–2 měsíců) → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-01-06
+  - tema: Migrační pakt
+    text: zájem EU není zájmem ČR, EU „nutí padat“ i zdravé státy (opakuje).
+  - tema: Daňová reforma
+    text: drahota vzniká přerozdělováním k bohatým, korporace daní v Irsku; zrušit všechny daně, jediná
+      1% daň z bankovních převodů, právo na hotovost a státní emise peněz na účty lidí; v EU to podle
+      něj nejde
+    vyrok: vrabel-2026-11-01-04
+  - tema: Estonská 2€ mince „Sláva Ukrajině“
+    text: EU razí „nacistický pozdrav“; chorvatský zpěvák s heslem „Za dom spremni“, Bandera (opakuje).
+  - tema: Sládek porazil Ovčáčka v páce
+    text: Sládek „fenomén“, hájí jeho výrok o Romech (ČT ho podle něj vystřihla); Ovčáček „sympaťák“.
+  - tema: 'Trump: sankce proti Rusku jsou „hloupé“'
+    text: bere to jako vzkaz EU.
+  - tema: 'Rubio (podle Svobodné Evropy): Rusko neuzavře mír do jara 2027'
+    text: válka potrvá „minimálně do jara, než dobydou Rusové Ukrajinu“, „budeme to platit“ → viz [Predikce](../predikce.md)
+  - tema: Zbrojení v Německu, britská výzva k zásobám jídla
+    text: prázdné regály, generál říká, že lidé „budou umírat“ (opakuje).
+  - tema: Evropa spěchá do války
+    text: konflikt nepřijde až kolem roku 2030, jak tvrdí „VK z Euronetu“, ale dřív (opakuje).
+  - tema: Protesty v Evropě
+    text: Antifa „rozjíždí socialistickou revoluci“ a chce „to, co my chceme taky“; studenti protestují
+      hlavně proti válce, Němci proti migrantům, Curych spíš propalestinsky
+    vyrok: vrabel-2026-11-01-03
+  - tema: Rabování v Paříži, „začíná občanská válka“
+    text: policie eskaluje a převléká se za demonstranty, režimy rozpoutávají „krvavé boje“ (opakuje).
+  - tema: Zatýkání za slova v Británii, francouzský návrh trestat „výměnu obyvatelstva“
+    text: (opakuje).
+  - tema: Protesty proti datovým centrům v USA
+    text: telefony a televize odposlouchávají, Stargate, chat control, AI „programuje lidi“ (opakuje).
+  - tema: Albánie
+    text: Ivanka Trumpová, Kushner a „mladý Rothschild“ chtějí ostrov v rezervaci; „válka mezi lidmi a
+      státem“ (opakuje).
+  - tema: ČR není jako Polsko
+    text: Nawrocki prosazuje národní politiku, v ČR je jen „podvodník z Bratislavy“ s nápisem „Česko na
+      prvním místě“ na autě (opakuje).
+  - tema: 'Polsko: ozbrojená policie, němečtí policisté'
+    text: Tusk poslal policii „s ostrými náboji“, u soudu jsou „pravděpodobně“ němečtí policisté; ÚS jako
+      mocenský nástroj — v ČR 2025 „podržel“ SPD a Stačilo!, „aby jsme tam nešli my“; obává se, že EU
+      a Tusk vyhrají → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-01-05
+  - tema: Spor o polský ÚS, Rumunsko a Brazílie
+    text: Kaczyńského řeči o vystoupení z EU jen prohlášení; Georgescu ve vazbě (opakuje).
+  - tema: Babiš se zařadil pod Pavla
+    text: 90 mld. pro Ukrajinu, muniční iniciativa, francouzské jaderné zbraně, „dvě brigády“ do Pobaltí
+      (opakuje).
+  - tema: Scénář vstupu do války a branná povinnost (dotaz diváka)
+    text: útok Ruska nebo „pod falešnou vlajkou“ → čl. 5 a válečný stav, uzavřené hranice; velení převezme
+      Pavel, jako první povolají ročníky se základní službou; Macinka poslal 140 mil. do PURL → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-01-07
+  - tema: Operace Blue Beam 2027 (dotaz diváka) a proroctví Padmasambhavy
+    text: Blue Beam považuje za „hry“ k odvedení pozornosti; podle buddhistických „termů“ o velké válce
+      2024–2034 je válka „99% jasná“, radí útočiště a zásoby → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-01-01
+  - tema: ČT a Minář
+    text: Babiš zrušení poplatků uspíšil kvůli 17. 11.; obě skupiny jsou pro NATO a EU, Bruselu jde o
+      rozeštvanou společnost (opakuje).
+  - tema: 80 tisíc migrantů na práci vs. 340 tisíc nezaměstnaných
+    text: „žádný migranty na práci“, firmy ať zaplatí víc, nezaměstnaným snížit dávky; Kolín, „Západ hoří“;
+      EU dává do jídla „prášek z hmyzu“
+    vyrok: vrabel-2026-11-01-02
+  - tema: AI a roboti nahradí lidi
+    text: Nizozemsko propouští 16 % úředníků, nezaměstnanost „50+“, jednotný příjem „stoprocentně přijde“
+      (opakuje).
+  - tema: Pochod 17. 11.
+    text: soutěž o plakát, trasa Malostranské nám. → Klárov; „násilí, jestli bude, bude až večer“.
 vyroky:
 - id: vrabel-2026-11-01-01
   typ: tvrzeni
@@ -26,6 +130,13 @@ vyroky:
     k odvedení pozornosti.
   citace:
   - text: Takže co mě se týče, tak si myslím, že je 99% jasný, že velká válka bude.
+  osoby:
+  - osoba: padmasambhava
+    vztah: pozitivni
+    kontext: Mistr, který „vidí budoucnost“, zdroj proroctví o velké válce
+  - osoba: donald-trump
+    vztah: pozitivni
+    kontext: Souhlasně cituje, že sankce proti Rusku jsou „hloupé“
   podtema: Náboženský a okultní výklad moci
 - id: vrabel-2026-11-01-02
   typ: tvrzeni
@@ -89,6 +200,10 @@ vyroky:
   citace:
   - text: A proto musel ústavní soud podržet SPD a i stačilo, aby šlo SPD pro Trikolora a Svobodný do
       parlamentu, aby jsme tam nešli my.
+  osoby:
+  - osoba: donald-tusk
+    vztah: negativni
+    kontext: „Probruselská loutka“, „válečný štváč“, policie s ostrými náboji
   podtema: Česká suverenita
 - id: vrabel-2026-11-01-06
   typ: tvrzeni
@@ -122,4 +237,83 @@ vyroky:
   citace:
   - text: což předpokládám, že je dost pravděpodobný, že Rusko zautočí nebo bude útok pod falešnou vlajkou,
       jakože Rusko zautočilo.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Podvodník z Bratislavy“, „úplně se zařadil pod generála Pavla“, čeká na „evropské řešení“
+      energií
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: „Sám ze svojí aktivity“ poslal 140 mil. do PURL
   podtema: Eskalace a hrozba rozšíření konfliktu
+- id: vrabel-2026-11-01-08
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: velká válka v letech 2024–2034 je „99% jistá“ (podle proroctví Padmasambhavy)
+  text: Na základě buddhistických proroctví Padmasambhavy považuje velkou válku za téměř jistou; počítá
+    s jadernými zbraněmi a nedostatkem jídla.
+  citace:
+  - text: Takže co mě se týče, tak si myslím, že je 99% jasný, že velká válka bude.
+  predikce:
+    horizont: do roku 2034
+    stav: ceka
+    horizont_do: 2034-12-31
+- id: vrabel-2026-11-01-09
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: v Polsku vyhrají EU a Tusk, hrozí střet „armáda proti policii“
+  text: Ve sporu o polský Ústavní soud bude tlak Bruselu silnější než polský národní odpor; může dojít
+    i ke střetu armády s policií.
+  citace:
+  - text: Obávám se, že Evropská unia Tusk vyhrajou, že jsou silnější.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-11-01-10
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: ruský útok nebo útok „pod falešnou vlajkou“ → článek 5, válečný stav, velení převezme Pavel
+  text: Po útoku (ruském nebo pod falešnou vlajkou) bude vyhlášen článek 5 a válečný stav, uzavřou se
+    hranice a velení převezme prezident Pavel; jako první budou povoláni starší záložníci se základní
+    vojenskou službou.
+  citace:
+  - text: což předpokládám, že je dost pravděpodobný, že Rusko zautočí nebo bude útok pod falešnou vlajkou,
+      jakože Rusko zautočilo.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Generál NATO“, ve válce bude velet on
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-11-01-11
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: válka na Ukrajině potrvá minimálně do jara 2027, dokud ji Rusové nedobydou
+  text: S odkazem na Rubia tvrdí, že Rusko neuzavře mír do jara a válka bude pokračovat až do ruského
+    dobytí Ukrajiny.
+  citace:
+  - text: To znamená, podle tohoto toho, to vypadá, že minimálně dojára, než dobydou Rusové Ukrajinu,
+      bude válka na Ukrajině pokračovat.
+  predikce:
+    horizont: jaro 2027
+    stav: ceka
+    vyhodnoceni:
+    - datum: 2027-10-30
+      text: 'Konflikt: 30. 10. naopak uvedl, že Rusko celou Ukrajinu nejspíš nevezme.'
+- id: vrabel-2026-11-01-12
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: na drahé energie přijde jen „evropské řešení“ do 1–2 měsíců
+  text: Místo zastropování cen pošle stát peníze do EU a ta část vrátí na „sanaci energií“.
+  citace:
+  - text: A stát pošle peníze do Evropské unie, aby případně Evropská unie poslala nějaký peníze zpátky,
+      jakože bude sanovat energie. To nás čeká za předpokládám měsíc nebo dva měsíce.
+  predikce:
+    horizont: prosinec 2026 – leden 2027
+    stav: ceka

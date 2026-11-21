@@ -7,6 +7,36 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/2093330607992312
   prepis: prepisy/done/2026-09-04_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: EZ Karta jako nová verze digitálního "covidového pasu", spojení s Palantirem, AI nezaměstnaností
+      a nepodmíněným příjmem
+    text: → [Digitální kontrola](../digitalni-kontrola.md)
+  - tema: Mírová jednání USA–Rusko–Ukrajina (Witkoff, Kushner do Kyjeva, Ratcliffe), 65% šance na neúspěch
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md), predikce
+  - tema: 'Dron zasáhl kancelář šéfa SBU v Kyjevě — Vrabel: vnitřní vyřizování účtů, ne ruský útok'
+    text: → [Válka na Ukrajině](../valka-ukrajina-prubeh.md)
+  - tema: Nový obranný dokument ČR (Rusko jako hlavní hrozba) — výzva zásobit se na dlouhodobý konflikt
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: Sabotáž elektrické stanice v Německu a spor o "lipský" dron (Robejšek) — opět zpochybnění ruské
+      viny
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Macinkova ostuda s rozhovorem Paukner/Pšenák (opakování z 3. 9., jen nový zdroj)
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Německo vyrábí 5000 dálkových dronů pro Ukrajinu (dolet 1500 km)
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: 'Ukrajinský velvyslanec varuje před ruskými veterány — Vrabel obrací: hrozbou jsou ukrajinští
+      veteráni (mafie)'
+    text: → [Migrace](../migrace.md)
+  - tema: Trump chce, aby EU zaplatila USA za munici pro Ukrajinu (300–350 mld. USD)
+    text: nezpracováno
+  - tema: Polsko rozesílá mobilizační kartičky záložníkům — výzva mladým mužům nejít bojovat
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: Ukrajina žádá další finanční pomoc (27 mld. USD deficit),
+    text: Ukrajina žádá další finanční pomoc (27 mld. USD deficit), EU tlačí na Itálii/Španělsko o Patrioty
+      — nezpracováno
+  - tema: Smrt Ratka Mladiće a plánovaný státní pohřeb v Srbsku — glorifikace jako hrdiny, kritika EU
+      (Marta Kos)
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
 vyroky:
 - id: vrabel-2026-09-04-01
   typ: tvrzeni
@@ -39,6 +69,11 @@ vyroky:
     občany na ulicích. Jako precedens uvádí vlastní manželčinu zkušenost z Jugoslávie (obec Bela Crkva)
     — po tamní válce se do měst sjeli váleční veteráni z Bosny a několik let se na ulicích střílelo, protože
     se takto formovaly zločinecké skupiny.'
+  osoby:
+  - osoba: vasyl-zvaric
+    vztah: negativni
+    kontext: Ukrajinský velvyslanec v ČR — varování před ruskými veterány označeno za nesmysl; skutečnou
+      hrozbou jsou dle Vrabela ukrajinští veteráni
 - id: vrabel-2026-09-04-03
   typ: tvrzeni
   temata:
@@ -52,6 +87,11 @@ vyroky:
     najednou dopadl na stejné místo ruský dron — srovnává tuto nedůvěryhodnost s tezí o umělém původu
     covidu (netopýr a had na tržišti). Vlastní odhad: útok si provedli Ukrajinci sami, v rámci vnitřního
     vyřizování účtů mezi bezpečnostními složkami.'
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Slouží dle Vrabela „globalistické kabale", ne zájmům Ukrajiny — jako důkaz opět zablokování
+      istanbulské dohody 2022
   podtema: Vyjednávání a mír
 - id: vrabel-2026-09-04-04
   typ: tvrzeni
@@ -118,6 +158,11 @@ vyroky:
     příměří by Ukrajině umožnilo se přezbrojit (cituje příspěvek Petra Porošenka na X) a Rusko by ztratilo
     vojenskou iniciativu; Rusko proto příměří bez záruk, že Západ nevyužije pauzu k opětovnému vyzbrojení
     Ukrajiny, odmítá.'
+  osoby:
+  - osoba: john-ratcliffe
+    vztah: neutralni
+    kontext: Ředitel CIA — znovu se setkal s ruskými tajnými službami, v souvislosti s chystanými jednáními
+      o míru
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-09-04-08
   typ: tvrzeni
@@ -137,6 +182,18 @@ vyroky:
     Haagu). Vyjadřuje naději, že celá kauza bude „poslední tečkou" za přístupovými snahami Srbska do EU,
     kterou popisuje jako „peklo" a jako poslední skutečně neutrální a svobodnou zemi v Unii — na rozdíl
     od ČR, kde policie prošetřuje i pouhé komentáře k Mladičovu úmrtí (viz [Panenka, 29. 8.](#smrt-radko-mladiće--revizionistický-výklad-srebrenice-joe-biden-jako-strůjce-bosenské-války-vrabel-27-8-2026)).'
+  osoby:
+  - osoba: marta-kos
+    vztah: negativni
+    kontext: Eurokomisařka pro rozšíření — zrušila návštěvu Bělehradu kvůli glorifikaci Mladiće; její
+      vyjádření Vučić označil za „hloupé"
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Obhájil plánovaný státní pohřeb Radka Mladiće a odmítl kritiku Marty Kos
+  - osoba: radko-mladic
+    vztah: pozitivni
+    kontext: Popsán jako srbský národní hrdina bojující za životy Srbů — pokračování revizionistického
+      výkladu Srebrenice
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-09-04-09
   typ: tvrzeni
@@ -154,4 +211,30 @@ vyroky:
     že to asi nebylo Rusko" — obě zprávy uvádí jako doklad, že tvrzení o „denních hybridních útocích Ruska"
     na Evropu neobstojí, protože skutečný ruský útok na infrastrukturu (např. na továrnu vyrábějící drony)
     by podle něj vypadal zcela jinak — cílevědomě a s jasným varováním, ne jako amatérská sabotáž.'
+  osoby:
+  - osoba: petr-robejsek
+    vztah: pozitivni
+    kontext: Komentátor CNN Prima News — souhlas s jeho tvrzením, že za incidentem Halle/Lipsko nestáli
+      Rusové, ale Ukrajinci
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-04-10
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: 65% šance na neúspěch mírových jednání USA–Rusko–Ukrajina
+  text: V souvislosti s chystanou cestou Witkoffa a Kushnera do Moskvy a Kyjeva Vrabel odhaduje na 65
+    % pravděpodobnost, že současná mírová jednání nepovedou k úspěchu — čeká, že Rusko odmítne příměří
+    bez záruk, že ho Západ nevyužije k přezbrojení Ukrajiny (odkazuje na obdobné zablokování dohody v
+    Istanbulu 2022).
+  citace:
+  - text: Já myslím si, že 65 % pravděpodobnosti je, že mírová jednání nedopadnou dobře.
+  predikce:
+    horizont: nejbližší týdny (víkendová jednání, 4.–7. 9. 2026)
+    stav: potvrzeno
+    horizont_do: 2026-09-07
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: zářijová jednání k míru nevedla a dohoda nevznikla ani do 20. 11.
+      stav: potvrzeno
+    - datum: 2026-11-20
+      text: Zelenskyj 6. 9. odmítl územní ústupky a Abú Zabí v listopadu přineslo jen výměnu zajatců.

@@ -7,6 +7,11 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/1777131803294425
   prepis: prepisy/done/2026-08-30_Jindřich-Rajchl_Facebook-Live.txt
   rezim: standard
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Rozhovor na CNN Prima News — návrh na snížení počtu nemocnic a přístrojů označen za „tragikomedii"
+      odtrženou od reality
 vyroky:
 - id: rajchl-2026-08-30-01
   typ: tvrzeni
@@ -36,6 +41,15 @@ vyroky:
     u výslechu využil práva nevypovídat kvůli riziku vlastního trestního stíhání. Žádá vysvětlení, proč
     obžaloba míří jen na Jiříkovského, Tyce, Blažka a Daňhela, ale ne na Bergera, a spojuje to s vlastní
     tezí, že by to vedlo přímo ke Stanjurovi.'
+  osoby:
+  - osoba: jiri-berger
+    vztah: negativni
+    kontext: Znalec propojující účastníky bitcoinové kauzy (Jiříkovský, Tyc, směnárník Stránský), spolužák
+      a dlouholetý poradce Zbyňka Stanjury — přesto neobviněn; Rajchl žádá vysvětlení
+  - osoba: zbynek-stanjura
+    vztah: negativni
+    kontext: Propojení s Bergerem (spolužák, poradce od 2022, firma E-Fractal fakturovala 10+ mil. Kč
+      ministerstvu financí) jako důvod, proč case Bergera nesmí být rozkryt
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: rajchl-2026-08-30-03
   typ: tvrzeni
@@ -55,6 +69,11 @@ vyroky:
     měla fungovat stejně. Zmiňuje i to, že Decroix od doby, kdy se provalil její vztah s Havránkem, dlouho
     nebyla ve Sněmovně vidět a při televizní debatě o kauze na CNN Prima News ODS raději vyslala zástupce
     z Pirátů.'
+  osoby:
+  - osoba: eva-decroix
+    vztah: negativni
+    kontext: Rozšíření kauzy Uhlíř — najala ho, pak jeho hotovou zprávu odmítla proplatit s odůvodněním
+      duplicity auditu; Rajchl žádá její osobní finanční odpovědnost
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: rajchl-2026-08-30-04
   typ: tvrzeni
@@ -118,4 +137,9 @@ vyroky:
     dohoda (zachování autonomie Doněcka/Luhaňska v rámci Ukrajiny, plná kontrola Záporoží/Chersonu) byla
     na stole už v Istanbulu na jaře 2022, než ji odmítl Boris Johnson, a viní z prodloužení války (a padlých
     „zhruba dva miliony lidí") politiky typu Martina Dvořáka, kteří mluvili o vítězství místo jednání.'
+  osoby:
+  - osoba: john-ratcliffe
+    vztah: neutralni
+    kontext: Ředitel CIA — jeho návštěva Moskvy interpretována jako vyjednávání mírových podmínek pro
+      Ukrajinu
   podtema: Zahraniční aktéři a precedenty

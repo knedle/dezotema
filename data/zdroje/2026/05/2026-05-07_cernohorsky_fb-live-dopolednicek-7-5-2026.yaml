@@ -8,6 +8,30 @@ zdroj:
   prepis: prepisy/done/2026-05-07_Jiří-Černohorský_Facebook-Live.txt
   rezim: standard
   delka: '3:25:32'
+  osoby:
+  - osoba: pavel-jozefovic-hejatko
+    vztah: pozitivni
+    kontext: 'Muzikant a disident, pronásledovaný ~4–5 let za kritiku „zkorumpovaného režimu": zablokován
+      web, zabaveny notebooky a bankovní účty; teprve 3 dny před nahrávkou mu bylo povoleno mít osobní
+      web'
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: Obviněn, že šel na demonstraci na Letné jako „soukromá osoba" pod vlajkou Azovu/Pravého sektoru
+  - osoba: radim-fiala
+    vztah: pozitivni
+    kontext: Pochválen za emocionální parlamentní projev — viditelně naštvaný, slova „jděte do prdele"
+      vůči koalicistům obhajujícím LM hodnocena jako upřímná
+  - osoba: vrabel
+    vztah: negativni
+    kontext: 'Spolu se Sládkem ohlásil prý koalici SPD+Trikolora+Svobodní se Stačilo/KSČM u volebního
+      orgánu; Černohorský vyzývá: „neposílejte mi Vrabela a Sládka"'
+  - osoba: ondrej-sladek
+    vztah: negativni
+    kontext: Spolu s Vrabelem ohlásil koalici SPD+Trikolora+Svobodní se Stačilo/KSČM u volebního orgánu
+  - osoba: michal-svatos
+    vztah: pozitivni
+    kontext: Důvěryhodný aktivista/novinář, spolupráce od r. 2015; natáčeli spolu živé vysílání; spoléhá
+      na jeho ověřování informací z LM
 vyroky:
 - id: cernohorsky-2026-05-07-01
   typ: tvrzeni
@@ -58,4 +82,13 @@ vyroky:
     pouze transparentnost — kam jdou poplatky (osmimiliardový roční příjem), zda jsou placeni příbuzní
     redaktorů, jaká je role zahraničních neziskovek. Obsah ani redakční rozhodnutí regulovat nechce. Kritizuje
     demonstranty za ČT jako „ovcoidní kundy": protestují za zachování poplatků bez jakékoli kontroly.'
+  osoby:
+  - osoba: andrej-babis
+    vztah: pozitivni
+    kontext: Oceňuje obchodní misi do Kazachstánu/Uzbekistánu; pochválena pragmatická ekonomická politika
+      na úkor „hodnotové" agendy
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Kritizován za to, že nevyřešil odškodnění obětí covidu a že vládní agenda připomíná pokračování
+      covidové politiky
   podtema: Ekonomický program PRO

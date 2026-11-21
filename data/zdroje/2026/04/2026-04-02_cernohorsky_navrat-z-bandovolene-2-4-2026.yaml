@@ -7,6 +7,10 @@ zdroj:
   url: https://www.facebook.com/reel/3184732835030146
   prepis: prepisy/done/2026-04-02_Jiří-Černohorský-Živě_zdravím-po-měsíční-Bandovolené-přátelé-Jiří-Nez.txt
   rezim: standard
+  osoby:
+  - osoba: roman-maca
+    vztah: negativni
+    kontext: Spoluautor projektu „Štít demokracie", označen za parazitického aktivistu
 vyroky:
 - id: cernohorsky-2026-04-02-01
   typ: tvrzeni
@@ -19,6 +23,10 @@ vyroky:
     vytlačování Palestinců z domovů od roku 1948 přirovnává k situaci, kdy by z jejich domovů vyhnali
     je samotné. Netanyahua označuje za válečného zločince, který by měl být souzen. Jako pozitivní jev
     hodnotí, že dvě třetiny delegátů OSN demonstrativně opustilo sál při jeho projevu.
+  osoby:
+  - osoba: benjamin-netanyahu
+    vztah: negativni
+    kontext: Označen za válečného zločince; 2/3 delegátů OSN opustilo sál při jeho projevu
 - id: cernohorsky-2026-04-02-02
   typ: tvrzeni
   temata:
@@ -34,6 +42,11 @@ vyroky:
   - text: Jenom pro nájem jedné takové velkoplošné obrazovky plus instalace, montáž, demontáž — tam byly
       kilometry kabelů. Kilometry. Není možný, aby ten minář prostě nebyl vlastně nastrčenou loutkou těch
       neziskových zmrdů, který celý život jenom parazitují.
+  osoby:
+  - osoba: mikulas-minar
+    vztah: negativni
+    kontext: Označen za „nastrčenou loutku" neziskovek — Letná 2026 je politický vzkaz Babišovi, ne spontánní
+      protest
   podtema: Milion chvilek — struktura a financování
 - id: cernohorsky-2026-04-02-03
   typ: tvrzeni
@@ -57,6 +70,10 @@ vyroky:
     Kč — sumu, kterou Minář nemohl pokrýt sám. Za nejpravděpodobnějšího sponzora označuje Šimona Pánka
     z Člověka v tísni. Celou akci interpretuje jako politický vzkaz Andreji Babišovi, jehož vítězství
     ve volbách existenčně ohrožuje NGO ekosystém. Viz také [FARA a neziskovky — Letná 2026](fara-neziskovky.md#milion-chvilek--struktura-a-financování).
+  osoby:
+  - osoba: simon-panek
+    vztah: negativni
+    kontext: Označen za pravděpodobného financéra demonstrace Milionu chvilek na Letné za ~10 mil. Kč
   podtema: Letná 2026 — demonstrace jako politický nástroj neziskovek
 - id: cernohorsky-2026-04-02-05
   typ: tvrzeni
@@ -87,6 +104,11 @@ vyroky:
   citace:
   - text: Z jakého důvodu by tohle mělo... nejsme v tom podnikatelském prostředí? Jestliže tady se musí
       uživit Nova, Prima a já nevím co, tak ať se taky postará sama o sebe Česká televize. Hotovo.
+  osoby:
+  - osoba: vaclav-moravec
+    vztah: neutralni
+    kontext: Odchod z ČT komentovaný jako finanční ztráta nikoli pro ČT — Moravec si prý vydělá 300 tis./měs.
+      jinde
   podtema: Mainstream jako politický aktivismus
 - id: cernohorsky-2026-04-02-07
   typ: tvrzeni
@@ -96,6 +118,11 @@ vyroky:
   text: Černohorský označuje Jakuba Jandu (Evropské hodnoty) a Romana Mácu za autory nového projektu „Štít
     demokracie" a obě osoby označuje za nebezpečné aktivisty s prsty všude v anti-dezinformační průmyslové
     oblasti. Oba spolky označuje za parazitické organizace financované z veřejných zdrojů.
+  osoby:
+  - osoba: jakub-janda
+    vztah: negativni
+    kontext: Označen za nebezpečného aktivistu, spoluautor projektu „Štít demokracie", financován z veřejných
+      zdrojů
   podtema: Mainstream jako politický aktivismus
 - id: cernohorsky-2026-04-02-08
   typ: tvrzeni
@@ -121,4 +148,33 @@ vyroky:
   citace:
   - text: Tady tohle prostě, to, co oni si vymysleli, tu buči — to je jejich práce, protože oni potřebovali
       nějak zase očernit Rusko, aby Ukrajina neměla žádný důvod s Rusama jednat o míru.
+  osoby:
+  - osoba: boris-johnson
+    vztah: negativni
+    kontext: Dle Černohorského sabotoval mírová jednání Ruska a Ukrajiny z dubna 2022 na příkaz USA
   podtema: Příčiny a odpovědnost za válku
+- id: cernohorsky-2026-04-02-10
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: Petr Pavel
+  text: 'Terč: Petr Pavel.'
+  citace:
+  - text: Tohle jsou vlasti zrádci, jo, prostě jsou to zrádci České republiky a já jsem jednoznačně pro
+      obnovení trestu smrti za vlastizradu a velezradu. [...] Protože to by vysel už aj pávek, tedy Petr
+      Pavel.
+  teror:
+    terc: Petr Pavel
+    hranicni: false
+- id: cernohorsky-2026-04-02-11
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Mikuláš Minář
+  text: 'Terč: Mikuláš Minář.'
+  citace:
+  - text: není možný, aby ten minář prostě nebyl vlastně nastrčenou loutkou těch neziskových zmrdů, který
+      celý život jenom parazitují
+  teror:
+    terc: Mikuláš Minář
+    hranicni: false

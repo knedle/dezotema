@@ -37,3 +37,7 @@ vyroky:
   citace:
   - text: Pokud zákon nepodepíše prezident, není platný, ani tím pádem rozdělení Československa nemůže
       mít právní platnost a veškeré normy od té doby přijaté jsou nulitní.
+  osoby:
+  - osoba: bob-acer
+    vztah: pozitivni
+    kontext: Přednesl argumentaci kontinuity ČSR a 46bodový „návod, jak se vrátit domů“

@@ -8,6 +8,20 @@ zdroj:
   prepis: prepisy/done/2026-10-10_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
   poznamka: 20 min, natočeno venku v Srbsku („z naší haciendy, jak řekl Michal Svatoš“).
+  osoby:
+  - osoba: filip-turek
+    vztah: negativni
+    kontext: Výrok „Putin krysa“ jako ukázka válečné propagandy
+  - osoba: michal-svatos
+    vztah: negativni
+    kontext: Ironie k „haciendě v Srbsku“
+  prehled:
+  - tema: Trump děkuje Putinovi za ropu
+    text: Evropa kupuje od USA čtyřikrát dráž, důvodem je korupce (podobenství o vajíčkách)
+    vyrok: vrabel-2026-10-10-01
+  - tema: „Měli jsme se připojit k Rusku“, vysvětlení
+    text: myšleno jako podpora ochrany Rusů na Ukrajině (Minsk) a proti rozšiřování NATO
+    vyrok: vrabel-2026-10-10-04
 vyroky:
 - id: vrabel-2026-10-10-01
   typ: tvrzeni
@@ -45,4 +59,11 @@ vyroky:
   citace:
   - text: Mentálně jsme se měli snažit o to, aby se nevraždili lidi na Ukrajině, a politicky a diplomaticky
       jsme se měli snažit o to, aby se nerozehrávala ta válka.
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: „Jeden z nejlepších politiků na světě“
+  - osoba: milos-zeman
+    vztah: negativni
+    kontext: Vyznamenal Zelenského Řádem Bílého lva
   podtema: Stav Ukrajiny a mobilizace

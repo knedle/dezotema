@@ -12,6 +12,13 @@ zdroj:
     postů (Hegseth/Miller, RFK Jr., výpadky) a asi 15 minut reklamy na Bewit. Zpracováno 10 témat, predikce
     jen jako doplnění k 13. 11. Stochastický teror nezjištěn, „one-way ticket čeká i na ně“ míří na nepojmenované
     politiky. Zpracováno podle shrnutí pomocného agenta.
+  osoby:
+  - osoba: robert-f-kennedy-jr
+    vztah: pozitivni
+    kontext: Podle něj zatýká zástupce farmaceutických firem
+  - osoba: pete-hegseth
+    vztah: pozitivni
+    kontext: Vstupuje do „další fáze“ operace
 vyroky:
 - id: zitko-2026-11-14-01
   typ: tvrzeni
@@ -24,6 +31,10 @@ vyroky:
     pátý dodatek. Vakcíny nazývá „injekcí biologické zbraně“ a „experimentální genovou terapií“ se SV40,
     ivermektin podle něj stačil a „nebylo potřeba žádné očkování“. „Hejtři, fízlové a agenti“ podle něj
     lidi „chtěli tou biologickou zbraní zabodat“.'
+  osoby:
+  - osoba: anthony-fauci
+    vztah: negativni
+    kontext: „111krát“ se odvolal na pátý dodatek
   podtema: Slovenský poslanec Jaroslav Paška a selhání SÚKL (Zítko, 15. 9. 2026)
 - id: zitko-2026-11-14-03
   typ: tvrzeni

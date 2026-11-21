@@ -33,6 +33,11 @@ vyroky:
     jsou naopak založené na povinnosti jednat i s oponenty, a že ten, kdo brání protistraně mluvit, tím
     přiznává, že nemá lepší argumenty. Kritizuje také moderátorku CNN Prima News Lucii Čermákovou, která
     ho měla přerušit, když chtěl na pořadu 360 rozebrat projev Ursuly von der Leyenové.
+  osoby:
+  - osoba: lukas-valasek
+    vztah: negativni
+    kontext: Novinář Seznam Zpráv — jeho článek o konferenci Svatopluk srovnán s rétorikou nacistického
+      „Der Stürmer"
   podtema: Nová alternativní média
 - id: rajchl-2026-09-20-03
   typ: tvrzeni
@@ -57,6 +62,11 @@ vyroky:
     bojuje za Českou republiku – sám „sundá teflonový oblek", vezme si maskáče a samopal a jde bojovat,
     místo aby se jen „siláckyfotil" se zbraní; označuje ho za „submisivního omegasamce", který v Bruselu
     jedná jako „lokaj" bez skutečného hájení národních zájmů.
+  osoby:
+  - osoba: martin-kupka
+    vztah: negativni
+    kontext: Předseda ODS — napsal, že by Rajchla měl Babiš poslat „za Ural"; označen za „bolševika" a
+      „submisivního omegasamce"
   podtema: Politická kultura
 - id: rajchl-2026-09-20-05
   typ: tvrzeni
@@ -75,4 +85,9 @@ vyroky:
     s tím, že nestojí na straně Ruska ani Ukrajiny ani EU, ale na straně míru a obyčejných občanů ČR.
   citace:
   - text: Mír není synonymem pro slabost. Je tomu právě naopak.
+  osoby:
+  - osoba: ursula-von-der-leyen
+    vztah: negativni
+    kontext: 'Nový řádek: označena za „dalšího válečného štváče" profitujícího ze zbrojení, ne hrdinku
+      bránící Evropu'
   podtema: Zahraniční aktéři a precedenty

@@ -9,6 +9,25 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 1 min, zprávy čte Zuzka; den studentské demonstrace za ČT a ČRo, první den jednání v Abú
     Zabí.
+  osoby:
+  - osoba: robert-fico
+    vztah: rozporuplny
+    kontext: Odmítá Merzovo vydírání „krásně“, ale bez reálného dopadu, „společně zbrojit“
+  - osoba: ursula-von-der-leyenova
+    vztah: negativni
+    kontext: „Hloupá“ politička, podepsala bez pravomoci dohody o energiích a zbraních s USA
+  - osoba: elon-musk
+    vztah: pozitivni
+    kontext: Prý uznal, že Západ měl v roce 2021 podpořit Rusko
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: „Šmerc“, pracuje pro BlackRock, prosazuje ETS2
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Jezdí do USA uzavírat dohody, na nichž USA „rýžují“
+  - osoba: matyas-svoboda-michal-chladek
+    vztah: negativni
+    kontext: Nové vedení brněnské ODS jako „feudalismus“
 vyroky:
 - id: vrabel-2026-11-10-01
   typ: tvrzeni
@@ -51,6 +70,10 @@ vyroky:
     s každým“.
   citace:
   - text: Toto jsou studenti jednoznačně, je to operace řízená ze CIA.
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Zneužíval vlastní děti na pódiu demonstrací
   podtema: Náboženský a okultní výklad moci
 - id: vrabel-2026-11-10-04
   typ: tvrzeni
@@ -103,3 +126,60 @@ vyroky:
   - text: Takže očekávejte, že ty programy jako Savings and Investments […] to udělají za zády lidí, se
       dohodnou s těmi fondy, který drží ty úspory, a budou je nějakým způsobem investovat do zbraní.
   podtema: EU jako vojenská struktura
+- id: vrabel-2026-11-10-07
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: studentské protesty řízené „CIA“ svrhnou Babišovu vládu dřív než za tři roky; Studentstvo postaví
+    vlastní kandidátku, 17. 11. vyvrcholí jen „první vlna“
+  text: |-
+    Studenti budou stupňovat masové demonstrace a stávky (klidně i celý rok), dokud nesvrhnou Babišovu vládu, podle něj dřív než v řádných volbách. 17. listopad bude velký, ale jen „první vlna“; protesty se mohou táhnout rok či dva. Ve volbách pak Studentstvo předloží vlastní kandidáty a v ČR budou protesty mířit proti Rusku.
+
+    Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně promigrační, prounijní“.
+  citace:
+  - text: Myslím si, že se jim podaří rozpoutat ty demonstrace tak velký, že sundají vládu dřív.
+  dalsi_zdroje:
+  - 2026-11-10_vrabel_facebook-live-10-11-2026
+  - 2026-11-15_vrabel_nedelni-vysilani-15-11-2026
+  predikce:
+    horizont: do řádných voleb (2029); 17. 11. 2026 jako první vrchol
+    stav: ceka
+    horizont_do: 2026-11-17
+    vyhodnoceni:
+    - datum: 2026-11-15
+      text: Vrabel už nečeká převrat, ale „výměnu politiků“ v předčasných volbách, viz predikce z 15.
+        11.
+    - datum: 2026-11-20
+      text: 'Dílčí část „17. 11. jako první vrchol“ se nenaplnila: podle Vrabelova vysílání ze 17. 11.
+        proběhly na Národní jen oslavy, bez masových protestů. Vláda dosud stojí, hlavní horizont (do
+        2029) trvá.'
+- id: vrabel-2026-11-10-08
+  typ: predikce
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: úspory Evropanů skončí přes unii úspor a investic ve zbrojních firmách
+  text: EU se „za zády lidí“ dohodne s fondy, které spravují zhruba 10 bilionů eur úspor, a převede je
+    do investic ve zbrojních firmách.
+  citace:
+  - text: To udělají za zády lidí, se dohodnou s těmi fondy, který drží ty úspory, a budou je nějakým
+      způsobem investovat do zbraní.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-11-10-09
+  typ: stoch-teror
+  temata:
+  - konspirace
+  nadpis: řečník studentské demonstrace za ČT (FAMU)
+  text: 'Terč: řečník studentské demonstrace za ČT (FAMU).'
+  citace:
+  - text: To, že si studenti dovolí říct, že sice chtějí nenásilný protesty, ale že budou dělat bordel
+      veřejně, bych považoval za narušování veřejného pořádku a tohle z toho člověka bych trestně odstíhal.
+      […] by měl být trestně odstíhaný.“ (hraniční — výzva k trestnímu stíhání konkrétního řečníka)
+  osoby:
+  - osoba: studentstvo-studenti-famu
+    vztah: negativni
+    kontext: Nástroj revoluce „řízené ze CIA“; řečníka by trestně stíhal (→ stoch. teror)
+  teror:
+    terc: řečník studentské demonstrace za ČT (FAMU)
+    hranicni: true

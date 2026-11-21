@@ -7,6 +7,25 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1544375247008002
   prepis: prepisy/done/2026-09-13_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Zatčení Tomáše Hrdličky za odznak „Z" — právní rozbor kolektivní viny
+    text: → [DSA a cenzura](../dsa-cenzura.md)
+  - tema: Obrácená teze „genocidy" na Ukrajině — 2 mil. mrtvých, Zelenskyj jako americký velkostatkář
+    text: → [Válka na Ukrajině](../valka-ukrajina-prubeh.md)
+  - tema: Petr Pavel formálně převzal zahraniční politiku od Babiše na summitu v Tiraně
+    text: → [Petr Pavel](../petr-pavel.md)
+  - tema: Ztrojnásobení Frontexu — příprava na uzavření hranic, ne na migraci
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: Vučić oznamuje rezignaci (25.–26. 9.)
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: 'Zelenskyj varuje před ruským vzdušným prostorem; Putin: „státní terorismus"'
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Opakování teze o třech fázích konfliktu Západ–Rusko od Majdanu (beze změny)
+    text: → [Válka na Ukrajině](../valka-ukrajina-prubeh.md)
+  - tema: Mengele žil ve Švýcarsku, hrníčky s Hitlerem v Praze
+    text: → [Konspirační teorie](../konspirace.md)
+  - tema: Opakování teze o „třetí světové válce již probíhající" a pyramidě moci (beze změny)
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
 vyroky:
 - id: vrabel-2026-09-13-01
   typ: tvrzeni
@@ -20,6 +39,11 @@ vyroky:
     Jako analogii uvádí, že příslušníci Bundeswehru dodnes nosí insignie navazující na Wehrmacht, aniž
     by tím nesli trestní odpovědnost za zločiny nacistického Německa — pouhá symbolická kontinuita tedy
     sama o sobě zavinění nezakládá. Případ zůstává u státního zástupce.'
+  osoby:
+  - osoba: tomas-hrdlicka
+    vztah: pozitivni
+    kontext: 'Rozšířená právní obhajoba: kolektivní vina nepřípustná, srovnání s insigniemi Bundeswehru
+      navazujícími na Wehrmacht'
   podtema: Trestání politického projevu
 - id: vrabel-2026-09-13-02
   typ: tvrzeni
@@ -30,6 +54,10 @@ vyroky:
     Vrabel zmiňuje dvě krátká, nerozvedená pozorování jako doklad neúplné/selektivní denacifikace a bagatelizace nacistické minulosti: podle „včerejší" zprávy měl nacistický lékař Josef Mengele žít po válce ve Švýcarsku; v Praze se navíc běžně prodávají hrníčky s portrétem Adolfa Hitlera jako suvenýr pro turisty.
 
     ⚡ **Poznámka:** Ani jedno tvrzení Vrabel dále nerozvádí ani nedokládá zdrojem.
+  osoby:
+  - osoba: josef-mengele
+    vztah: neutralni
+    kontext: Zmíněn jako nacistický lékař, který podle „včerejší" zprávy žil po válce ve Švýcarsku
   podtema: Náboženský a okultní výklad moci
 - id: vrabel-2026-09-13-03
   typ: tvrzeni
@@ -41,6 +69,10 @@ vyroky:
     zahraniční politiky ČR od Andreje Babiše na summitu NATO v Tiraně (Albánie) — na základě dohody s
     Petrem Macinkou a Babišem. Bez vlastního hodnocení jde jen o zaznamenání posunu v dřívějším dlouhém
     sporu o to, kdo má ČR na summitech NATO reprezentovat (viz výše).'
+  osoby:
+  - osoba: petr-pavel
+    vztah: neutralni
+    kontext: Formálně převzal zastupování zahraniční politiky ČR od Babiše na summitu NATO v Tiraně
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: vrabel-2026-09-13-04
   typ: tvrzeni
@@ -91,6 +123,10 @@ vyroky:
   text: Vrabel referuje zprávu, že srbský prezident Aleksandar Vučić oznámil, že na svou funkci rezignuje
     na přelomu 25.–26. září. Bez vlastního rozsáhlejšího hodnocení jen poznamenává, že jde o výsledek
     dlouhodobých protivládních protestů v Srbsku.
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: neutralni
+    kontext: Oznámil rezignaci na přelomu 25.–26. 9.
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-09-13-09
   typ: tvrzeni
@@ -101,4 +137,13 @@ vyroky:
   text: Volodymyr Zelenskyj varoval, že ruský vzdušný prostor je nebezpečný pro civilní letadla — Vladimir
     Putin na to reagoval obviněním Ukrajiny ze „státního terorismu". Vrabel k tomu bez rozsáhlejšího komentáře
     jen zaznamenává výměnu jako další příklad vzájemných obvinění v probíhajících mírových jednáních.
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: 'Obrácená teze „genocidy": odpovědný za 2–2,4 mil. mrtvých vojáků, osobně 9. největším vlastníkem
+      půdy v USA a podílníkem britské banky'
+  - osoba: vladimir-putin
+    vztah: neutralni
+    kontext: Obvinil Ukrajinu ze „státního terorismu" v reakci na Zelenského varování před nebezpečností
+      ruského vzdušného prostoru
   podtema: Zahraniční aktéři a precedenty

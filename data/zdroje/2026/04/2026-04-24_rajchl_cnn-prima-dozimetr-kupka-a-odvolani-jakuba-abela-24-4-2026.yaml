@@ -11,3 +11,12 @@ zdroj:
   poznamka: 'CNN Prima News rozhovor: Rakušan týdně vyrábí nové distrakce (cenzura Pavlova rozhovoru,
     Filip Turek); Kupka: „tupý slouha Moskvy" = dvojí metr; Rajchl obhajuje odvolání Jakuba Abela (Oxford)
     Turkem: „Ministr musí mít lidi se stejnou vizí." Zhlédnutí: 54 013'
+  osoby:
+  - osoba: filip-turek
+    vztah: pozitivni
+    kontext: 'Rajchl obhajuje odvolání Jakuba Abela z MŽP: ministr musí mít tým sdílející jeho vizi; odvolání
+      je správné manažerské rozhodnutí'
+  - osoba: jakub-abel
+    vztah: neutralni
+    kontext: Odvolán Filipem Turkem z MŽP; Oxford expert prosazující green deal; Rajchl říká odvolání
+      bylo správné — „sabotoval by ministerskou koncepci"

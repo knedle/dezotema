@@ -15,6 +15,34 @@ zdroj:
     tribunál EU pro zločiny RF — ČR 10M EUR, bez jurisdikce k ničemu; Trump-Taiwan — USA nechce garantovat
     obranu; Maďar — odstupné ministrů na Ukrainu; Islam/patriarchát kritika; Daniela Kovářová jako jediná
     politička Vrabelovy důvěry; Fico netlačí na exit z EU.'
+  osoby:
+  - osoba: daniela-kovarova
+    vztah: pozitivni
+    kontext: Označena jako jediná důvěryhodná česká politička — nekompromisně hájí finanční svobodu a
+      suverenitu, odlišuje se od mainstreamu
+  prehled:
+  - tema: 'Sobotní večerní zprávy. Témata: Srbsko'
+    text: Vučič jede do Číny, neutrální politika jako vzor, hypersonické rakety
+  - tema: Fico kritizuje záp. média, EU hrozí Slovensku zemědělskými
+    text: Fico kritizuje záp. média, EU hrozí Slovensku zemědělskými dotacemi
+  - tema: EU mlékárenský sektor
+    text: přebytky mléka kvůli Mercosuru/Číně
+  - tema: Tommy Robinson demonstrace Londýn (~100k, 4 000 policistů,
+    text: Tommy Robinson demonstrace Londýn (~100k, 4 000 policistů, face recognition, 43 zatčených)
+  - tema: digitální euro
+    text: závazné pro všechny členské státy (Dombrovskis)
+  - tema: tribunál EU pro zločiny RF
+    text: ČR 10M EUR, bez jurisdikce k ničemu
+  - tema: Trump-Taiwan
+    text: USA nechce garantovat obranu
+  - tema: Maďar
+    text: odstupné ministrů na Ukrainu
+  - tema: Islam/patriarchát kritika
+    text: Islam/patriarchát kritika
+  - tema: Daniela Kovářová jako jediná politička Vrabelovy důvěry
+    text: Daniela Kovářová jako jediná politička Vrabelovy důvěry
+  - tema: Fico netlačí na exit z EU.
+    text: Fico netlačí na exit z EU.
 vyroky:
 - id: vrabel-2026-05-16-01
   typ: tvrzeni
@@ -40,6 +68,12 @@ vyroky:
     Vrabel hodnotí tyto zákazy jako důkaz, že západní demokracie není skutečnou svobodou: politici, aktivisté, umělci ani sportovci nemohou volně cestovat, pokud jejich názory neodpovídají mainstreamu.
   citace:
   - text: To jsou západní hodnoty. [...] Totální totalita.
+  osoby:
+  - osoba: tommy-robinson
+    vztah: pozitivni
+    kontext: Organizátor protestu v Londýně — 100 000 lidí, 4 000 policistů, rozpoznávání obličejů, 43
+      zatčených; Vrabel prezentuje jako příklad odporu vůči surveillance státu; společně s Tačinským zákázán
+      v UK
   dalsi_zdroje:
   - 2026-05-18_vrabel_vecerni-zpravy-18-5-2026
 - id: vrabel-2026-05-16-03
@@ -52,6 +86,11 @@ vyroky:
     kontrolou: hotovost = svoboda; digitální peníze = dokonalý nástroj sledování, přidělování a omezování
     spotřeby (benzín na příděl, maso na příděl, omezené kredity). Dřívější proticovidové zkušenosti s
     digitálními certifikáty označuje za prototyp systému.'
+  osoby:
+  - osoba: valdis-dombrovskis
+    vztah: negativni
+    kontext: 'Citován jako zdroj: digitální euro bude závazné pro všechny členské státy EU — Vrabel to
+      označuje za ohrožení finanční svobody'
   dalsi_zdroje:
   - 2026-05-17_vrabel_nedelni-vysilani-17-5-2026
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
@@ -91,6 +130,11 @@ vyroky:
     Ve vysílání 24. 5. Vrabel dodává nový detail z Vučičovy návštěvy v Číně: srbský prezident bydlel ve stejném paláci, ve kterém přijímali Trumpa a Putina — Vrabel to interpretuje jako symbol toho, jak vysoko je Srbsko u Číny váženo. Vučić tam pronesl, že Srbsko je suverénní stát, odmítá poslouchat „seznamy" od EU/Bloomberg o tom, s kým si smí povídat, a bude jednat v zájmu vlastního lidu. Vrabel oceňuje Srbsko také za zákaz GMO potravin v celé zemi.
   citace:
   - text: Takhle si představuji tu svobodu — že můžete dělat obchod s kým chcete a nikdo vás netlačí.
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Srbsko jako model multivektorové zahraniční politiky — plynová smlouva s Ruskem, paralelně
+      rozvoj vztahů s Čínou; Vrabel doporučuje Srbsko jako vzor suverenity pro ČR
   dalsi_zdroje:
   - 2026-05-18_vrabel_vecerni-zpravy-15-5-2026
   - 2026-05-17_vrabel_nedelni-vysilani-17-5-2026

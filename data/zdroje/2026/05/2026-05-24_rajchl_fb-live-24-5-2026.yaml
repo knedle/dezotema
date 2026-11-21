@@ -14,6 +14,11 @@ zdroj:
     SdL Liberec 2027. AFD spolupráce podmíněna respektem k Benešovým dekretům. Rutte 0,25 % HDP pro Ukrainu
     = 22,5 mld. Kč ročně — odmítá. ČŠI skandál: povinný dotazník žáků o rodině, depresích a sebepoškozování.
     Větrné elektrárny: dopadová studie na znehodnocení nemovitostí neexistuje; seminář 8. 6. v PS.'
+  osoby:
+  - osoba: matej-ondrej-havel
+    vztah: negativni
+    kontext: Předseda TOP 09 („Baby Fiala") označen za přisluhovače Posselta; „zalezl Berndu Posseltovi
+      do tlustého střeva"
 vyroky:
 - id: rajchl-2026-05-24-01
   typ: tvrzeni
@@ -80,6 +85,11 @@ vyroky:
     Rajchl proto vyzývá: „Jediná, kdo má reálně možnost dostat z Pražského hradu, dát mu tu výpověď, jste vy občané České republiky v prezidentských volbách v roce 2028." Označuje to nejen za právo, ale za občanskou povinnost — zvláště na pozadí kauzy SdL sjezdu a Pavlovy pomoci Liechtensteinům. Miloš Zeman vyzval k nevolbě Pavla 2028; Rajchl říká: nejen právo, ale povinnost.
 
     Jako historický precedens uvádí prezidentské volby 2013: Karel Schwarzenberg prohrál právě kvůli tématu Benešových dekretů. Rajchl předpovídá, že sjezd SdL v Brně bude „tím jazyčkem na vahách, který Pavlovi zlomí vaz."
+  osoby:
+  - osoba: milos-zeman
+    vztah: pozitivni
+    kontext: 'Vyzval k nevolení Pavla v prezidentských volbách 2028; Rajchl: „je to naše povinnost všech
+      hrdých příslušníků českého národa"'
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-05-24-08
   typ: tvrzeni
@@ -91,6 +101,10 @@ vyroky:
     Rajchl upozorňuje na skandál s dotazníkem České školní inspekce (ČŠI) pro žáky 5. a 9. tříd. Test měl ověřovat znalost českého jazyka a matematiky, ve skutečnosti obsahoval otázky o rodinné situaci (máma/táta, jejich zaměstnání), počtu knížek doma, depresích žáků a myšlenkách na sebepoškozování. Účast škol byla povinná.
 
     Rajchl to označuje za „absolutní zneužití pozice" ČŠI — stát bez souhlasu rodičů sbíral citlivé psychosociální informace o dětech a jejich rodinách pod záminkou znalostního testu. Kolega Petr Vacek podal podnět na příslušné orgány. Ministr školství Plaga reagoval veřejně rozčileně.
+  osoby:
+  - osoba: petr-vacek
+    vztah: neutralni
+    kontext: Rajchlův kolega z SPD, podal podnět k úřadům v kauze ČŠI povinného dotazníku
   podtema: Šmírování dětí státem
 - id: rajchl-2026-05-24-09
   typ: tvrzeni
@@ -102,6 +116,11 @@ vyroky:
     návrh zcela odmítá — za tyto peníze by šly krajské nemocnice, školy, byty a dálnice. NATO dle Rajchla
     nemá právo diktovat národním vládám, kolik mají dát Ukrajině, protože to nemá nic společného se společnou
     obranou.
+  osoby:
+  - osoba: mark-rutte
+    vztah: negativni
+    kontext: 'Generální tajemník NATO navrhl 0,25 % HDP ročně pro Ukrainu (= 22,5 mld. Kč pro ČR); Rajchl:
+      skandální vměšování do národních rozpočtů'
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: rajchl-2026-05-24-10
   typ: tvrzeni

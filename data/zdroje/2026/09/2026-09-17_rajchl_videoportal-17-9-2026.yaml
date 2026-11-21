@@ -18,4 +18,12 @@ vyroky:
     V televizní debatě s Janem Jakobem Rajchl tvrdí, že ministr financí Zbyněk Stanjura si nechal Poslaneckou sněmovnou (jednomyslně, včetně opozice) schválit půjčku 40 mld. Kč výslovně určenou na odstranění povodňových škod na Jesenicku, ale ve skutečnosti na tento účel použil jen asi 4 mld. Kč (10 %) — zbylých 36 mld. Kč měl použít na zalátání jiných rozpočtových děr. Označuje to za „úvěrový podvod" a „hyenismus", protože poslanci hlasovali pro půjčku výhradně kvůli deklarovanému účelu; připomíná vlastní osobní angažovanost při povodních (sbírka, dovezený vysoušeč) a kritizuje Petra Fialu, že se v regionu pouze nechal vyfotit se Stanjurou a víc se tam neukázal. Jan Jakob tvrzení v debatě odmítl jako „fabulaci".
 
     ⚡ **Poznámka:** Přesné čerpání a účelovost prostředků z povodňové půjčky nelze z přepisu nezávisle ověřit — jde o Rajchlovo tvrzení v přímé konfrontaci s Janem Jakobem, který je popřel.
+  osoby:
+  - osoba: zbynek-stanjura
+    vztah: negativni
+    kontext: 'Nový řádek: obviněn ze „zneužití" povodňové půjčky 40 mld. Kč na Jesenicku (jen 4 mld. skutečně
+      použito) — „úvěrový podvod"'
+  - osoba: jan-jakob
+    vztah: negativni
+    kontext: 'Nový řádek: odmítl tvrzení o zneužití povodňové půjčky jako „fabulaci"'
   podtema: Kauza Jesenicko — Stanjura obviněn ze zneužití povodňové půjčky

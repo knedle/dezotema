@@ -9,6 +9,14 @@ zdroj:
   rezim: standard
   delka: '1:44:44'
   poznamka: Přepis zkrácen (1100 z 2201 řádků)
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Označil Sudetoněmecký Landsmannschaft za „téma, které ho nezajímá" — Černohorský kritizuje
+      jako skandální lhostejnost
+  - osoba: filip-turek
+    vztah: pozitivni
+    kontext: Komentář o „deratizaci/denacifikaci" politiky — Černohorský souhlasí
 vyroky:
 - id: cernohorsky-2026-05-09-01
   typ: tvrzeni
@@ -20,6 +28,15 @@ vyroky:
     Jiří Černohorský opakovaně odkazuje na prezidentskou debatu roku 2013 mezi Karlem Schwarzenbergem a Milošem Zemanem. Schwarzenberg naznačil, že Eduard Beneš by byl dle dobových norem souzen před Haagským tribunálem za organizaci odsunu sudetských Němců. Zeman mu odpověděl: „Ten, kdo označí jednoho z prezidentů Československa za válečného zločince, mluví jako sudeťák." Schwarzenberg debatu prohrál. Černohorský tuto výměnu cituje jako doklad toho, kdo skutečně hájí českou suverenitu a Benešovy dekrety.
 
     > „Ten, kdo označí jednoho z prezidentů Československa za válečného zločince, mluví jako sudeťák." — Miloš Zeman (citováno Černohorským), [Den vítězství (9. 5. 2026)](_zdroje.md#jiří-černohorský--den-vítězství-9-5-2026)
+  osoby:
+  - osoba: karel-schwarzenberg
+    vztah: negativni
+    kontext: V prezidentské debatě 2013 naznačil, že Beneš měl být souzen v Haagu — Černohorský to cituje
+      jako doklad sudeťáckého pohledu
+  - osoba: milos-zeman
+    vztah: pozitivni
+    kontext: 'V debatě 2013 řekl Schwarzenbergovi: „mluví jako sudeťák" — Černohorský cituje jako vzorový
+      postoj k Benešovým dekretům'
   podtema: Podstata dekretů, odsun a smíření
 - id: cernohorsky-2026-05-09-02
   typ: tvrzeni
@@ -32,6 +49,10 @@ vyroky:
     Černohorský kritizuje pražského zastupitele Ondřeje Koláře (Piráti) za strhnutí sochy maršála Koněva a demonstrace s ukrajinskými, NATO a EU vlajkami u sovětských válečných hřbitovů jako urážku padlých.
   citace:
   - text: Těm lidem dlužíme, že vůbec existujeme. Že mluvíme česky.
+  osoby:
+  - osoba: ondrej-kolar
+    vztah: negativni
+    kontext: Pražský zastupitel (Piráti) — strhnutí sochy maršála Koněva; urážka padlých vojáků
   podtema: Podstata dekretů, odsun a smíření
 - id: cernohorsky-2026-05-09-03
   typ: tvrzeni
@@ -43,6 +64,10 @@ vyroky:
     je předsedou Sudetoněmeckého Landsmannschaftu a dlouhodobě prosazuje revizi Benešových dekretů. Černohorský
     výrok považuje za příklad toho, jak mainstreamová média systematicky normalizují Landsmannschaft a
     jeho agendu.
+  osoby:
+  - osoba: jirina-babusikova
+    vztah: negativni
+    kontext: Komentátorka ČRo, dříve Radio Free Europe — označila Posselta za „největšího českého patriota"
   podtema: Bernd Posselt a požadavky na zrušení dekretů
 - id: cernohorsky-2026-05-09-04
   typ: tvrzeni

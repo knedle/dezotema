@@ -9,6 +9,78 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 38 min, Vrabel sám (Zuzka jen v chatu); prezentace plánu „změny systému“ z let 2022–2023;
     bez stochastického teroru.
+  osoby:
+  - osoba: oldrich-kaiser
+    vztah: rozporuplny
+    kontext: Recitace básně o Leninovi na demonstraci Svatopluku; „do dneška jsem si myslel, že je to
+      super týpek“
+  - osoba: petr-drulak
+    vztah: negativni
+    kontext: Demonstrace Svatopluku i přes spojení „vlastenecké scény“ jen do 400 lidí
+  - osoba: katerina-konecna
+    vztah: negativni
+    kontext: „Rajchl s lidskou tváří“, ve veřejných funkcích prý vydělala 65 mil. Kč
+  - osoba: donald-tusk
+    vztah: negativni
+    kontext: Pokus o převrat na ústavním soudu, německá armáda v Polsku
+  - osoba: roman-fritz
+    vztah: pozitivni
+    kontext: Místopředseda Konfederace Korony Polské, vyzval Tuska k odstoupení
+  - osoba: jared-kushner
+    vztah: negativni
+    kontext: „Realitní makléři“ bez veřejné funkce a diplomatické zkušenosti
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Nazval ruské hokejistky do 18 let „mužatkami“
+  - osoba: studentske-hnuti
+    vztah: pozitivni
+    kontext: „Nenásilná revoluce“ podle jeho plánu, „zázrak“
+  prehled:
+  - tema: Demonstrace spolku Svatopluk před ČT
+    text: podle něj tam bylo do 400 lidí, přestože se spojila „rádoby vlastenecká scéna“ (Drulák, Kobza,
+      Turoňová, Konečná, Rédová, Skalický, Semín, Schneider, Procházková). Kaiserovu báseň o Leninovi
+      nechápe; spojit se s každým je nesmysl a vede jen k funkcím (opakuje).
+  - tema: Polsko — Tuskův „pokus o puč“ na ÚS, Bundeswehr ve Varšavě, „Černí Rusové“ u Kaliningradu, cvičení
+      koalice ochotných
+    text: německá armáda je tam podle něj kvůli demonstracím 11. 11., protože polští vojáci a policisté
+      jsou naštvaní (opakuje).
+  - tema: Střelba v Krakově
+    text: za oficiální verzi „ruku do ohně nedá“, srovnává ji se střelbou na FF UK
+    vyrok: vrabel-2026-11-08-02
+  - tema: Jednání v Abú Zabí (Umerov, Kushner, Witkoff, Medinskij)
+    text: od vyjednavačů bez veřejné funkce nic nečeká, jde o Trumpovu předvolební kampaň (opakuje).
+  - tema: „Smyčka se utahuje“ (protesty, krachy bank, burzy, výnosy dluhopisů, odchod Lagardeové, digitální
+      identita)
+    text: situace se podle něj neopakuje, ale zhušťuje; Francie potřebuje 350 mld. eur (opakuje).
+  - tema: Plán ČR na prvním místě — změna systému
+    text: čtyři reformy, zrušení 5% hranice a politické reklamy, 1% daň, poroty; jako premiér by si nejdřív
+      udělal „malou armádu“; německý majetek proti reparacím
+    vyrok: vrabel-2026-11-08-04
+  - tema: Strany jako odnože ODS, Babiš a referendum
+    text: všechny strany kromě Pirátů zkorumpované, SPD je „ODS 2“ (Hrdlička); odmítnutí referenda o EU
+      a NATO = diktatura
+    vyrok: vrabel-2026-11-08-04
+  - tema: Insolvenční dluh manželky (2,5 mil. Kč)
+    text: příklad nefunkčních soudů; insolvenční správce si podle něj 570 tis. Kč „vymyslel“.
+  - tema: Srbsko — studenti vyhráli volby
+    text: „nenásilná revoluce“ podle jeho plánu, NIS chtějí odkoupit od Rusů; Vučič přesto „nejlepší politik
+      na světě“
+    vyrok: vrabel-2026-11-08-04
+  - tema: Konec ČR a češtiny
+    text: za 20 let polovina, za 40 let menšina česky mluvících, Francie a Británie „úplně černé“ → viz
+      [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-08-03
+  - tema: Macinka o ruských hokejistkách jako „mužatkách“ × ukrajinský charitativní koncert s velitelem
+      brigády Edelweiss v Městské knihovně
+    text: výrok ministra o nezletilých sportovkyních je podle něj „nehezký“, Edelweiss spojuje s Hitlerem.
+  - tema: Krach srbské Alta banky
+    text: v bance mít jen pojištěnou částku, run na banku může vyvolat hackerský útok
+    vyrok: vrabel-2026-11-08-01
+  - tema: CBDC a text o „Gideonovi“
+    text: kdo nemá hotovost, není svobodný, plán do roku 2030 → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-08-01
+  - tema: Islámská škola ve Francii, protesty v Jakartě
+    text: boj státu s lidmi je celosvětový, jen v ČR je klid, „protože máme Andrejka“ (opakuje).
 vyroky:
 - id: vrabel-2026-11-08-01
   typ: tvrzeni
@@ -28,6 +100,10 @@ vyroky:
   citace:
   - text: Aby jsme byli absolutně kontrolovaní, tak nám musí vzít peníze. To je přece jasný. Protože díky
       penězům jsme svobodní.
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: „Nejlepší politik na světě“
 - id: vrabel-2026-11-08-02
   typ: tvrzeni
   temata:
@@ -72,4 +148,46 @@ vyroky:
     Podmínkou je vystoupení z EU. Všechny parlamentní strany kromě Pirátů označuje za zkorumpované odnože ODS nebo Babiše (SPD je „ODS 2“ založená „kmotrem“ Hrdličkou, Martin Kuba „pravá ruka kmotra Dlouhého“). Babišova vláda podle něj za rok neudělala „ani ťuk“ a její odmítnutí referenda o vystoupení z EU a NATO je „přechod z demokracie do diktatury“. Vzorem je Srbsko, kde studenti provedli „nenásilnou revoluci“ a vyhráli volby; Vučiče přesto dál považuje za „nejlepšího politika na světě“. Námitku, že je vše rozprodané, odmítá: smlouvy lze zrušit (Veolia, E.ON), majetek vyvlastnit a německý majetek (Raiffeisenbank, Škoda) započíst proti válečným reparacím, které po přepočtu „reálnou inflací“ odhaduje na necelých 14 000 mld. Kč. Jako premiér by si podle svých slov nejdřív „udělal malou armádu“, průmyslníkům řekl, že se s ním buď domluví, „nebo budou mít problém“, a generály, kteří by nesložili přísahu, by „okamžitě nechal vyházet“. Teprve potom by začal s reformami.
   citace:
   - text: Kdybych byl premiér, tak první, co bych udělal, že bych si okolo sebe udělal malou armádu.
+  osoby:
+  - osoba: catherine-austin-fittsova
+    vztah: pozitivni
+    kontext: „Kamarádka“, převzal od ní pojem „drancování“
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Odmítnutí referenda o EU/NATO jako „přechod do diktatury“; vláda za rok „ani ťuk“
+  - osoba: tomas-hrdlicka
+    vztah: negativni
+    kontext: „Kmotr“, který podle něj založil SPD a financuje PRO i Trikoloru
+  - osoba: martin-kuba
+    vztah: negativni
+    kontext: „Pravá ruka kmotra Dlouhého“
+  - osoba: pirati
+    vztah: rozporuplny
+    kontext: Politicky „na druhé straně“, ale o jejich korupci neví
   podtema: Vlastní vládní program „kdybych byl Babišem" (Černohorský)
+- id: vrabel-2026-11-08-05
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: bez změny systému bude za 20 let česky mluvit nanejvýš polovina obyvatel, za 40 let menšina
+  text: Pokud ČR nevystoupí z EU a neuzavře hranice, za 20 let bude česky mluvit nanejvýš polovina obyvatel
+    a za 40 let jen menšina; čeština může být i zakázána.
+  citace:
+  - text: Za 20 let bude tady tak polovina lidí maximálně jako mluvit česky a za 40 let […] už bude jenom
+      menšina lidí mluvit česky.
+  predikce:
+    horizont: 2046 / 2066 (podmíněno setrváním v EU)
+    stav: ceka
+- id: vrabel-2026-11-08-06
+  typ: predikce
+  temata:
+  - digitalni-kontrola
+  nadpis: do roku 2030 CBDC a „absolutní kontrola“, změny „ne jak salám, ale jak sekaná“
+  text: Přechod na centrální digitální měnu a sociální kredity mají globalisté naplánovaný na rok 2030;
+    následující čtyři roky budou velmi intenzivní a změny se budou dál zrychlovat.
+  citace:
+  - text: Myslím, že to mají naplánované na rok 2030, takže máme rok 2026, předpokládám, že ty čtyři roky
+      budou ještě velmi, velmi intenzivní.
+  predikce:
+    horizont: '2030'
+    stav: ceka

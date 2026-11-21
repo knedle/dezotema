@@ -9,6 +9,17 @@ zdroj:
   rezim: vrabel
   poznamka: 33 min, rozhovor; zhruba 70 % stopáže mluví host Roman Fritz (lámanou češtinou), jeho výroky
     nezpracovány.
+  osoby:
+  - osoba: roman-fritz
+    vztah: pozitivni
+    kontext: Přítel, „perfektní rozhovor“; přeje mu odstranění Tuskovy vlády
+  prehled:
+  - tema: Rozhovor s poslancem Sejmu Romanem Fritzem (Konfederacja Korony Polskiej) o ústavní krizi
+    text: Tusk je „jeden z největších válečných štváčů současné Evropy“, Nawrocki umírněnější; ČT líčí
+      příběh „úplně obráceně“; obává se, že Polsko dopadne jako ČR, kde Babiš převzal heslo „Česko na
+      prvním místě“ a pokračuje ve Fialově politice (opakuje). Většinu rozhovoru mluví host (konec demokracie
+      v Polsku, polexit, pozvání na 11. 11. do Varšavy), jeho výroky se nezpracovávají; Vrabel s ním souhlasí
+      a přeje mu odstranění Tuskovy vlády.
 vyroky:
 - id: vrabel-2026-10-31-05
   typ: tvrzeni

@@ -24,6 +24,13 @@ vyroky:
     „za všechno může Zítko" jsou podle něj typické pro tajné služby („první křičí: chyťte zloděje"); falešné
     profily přisuzuje Konstantinu Stankovi a spolku ČSR. Pouští archivní výpověď Čermáka, v níž ten o
     Černohorském mluví jako o „prostředníkovi, který byl na mě nasazený" — „tohle byl originál Tomáš Čermák".'
+  osoby:
+  - osoba: patrik-tusl
+    vztah: negativni
+    kontext: „Mistrovství světa v somrování", ukřivděný kvůli penězům
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Vychloubání", že vytáhne Tušla z vězení; nesplněné „desatero"
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-09-25-02
   typ: tvrzeni
@@ -39,6 +46,10 @@ vyroky:
     že si „údajný Tomáš Čermák" nepřeje účast Zítka, Petrkové a Tušla. Ostré výrazy obhajuje: „když se
     zabíjej injekcema biologický zbraně děti a těhotné ženy, tak je asi logické, že ty výrazy mohou být
     o něco expresivnější".'
+  osoby:
+  - osoba: norbert-naxera
+    vztah: negativni
+    kontext: Advokát Čermáka — „musel vědět", že u soudu není originál
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-09-25-03
   typ: tvrzeni
@@ -48,4 +59,24 @@ vyroky:
   text: '**25. 9. (Zítko)** — Na společné fotografii s Čermákem (185 cm) je Andrej Babiš menší, přestože
     „původní" Babiš měl měřit 187 cm — to je podle Zítka „krásný důkaz o tom, že Andrej Babiš není původní
     Andrej Babiš". Toma Hankse označuje za „jednoho z největších pedofilů v Hollywoodu".'
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Není původní Babiš" (dvojník)
+  - osoba: tom-hanks
+    vztah: negativni
+    kontext: „Jeden z největších pedofilů v Hollywoodu"
   podtema: Okultismus
+- id: zitko-2026-09-25-04
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: kritici („fízlové", „agenti tajných služeb", hejtři)
+  text: dehumanizace + výhrůžka odplatou
+  citace:
+  - text: tyto odpady společnosti, tyto profesionální fýzlové, škodiči, absolutně [nemají] nárok odvolávat
+      se na svobodu projevu" / „na nikoho se nezapomene tak, jak se vyjádřil ministr zahraničí ruské Federace,
+      pan Lavrov" / „je potřeba to vyčistit až do těch nejspodnějších pater
+  teror:
+    terc: kritici („fízlové", „agenti tajných služeb", hejtři)
+    hranicni: false

@@ -9,6 +9,22 @@ zdroj:
   rezim: vrabel
   poznamka: 12 min, krátký monolog k Trumpovým výrokům (zpráva ČT) a pozvánka na pochod 17. 11. (Malostranské
     náměstí ve 13:00 → Klárov); bez sdílených videí.
+  prehled:
+  - tema: Trump chce s Čínou a Ruskem jednat o denuklearizaci
+    text: „jediná rozumná možnost“, kterou Vrabel sám dlouho prosazuje (zbraně „do hangáru“, smlouvy o
+      odzbrojení); Trump „jediný“, kdo s tím přišel
+    vyrok: vrabel-2026-10-20-05
+  - tema: 'Trump: Rusko se k Ukrajině chová „v pohodě“'
+    text: omluví se soudy odsouzeným za „Z“?; bez tribunálu RB OSN nelze státu přisuzovat válečné zločiny,
+      soudy si vymýšlí „pohádky“, zatýkání za „Z“ „čistý fašismus“ (navazuje na Zprávy v devět téhož dne)
+    vyrok: vrabel-2026-10-20-04
+  - tema: Pochod 17. 11. za svobodu politického projevu
+    text: z Malostranského náměstí na Klárov s bubnováním a soutěží o transparenty a plakáty; rok 1989
+      „nemůžeme slavit jako vítězství svobody“, „falešný mrtvej student“
+    vyrok: vrabel-2026-10-20-04
+  - tema: Zklamání z Trumpa
+    text: útoky na Venezuelu a Írán, neukončená válka na Ukrajině a obchodní války; jeho předvolební výrok
+      je přesto třeba využít.
 vyroky:
 - id: vrabel-2026-10-20-04
   typ: tvrzeni
@@ -30,6 +46,11 @@ vyroky:
     který je třeba využít.'
   citace:
   - text: To, co nám sem přišlo v roce 1989, to opravdu nemůžeme slavit jako vítězství svobody.
+  osoby:
+  - osoba: donald-trump
+    vztah: rozporuplny
+    kontext: Vítá jeho návrh denuklearizace a výrok, že se Rusko k Ukrajině chová „v pohodě“ („strašně
+      silný argument“); zároveň ho „strašně zklamal“ útoky na Venezuelu a Írán a obchodními válkami
   podtema: Trestání politického projevu
 - id: vrabel-2026-10-20-05
   typ: tvrzeni

@@ -12,3 +12,21 @@ zdroj:
     ho za „regulérního psychopata", ironicky děkuje moderátorům Kulidakisovi a Stoniši za jeho zvání.
     Přepis zachytil jiné video (diskuse o pojmu „rusák"). Obsah vyvozen z popisu a titulku. Zhlédnutí:
     2 633'
+vyroky:
+- id: tarabova-2026-03-26-01
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Karel Schwarzenberg
+  text: 'Terč: Karel Schwarzenberg.'
+  citace:
+  - text: Každý musí vidět, že je to regulérní psychopat." (o Schwarzenbergovi jako hostovi CNN Prima
+      News)
+  osoby:
+  - osoba: karel-schwarzenberg
+    vztah: negativni
+    kontext: Označen za „regulérního psychopata" v reakci na jeho vystoupení v CNN Prima News; Tarabová
+      ironicky děkuje moderátorům za jeho zvání
+  teror:
+    terc: Karel Schwarzenberg
+    hranicni: false

@@ -16,6 +16,44 @@ zdroj:
     zbytek (ministr Zuna/2% HDP, audit F-35, výbuch KNDS Itálie, Japonsko/Kurily, Británie/jaderný deštník,
     EU obaly, ukrajinské obilí, generál Grynkewich, USA popravy) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md).
     Predikce (Babiš podepíše francouzský jaderný deštník) extrahována bezvýjimečně; bez stoch. teroru.'
+  osoby:
+  - osoba: filip-turek
+    vztah: negativni
+    kontext: Srovnáván s Conorem Kennedym co do „hlouposti"; označen za sadistu bijícího partnerky a zastánce
+      eskalace vůči Rusku
+  prehled:
+  - tema: Ministr obrany Zuna
+    text: „vojáci na prvním místě", 2 % HDP — kritika prioritizace zbrojení nad důchodci — nezpracováno
+      (repeat)
+  - tema: Audit F-35
+    text: jen 24,6 % bojové připravenosti, náklady 1,6 bilionu $, teorie o americkém „kill switch" — nezpracováno
+  - tema: Výbuch v italské zbrojovce KNDS (Avio u Říma)
+    text: nezpracováno (pokračování série)
+  - tema: Dron v Rumunsku + dron nad Lotyšskem
+    text: nezpracováno (pokračování série)
+  - tema: Požáry/drony po celém světě jako příprava „false flag" narativu + Tucker Carlson o provokaci
+      Ruska
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Japonsko
+    text: protest proti Putinově návštěvě Kurilských ostrovů, teorie o financování Hitlera americkými
+      firmami — nezpracováno
+  - tema: Catherine Austin Fitts — USA potřebují válku na Ukrajině kvůli dolarové dominanci
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Lavrov — Rusko „přitvrdí"; plán vyždímat a zdevastovat Evropu
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Británie
+    text: sdílení jaderných zbraní s EU výměnou za přístup na trh, predikce podpisu s Francií — nezpracováno
+      (predikce extrahována zvlášť)
+  - tema: EU nová pravidla o obalech
+    text: byrokracie ničí malé e-shopy — nezpracováno (pokračování z 11. 8.)
+  - tema: Ukrajinské obilí tlačené na trh EU
+    text: nezpracováno
+  - tema: Generál Grynkewich
+    text: varování před krizí Rusko+Čína 2027 — nezpracováno
+  - tema: Conor Kennedy (syn RFK Jr.) na ruském seznamu hledaných za boj na Ukrajině
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: USA
+    text: 3 popravy v jeden den, kritika USA jako státu založeného na genocidě/otroctví — nezpracováno
 vyroky:
 - id: vrabel-2026-08-14-01
   typ: tvrzeni
@@ -33,6 +71,11 @@ vyroky:
     z jeho akcí) o možném „mentálním poškození" v rodině, případně psychosomatických následcích atentátu
     na prezidenta Johna F. Kennedyho. Srovnává Conora Kennedyho co do „hlouposti" s českým europoslancem
     Filipem Turkem.
+  osoby:
+  - osoba: conor-kennedy
+    vztah: negativni
+    kontext: Syn RFK Jr. na ruském seznamu hledaných za boj na Ukrajině — označen za „imbecila", spekulace
+      o mentálním poškození rodiny
   podtema: Vyjednávání a mír
 - id: vrabel-2026-08-14-02
   typ: tvrzeni
@@ -53,6 +96,11 @@ vyroky:
     do rvačky s většími kluky, dokud ti nakonec neuhodí přímo Pepíka — a předpovídá, že jakmile Rusko
     napadne členskou zemi NATO/EU, je třeba okamžitě „mazat" z EU nejlépe do vojensky neutrálního Srbska,
     protože poté už státy uzavřou hranice a vyhlásí stav ohrožení.'
+  osoby:
+  - osoba: tucker-carlson
+    vztah: pozitivni
+    kontext: Souhlasně citován s teorií, že Ukrajina provokuje Rusko k útoku na členský stát NATO; oceňován
+      za rétoriku blízkou vlastnímu „člověk na prvním místě"
   podtema: Eskalace a hrozba rozšíření konfliktu
 - id: vrabel-2026-08-14-03
   typ: tvrzeni
@@ -66,6 +114,11 @@ vyroky:
     představitelé amerického establishmentu jsou dle ní kvůli tomuto zájmu ochotni jít do extrémních kroků.
     Vrabel odkazuje na společné video s Tuckerem Carlsonem (zveřejněné s titulky na jeho Facebooku) jako
     doklad této teze.
+  osoby:
+  - osoba: catherine-austin-fitts
+    vztah: pozitivni
+    kontext: Americká investiční bankéřka, osobní známá Vrabela — citována jako autorita na tezi, že USA
+      potřebují válku na Ukrajině kvůli dolarové dominanci
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-08-14-04
   typ: tvrzeni
@@ -88,3 +141,23 @@ vyroky:
     že bojuje za suverenitu, byť cituje srbského režiséra Emira Kusturicu, že v Rusku se bojuje „za zbytky
     normálního světa".
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-08-14-05
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Babiš potichu podepíše dohodu o francouzském jaderném deštníku
+  text: Vrabel předpovídá, že Andrej Babiš „potichu", bez veřejné debaty, podepíše dohodu s Francií o
+    rozmístění francouzských jaderných zbraní (nosičů Rafale se střelami ASMPA) na území ČR výměnou za
+    přístup k výhodám jednotného evropského trhu podobně jako navrhovaná britsko-unijní dohoda — možná
+    dříve, než se stihne uskutečnit ohlášené veřejné shromáždění „Člověk na prvním místě" (3. 10. 2026).
+  predikce:
+    horizont: před 3. 10. 2026 nebo krátce po (neurčeno přesně)
+    stav: vyvraceno
+    horizont_do: 2026-10-03
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: (k 20. 11.) — dohoda o francouzském jaderném deštníku nebyla podepsána
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Babiš v odpovědi na výzvy z demonstrace 3. 10. uvedl, že vláda jaderné zbraně „neplánuje“.
+        Ministerstvo obrany podle Vrabela s Francií jen jedná.

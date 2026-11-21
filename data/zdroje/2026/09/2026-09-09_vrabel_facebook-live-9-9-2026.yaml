@@ -7,6 +7,32 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1605015334356589
   prepis: prepisy/done/2026-09-09_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  osoby:
+  - osoba: edi-rama
+    vztah: negativni
+    kontext: Albánský premiér — protesty proti Kushnerovu realitnímu projektu se rozšiřují do širšího
+      protivládního hnutí proti jeho vládě
+  prehled:
+  - tema: Kritika vojenské smlouvy ČR–Ukrajina, role Ukrajiny v mírových jednáních (Porošenko, Lavrov
+      o Donbasu)
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: 'Lavrov: útok na Evropu by vedl k "velmi krátké" válce; ruská rozvědka o plánech EU do 2030'
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Facebook druhý den po sobě vypnul živé vysílání v polovině
+    text: → [Média a propaganda](../media-propaganda.md)
+  - tema: '"Zachraň se, kdo můžeš" — opakovaná výzva (Jugoslávie jako analogie)'
+    text: → [Konspirační teorie](../konspirace.md)
+  - tema: Rétorika vs. realita vlády, Okamurův návrh dávek jako populistická clona, "koalice ochotných"
+      jako mistranslation
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Ukrajinský dron zasáhl Nový Urengoj, 2800 km od hranic
+    text: → [Válka na Ukrajině](../valka-ukrajina-prubeh.md)
+  - tema: Šéf CIA Ratcliffe posiluje roli na úkor Witkoffa a Kushnera
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Protesty v Albánii proti Kushnerovu projektu escalují — "plamenákova revoluce", střet s policií
+    text: → [Blízký východ](../blizky-vychod.md)
+  - tema: EU posílá 147 mil. eur Španělsku na migraci v Ceutě, opakovaný odkaz na Rotherham
+    text: → [Migrace](../migrace.md)
 vyroky:
 - id: vrabel-2026-09-09-01
   typ: tvrzeni
@@ -102,6 +128,11 @@ vyroky:
     toho vyvozuje, že Ukrajina jako stát z roku 1991 „se neosvědčila", protože nedokázala zajistit základní
     práva všem svým obyvatelům, a že navrácení Donbasu Ukrajině by bylo ospravedlnitelné jen při zásadní
     změně režimu (odstranění „nacismu", zajištění práv Rusů). Situaci označuje za „absolutně patovou".'
+  osoby:
+  - osoba: petro-porosenko
+    vztah: negativni
+    kontext: Citován výrok, že ukrajinské děti budou chodit do „čistých" ukrajinských škol, zatímco Rusové
+      budou „někde ve sklepích" — dokládá dle Vrabela, že Ukrajina neumí zajistit práva vlastním obyvatelům
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-09-09-09
   typ: tvrzeni
@@ -118,4 +149,9 @@ vyroky:
     rozvědky Sergeje Naryškina, že strategické dokumenty Evropské unie do roku 2030 počítají s možnou
     vojenskou konfrontací s Ruskem — v protikladu k opakovanému rámování ze strany EU (Kaja Kallasová),
     že Rusko je „existenční hrozbou" pro Evropu.
+  osoby:
+  - osoba: sergej-lavrov
+    vztah: neutralni
+    kontext: Varuje, že útok Evropy na Rusko by vedl k „velmi krátké" válce, na rozdíl od pomalé speciální
+      operace na Ukrajině, kde Rusko šetří „slovanské bratry"
   podtema: Zahraniční aktéři a precedenty

@@ -16,6 +16,10 @@ vyroky:
   text: '**21. 8.** — V souvislosti s kauzou Peková (viz [Kauzy — třetí verze kauzy Peková](kauzy.md#třetí-verze-kauzy-peková-ministr-tejc-moderátor-salaj-jako-iniciátor-podpora-karla-janečka-zítko-21-8-2026))
     znovu odkazuje na totéž usnesení Krajského soudu v Ústí nad Labem (nyní datuje na 18. 6. 2026) jako
     na potvrzení neizolace viru — beze změny oproti 6. 8.'
+  osoby:
+  - osoba: pekova
+    vztah: pozitivni
+    kontext: Označena za „hrdinku covidové doby" — odvahu a odbornost jí odebrání znaleckého razítka nevzalo
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 - id: zitko-2026-08-21-03
   typ: tvrzeni
@@ -32,6 +36,11 @@ vyroky:
     Jindřich Rajchl přes půl roku od svého „desatera" (přednesený 26. 1. na covidovém semináři v PS) nepodnikl
     žádné kroky k vystoupení ČR z WHO, ani vláda Andreje Babiše nezrušila Národní očkovací strategii nebo
     nevypověděla pandemickou smlouvu.'
+  osoby:
+  - osoba: david-morens
+    vztah: rozporuplny
+    kontext: Bývalý poradce Fauciho — přiznal vinu za skrývání záznamů o původu covidu, ale jeho trest
+      je dle sdíleného komentáře jen „odvedení pozornosti od slona v místnosti"
 - id: zitko-2026-08-21-05
   typ: tvrzeni
   temata:
@@ -49,6 +58,11 @@ vyroky:
     Cituje také komentář bývalého prezidentského kandidáta Karla Janečka, který kauzu srovnává s aktuálním
     znovuotevřením covidové odpovědnosti v USA a označuje Pekovou za jednu z „hrdinek covidové doby" —
     ztrátu razítka jí prý stát vzít mohl, ale odvahu a odbornost ne.
+  osoby:
+  - osoba: tomas-salaj
+    vztah: negativni
+    kontext: Moderátor a „covidový propagátor zapíchávání" — označen za iniciátora eskalace vůči Pekové,
+      přehrán jeho starší výrok o očkování
   podtema: Trestní stíhání kritiků covidu
 - id: zitko-2026-08-21-07
   typ: tvrzeni
@@ -78,4 +92,9 @@ vyroky:
     a dobré kontakty buď na CIA, nebo na Fed", protože jinak by takové časování transakce (výdělek cca
     2 miliardy Kč) nebylo možné — obchodní úspěch tak podle něj nebyl založen na veřejně prezentovaných
     algoritmech („pípáky“), ale na insider informacích.'
+  osoby:
+  - osoba: karel-janecek
+    vztah: pozitivni
+    kontext: Podpůrný komentář ke kauze Peková hodnocen kladně; zároveň líčen jako někdo, kdo zbohatl
+      na bitcoinu díky insider informacím od CIA/Fedu
   podtema: Náboženský a okultní výklad moci

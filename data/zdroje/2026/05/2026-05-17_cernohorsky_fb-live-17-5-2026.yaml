@@ -27,6 +27,18 @@ vyroky:
     (radikálním křídle Landsmannschaftu), který prosazuje „právní nárok na vlast." Na adresu Vystrčila
     poslal email s předmětem „nacistická kurvo" — jako přímý protest proti tomuto rozhodnutí. Zároveň
     přehrál videa Jiřího Weigla (Institut Václava Klause) a záznamy ze schůzky Schwarzenberg/Hřib.
+  osoby:
+  - osoba: milos-vystrcil
+    vztah: negativni
+    kontext: Jako předseda Senátu dal záštitu sjezdu Sudetoněmeckého Landsmannschaftu; Černohorský mu
+      poslal email „nacistická kurvo"
+  - osoba: antonin-baudys
+    vztah: neutralni
+    kontext: Citovány jeho záznamy z r. 2004 (MV report) o Wittikobundu — radikálním křídle LM s „nárokem
+      na vlast"
+  - osoba: jiri-weigl
+    vztah: neutralni
+    kontext: 'Ředitel Institutu Václava Klause — video: Pavlův návrh USE „likviduje suverenitu ČR"'
   podtema: Politici a Landsmannschaft
 - id: cernohorsky-2026-05-17-02
   typ: tvrzeni
@@ -44,4 +56,21 @@ vyroky:
     - **Slávek Popelka**: zmíněn v kontextu perzekucí
 
     Jako kontrast uvádí případ Coubala — Pavlova sponzora, který za způsobení usmrcení dostal podmínku. Černohorský hodnotí: 37 let po Sametové revoluci stále neexistuje prováděcí zákon o referendu a právo je vymáháno selektivně.
+  osoby:
+  - osoba: tomas-cermak
+    vztah: neutralni
+    kontext: 'Odsouzen na 6 let za výhružky politikům — kontrast s Coubalem (podmínka za usmrcení); Černohorský:
+      selektivní právo'
   podtema: Politická perzekuce
+- id: cernohorsky-2026-05-17-03
+  typ: stoch-teror
+  temata:
+  - benesovy-dekrety
+  nadpis: Miloš Vystrčil
+  text: 'Terč: Miloš Vystrčil.'
+  citace:
+  - text: Email s předmětem „nacistická kurvo" zaslaný předsedovi Senátu — veřejně přiznal a obhajoval
+      v přímém přenosu
+  teror:
+    terc: Miloš Vystrčil
+    hranicni: false

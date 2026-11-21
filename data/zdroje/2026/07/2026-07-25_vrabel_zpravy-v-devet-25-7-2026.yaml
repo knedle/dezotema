@@ -23,6 +23,22 @@ zdroj:
     Hormuzu + húsíjský útok na Saudi Aramco — [blizky-vychod.md](blizky-vychod.md). (14) US Senát odmítl
     omezit Trumpovy pravomoci vůči Íránu — [blizky-vychod.md](blizky-vychod.md). Bez predikcí a stoch.
     teroru.'
+  prehled:
+  - tema: 'Zpracováno 15 témat: (1) Odchod šéfa BIS Koudelky'
+    text: '[kauzy.md](../kauzy.md). (2) Ceny benzínu — viníkem Trump, ne trh — [ceny-energie.md](../ceny-energie.md).
+      (3) USA nedostatek munice (senátor Kelly) — [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md).
+      (4) USA chrání kazašskou ropu Chevronu na Ukrajině — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md).
+      (5) Rumunsko — druhý sestřelený dron, radary Lockheed Martin — [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md).
+      (6) Gen. Drapatyj: „Rusko nemá právo na existenci" — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md).
+      (7) Plán „3+2" mrtvý, Trumpův rozpor o zbraních, drony 1000 km — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md).
+      (8) Vučič: eskalace po ruských volbách, jaderné zbraně — [suverenita-eu.md](../suverenita-eu.md).
+      (9) Rusko odřízlo Ukrajinu od přístavů — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md).
+      (10) Ukrajinské námořnictvo velí NATO — [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md).
+      (11) Vučič — cla USA 0 % vs. 15 % EU — [suverenita-eu.md](../suverenita-eu.md). (12) EU umožní prodej
+      nákladu ze zadržených ruských lodí — [valka-nato-rusko.md](../valka-nato-rusko.md). (13) Koalice
+      USA/UK na ochranu Hormuzu + húsíjský útok na Saudi Aramco — [blizky-vychod.md](../blizky-vychod.md).
+      (14) US Senát odmítl omezit Trumpovy pravomoci vůči Íránu — [blizky-vychod.md](../blizky-vychod.md).
+      Bez predikcí a stoch. teroru.'
 vyroky:
 - id: vrabel-2026-07-25-01
   typ: tvrzeni
@@ -87,6 +103,11 @@ vyroky:
     viníků, ale ve výsledku spolu dnes bez problémů vládnou. Očekává, že podobně jako v minulosti (kauzy
     Rath, Bárta) se najde jen „obětní beránek", jehož případ média nafouknou, aby veřejnost uklidnily,
     zatímco systémové problémy zůstanou nevyřešené.'
+  osoby:
+  - osoba: michal-koudelka
+    vztah: rozporuplny
+    kontext: Odcházející šéf BIS — dle Vrabela pravděpodobně dvojitý agent CIA; kritizován i Janem Schneiderem
+      za úniky v kauzách Vrbětice/Ricin
 - id: vrabel-2026-07-25-05
   typ: tvrzeni
   temata:
@@ -96,6 +117,11 @@ vyroky:
     **25. 7.** — Vrabel sdílí a doporučuje patnáctiminutový rozhovor Vučiče pro švýcarskou (německy vysílající) televizi. Vučič v něm připomíná vlastní zkušenost s válkou (bombardování NATO v 90. letech, zničená kancelář, ztráta 30 % mužů v 1. i velké ztráty ve 2. světové válce) a odmítá, že by Srbsko válku chtělo — je vojensky neutrální a do konfliktu nevstupuje, přiznává ale, že ekonomické důsledky se Srbsku nevyhnou. Předpovídá, že dosavadní čtyři a půl roku konfliktu byly jen „prokrastinací" a že po ruských volbách koncem září přijde během několika týdnů výrazná eskalace ze strany Ruska — válka se podle něj musí ukončit tím, že jedna strana zvítězí, a Západ nemá v úmyslu nechat Rusko „na pokoji" ani po případném dobytí Donbasu. Na otázku, proč to neřekne nahlas západním politikům, odpovídá, že ho stejně neposlouchají („máš svůj názor, ale jsi malá země, my máme svoje cíle"). Popisuje, že odmítl podepsat blíže neurčenou rezoluci na Ukrajině kvůli článku 11, který měl zřizovat samostatný mezinárodní soud pro ruské zločiny na Ukrajině — to považuje za zbytečné dublování existující Charty a rezolucí OSN, jen „přiživující oheň". Klíčové: je přesvědčen, že Vladimir Putin použije jaderné zbraně, pokud to bude považovat za nutné — a klade řečnickou otázku, která země by si vůbec troufla na jaderný odvetný úder proti Rusku. Vrabel k tomu doplňuje aktuální zprávu: Vučič oznámil, že americká cla na srbské zboží budou dočasně (po dobu jednání) nulová, dlouhodobě se mají pohybovat kolem 10–12 %, zatímco ČR a celá EU mají 15 % — staví to do kontrastu s tím, že Srbsko je vojensky neutrální, mimo EU i NATO, a přesto si vyjednalo lepší podmínky s USA než „po kotníky zabořená" ČR (jmenuje Macinku a Babiše) — a znovu Vučiče označuje za politický vzor, „krasobruslaře na ostří nože" balancujícího mezi USA, Ruskem, Čínou i EU.
 
     > „Aleksandar Vučič si je jistý, že Vladimir Putin použije jaderné zbraně, pokud to bude potřeba. [...] Která země by si troufla poslat jadernou bombu na Rusko?" — Ladislav Vrabel (parafráze Vučiče), [Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Rozhovor pro švýcarskou TV — očekává eskalaci po ruských volbách, Putin použije jaderné zbraně;
+      vyjednal 0% cla s USA
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-07-25-06
   typ: tvrzeni
@@ -132,6 +158,11 @@ vyroky:
     (denacifikace Ukrajiny). Vrabel s hodnocením souhlasí bez výhrad: říkat, že ruský národ nemá právo
     na existenci, je podle něj čistý nacismus, a takový člověk podle něj patří do vězení, nikoli do velení
     ukrajinské armády — dodává, že tam se pravděpodobně brzy dostane, pokud „nezemře při té denacifikaci".'
+  osoby:
+  - osoba: michailo-drapatyj
+    vztah: negativni
+    kontext: 'Velitel ukrajinských pozemních sil — výrok „Rusko nemá právo na existenci" a o Donbasu jako
+      „kriminálních živlech" — Vrabel: čistý nacismus'
   podtema: Vyjednávání a mír
 - id: vrabel-2026-07-25-08
   typ: tvrzeni

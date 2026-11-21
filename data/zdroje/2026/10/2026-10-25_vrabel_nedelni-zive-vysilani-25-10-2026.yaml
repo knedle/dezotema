@@ -9,6 +9,69 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 51 min; sdílené cizí video o usaspending.gov (44:18–47:32) a archivní klipy (rozhovor
     s Klobučkinem, předvolební rozhovor v ČT) nezpracovány.
+  osoby:
+  - osoba: vladimir-stepan
+    vztah: negativni
+    kontext: „Elitáři“, nejsou alternativou
+  - osoba: petr-drulak
+    vztah: negativni
+    kontext: „Elitáři“, nejsou alternativou
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Lituje jeho porážky, Srbsko „poslední svobodná země“
+  prehled:
+  - tema: Brutální protesty a policejní násilí po Evropě (Porto, Francie, Německo, Tunis)
+    text: protesty řídí a vyprovokovávají samy režimy, policie mlátí „na rozkaz shora“, aby se násilí
+      normalizovalo a přelilo do občanské války a odvedla se pozornost
+    vyrok: vrabel-2026-10-25-05
+  - tema: Konflikt Antona Klobučkina s Foldynou
+    text: 'jde podle něj o téhož mladíka, který ho v roce 2023 polil barvou; útok byl „terorismus“, odbyt
+      pokutou 1 000 Kč, kdežto Čermák dostal 5,5 roku: „režim si pěstuje teroristy“'
+    vyrok: vrabel-2026-10-25-01
+  - tema: Demonstrace Milionu chvilek na Staroměstském náměstí
+    text: „nám dělají Majdan“, Minář otáčí realitu; Babiš zrušení poplatků možná dostal „nakázáno z EU“
+      (50:50); ČT mu před volbami „stáhla hlas“
+    vyrok: vrabel-2026-10-25-02
+  - tema: Rozdělení společnosti (Fiala vs. Babiš)
+    text: Fiala jsou „otevření zrádci“, Babiš skrytý, lidé „bojují za to, aby jim vládli jejich kati“
+      (opakuje).
+  - tema: Vlastenecká scéna a Rajchl
+    text: Rajchl otočil Václavák proti Rusku a „udával“ lidi za „Z“, je „satanista“ a „ve válce se takoví
+      lidé střílí“ → viz [Stochastický teror](../stochasticky-teror.md)
+  - tema: Návrat socialismu
+    text: „velmi brzo“ budou po Evropě vlát rudé vlajky, říká to „poprvé“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-25-04
+  - tema: Volby v Srbsku, Vučić přiznal porážku
+    text: N1 je „CNN“, protesty platil Západ; Srbsko je „poslední svobodná země“ (opakuje); jeho predikce
+      Vučićova vítězství se nenaplnila → viz [Predikce](../predikce.md)
+  - tema: Občanská válka a válka s Ruskem
+    text: čeká částečně obojí s mnoha mrtvými, pak „temno“ technologické totality nebo nový systém; „zachraň
+      se, kdo můžeš“ (opakuje).
+  - tema: Ukrajinci 54,5 % cizinců v ČR
+    text: „z ČR se stává Česko-Ukrajinsko“ (opakuje).
+  - tema: Agenda 2030
+    text: proti ETS, digitální měně, AI, očkování ani ovlivňování počasí se nedá bojovat, „agend“ je příliš
+      (opakuje).
+  - tema: Putin a internetové kabely
+    text: Rusko prý v roce 2022 zvažovalo přerušit mezikontinentální kabely; radí mít dokumenty na papíře.
+  - tema: Politika je předem domluvená
+    text: parlament je „divadlo“, o hlasování se rozhoduje s byznysmeny (opakuje).
+  - tema: Novela § 405 a rehabilitace
+    text: Sněmovna rehabilitovat může, Rajchl se má omluvit lidem, které „udal“ (opakuje).
+  - tema: Pochod 17. 11.
+    text: vyhne se násilí, ale „17. listopadu se něco bude rozehrávat“, i když ne celý Majdan → viz [Predikce](../predikce.md)
+  - tema: Scénář vstupu do války
+    text: útok v Pobaltí, článek 5, Babiš zvedne ruku „jako první“, válečný stav a mobilizace záložníků
+      (opakuje).
+  - tema: Výhled na zimu
+    text: Rusové chtějí do poloviny března dobýt Kyjev, „čeká nás tvrdá zima“ → viz [Predikce](../predikce.md)
+  - tema: Alternativy (Štěpán, Drulák)
+    text: jsou to „elitáři“; jedinou alternativou je ČR na 1. místě (opakuje).
+  - tema: Změna systému
+    text: odvolatelnost politiků, zákaz lobbingu a politické reklamy; Starmera nahradil „ještě horší“
+      Burnham (opakuje).
+  - tema: Kampaň proti Babišovi
+    text: nenávist se teď obrátí proti Babišovi, který „nemá šanci“ (opakuje).
 vyroky:
 - id: vrabel-2026-10-25-01
   typ: tvrzeni
@@ -26,6 +89,13 @@ vyroky:
     bez odezvy.
   citace:
   - text: Takže tenhle režim si tady vypěstovává svoje vlastní teroristy.
+  osoby:
+  - osoba: anton-klobuckin
+    vztah: negativni
+    kontext: Útok barvou v roce 2023, „terorista“ vypěstovaný režimem, podezřelé cesty do Jordánska
+  - osoba: tomas-cermak
+    vztah: pozitivni
+    kontext: Nespravedlivě 5,5 roku za slova
   podtema: Kauza Jesenicko — Stanjura obviněn ze zneužití povodňové půjčky
 - id: vrabel-2026-10-25-02
   typ: tvrzeni
@@ -43,6 +113,13 @@ vyroky:
     organizace, která dělá válečnou propagandu“ a měla by se buď celá vyměnit, nebo zrušit.'
   citace:
   - text: Hele, nám dělají Majdan. Nám tady nás začínají jako rozdělovat Rusko-Západ úplně brutálně.
+  osoby:
+  - osoba: mikulas-minar
+    vztah: negativni
+    kontext: Demonstrace na Staroměstském náměstí = „největší propaganda na ulicích“, „dělají Majdan“
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Skrytý zrádce, poplatky zrušil možná na pokyn EU (50:50), pro článek 5 zvedne ruku první
   podtema: Česká televize a mainstreamová média
 - id: vrabel-2026-10-25-04
   typ: tvrzeni
@@ -75,3 +152,62 @@ vyroky:
   citace:
   - text: Policie nikdy není brutální, pokud nedostane rozkaz shora.
   podtema: Represe a policejní brutalita na Západě
+- id: vrabel-2026-10-25-08
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: po Evropě „velmi brzo“ zavlají rudé vlajky — návrat socialismu
+  text: Na Západě se velmi brzy objeví myšlenky socialismu a po Evropě budou vlát rudé vlajky.
+  citace:
+  - text: Uvidíte prostě velmi brzo začnou vlát rudý vlajky všude, po Evropě, na západě a začnou se objevovat
+      myšlenky socialismu.
+  predikce:
+    horizont: „velmi brzo“
+    stav: ceka
+- id: vrabel-2026-10-25-09
+  typ: predikce
+  temata:
+  - kauzy
+  nadpis: Rusové chtějí dobýt Kyjev do poloviny března, „čeká nás tvrdá zima“
+  text: Rusko se do poloviny března 2027 pokusí dostat do Kyjeva a dobýt Ukrajinu.
+  citace:
+  - text: Nás čeká těžká zima, protože Rusové do března chtějí dobít Ukrajinu, chtějí se dostat do Kyjeva,
+      někdy do poloviny března.
+  predikce:
+    horizont: polovina března 2027
+    stav: ceka
+- id: vrabel-2026-10-25-10
+  typ: predikce
+  temata:
+  - media-propaganda
+  nadpis: 17. listopadu „se něco bude rozehrávat“, ale ne celý Majdan
+  text: Kolem 17. 11. dojde k nějakému vyhrocení či provokacím, ne však k plnému Majdanu.
+  citace:
+  - text: Takže 17. listopadu se něco bude rozehrávat. Nemyslím si, že to bude Majdan úplně.
+  predikce:
+    horizont: 17. 11. 2026
+    stav: vyvraceno
+    horizont_do: 2026-11-17
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: 17. 11. se podle Vrabelova vlastního vysílání nic „nerozehrálo“, šlo o „obyčejný den“ s oslavami
+        na Národní
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Shodně s vyvrácenou predikcí z 9. 11. Část „ne celý Majdan“ platí jen formálně.
+- id: vrabel-2026-10-25-11
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Jindřich Rajchl
+  text: 'Terč: Jindřich Rajchl.'
+  citace:
+  - text: My jsme mu věřili a on se postavil s nepřítelem proti nám. […] To je to nejhorší, co se může
+      stát. Ve válce takový lidi se okamžitě střílí.“ / „Jindra, to je prostě, on je opravdu satanista.
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Satanista“, „největší ekel v české politice“, zrádce; „ve válce se takoví lidé střílí“
+  teror:
+    terc: Jindřich Rajchl
+    hranicni: false

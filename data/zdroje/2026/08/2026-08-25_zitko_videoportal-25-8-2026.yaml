@@ -47,6 +47,11 @@ vyroky:
     Zítko tvrdí, že premiér Petr Fiala se „podřekl" a přiznal, že Česká republika dodávala zbraně a munici Ukrajině ještě před zahájením ruské „speciální operace" 24. února 2022 — což podle něj naplňuje skutkovou podstatu trestného činu podle § 406 a § 407 trestního zákoníku (příprava útočné války). Srovnává to s vlastní tezí o cvičení NATO „Černý lev" před invazí 1968 (viz [Petr Pavel](petr-pavel.md#rok-1968-jako-předběhnutí-chystané-invaze-nato--zítko-cituje-hlasování-sssr-a-cvičení-černý-lev-25-8-2026)) jako důkaz opakujícího se vzorce — přípravy Západu na konflikt předcházející oficiálnímu zahájení bojů.
 
     ⚡ **Poznámka:** Tvrzení o konkrétním „přiznání" Petra Fialy nelze ověřit z veřejně dostupných zdrojů; § 406–407 trestního zákoníku se týkají přípravy útočné války vedené Českou republikou, nikoli dodávek zbraní třetí straně.
+  osoby:
+  - osoba: petr-fiala
+    vztah: negativni
+    kontext: Tvrzení, že se „přiznal" k dodávkám zbraní Ukrajině před 24. únorem 2022 — obviněn z přípravy
+      útočné války (§406–407)
   podtema: Trestní stíhání kritiků covidu
 - id: zitko-2026-08-25-05
   typ: tvrzeni
@@ -66,6 +71,15 @@ vyroky:
     za svobodu projevu" — a označuje účast politika Petra Štěpánka (Trikolóra) i řešení blízkovýchodního
     konfliktu na panelu o „středoevropské spolupráci" za tematicky nepatřičné pro akci prezentovanou jako
     vlastenecká.'
+  osoby:
+  - osoba: marek-stonis
+    vztah: negativni
+    kontext: Šéfredaktor deníku T.O. a porotce ankety o svobodě projevu — kritizován za vyhození redaktora
+      Pavla Cimbála a za nominaci Cyrila Svobody
+  - osoba: cyril-svoboda
+    vztah: negativni
+    kontext: Nominován v anketě jako „největší hrdina svobody projevu" — Zítko to odmítá jako výsměch
+      s ohledem na jeho roli v tvorbě ústavy
   podtema: Trestní stíhání kritiků covidu
 - id: zitko-2026-08-25-06
   typ: tvrzeni

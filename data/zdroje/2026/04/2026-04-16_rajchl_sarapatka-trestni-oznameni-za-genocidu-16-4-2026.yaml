@@ -21,4 +21,13 @@ vyroky:
     Rajchl to označuje za absurdní: byl obviněn ze „schvalování genocidy" za výrok, v němž si genocidu výslovně **nepřál**. Tvrdí, že kdyby byl obvinen, půjde k soudu bez poslanecké imunity — „rád bych si to absurdní divadlo přišel podívat." Zároveň plánuje podat podnět ke kárnímu řízení na advokáta Ostrého, protože etický kodex advokátům zakazuje podávat zjevně nedůvodná trestní oznámení na jiného advokáta.
 
     Rajchl případ zasazuje do širší logiky: na Ukrajině je možné schvalovat atentát na Fica, přát smrt celému národu — „ale není možné si nepřát genocidu ze strany banderovců vůči civilnímu obyvatelstvu na Donbase."
+  osoby:
+  - osoba: zdenek-sarapatka
+    vztah: negativni
+    kontext: Podal trestní oznámení za „schvalování genocidy" za Rajchlův výrok v Máte slovo; Rajchl ho
+      přezdívá „Špína", označuje oznámení za absurdní
+  - osoba: artur-ostry
+    vztah: negativni
+    kontext: Advokát Šarapatky; Rajchl plánuje podat podnět ke kárnímu řízení za zjevně nedůvodné trestní
+      oznámení na jiného advokáta
   podtema: Trestní oznámení za schvalování genocidy — Šarapatka vs. Rajchl

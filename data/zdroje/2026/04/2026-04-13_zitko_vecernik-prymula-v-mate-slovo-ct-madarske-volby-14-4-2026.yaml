@@ -19,6 +19,15 @@ vyroky:
     Zítko reaguje na avizovaný díl pořadu Michaely Jílkové „Máte slovo" (16. 4. 2026), kde má vystoupit Roman Prymula na téma očkování. Ve veřejném prohlášení ČT v upoutávce prý Prymula tvrdil, že vakcíny COVID-19 způsobily 15 000 úmrtí v ČR a 20 milionů celosvětově. Zítko označuje tato čísla za „tisíckrát podhodnocená": jako protidůkaz cituje dokument CDC z vlády USA (veřejně dostupný, přiložený ke spisu u OS v Chomutově), kde stálo, že k 28. srpnu 2021 zemřelo v USA 150 000 lidí a očkování má „čistě negativní přínos" — tj. více lidí umírá po vakcíně než na samotný COVID-19. Zítko vyzývá ČT, aby pro vyváženost pozvala do pořadu i jeho. Jako další reference uvádí Dr. Ute Krugerovou a její knihu *Geimpft Gestorben* (Očkován, zemřel).
 
     ⚡ **Poznámka:** Tvrzení o 150 000 amerických obětech vakcíny a „čistě negativním přínosu" odporuje závěrům CDC, EMA a WHO. Citovaný dokument z OS Chomutov nelze ověřit z veřejně dostupných zdrojů.
+  osoby:
+  - osoba: roman-prymula
+    vztah: negativni
+    kontext: Označen za lháře — tvrdil 15 000 mrtvých v ČR po vakcíně, ale CDC dokument říká 150 000 v
+      USA a „čistě negativní přínos"
+  - osoba: ute-kruger
+    vztah: pozitivni
+    kontext: Autorka knihy *Geimpft Gestorben* (Očkován, zemřel); citována jako zdroj důkazů o škodlivosti
+      vakcín
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 - id: zitko-2026-04-13-02
   typ: tvrzeni

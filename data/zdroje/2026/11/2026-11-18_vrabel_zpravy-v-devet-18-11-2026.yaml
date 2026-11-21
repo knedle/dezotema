@@ -12,6 +12,70 @@ zdroj:
     témat v denním přehledu, 14 s vlastním úhlem (⚡). Stochastický teror nezjištěn (hraniční: Zelenskyj
     „se bude smažit v pekle tisíce let“ bez výzvy k trestu, „někteří Ukrajinci jsou prostě náckové“).
     Zpracováno podle podkladů pomocného agenta, citace ověřeny v přepisu.'
+  osoby:
+  - osoba: karel-havlicek
+    vztah: negativni
+    kontext: Smlouva na „třikrát dražší“ americký plyn
+  - osoba: filip-turek
+    vztah: negativni
+    kontext: „Sype tady ty větráky“
+  prehled:
+  - tema: Půjčka EU Ukrajině 45 mld. eur
+    text: jsou to „dvě půjčky“, platíme z rozpočtu, Babišovo „neručíme“ je nesmysl
+    vyrok: vrabel-2026-11-17-06
+  - tema: Málo diváků
+    text: sociální sítě ho podle něj „zase neukazují“.
+  - tema: 'Studie NATO: Evropě hrozí nedostatek leteckého paliva'
+    text: kdo by ho poslouchal, věděl by to o půl roku dřív (opakuje).
+  - tema: Muniční iniciativa dodává přes 60 % munice pro Ukrajinu
+    text: za Fialy problém, za Babiše „v pohodě“ (opakuje).
+  - tema: Kariéra Jakuba Landovského
+    text: „spojka mezi globalisty“ napříč vládami
+    vyrok: vrabel-2026-11-18-08
+  - tema: Sankce EU na irského novináře
+    text: „proruský narativ“ je vše mimo ČT, v ČR do roka
+    vyrok: vrabel-2026-11-18-05
+  - tema: Píseň Rasputin
+    text: Pražané podle něj Rusko milují.
+  - tema: Colby kritizuje ukrajinské údery v Rusku
+    text: štvaní Rusů proti Putinovi selhalo, Putin má kolem 60 %
+    vyrok: vrabel-2026-11-18-10
+  - tema: Bombové výhrůžky, „zmařený ruský útok“ v Polsku, Estonsko
+    text: „musí to být Rusové“, riziko false flag
+    vyrok: vrabel-2026-11-18-10
+  - tema: Ruští junioři nesmí na hokej do ČR
+    text: současná vláda podle něj pokračuje v Rakušanově linii (opakuje).
+  - tema: Petice za prošetření geoinženýrství (Dluhý)
+    text: ať Senát prověří, zda z nebe prší kovy
+    vyrok: vrabel-2026-11-18-03
+  - tema: Putinův jaderný kufřík na APEC
+    text: „jaderný čemodánček“.
+  - tema: Čína a roboti
+    text: Čína je „velmoc číslo jedna“
+    vyrok: vrabel-2026-11-14-05
+  - tema: Summit APEC v Šen-čenu
+    text: „milník“, „nový multipolární svět“, poděkovat Rusku a Číně
+    vyrok: vrabel-2026-11-14-05
+  - tema: Izrael v Gaze, Netanjahu „prohraný“
+    text: Trump vázán „sionistickým lobby“, druhé kolo války s Íránem do 7. 12.
+    vyrok: vrabel-2026-11-17-01
+  - tema: Krymský most a výzvy k odvetě Orešnikem
+    text: během summitu čeká klid (viz [Predikce](../predikce.md)).
+  - tema: Řídí Čínu Kneset?
+    text: ne, globalistické finance působí i v Rusku a Číně, „ne za vším stojí chazarští židé“
+    vyrok: vrabel-2026-11-18-04
+  - tema: Co si vyjednají Trump, Putin a Si
+    text: jaderné neútočení, Írán, Tajvan, záruka pro Rusko vůči Evropě
+    vyrok: vrabel-2026-11-14-05
+  - tema: Zelenskyj
+    text: „se bude smažit v pekle tisíce let“ za válku a „miliony mrtvých“
+    vyrok: vrabel-2026-11-18-04
+  - tema: Lavrov, americký plyn a Havlíček
+    text: dlouhodobé kontrakty, ale „třikrát dražší“
+    vyrok: vrabel-2026-11-18-02
+  - tema: Studie Pew o islámu
+    text: „největší problém našeho světa je islám“, „systém, ne náboženství“
+    vyrok: vrabel-2026-11-18-06
 vyroky:
 - id: vrabel-2026-11-18-01
   typ: tvrzeni
@@ -26,6 +90,13 @@ vyroky:
   citace:
   - text: Jak už jsem vám říkal včera, předpokládám, že někdy mezi 19. a 20. až někdy 7. příštího měsíce
       by mělo začít druhý kolo války v Íránu.
+  osoby:
+  - osoba: donald-trump
+    vztah: rozporuplny
+    kontext: Chce jaderné neútočení, ale útok na Írán; vázán „sionistickým lobby“
+  - osoba: benjamin-netanjahu
+    vztah: negativni
+    kontext: „Prohraný“
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-11-18-02
   typ: tvrzeni
@@ -56,6 +127,10 @@ vyroky:
     „sype tady ty větráky“.'
   citace:
   - text: Tak ať to prověří, ať udělají rozbory, ať pověří příslušné úřady, ať víme, jaký je tady bezpečí.
+  osoby:
+  - osoba: radovan-dluhy
+    vztah: pozitivni
+    kontext: Petice o geoinženýrství, „asi dělá dobrou práci“
   podtema: Historické konspirační výklady
 - id: vrabel-2026-11-18-04
   typ: tvrzeni
@@ -74,6 +149,10 @@ vyroky:
   citace:
   - text: Takže ono to nebude úplně tak jednoduché, jako že by rodina Rothschildovic a Rockefellerovic
       řídila kompletně celou Čínu.
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: „Se bude smažit v pekle tisíce a tisíce let“, „miliony mrtvých“
   podtema: Náboženský a okultní výklad moci
 - id: vrabel-2026-11-18-05
   typ: tvrzeni
@@ -88,6 +167,10 @@ vyroky:
   citace:
   - text: Jestli to je dneska v Irsku, tak bych čekal, že v České republice to přijde tak do půl roku,
       maximálně do roku.
+  osoby:
+  - osoba: chay-bowes
+    vztah: pozitivni
+    kontext: Sankce EU za „proruské narativy“ jako umlčení
   podtema: Blokace zahraničních médií v ČR
 - id: vrabel-2026-11-18-06
   typ: tvrzeni
@@ -106,6 +189,10 @@ vyroky:
   citace:
   - text: Takže islám je z velký částky ekonomický, politický, sociální a právní systém. Z větší částky,
       než je to náboženství.
+  osoby:
+  - osoba: prorok-mohamed
+    vztah: negativni
+    kontext: Vzor islámského práva, údajné sňatky s dětmi
 - id: vrabel-2026-11-18-07
   typ: tvrzeni
   temata:
@@ -121,6 +208,10 @@ vyroky:
   citace:
   - text: To je to, za co říkal Andrej Babiš, že nebudeme ručit. To je ta první půjčka, což je samozřejmě
       nesmysl.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Neručíme“ je nesmysl, od Fialy se liší jen slovy; nechává „spolehlivé“ lidi globalistů
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-11-18-08
   typ: tvrzeni
@@ -136,6 +227,10 @@ vyroky:
   citace:
   - text: Jak se nám to tady hezky mění, ty vlády, ale soudruh Landovský zůstává jako spojka mezi globalisty,
       Aspen Institutem a NATO a Českou republikou pořád.
+  osoby:
+  - osoba: jakub-landovsky
+    vztah: negativni
+    kontext: „Spojka mezi globalisty, Aspen Institutem a NATO“
   podtema: EU jako vojenská struktura
 - id: vrabel-2026-11-18-09
   typ: tvrzeni
@@ -155,6 +250,13 @@ vyroky:
     nemám žádné informace“. Během summitu čeká klid i navzdory výzvám k odvetě Orešnikem za Krymský most.'
   citace:
   - text: Dneska je tady nový multipolární svět.
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: Popularita kolem 60 %, multipolární svět
+  - osoba: si-tin-pching
+    vztah: pozitivni
+    kontext: „Velmoc číslo jedna“
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-11-18-10
   typ: tvrzeni
@@ -172,4 +274,30 @@ vyroky:
   citace:
   - text: I kdyby v životě nebyli v Rusku, v životě nepotkali Rusa, nikdy neviděli ruskej pas a nikdy
       neviděli ani rubl, tak to musí být Rusové.
+  osoby:
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: Popularita „hluboko pod patnáct“
+  - osoba: emmanuel-macron
+    vztah: negativni
+    kontext: Popularita „hluboko pod patnáct“
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-11-18-11
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: po Šen-čenu se USA vrátí k válce s Íránem a „chytí Kubu“ až po Grónsko, Rusko dostane volnou
+    ruku vůči Evropě; sankce EU na české novináře do roka
+  text: Trump, Putin a Si se podle Vrabela dohodnou na vzájemném neútočení a nepoužití jaderných zbraní.
+    Putin dostane záruku, že USA nezasáhnou, kdyby použil zbraně proti Evropě. Pak se USA vrátí k válce
+    s Íránem, „chytí Kubu“ a další státy „až po Grónsko“ a Čína si vezme Tajvan. Během summitu bude klid
+    (bez odvety Orešnikem). Sankce EU podobné těm proti irskému novináři dopadnou na české novináře „do
+    půl roku, maximálně do roku“.
+  citace:
+  - text: A pak, když se tohle stane, a předpokládám, že se to stane, tak předpokládám potom, že USA bude
+      zpátky do války na Írán, bude chytat Kubu, samozřejmě i ostatní státy okolo v celý té oblasti až
+      po Grónsko.
+  predikce:
+    horizont: po summitu APEC (od 19. 11. 2026), neurčeno; sankce na novináře do 18. 5.–18. 11. 2027
+    stav: ceka
+    horizont_do: 2027-11-18

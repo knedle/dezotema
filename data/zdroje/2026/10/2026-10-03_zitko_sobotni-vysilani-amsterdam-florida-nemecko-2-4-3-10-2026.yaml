@@ -21,6 +21,10 @@ vyroky:
     kde je soudkyně Dvořáková označila za dezinformaci. Bourlu nazývá „masovým vrahem, pachatelem genocidy“.
     Odkazuje na Kennedyho: vakcíny za 60 mld. USD, léčba poškozených za 500 mld. USD, takže jde o „obchodní
     model“.'
+  osoby:
+  - osoba: michal-pijak
+    vztah: rozporuplny
+    kontext: Dřív „na straně covidové mafie“, nyní se „přepřáhl“ (žaloba na Pfizer)
   podtema: Vakcíny
 - id: zitko-2026-10-03-02
   typ: tvrzeni
@@ -33,6 +37,10 @@ vyroky:
     Proces má být „signálem“ i pro Prymulu, Kubka, Flegra, Chlíbka a „další gaunery, kteří tu prováděli
     vakcinační holokaust, genocidu národa a sterilizaci“. Zmiňuje i „Čákovu věštbu“ o Amsterdamu, kalendáře,
     které „končí 4. října a začínají 15.“, a Trumpovo „to začne v pondělí“.'
+  osoby:
+  - osoba: reiner-fuellmich
+    vztah: pozitivni
+    kontext: Má být propuštěn a připojit se k amsterdamskému procesu
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 - id: zitko-2026-10-03-03
   typ: tvrzeni
@@ -85,6 +93,16 @@ vyroky:
     covidu“ z 26. 1. o vystoupení z WHO a zrušení očkovací strategie), takže jsou jen „služebníci globalistů“.
   citace:
   - text: Jediná šance pro nás a pro budoucnost našich dětí je Československo.
+  osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: „Služebník globalistů“, nic se nezměnilo
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Nesplnil „desatero o covidu“ (WHO, očkovací strategie)
+  - osoba: dan-vavra
+    vztah: negativni
+    kontext: Představitel „chciválek“ (sbírky na zbraně)
 - id: zitko-2026-10-03-07
   typ: tvrzeni
   temata:
@@ -109,3 +127,44 @@ vyroky:
     Biden byl „popraven ještě než nastoupil do úřadu“ a celé funkční období vládl dvojník (důkazem má
     být gesto s automatickým perem při návštěvě Si Ťin-pchinga). Ivana Trump podle něj žije a „vyskočí
     z dortu“.'
+- id: zitko-2026-10-03-09
+  typ: predikce
+  temata:
+  - covid-vakciny
+  nadpis: 22. 10. v Amsterdamu usednou Gates, Bourla a Rutte na lavici obviněných
+  text: Na jednání 22. října 2026 v Amsterdamu budou Bill Gates, Albert Bourla a Mark Rutte obžalovaní
+    (svědek Mike Yeadon), což bude signálem i pro české „covidové“ aktéry. Reiner Fuellmich by měl být
+    do té doby propuštěn.
+  citace:
+  - text: Amsterdam, to je dějiště toho, že konečně tam budou obviněni [...] Bill Gates, Albert Bourla
+      [...] a Mark Rutte, tak ty zasednou na lavici obviněných.
+  osoby:
+  - osoba: albert-bourla
+    vztah: negativni
+    kontext: „Masový vrah, pachatel genocidy“, obžalovaný v Amsterdamu i na Floridě
+  predikce:
+    horizont: 22. 10. 2026
+    stav: castecne
+    horizont_do: 2026-10-22
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: jednání 22. 10. proběhlo v Leeuwardenu (ne v Amsterdamu) jako civilní věc, bez osobní účasti
+        obžalovaných; propuštění Fuellmicha se nepotvrdilo
+      stav: castecne
+    - datum: 2026-11-20
+      text: Viz predikci z 20. 10. Fuellmich byl podle petice za jeho propuštění 8. 10. jen přemístěn
+        do jiné věznice.
+- id: zitko-2026-10-03-10
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Prymula, Kubek, Flegr, Chlíbek; Albert Bourla
+  text: 'Terč: Prymula, Kubek, Flegr, Chlíbek; Albert Bourla.'
+  citace:
+  - text: …ty Primulové, Kupkové, Flégrové, Chlípkové a další gauneři, který tady prováděli na našem území
+      vakcinační holokaust, genocidu národa a sterilizaci obyvatelstva“; Bourla „masový vrah, pachatel
+      genocidy“. Jmenovaní terči s obviněním z genocidy, v kontextu očekávaného tribunálu („řitní svěrače
+      budou mačkat“)
+  teror:
+    terc: Prymula, Kubek, Flegr, Chlíbek; Albert Bourla
+    hranicni: false

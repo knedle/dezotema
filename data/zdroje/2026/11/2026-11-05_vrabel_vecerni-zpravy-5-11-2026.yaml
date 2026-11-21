@@ -9,6 +9,80 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 9 min, zprávy čte Zuzka; Vrabel vysílá z cesty ze Srbska (benzínka), několik výpadků spojení;
     Zuzka čte Babišovu písemnou odpověď na výzvy ze 3. 10.
+  osoby:
+  - osoba: tucker-carlson
+    vztah: pozitivni
+    kontext: „Nejznámější novinář na světě“
+  - osoba: benjamin-netanjahu
+    vztah: negativni
+    kontext: Tlačí Trumpa k útoku na Írán, „prohrál volby“, u moci ho udrží jen válka
+  - osoba: j-d-vance
+    vztah: rozporuplny
+    kontext: Distancuje se kvůli kandidatuře, „připravovaný“
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: S Rusy nejedná, „vyhrabává se z Donalda Trumpa“
+  - osoba: marketa-gregorova
+    vztah: negativni
+    kontext: 'K jejímu zadržení: „Je to velká škoda, že si ji tam nenechali.“'
+  - osoba: ursula-von-der-leyenova
+    vztah: negativni
+    kontext: Účast na summitu V4 „zvláštní“, „baba“
+  prehled:
+  - tema: Brutální policie na demonstracích v Paříži a Toulouse
+    text: situace v Evropě „velmi rychle a velmi silně eskaluje“.
+  - tema: Russell Brand uznán vinným ze znásilnění a sexuálních útoků z roku 1999
+    text: Brand byl jeho vzor pro veřejné vystupování; rozsudek je likvidace kritika globalismu, srovnání
+      s Assangem („takhle to s náma dělají globalisté“)
+    vyrok: vrabel-2026-11-05-05
+  - tema: Babiš písemně odpověděl na výzvy ze shromáždění 3. 10.
+    text: vláda podle dopisu jaderné zbraně „neplánuje“ — „buď obrovská výhra naše, nebo nedorozumění“,
+      chce schůzku; dodávky zbraní na Ukrajinu pokračují, zmocněnec pro mír nebude
+    vyrok: vrabel-2026-11-05-03
+  - tema: Summit prezidentů V4 v Trenčíně s von der Leyenovou
+    text: Pavlova „jednotná Evropa“ je „další globalizace“ (opakuje).
+  - tema: Bombové výhrůžky v evropských letadlech
+    text: mohl by to být „útok pod falešnou vlajkou“ svedený na Rusko (opakuje).
+  - tema: 'Tucker Carlson: Netanjahu tlačí Trumpa k útoku na Írán, úvaha o jaderné zbrani'
+    text: „největší hrozba pro planetu“; Netanjahu „jak jsme předpokládali, v podstatě prohrál volby“
+      a u moci ho udrží jen válka; Vance se „očišťuje“ kvůli kandidatuře, Musk a Thiel mají vlastní agendu.
+  - tema: Studentské protesty v Evropě, 1,6 mil. lidí ve Francii
+    text: násilí „musí být řízená věc“ (výjimečný stav, stanné právo, odvedení pozornosti); protesty ČT
+      a ČRo rozehrávají „pravděpodobně CIA a MI6“, vše „stejně řízené jako covid“
+    vyrok: vrabel-2026-11-05-04
+  - tema: Jednání o bezpečnostních zárukách v Bruselu (Umerov)
+    text: záruky znamenají vojska NATO na Ukrajině, utajení „strašně nebezpečné“ (opakuje).
+  - tema: Íránský generál Rezaí, íránští představitelé u Putina
+    text: Carlson „nejznámější novinář na světě“; americký program 90denní soběstačnosti základen zní
+      „velmi nebezpečně“.
+  - tema: Macinka a sankce proti Izraeli
+    text: Macinka s Rusy nejedná a „vyhrabává se z Donalda Trumpa“.
+  - tema: Babiš obsadí místo poradce pro národní bezpečnost, Pavel podporuje
+    text: „dva nejlepší kamarádi“ (opakuje).
+  - tema: Fico podepsal ve Lvově deklaraci o spolupráci s Ukrajinou
+    text: Fico „nikdy nebyl Štefan Harabin“, bez většiny „plave“; čeká vyslovení nedůvěry a pád vlády
+      → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-05-06
+  - tema: 'WSJ: NATO chystá strategii konvenčních úderů hluboko do Ruska'
+    text: „naplňují se ty nejčernější scénáře“ (opakuje).
+  - tema: Poplatek za podzemní vodu ze 2 na 7 Kč/m³
+    text: „další okrádání lidí“, vodu prodává zahraniční kapitál; sucho podle něj způsobuje „ovlivňování
+      počasí skrze člověka“, beton a větrníky, řešením jsou přehrady
+    vyrok: vrabel-2026-11-05-01
+  - tema: Sněmovna schválila zákon o digitální ekonomice k DSA
+    text: „jsme protektorát řízený z Bruselu“; brzy bude povinné prokazovat totožnost na internetu, AI
+      vytváří psychologické profily → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-05-02
+  - tema: Vojáci Bundeswehru ve Varšavě (výročí)
+    text: sarkasticky naznačuje, že přijeli pomoci Tuskovi s „pučem“, Bundeswehr má „stejné velení“ jako
+      Wehrmacht
+    vyrok: vrabel-2026-11-05-07
+  - tema: Zadržení europoslankyně Markéty Gregorové při vstupu do země
+    text: zprávu přeskočil se slovy „Je to velká škoda, že si ji tam nenechali.“
+  - tema: „Zelenského mučírna“ u Kyjeva (Molodova ve vazbě)
+    text: jde o skutečné mučení dezertérů, „peklo“ a „boj těch struktur proti lidem na život a na smrt“;
+      sám by vysvobození organizoval
+    vyrok: vrabel-2026-11-05-08
 vyroky:
 - id: vrabel-2026-11-05-01
   typ: tvrzeni
@@ -55,6 +129,11 @@ vyroky:
     si s námi“).'
   citace:
   - text: Možná, že ten náš tlak přišel ve správnou chvíli.
+  osoby:
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: Odpověď o jaderných zbraních možná „obrovská výhra“, žádá schůzku; u dalších výzev „si s
+      námi vytřel“
 - id: vrabel-2026-11-05-04
   typ: tvrzeni
   temata:
@@ -83,6 +162,10 @@ vyroky:
     („brutální režim“).'
   citace:
   - text: Takhle to s náma dělají, takhle to s náma dělají globalisté.
+  osoby:
+  - osoba: russell-brand
+    vztah: pozitivni
+    kontext: Jeho vzor, odsouzení je „absolutní katastrofa“, „takhle to s náma dělají globalisté“
   podtema: Politická perzekuce
 - id: vrabel-2026-11-05-06
   typ: tvrzeni
@@ -97,6 +180,13 @@ vyroky:
   citace:
   - text: Co se týče Roberta Fica, tak Robert Fico nikdy nebyl Štefan Harabín, že by byl absolutně řekněme
       pro suverenitu Slovenska, že by nebyl pro válku na Ukrajině.
+  osoby:
+  - osoba: robert-fico
+    vztah: rozporuplny
+    kontext: „Nikdy nebyl Štefan Harabin“, „plave“, podepsal deklaraci s Ukrajinou
+  - osoba: stefan-harabin
+    vztah: pozitivni
+    kontext: Měřítko skutečného suverenisty
   podtema: Česká suverenita
 - id: vrabel-2026-11-05-07
   typ: tvrzeni
@@ -124,4 +214,34 @@ vyroky:
     vysvobození organizoval; konflikt podle něj „platíme“ a může se rozšířit do ČR.'
   citace:
   - text: Tohle z toho už je opravdu boj těch struktur proti lidem na život a na smrt, dokonce i s mučením.
+  osoby:
+  - osoba: valerija-molodova
+    vztah: pozitivni
+    kontext: Vysvobodila zraněné z „mučírny“, „bych dělal taky“
   podtema: Stav Ukrajiny a mobilizace
+- id: vrabel-2026-11-05-09
+  typ: predikce
+  temata:
+  - dsa-cenzura
+  nadpis: prokazování totožnosti na internetu bude „velmi brzo“ povinné
+  text: Na základě DSA bude každý uživatel internetu a sociálních sítí muset prokazovat totožnost; anonymní
+    účty skončí.
+  citace:
+  - text: každý, kdo se bude připojovat k sociálním sítím nebo k internetu, tak bude muset prokazovat
+      svoji totožnost. A to bude velmi brzo vyžadováno
+  predikce:
+    horizont: „velmi brzo“ (neurčeno)
+    stav: ceka
+- id: vrabel-2026-11-05-10
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: Ficova vláda padne po vyslovení nedůvěry, na Slovensku bude krize
+  text: Fico po ztrátě parlamentní většiny čelí pokusu o vyslovení nedůvěry, jeho vláda padne a Slovensko
+    čeká politická krize.
+  citace:
+  - text: Asi bych chtěl dovládnout, ale očekávám, kdy to přijde, ta snaha o vyvolání nedůvěry v jeho
+      vládě, kdy padne na Slovensku vláda a bude tam nějaká krize.
+  predikce:
+    horizont: neurčeno (blízká budoucnost)
+    stav: ceka

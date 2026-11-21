@@ -20,4 +20,9 @@ vyroky:
   text: 'Zítko doplňuje konkrétní číslo z veřejně dostupného soudního rozhodnutí: Václav Moravec pobíral
     v ČT 141 000 Kč za hodinu; při třech hodinách vysílání týdně (12 hodin měsíčně) to vychází přibližně
     na 1,7 milionu Kč měsíčně — a to z peněz koncesionářů.'
+  osoby:
+  - osoba: vaclav-moravec
+    vztah: negativni
+    kontext: 'Soudním rozhodnutím bylo ČT nuceno zveřejnit: 141 000 Kč/hodinu; při 3 hod/týdně (12 hod/měs)
+      = přibližně 1,7 milionu Kč měsíčně z koncesionářských poplatků'
   podtema: Mainstream jako politický aktivismus

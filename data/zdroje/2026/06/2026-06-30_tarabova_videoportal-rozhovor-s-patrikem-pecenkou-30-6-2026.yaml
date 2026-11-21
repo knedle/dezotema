@@ -27,6 +27,14 @@ vyroky:
     Klíčový právní argument: veškerých ~600 mimořádných opatření vydaných od března 2020 do února 2022 stálo na tvrzení o počtu pozitivních PCR/antigenních testů — žádný test použitý v ČR ale nebyl validován vůči referenční jednotce. Jako důkaz uvádí kontrolu SÚKL (vyžádanou přes podnět kolegy Davida Šupíka), která k testům firmy Diana Bion Technologies (hojně používaným v ČR) potvrdila, že nesplňují zákon o zdravotnických prostředcích pro in vitro diagnostiku a validovány nebyly — jejich výsledky tak mají „nulitní výpovědní hodnotu". Z toho vyvozuje, že všechna mimořádná opatření jsou právně neplatná („nulitní"), a požaduje zákon, který by to výslovně deklaroval — otevřelo by to cestu k odškodnění lidí pokutovaných, propuštěných z práce nebo bez příjmu kvůli izolaci, i těch se zdravotními následky po očkování. Zmiňuje, že její vlastní žalobu na ministerstvo zdravotnictví Městský soud v Praze zamítl s tím, že otázka validity testů je pro řízení „nepodstatná". Zároveň sleduje probíhající slyšení amerického Senátu k covidové politice a doporučuje do jejich uzavření preventivně zakázat mRNA vakcíny i v Evropě.
   citace:
   - text: Veškerá ta mimořádná opatření [...] mají právně nulitu.
+  osoby:
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: Přiznal covidové chyby (leden 2026), ale bez nápravných kroků jeho slova „nic neznamenají"
+      — chybí zákaz mRNA vakcín a vyšetřování poradních orgánů
+  - osoba: roman-prymula
+    vztah: negativni
+    kontext: „Ohromný střet zájmu" — měl by stát před soudem, ne vystupovat v médiích
   podtema: PCR testy
 - id: tarabova-2026-06-30-02
   typ: tvrzeni

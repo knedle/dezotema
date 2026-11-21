@@ -7,6 +7,36 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1544889507434050
   prepis: prepisy/done/2026-08-23_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  osoby:
+  - osoba: jiri-havel
+    vztah: negativni
+    kontext: Bývalý spolupracovník — obviněn z krádeže e-mailových adres sledujících a šíření pomluv o
+      satanismu manželky; „má nějakou diagnózu"
+  prehled:
+  - tema: Rozpad vlastenecké scény — obvinění z agenturní spolupráce s BIS/policií, cenzura na Raptor
+      TV
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Vlastní bezpečnostní situace — proč žije v Srbsku
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Vysvětlení konceptu vlastenectví a shrnutí setkání v
+    text: Vysvětlení konceptu vlastenectví a shrnutí setkání v Příčovech (Okamura, Novotný, Michal Svatoš)
+      — nezpracováno (z větší části opakování 22.8)
+  - tema: Proč je migrace pro ČR jiná než pro Británii/Německo/Francii/Španělsko (kolonialismus vs. migrační
+      pakt)
+    text: → [Migrace](../migrace.md)
+  - tema: '⚡ Stochastický teror: výzva zastřelit ministra obrany Izraele'
+    text: → [Stochastický teror](../stochasticky-teror.md)
+  - tema: '"Kontrolní seznam" ztráty suverenity — jen koruna zůstala česká'
+    text: → [Suverenita a EU](../suverenita-eu.md)
+  - tema: Kryptodolar nahrazující petrodolar, tokenizace majetku, Fed jako pyramida
+    text: nezpracováno (opakování zavedených témat)
+  - tema: Turecko/Izrael/Írán/Sýrie eskalace do „světové války"
+    text: nezpracováno (opakování)
+  - tema: Osobní spor s Jiřím Havlem (ukradené e-maily, obvinění manželky ze satanismu)
+    text: nezpracováno (osobní spor)
+  - tema: Organizace veřejného shromáždění 3. 10. na Malostranském
+    text: Organizace veřejného shromáždění 3. 10. na Malostranském náměstí, hypotetický scénář zastropování
+      cen elektřiny — nezpracováno (organizační/opakování)
 vyroky:
 - id: vrabel-2026-08-23-01
   typ: tvrzeni
@@ -40,6 +70,21 @@ vyroky:
     shromáždění 3. 10., a příspěvky informující o akci byly na stránce Raptor TV mazány jako „vrábelovský
     spam". Vrabel to dává do kontextu rozpadu vlastenecké scény na soupeřící politická ega před volbami,
     kde se z „vlastenectví" stal komerční produkt.
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Spolu s Tarabovou šíří tvrzení, že Vrabel je agent BIS/spolupracuje s policií; dříve zakázal
+      ruské vlajky na demonstracích jako „protistranu"
+  - osoba: tarabova
+    vztah: negativni
+    kontext: Spolu s Rajchlem šíří tvrzení, že Vrabel je agent BIS
+  - osoba: stanislav-novotny
+    vztah: negativni
+    kontext: Bývalý policejní prezident — veřejně tvrdí, že Vrabel je agent BIS
+  - osoba: zarko-jovanovic
+    vztah: negativni
+    kontext: Majitel Raptor TV — dle Vrabela uvalil na jeho hnutí neoficiální cenzuru (odmítnutí natáčet,
+      mazání komentářů)
   podtema: Politická perzekuce
 - id: vrabel-2026-08-23-03
   typ: tvrzeni
@@ -71,3 +116,21 @@ vyroky:
     Češi", mluvilo se česky a vydělané hodnoty zůstávaly doma — na rozdíl od dnešního stavu, kdy je ČR
     podle něj „v procesu rozmělňování se" do evropských struktur.'
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-08-23-05
+  typ: stoch-teror
+  temata:
+  - suverenita-eu
+  nadpis: ministr obrany Izraele
+  text: terč identifikovaný funkcí (ministr obrany Izraele), výzva k jeho zastřelení/popravě v reakci
+    na jeho výrok o zabíjení Libanonců
+  citace:
+  - text: ten člověk běhá po světě, jako toho by měl někdo zavřít nebo zastřelit [...] Zastřelit. Prostě
+      kezdy a popravit.
+  osoby:
+  - osoba: ministr-obrany-izraele
+    vztah: negativni
+    kontext: Za výrok o nutnosti měsíčně zabíjet 30 000 Libanonců by měl být „zavřený nebo zastřelený"
+      (→ [stoch. teror](../stochasticky-teror.md))
+  teror:
+    terc: ministr obrany Izraele
+    hranicni: false

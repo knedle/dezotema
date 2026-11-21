@@ -67,6 +67,11 @@ vyroky:
     vnitra Vítu Rakušanovi. Dává to do souvislosti s obecnou kritikou správy státního dluhu (kterou označuje
     za dluh vytvořený generacemi politiků za posledních 30+ let, ne současnou vládou) a s obavou z opakování
     situace v Německu, kde má být ve školních třídách až 40 % dětí přistěhovalců.
+  osoby:
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: Označen za odpovědného za přijetí migračního paktu EU (30 000 migrantů ročně nebo 15 mld.
+      Kč pokuty)
 - id: cernohorsky-2026-08-27-06
   typ: tvrzeni
   temata:
@@ -85,6 +90,12 @@ vyroky:
     Daniela Hermana) se veřejně smiřuje se Sudetoněmeckým Landsmannschaftem — potomky nacistů odpovědných
     za smrt asi 360 000 Čechů, Moravanů, Slezanů a Romů za 2. světové války — bez srovnatelně formálního
     státnického aktu omluvy.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Kritizován za projev u ČRo 21. 8. srovnávající invazi 1968 se současným Ruskem — obviněn
+      z pokrytectví vůči smíření s Landsmannschaftem; nezodpovězená žádost o informace k financování cesty
+      na F1 v Maďarsku
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: cernohorsky-2026-08-27-07
   typ: tvrzeni
@@ -114,6 +125,11 @@ vyroky:
     (89 000 Kč čistého + 215–250 000 Kč náhrad) a uzavírá, že takové výdaje by si politici měli hradit
     sami. V této souvislosti ironicky chválí Tomia Okamuru za sliby omezit náklady na politické cestování
     a financování neziskových organizací.
+  osoby:
+  - osoba: katerina-urbanova
+    vztah: negativni
+    kontext: Poslankyně STAN — kritizována za plánovanou pracovní cestu na Ukrajinu se zastávkou ve wellness
+      centru za státní peníze
   podtema: USA — volební systém
 - id: cernohorsky-2026-08-27-09
   typ: tvrzeni
@@ -144,6 +160,11 @@ vyroky:
     zahraniční politiky směrem k pragmatismu — staví ho do kontrastu s bývalým ministrem Janem Lipavským,
     kterého označuje hanlivou narážkou na sexuální orientaci. Vyzývá i diváky nesouhlasící s hodnocením
     Ruska jako agresora, aby si projev přesto poslechli.
+  osoby:
+  - osoba: petr-macinka
+    vztah: pozitivni
+    kontext: Pochválen za projev k velvyslancům — pragmatismus místo „hodnotové politiky" vůči Rusku,
+      i přes nesouhlas s tvrzením o Rusku jako agresorovi
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: cernohorsky-2026-08-27-11
   typ: tvrzeni
@@ -157,3 +178,16 @@ vyroky:
     a eskalaci konfliktu připisuje západním vládám (jmenovitě Fialově a Rakušanově politice), které podle
     něj svým postojem umožnily, aby válka vůbec nastala a pokračovala.'
   podtema: Vyjednávání a mír
+- id: cernohorsky-2026-08-27-12
+  typ: stoch-teror
+  temata:
+  - konspirace
+  nadpis: „Židi", globální elity
+  text: jmenovaný terč (Židé) kolektivně dehumanizován obviněním z genocidního zosnování přírodní katastrofy
+    (laviny v Nepálu) jako aktu pomsty
+  citace:
+  - text: za mě, tohle byla pomsta těch globálních hajzlů, těchhle židů, kteří ovládají tenhle ten svět
+      a pomstili se těm nebohým nepálcům.
+  teror:
+    terc: „Židi", globální elity
+    hranicni: false

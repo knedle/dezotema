@@ -7,6 +7,25 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/2900639346962952
   prepis: prepisy/done/2026-08-30_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Jaderný deštník od Francie
+    text: kompletní přehled politiků (Kupka/Rakušan/Pavel/Babiš/Macinka/Zůna pro, SPD formálně proti)
+      — nezpracováno
+  - tema: Opakuje beze změny NATO nepřipravenost a
+    text: Opakuje beze změny NATO nepřipravenost a bitcoinovou/válečnou tematiku z předchozích dnů — nezpracováno
+      (opakování)
+  - tema: Vnitřní spor na vlastenecké scéně — obvinění proti Vrábelovi (BIS agent, krádež, daňové podvody),
+      kritika Petra Hájka a jeho vazeb na ODS/Rajchla
+    text: → [Politický systém](../politicky-system.md), [Kauzy a korupce](../kauzy.md)
+  - tema: Teorie „řízené nenávisti k vládci" — anti-Fiala → anti-Pavel
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Podpora demonstrace KSČM 5. 9. s výhradou vůči rámování „proti Pavlovi"
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Fico
+    text: projev k výročí SNP, nová citace o německém novináři — nezpracováno (opakování s detailem)
+  - tema: WWII jako „válka globalistů proti Slovanům" (nový detail
+    text: BlackRock) a smrt Radka Mladiće (uctívání jako světce v Bělehradu) — nezpracováno (převážně
+      opakování)
 vyroky:
 - id: vrabel-2026-08-30-01
   typ: tvrzeni
@@ -32,6 +51,17 @@ vyroky:
     za jeho podporu — což podle Vrabela vysvětluje, proč Hájek musí současnou vládu hájit a jeho kritiky
     (včetně Vrabela) nálepkovat jako spojence Milionu chvilek. Zmiňuje, že na Hájkovu kampaň veřejně reagovala
     Korina Rybářová (obhájila Vrabela a financování demonstrací sbírkami mezi lidmi).'
+  osoby:
+  - osoba: petr-hajek
+    vztah: negativni
+    kontext: Novinář Protiproud — dlouholeté propojení s ODS a Václavem Klausem, bezplatně zastupován
+      Rajchlem od 2022, což vysvětluje jeho kampaň proti Vrabelovi
+  - osoba: korina-rybarova
+    vztah: pozitivni
+    kontext: Veřejně reagovala na Hájkovu kampaň a obhájila Vrabela
+  - osoba: ivan-david
+    vztah: negativni
+    kontext: Šíří obvinění, že Vrabel je agentem BIS
   podtema: USA — volební systém
 - id: vrabel-2026-08-30-03
   typ: tvrzeni
@@ -50,6 +80,13 @@ vyroky:
     „politice osobností" (koho odstranit) — poukazuje, že klíčové zahraničněpolitické postoje (podpora
     NATO/EU, označení Ruska za agresora, podpora Ukrajiny) sdílí napříč celým politickým spektrem v ČR
     včetně SPD a Okamury, takže v této otázce reálně neexistuje žádná opozice.'
+  osoby:
+  - osoba: katerina-konecna
+    vztah: negativni
+    kontext: Označena za průkopnici techniky „řízené nenávisti" — kampaň „anti-Fiala" před volbami 2025
+  - osoba: zuzana-majerova
+    vztah: negativni
+    kontext: Prohlásila odstranění Petra Fialy/Pavla za „nejvyšší prioritu" — příklad schématu „anti-Pavel"
   podtema: USA — volební systém
 - id: vrabel-2026-08-30-04
   typ: tvrzeni
@@ -65,4 +102,9 @@ vyroky:
     „anti-Pavel" popsaného výše. Zdůrazňuje, že jedinou politickou stranou dlouhodobě a programově usilující
     o vystoupení ČR z EU a NATO je jeho vlastní hnutí, nikoli KSČM (která podle něj referendum o vystoupení
     před volbami 2025 nakonec nekomunikovala).
+  osoby:
+  - osoba: richard-stepan
+    vztah: rozporuplny
+    kontext: Organizátor demonstrace KSČM 5. 9. — Vrabel podporuje akci, ale odmítá jeho rámování Pavla
+      jako „militantního"
   podtema: USA — volební systém

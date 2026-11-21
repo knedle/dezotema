@@ -16,6 +16,27 @@ zdroj:
     2030; sankce neúčinné (Fabrizio Pagani, ex-G20), 21. balíček; Zelenský nelegitimně na G7/NATO, ale
     70 mld. $ jistá; Senát zamítl zpřísnění změny pohlaví + kritika trans-gender ve školách (výrok stochastického
     teroru). Zprávy v devět s komentářem (moderátorka Zuzka)
+  prehled:
+  - tema: G7 jako „válečná schůzka" (Rutte „aktivace obranných
+    text: G7 jako „válečná schůzka" (Rutte „aktivace obranných systémů NATO", Merz/Karney, šéf Luftwaffe,
+      Trump „liška podšitá", USA přesouvá placení na Evropu)
+  - tema: Hormuz
+    text: Trump VIP poplatky za tankery + česká „flotila z Děčína", Katar LNG roky mimo provoz
+  - tema: Ukrajina nábor cizinců (30–50 %) a žoldáci 140 tis. Kč,
+    text: Ukrajina nábor cizinců (30–50 %) a žoldáci 140 tis. Kč, nevydávat uprchlíky
+  - tema: program SAFE jako skryté zbrojení z peněz ČR (Rumunsko
+    text: program SAFE jako skryté zbrojení z peněz ČR (Rumunsko 16,68 mld €)
+  - tema: „bateriový zákon"
+    text: baterioví baroni a ČEZ
+  - tema: Španělsko legalizuje ~1 mil. migrantů + EP návratová centra
+    text: Španělsko legalizuje ~1 mil. migrantů + EP návratová centra + agenda 2030
+  - tema: sankce neúčinné (Fabrizio Pagani, ex-G20), 21. balíček
+    text: sankce neúčinné (Fabrizio Pagani, ex-G20), 21. balíček
+  - tema: Zelenský nelegitimně na G7/NATO, ale 70 mld. $ jistá
+    text: Zelenský nelegitimně na G7/NATO, ale 70 mld. $ jistá
+  - tema: Senát zamítl zpřísnění změny pohlaví + kritika trans-gender
+    text: Senát zamítl zpřísnění změny pohlaví + kritika trans-gender ve školách (výrok stochastického
+      teroru).
 vyroky:
 - id: vrabel-2026-06-17-01
   typ: tvrzeni
@@ -154,3 +175,15 @@ vyroky:
     prodanou" zemi, která už při rozbíjení Jugoslávie poskytla základny k útokům na Srbsko výměnou za
     vstup do EU, a nyní se z ní buduje logistický uzel NATO na jihovýchodním křídle.'
   podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-06-17-10
+  typ: stoch-teror
+  temata:
+  - rodina-deti
+  nadpis: neziskovky/psychologové prosazující trans-gender ve školách
+  text: kolektivní terč + obraz nuceného tábora a bití bičem
+  citace:
+  - text: Každý, kdo se tohodle účastní, tak by podle mě potřeboval malý dvorek, ohnaný ostnatým drátem,
+      dlouhý byč a prostě nějakého dobrého dozorce, který by jim tyhle agendy vyběhal z hlavy.
+  teror:
+    terc: neziskovky/psychologové prosazující trans-gender ve školách
+    hranicni: false

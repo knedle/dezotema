@@ -7,6 +7,57 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/2098192621088191
   prepis: prepisy/done/2026-10-05_Ladislav-Vrabel_5-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
+  osoby:
+  - osoba: alexander-stubb
+    vztah: negativni
+    kontext: „Částečně blázen, částečně psychopat“
+  - osoba: grzegorz-braun
+    vztah: pozitivni
+    kontext: Politický přítel, i s mandátem „chodí na ulici a pracuje pro lidi“
+  - osoba: petr-vacek
+    vztah: negativni
+    kontext: Vytvořili zatýkání za „Z“ „na objednávku“ se státním zástupcem Střížem
+  - osoba: savo-minic-milorad-dodik
+    vztah: pozitivni
+    kontext: Gratulace k vítězství v Republice srbské
+  prehled:
+  - tema: Vláda zvažuje vyšší daně (Schillerová)
+    text: Babiš v lednu sliboval opak. „Vláda ANO/SPD/Motoristé je čtyřletí ODS/STAN/Pirátů, jen se změnily
+      obličeje.“
+  - tema: Armáda odebrala záštitu konferenci Future Air Force
+    text: globalisté dělají z Druláka a Trumpa „národní ikony“
+    vyrok: vrabel-2026-10-05-02
+  - tema: 'Antidiplomatico: Zelenskyj odpovídá za eskalaci'
+    text: souhlasí. Ruské údery jsou odvetou za „teroristický“ útok 1 900 dronů během voleb do Dumy. Konflikt
+      podle něj začala Ukrajina už v letech 2013–14 („vejce bylo dřív než slepice“).
+  - tema: Zatýkání za „Z“ a § 405
+    text: bez odsouzeného válečného zločinu nelze soudit jeho schvalování (podobenství o drogerii)
+    vyrok: vrabel-2026-10-05-01
+  - tema: Polské protimigrační protesty (Braun) a ČR „absolutně zukrajinizovaná“
+    text: Babiš migrační pakt odmítl jen verbálně. „Jediní vlastenci jsou ČR na 1. místě.“
+  - tema: Estonsko přesouvá vojska k ruské hranici
+    text: „Před válkou se vždy tvrdí, že válka nebude.“ Babiš tam prý „pošle dvě brigády“.
+  - tema: Zastavené stíhání Čecha z ukrajinské armády
+    text: státní zástupce „má jít do vězení mýt záchody“ → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-05-05
+  - tema: Gruzie (Kaladze) a policie v ČR
+    text: policie má „úkol rozehrát konflikt“ jako v roce 1989
+    vyrok: vrabel-2026-10-05-04
+  - tema: Rubio a velvyslanectví v Kyjevě
+    text: ironie o „nesmrtelných“ diplomatech EU, kteří v Kyjevě zůstávají.
+  - tema: Kandidátské země mají dostat komisaře
+    text: cílem je hlasování bez práva veta a snížení počtu komisařů na 15. ČR „nebude mít žádnou váhu“.
+  - tema: 'Stubb: ukrajinská armáda jako záruka bezpečnosti'
+    text: sarkasmus o ukrajinských „ochrankách“ a zbraních z Ukrajiny v Evropě. Stubb je podle něj „částečně
+      blázen, částečně psychopat“.
+  - tema: 'SAFE: úvěr 2,06 mld. € (D11, Leopardy)'
+    text: EU chce do zbrojení dostat 10 bilionů eur úspor
+    vyrok: vrabel-2026-10-05-06
+  - tema: Protesty ve Španělsku a Francii; Sánchez vyhlásil volby
+    text: ve skutečnosti jde o migraci, „začínající občanská válka v Evropě“
+    vyrok: vrabel-2026-10-05-03
+  - tema: Savo Minić vyhrál v Republice srbské
+    text: gratuluje Dodikově straně a těší se na spojení Republiky srbské se Srbskem.
 vyroky:
 - id: vrabel-2026-10-05-01
   typ: tvrzeni
@@ -21,6 +72,10 @@ vyroky:
     Karel. Zatýkání za „Z“ podle něj „vytvořil Rajchl s Vackem na objednávku“ spolu se státním zástupcem
     Střížem. Varuje, že pokud se zatýkání za písmeno na tričku stane normou, „pak někdo může začít střílet
     na lidi“.'
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Vytvořili zatýkání za „Z“ „na objednávku“ se státním zástupcem Střížem
   podtema: Trestání politického projevu
 - id: vrabel-2026-10-05-02
   typ: tvrzeni
@@ -34,6 +89,13 @@ vyroky:
     a dělají z nich „národní ikony“, které před volbami mluví pronárodně, ale po volbách dělají stejnou
     globalistickou politiku (Trump „zabírá Venezuelu, útočí na Írán“). Polarizace kolem konference je
     podle něj „nejlepší kampaň Petra Druláka do prezidentské kampaně“.'
+  osoby:
+  - osoba: petr-drulak
+    vztah: rozporuplny
+    kontext: Globalisty vytvářená „národní ikona“; polarizace je jeho „nejlepší prezidentská kampaň“
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Daně v rozporu se slibem, migrační pakt odmítl jen verbálně, „hurá“ za SAFE
 - id: vrabel-2026-10-05-03
   typ: tvrzeni
   temata:
@@ -91,3 +153,18 @@ vyroky:
     „nevytvářejí hodnotu“ a jejich nákup je jako peníze spálit. Hrozí podle něj ztráta úspor inflací nebo
     krach projektů, „až EU začne prohrávat ve válce“.'
   podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-10-05-07
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: státní zástupce, který zastavil stíhání Čecha bojujícího v ukrajinské armádě
+  text: 'Terč: státní zástupce, který zastavil stíhání Čecha bojujícího v ukrajinské armádě.'
+  citace:
+  - text: Nevím, jestli bych byl odsouzenej [...] kdybych řekl, že by měl být zastřelený ten státní zástupce
+      na místě. [...] Měl by jít mýt záchody do vězení. A vždycky, když by měl ty toalety tam, tak by
+      tam měli chodit ti odsouzení, koukat se na něj, jak je tam poslal do toho vězení, a kamery by měly
+      být vypnuty.“ Konkrétní identifikovatelný úředník + hypotetická výzva k zastřelení a fantazie o
+      násilí ve vězení
+  teror:
+    terc: státní zástupce, který zastavil stíhání Čecha bojujícího v ukrajinské armádě
+    hranicni: false

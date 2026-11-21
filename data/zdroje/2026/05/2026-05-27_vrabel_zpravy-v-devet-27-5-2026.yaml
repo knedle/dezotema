@@ -13,6 +13,25 @@ zdroj:
     za pravdivé statistiky o migrantech; Trumpova Rada míru prázdná 4 měsíce; Írán-USA porušení příměří
     8×; Netanyahu blokuje konec konfliktu; Trump = president konfliktu/feudalismus; Polsko-UK Nordholmská
     smlouva.'
+  prehled:
+  - tema: Zprávy v devět. Témata
+    text: OSN 50+ zemí odsoudilo Kyjev útok, USA se nepřipojily
+  - tema: Pavel chce ČR přispívat do muniční iniciativy
+    text: Pavel chce ČR přispívat do muniční iniciativy
+  - tema: EU-USA clá deadline 4.7.
+    text: EU-USA clá deadline 4.7.
+  - tema: belgický poslanec Van Langeboij odsouzen za pravdivé
+    text: belgický poslanec Van Langeboij odsouzen za pravdivé statistiky o migrantech
+  - tema: Trumpova Rada míru prázdná 4 měsíce
+    text: Trumpova Rada míru prázdná 4 měsíce
+  - tema: Írán-USA porušení příměří 8×
+    text: Írán-USA porušení příměří 8×
+  - tema: Netanyahu blokuje konec konfliktu
+    text: Netanyahu blokuje konec konfliktu
+  - tema: Trump = president konfliktu/feudalismus
+    text: Trump = president konfliktu/feudalismus
+  - tema: Polsko-UK Nordholmská smlouva.
+    text: Polsko-UK Nordholmská smlouva.
 vyroky:
 - id: vrabel-2026-05-27-01
   typ: tvrzeni

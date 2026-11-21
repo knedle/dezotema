@@ -19,6 +19,39 @@ zdroj:
     proti ruským civilistům; rezignace státní zástupkyně + bitcoinová kauza = skorumpovaný systém; Británie
     — případ Henryho Novaka, hate crime, „obrácený rasismus"; Srbsko (růst 32 %, ruští uprchlíci bez výhod
     vs. Ukrajinci); útoky na lodě v Černém moři.'
+  osoby:
+  - osoba: itamar-ben-gvir
+    vztah: negativni
+    kontext: Izraelský ministr — dle Vrabela by měl být za válečné zločiny souzen Mezinárodním trestním
+      soudem a být ve vězení
+  prehled:
+  - tema: „Zprávy v devět s komentářem" (se Zuzkou), 14
+    text: '„Zprávy v devět s komentářem" (se Zuzkou), 14 zpravodajských bloků. Klíčová témata: nová fáze
+      SVO — ruské masivní údery (729 prostředků) jako odveta za Starobělsk, cílení „rozhodovacích center"'
+  - tema: ruský zákaz vývozu leteckého paliva
+    text: Vrabel viní válku USA v Íránu/Hormuz a nedostatek kerosinu, ne ukrajinské drony (kritika ČT)
+  - tema: výzva Zemanovi odebrat Zelenskému Řád bílého lva
+    text: výzva Zemanovi odebrat Zelenskému Řád bílého lva
+  - tema: ukrajinizace ČR („Česko-Ukrajinsko"
+    text: vlajky, migranti, univerzity)
+  - tema: Pegasus/NSO konference v Praze vs. manželka jako
+    text: Pegasus/NSO konference v Praze vs. manželka jako bezpečnostní ohrožení
+  - tema: EU obchodní dohoda s USA (cla 15 %) jako „diktatura tvářící
+    text: EU obchodní dohoda s USA (cla 15 %) jako „diktatura tvářící se jako demokracie"
+  - tema: jaderné zbraně USA v Polsku/Pobaltí + obhajoba výroku o F-35
+    text: jaderné zbraně USA v Polsku/Pobaltí + obhajoba výroku o F-35
+  - tema: Izrael/Gaza genocida + apriorní podpora české vlády (Ben
+    text: Izrael/Gaza genocida + apriorní podpora české vlády (Ben Gvir), Trump vs. Netanyahu
+  - tema: muniční iniciativa jako spoluzodpovědnost ČR za teror proti
+    text: muniční iniciativa jako spoluzodpovědnost ČR za teror proti ruským civilistům
+  - tema: rezignace státní zástupkyně + bitcoinová kauza =
+    text: rezignace státní zástupkyně + bitcoinová kauza = skorumpovaný systém
+  - tema: Británie
+    text: případ Henryho Novaka, hate crime, „obrácený rasismus"
+  - tema: Srbsko (růst 32 %, ruští uprchlíci bez výhod vs. Ukrajinci)
+    text: Srbsko (růst 32 %, ruští uprchlíci bez výhod vs. Ukrajinci)
+  - tema: útoky na lodě v Černém moři.
+    text: útoky na lodě v Černém moři.
 vyroky:
 - id: vrabel-2026-06-02-01
   typ: tvrzeni
@@ -37,6 +70,15 @@ vyroky:
     „kroutit".'
   citace:
   - text: Je potřeba soudit každého podle jeho činů, a ne podle nějakých sympatií.
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: „Středověký bandita" páchající válečné zločiny; nově ale nazval Netanyahua „bláznem" a „nevděčným"
+      — Vrabel čte jako tlak americké veřejnosti kvůli Gaze
+  - osoba: benjamin-netanyahu
+    vztah: negativni
+    kontext: 'Genocida v Gaze; Trump ho nazval bláznem a nevděčným — Vrabel: posun americké pozice vůči
+      Izraeli'
 - id: vrabel-2026-06-02-02
   typ: tvrzeni
   temata:
@@ -118,6 +160,11 @@ vyroky:
     (často IT pracovníci pracující online). Vučić podle Vrabela rychle vyvrátil zprávu o zrušení víz Rusům
     (spojovanou s přibližováním k EU), což Vrabel hodnotí jako důkaz, že Srbsko nepodléhá tlaku EU a drží
     suverénní, multivektorovou politiku. Navazuje na jeho opakované hodnocení Srbska jako modelu suverenity.'
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: 'Vyvrátil zrušení víz Rusům (odmítl tlak EU); uvedl růst srbské ekonomiky o 32 % — Vrabel:
+      model suverenity, kontrast k zacházení s uprchlíky v ČR'
 - id: vrabel-2026-06-02-08
   typ: tvrzeni
   temata:
@@ -129,6 +176,11 @@ vyroky:
     Z toho vyvozuje program kompletní změny systému (připraven dle něj 2022/2023): odvolatelnost politiků, trestní a majetková odpovědnost za rozhodnutí, vymahatelnost předvolebních slibů přes petice a soudy. Dokud k tomu nedojde, „budeme se motat v kruhu lobbistů, skorumpovaných politiků, policie, žalobců a soudců".
   citace:
   - text: Jsme v systému, který je prostě potřeba kompletně změnit.
+  osoby:
+  - osoba: petra-alexova-polakova
+    vztah: neutralni
+    kontext: Rezignující státní zástupkyně odvolaná z týmu k bitcoinové kauze — Vrabel ji rámuje jako
+      možnou oběť „skorumpovaného mafiánského systému"
   podtema: Demokracie a politický systém
 - id: vrabel-2026-06-02-09
   typ: tvrzeni
@@ -173,6 +225,11 @@ vyroky:
     do Ruska, druhý den tlumočí Zelenského příkaz ukončit válku do zimy) Vrabel ironicky oceňuje jeho
     „flexibilitu" — přirovnává ji k českým politikům, kteří „jeden den řeknou, že je zeď černá, druhý
     den bílá, přestože je zelená".
+  osoby:
+  - osoba: kyrylo-budanov
+    vztah: rozporuplny
+    kontext: Vrabel ironicky oceňuje jeho „flexibilitu" — jeden den hrozí útoky hluboko do Ruska, druhý
+      den tlumočí Zelenského příkaz ukončit válku do zimy
   podtema: Průběh války, útoky a „terorismus"
 - id: vrabel-2026-06-02-12
   typ: tvrzeni
@@ -186,6 +243,15 @@ vyroky:
     Výrok navazuje na Vrabelovo dřívější hodnocení Zemana jako „nácka" (viz [Politický systém — brněnská
     demonstrace](politicky-system.md#brněnská-demonstrace--zklamání-z-vlastenecké-scény-vrabel-31-5-2026))
     a Ukrajiny jako „fašistického státu z definice".
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: Výzva Zemanovi odebrat mu Řád bílého lva (nebo se omluvit) — „lídr neonacistického/fašistického
+      režimu Ukrajiny"
+  - osoba: milos-zeman
+    vztah: neutralni
+    kontext: Vrabel ho vyzývá jako udělovatele Řádu bílého lva, aby ho Zelenskému odebral nebo se veřejně
+      omluvil
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-06-02-13
   typ: tvrzeni

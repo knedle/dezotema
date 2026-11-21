@@ -11,6 +11,56 @@ zdroj:
     úhlem (⚡). Stochastický teror nezjištěn (hraniční: Rusové si „můžou vzpomenout“ na plátce zbraní,
     Ukrajincům „musí někdo účet vystavit“). Zpracováno podle podkladů pomocného agenta, citace ověřeny
     v přepisu.'
+  osoby:
+  - osoba: kaja-kallasova
+    vztah: negativni
+    kontext: Tvrzení o „čipech z praček“ je „zcestné“
+  prehled:
+  - tema: 17. listopad a ruská televize
+    text: zítra je 17. listopad a ruská mezinárodní televize ho požádala o komentář k Letné.
+  - tema: Půjčka 8 mld. eur Ukrajině
+    text: Evropská rada ji schválila a podle něj ji odhlasoval Babiš, který hned letí za Netanjahuem (opakuje).
+  - tema: 21. sankční balíček
+    text: sarkasticky radí neklikat na rt.com ani nekupovat Mášu a medvěda, jinak „zaklepe gestapo“ (opakuje).
+  - tema: Babišova cesta do Izraele
+    text: s ministry jedná o protivzdušné obraně, ironizuje seznam Babišových „kamarádů“ (opakuje).
+  - tema: Rekordní dronový útok a Krymský most
+    text: útok provedla „koalice ochotných skrze Ukrajinu“, Rusové vyvodí odpovědnost i vůči plátcům zbraní
+    vyrok: vrabel-2026-11-16-03
+  - tema: Knejslová a rakouské občanství
+    text: jeho manželce Česko občanství odmítlo kvůli „bezpečnostnímu ohrožení“ (opakuje).
+  - tema: Estonsko zavírá hranice s Ruskem
+    text: Rusové „nikomu ubližovat nechtějí“ (opakuje).
+  - tema: Rusko a Evropa, summit Trump–Si–Putin
+    text: dohoda USA–Rusko o jaderném neútočení otevře Rusku cestu „vyřídit účty s Evropou“, Čína si vezme
+      Tajvan
+    vyrok: vrabel-2026-11-15-04
+  - tema: 'Trump: Putin zmírňuje postoj'
+    text: kdyby Rusko vedlo plnohodnotnou invazi, Ukrajina by kapitulovala do dvou dnů (opakuje).
+  - tema: Dublin, E5 a Kallasová mimo jednání
+    text: nezáleží na tom, Ukrajina Rusku vzdorovat nemůže (opakuje).
+  - tema: Muniční iniciativa
+    text: ČR je „prťavá zemička“ a iniciativa „směšná“ (opakuje).
+  - tema: Rusko mimo mezinárodní hokej
+    text: „strašně trapný“.
+  - tema: Stubb a členství Ukrajiny v EU
+    text: „Evropská unie se rozpadne“, je třeba mít plán změny systému (opakuje).
+  - tema: Potopená loď v Černém moři, Bulharsko přestává platit zbraně
+    text: Ukrajincům „musí někdo ten účet vystavit“.
+  - tema: NATO bez summitu v Albánii
+    text: posměch Ivance Trumpové, Kushnerovi a jejich „ostrovu v Albánii“.
+  - tema: Ušakov odmítá Evropu u jednání
+    text: Evropa je „trapná fraška“, v Srbsku nechápou zatýkání za symbol Z (opakuje).
+  - tema: Srbská studentská kandidátka
+    text: odmítá uznání Kosova i sankce proti Rusku, Srbsko je „bezpečná země“ (opakuje).
+  - tema: Polsko a nedůvěra Tuskovi
+    text: výměna Tuska nic nezmění, změnu přinese jen Braun, na Slovensku Harabín
+    vyrok: vrabel-2026-11-16-01
+  - tema: Volkswagen ruší 100 tisíc míst
+    text: evropský autoprůmysl „je pryč“, Evropa jde vyrábět zbraně
+    vyrok: vrabel-2026-11-16-02
+  - tema: Minář a Letná
+    text: Minář chce, aby se Babiš zbavil SPD, Zůny a Okamury, Babiše pryč ani nechce (opakuje).
 vyroky:
 - id: vrabel-2026-11-16-01
   typ: tvrzeni
@@ -27,6 +77,25 @@ vyroky:
     změnu neudělají, nabízejí jen populistická hesla.
   citace:
   - text: Jedinej, kdo může něco udělat v Polsku, je Grzegorz Braun a Roman Fritz.
+  osoby:
+  - osoba: grzegorz-braun
+    vztah: pozitivni
+    kontext: Jediní, kdo mohou změnit Polsko
+  - osoba: roman-fritz
+    vztah: pozitivni
+    kontext: Jediní, kdo mohou změnit Polsko
+  - osoba: stefan-harabin
+    vztah: pozitivni
+    kontext: Na Slovensku „jedinej“, kdo něco může udělat
+  - osoba: donald-tusk
+    vztah: negativni
+    kontext: Jeho výměna bez Brauna nic nezmění
+  - osoba: keir-starmer
+    vztah: negativni
+    kontext: Burnham „dělá naprosto to samé“
+  - osoba: andy-burnham
+    vztah: negativni
+    kontext: Burnham „dělá naprosto to samé“
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-11-16-02
   typ: tvrzeni
@@ -60,6 +129,13 @@ vyroky:
   citace:
   - text: Osobně bych řekl, že zaútočila koalice ochotných společně s Ukrajinou, skrze Ukrajinu na Krymský
       most.
+  osoby:
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: Jeho ultimátum a Taurusy jako doklad, že za útokem na Krymský most stojí Západ
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: Rusové „nechtějí válku“, ale budou muset „řešit otázku Evropy“
   podtema: Průběh války, útoky a „terorismus"
 - id: vrabel-2026-11-16-04
   typ: tvrzeni
@@ -81,4 +157,39 @@ vyroky:
   citace:
   - text: Jestli prostě Evropa nedá pokoj a Rusové začnou to brát tak, že teda jako je čas se nějakým
       způsobem poprat s Evropou, tak to udělají takhle.
+  osoby:
+  - osoba: scott-ritter
+    vztah: pozitivni
+    kontext: Cituje ho, že Rusko rozhodlo o konfliktu s Evropou
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-11-16-05
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: USA a Rusko se v Šen-čenu dohodnou na jaderném neútočení, Rusko pak „vyřídí účty s Evropou“;
+    ruská odveta za Krymský most i vůči plátcům zbraní
+  text: Na schůzce Trump–Si–Putin se USA a Rusko podle Vrabela dohodnou na vzájemném nepoužití jaderných
+    zbraní, čímž se Rusku otevře cesta k „vyřízení účtů s Evropou“ konvenčními zbraněmi. Jaderná válka
+    nebude. Čína si vezme Tajvan. Za útok na Krymský most přijde ruská odveta („jenom otázka času“), která
+    může zasáhnout i ty, kdo zbraně pro Ukrajinu kupují a platí. Hlasování o nedůvěře Tuskovi podle něj
+    neprojde, nebo nic nezmění.
+  citace:
+  - text: Předpokládám, že dojde k dohodě o vzájemném neútočení jadernými zbraněmi jedna země na druhou
+      a tím se otevře ta široká cesta pro Ruskou federaci, aby si mohli vyřídit účty s Evropou.
+  dalsi_zdroje:
+  - 2026-11-19_vrabel_zpravy-v-devet-19-11-2026
+  predikce:
+    horizont: po schůzce v Šen-čenu (19. 11. 2026), jinak neurčeno; polský Sejm 17. 11. 2026
+    stav: castecne
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: summit 19. 11. přinesl podle Vrabela shodu, že jaderná válka nesmí být vedena, ne formální
+        dohodu o neútočení; „vyřízení účtů s Evropou“, Tajvan ani odveta za Krymský most zatím nenastaly
+      stav: castecne
+    - datum: 2026-11-19
+      text: Lídři se podle Vrabela shodli, že „jaderná válka nesmí být vedena“, a Rusko má teď „otevřené
+        dveře“ na Ukrajině i „směrem k Evropě“. Predikci tak považuje za naplněnou.
+    - datum: 2026-11-20
+      text: Summit Trump–Putin–Si se konal 19. 11. Podle Vrabelova vysílání z téhož dne skončil dohodou
+        o jaderné bezpečnosti a dialogu o snížení rizik, ne formální smlouvou o neútočení. Zbytek predikce
+        je bez horizontu a zatím nenastal.

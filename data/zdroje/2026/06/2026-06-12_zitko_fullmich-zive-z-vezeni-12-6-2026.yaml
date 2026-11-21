@@ -14,6 +14,11 @@ zdroj:
     Trump/Putin/Xi/Modi/Bin Salmán, 14. 6./4. 7.; perzekuce Bytel TV (22 kanálů, 4 účty); covid mafie
     před vojenský tribunál; křest knihy Peterkové „Já dezinformátorka". Přenos rozhovoru s Reinerem Füllmichem
     z věznice (Bytel TV) + závěrečný komentář Zítka
+  osoby:
+  - osoba: jana-peterkova
+    vztah: pozitivni
+    kontext: Křest její knihy „Já dezinformátorka" (st 1:11 u památníku K. H. Máchy v Doksech) — Zítko
+      propaguje jako první počin „scény" varující před covidem
 vyroky:
 - id: zitko-2026-06-12-01
   typ: tvrzeni
@@ -43,6 +48,11 @@ vyroky:
     Füllmich popsal i vězeňský režim a tvrdí, že vyšetřovací vazba je „brutálně zneužívána k umlčování lidí" (jmenuje i Michaela Ballwega, organizátora protikoronových demonstrací v Německu).
 
     > „Můj případ je jednoznačně politický proces. […] Připravil jsem se na 5 hodin, zredukovali mi čas na 20 minut s cílem mě demotivovat." — Reiner Füllmich (tlumočeno), [Füllmich živě z vězení 12. 6. 2026](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
+  osoby:
+  - osoba: reiner-fullmich
+    vztah: pozitivni
+    kontext: Přenesl jeho první živý rozhovor z věznice (přes Bytel TV) za 2,5 roku; označuje ho za „bijce
+      číslo jedna" proti covidové mafii a politického vězně; kandidát na „spolkového kancléře č. 1"
   dalsi_zdroje:
   - 2026-08-04_zitko_videoportal-4-8-2026-3
   podtema: Trestní stíhání kritiků covidu
@@ -58,3 +68,15 @@ vyroky:
     - **„Velká aliance" vs. Deep State:** triumvirát Vatikán / City of London (finance) / Washington DC (světový policajt) měl za Obamy, Bushe a Clintona na svědomí 11 milionů mrtvých. Deep State teď čistí „velká aliance" Trump–Putin–Xi–Modi–Bin Salmán. Zítko očekává „odtajnění" kolem **14. 6.** (UFC v jižním křídle Bílého domu, narozeniny Trumpa) a **4. 7.** (250 let Deklarace nezávislosti); USA prý vznikly jako první korporace „USA Incorporation" v roce 1871. Opakuje i tezi o rodném listu jako cenném papíru obchodovaném na americké burze a o kvantovém finančním systému (QFS), který má aktiva „vrátit lidem".
 
     Podrobnosti viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026), [Rodný list jako obchodní papír](#rodný-list-jako-obchodní-papír-na-burze-v-new-yorku--admirality-law-zítko) a [Trump, Putin a Xi jako aliance](konspirace-deep-state-qanon.md#trump-putin-a-xi-jako-koordinovaná-aliance-proti-deep-state--zítko-čte-mcintosh).
+- id: zitko-2026-06-12-08
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: „všichni odpovědní za covid" / „šmejdy"
+  text: opakovaná výzva k tribunálu za „genocidu" + dehumanizace politiků („šmejdy", „zmrdi")
+  citace:
+  - text: A to genocida v Německu, tak i tady […] všichni odpovědní budou stát před vojenským tribunálem
+      a budou se zodpovídat z toho, co dělali
+  teror:
+    terc: „všichni odpovědní za covid" / „šmejdy"
+    hranicni: false

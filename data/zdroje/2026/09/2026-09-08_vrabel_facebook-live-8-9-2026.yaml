@@ -7,6 +7,21 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1993811548108658
   prepis: prepisy/done/2026-09-08_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Evropská komise potvrdila pozastavení dotací Agrofertu — Babiš ve střetu zájmu i přes svěřenský
+      fond
+    text: → [Kauzy](../kauzy.md)
+  - tema: Maďarsko vyhostilo 10 ruských diplomatů — Petr Magyar jako "maďarský Rajchl"
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Bosna omezuje vztahy se Srbskem po pohřbu Mladiče — historie Republiky srbské
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Varování Andrewa Bridgena před operací pod falešnou vlajkou (Británie)
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Teorie "izraelského Pearl Harboru" — Netanjahu varován před útokem Hamasu
+    text: → [Blízký východ](../blizky-vychod.md)
+  - tema: Jemenští Huthiové útočí na Saúdskou Arábii, americké
+    text: Jemenští Huthiové útočí na Saúdskou Arábii, americké varování o dlouhé válce na Ukrajině — nezpracováno
+      (opakování)
 vyroky:
 - id: vrabel-2026-09-08-01
   typ: tvrzeni

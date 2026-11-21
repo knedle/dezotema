@@ -13,6 +13,10 @@ zdroj:
     → vypnutý mikrofon. Penelope Cimprichová (zdravotní rizika) ignorována. Média natáčela hněv, ne argumenty.
     EU směrnice: stavět na brownfieldech, fotovoltaiku na průmyslové střechy, větrníky na degradovanou
     krajinu. Lhůta připomínek do 1. 6. 2026. Web: zastavvte.cz. Zhlédnutí: 17 933'
+  osoby:
+  - osoba: ivan-novesky
+    vztah: pozitivni
+    kontext: Odborník na energetiku (PRO), přítomen na veřejném projednání jako expert odporu
 vyroky:
 - id: tarabova-2026-05-15-01
   typ: tvrzeni
@@ -32,4 +36,12 @@ vyroky:
     - Tarabová: vláda ANO + Motoristé sobě navazuje na Fialovu vládu, v tomto tématu bez změny.
 
     Lhůta pro připomínky: 15 dnů do **1. 6. 2026**. Web pro vzory připomínek: **zastavvte.cz** a stránky MMR. Tarabová vyzývá k zahlcení ministerstva připomínkami — „pokud bude v řádech desítek tisíc, tak jim to zamutá hlavu."
+  osoby:
+  - osoba: hynek-beran
+    vztah: pozitivni
+    kontext: Zakladatel Krajina lidí — citován jako odborník; při projednání mu byl vypnut mikrofon poté,
+      co označil plány za rozpor s EU směrnicí RED 3
+  - osoba: penelope-cimprichova
+    vztah: pozitivni
+    kontext: Zdravotní expertka upozorňující na rizika infrazvuku z větrníků — ignorována panelisty
   podtema: Větrné akcelerační zóny v ČR (2026)

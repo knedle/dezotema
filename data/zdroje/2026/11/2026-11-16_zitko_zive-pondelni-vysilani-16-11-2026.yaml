@@ -13,6 +13,13 @@ zdroj:
     Stochastický teror: von der Leyenová před vojenským tribunálem. Hraniční (nezapsáno): ČT a „budoucí
     vojenské tribunály“, převyprávěný „zrušený zákaz vraždy Zelenského“, zopakovaná nadávka Herrmannovi.
     Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny v přepisu.'
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: „Dvojník“, Rusko prý „zrušilo zákaz jeho vraždy“
+  - osoba: john-f-kennedy-jr
+    vztah: pozitivni
+    kontext: Podle něj žije a „brzo se objeví“
 vyroky:
 - id: zitko-2026-11-16-01
   typ: tvrzeni
@@ -27,6 +34,19 @@ vyroky:
     něj způsobují agresivní rakoviny a recidivy po posilujících dávkách). Vznik covidu podle něj zaplatili
     daňoví poplatníci přes USAID. Von der Leyenová by podle něj měla „stanout před vojenským tribunálem“
     (viz [Stochastický teror](stochasticky-teror.md)).'
+  osoby:
+  - osoba: ursula-von-der-leyenova
+    vztah: negativni
+    kontext: Má „stanout před vojenským tribunálem“ (smlouvy s Bourlou)
+  - osoba: christine-andersson
+    vztah: pozitivni
+    kontext: Zdroje proti covidovým vakcínám
+  - osoba: kevin-mckernan
+    vztah: pozitivni
+    kontext: Zdroje proti covidovým vakcínám
+  - osoba: angus-dalgleish
+    vztah: pozitivni
+    kontext: Zdroje proti covidovým vakcínám
   podtema: Slovenský poslanec Jaroslav Paška a selhání SÚKL (Zítko, 15. 9. 2026)
 - id: zitko-2026-11-16-02
   typ: tvrzeni
@@ -74,4 +94,36 @@ vyroky:
     myslím, že bude mít i armáda a budoucí vojenské tribunály“. K demonstraci na Letné poznamenává, že
     Minář může „klidně platit 150 tisíc korun měsíčně, pokud mu to jeho ovce našporují“. 17. listopad
     je pro něj „výročí puče organizovaného StB a KGB“.'
+  osoby:
+  - osoba: mikulas-minar
+    vztah: negativni
+    kontext: Platí mu „jeho ovce“
   podtema: Nová alternativní média
+- id: zitko-2026-11-16-05
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: JFK Jr. se „brzo objeví“ kolem svých 65. narozenin; 27. 11. končí Trumpovo „pětiměsíční přechodné
+    období“
+  text: Mladý John F. Kennedy Jr. se podle Zítka „brzo objeví“. Vhodnou příležitostí jsou jeho 65. narozeniny
+    v listopadu (25. 11.). 27. 11. má skončit „pětiměsíční přechodné období“, které podle něj Trump ohlásil
+    28. 6., a v listopadu se „budou dít věci“ včetně odhalení „ukradených voleb“.
+  citace:
+  - text: Ten se brzo objeví, mladý Kennedy… bude mít teď narozky 65, takže teď v listopadu, myslím, takže
+      si myslím, že to bude vhodná příležitost na to, aby někde vykouknul.
+  predikce:
+    horizont: 25. 11. 2026 (JFK Jr.); 27. 11. 2026 (konec „přechodného období“)
+    stav: ceka
+- id: zitko-2026-11-16-06
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Ursula von der Leyenová
+  text: 'Terč: Ursula von der Leyenová.'
+  citace:
+  - text: A už i v Německu říkají, že by měla stanout před vojenským tribunálem za tuto svoji aktivitu,
+      která v žádném případě nemůže být pojmenována jako bohulibá.“ (smlouvy s Bourlou, smazané SMS) —
+      jmenovaný terč a výzva k vojenskému tribunálu, se kterou se Zítko ztotožňuje
+  teror:
+    terc: Ursula von der Leyenová
+    hranicni: false

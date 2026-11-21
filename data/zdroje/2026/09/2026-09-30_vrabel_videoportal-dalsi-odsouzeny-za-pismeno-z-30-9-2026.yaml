@@ -8,6 +8,11 @@ zdroj:
   prepis: prepisy/done/2026-09-30_Ladislav-Vrabel_30-9-2026-Další-ODSOUZENÝ-za-písmeno-Z-na-odznáčku.txt
   rezim: vrabel
   poznamka: Rozhovor s Tomášem Hrdličkou natočený za jízdy do ČR.
+  prehled:
+  - tema: Tomáš Hrdlička odsouzen za odznak „Z"
+    text: šest měsíců podmíněně; precedent podle Vrabela vytvořili Rajchl a Vacek (PRO) trestním oznámením
+      z 2023
+    vyrok: vrabel-2026-09-30-01
 vyroky:
 - id: vrabel-2026-09-30-01
   typ: tvrzeni
@@ -23,4 +28,11 @@ vyroky:
     oznámení na tři účastníky demonstrace „Česko proti bídě" s nášivkami „Z" a Wagnerovců (pouští Vackovo
     video), a tím prý vytvořili výklad, že „Z" automaticky znamená schvalování válečných zločinů — „Reichel
     je dneska součást vládní moci". O Vackovi říká, že má „poškození minimálně na úrovni humanity".'
+  osoby:
+  - osoba: tomas-hrdlicka
+    vztah: pozitivni
+    kontext: Odsouzen za odznak „Z" — politicky perzekvovaný
+  - osoba: petr-vacek
+    vztah: negativni
+    kontext: Trestní oznámení na účastníky s „Z" (2023), „poškození na úrovni humanity"
   podtema: Trestání politického projevu

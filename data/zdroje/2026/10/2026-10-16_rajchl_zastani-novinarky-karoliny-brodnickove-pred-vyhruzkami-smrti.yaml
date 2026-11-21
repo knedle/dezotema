@@ -22,4 +22,11 @@ vyroky:
   citace:
   - text: Mohu stokrát nesouhlasit s tím, co o nás píše. Ale nikdy, ani na vteřinu, se nezastanu nikoho,
       kdo bude vyhrožovat někomu násilím či smrtí.
+  osoby:
+  - osoba: karolina-brodnickova
+    vztah: rozporuplny
+    kontext: Bude ji dál kritizovat, ale proti výhrůžkám smrtí „stojím za vámi“
+  - osoba: seznam-zpravy-novinky
+    vztah: negativni
+    kontext: 'Dvojí metr: výhrůžky jemu a jeho rodině přechází „ostentativním mlčením“'
   podtema: Hrozby a dvojí metr justice

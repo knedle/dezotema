@@ -16,6 +16,22 @@ zdroj:
     Zbytek (filozofie boží zákon/rozděl a panuj, Oluja, francouzský jaderný deštník, Narval, německý tranzit,
     Trump/nerostné bohatství) je opakování beze změny. Stochastický teror: dělníci ve zbrojovkách — [stochasticky-teror.md](stochasticky-teror.md).
     Bez predikcí.'
+  prehled:
+  - tema: Filozofické zamyšlení o "božím zákonu" jako základu společnosti
+    text: rozděl a panuj, kritika Trumpa/EU za porušování mezinárodního práva (z části opakování)
+  - tema: Venezuela — zajetí prezidenta, „banditismus" USA
+    text: → [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md)
+  - tema: Rekonstrukce Václavského náměstí jako znemožnění demonstrací, vlastní perzekuce
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Vystoupení z VHO jako jednoduché rozhodnutí, kritika Adama Vojtěcha
+    text: → [COVID a vakcíny](../covid-vakciny.md)
+  - tema: Podzimní demonstrace — témata, hosté (Ivan David, Kovářová)
+    text: → [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md)
+  - tema: Ruský útok na sklad munice v Chmelnycku
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Francouzský jaderný deštník, export střel Narval, německý
+    text: Francouzský jaderný deštník, export střel Narval, německý tranzit vojsk, Trump/nerostné bohatství
+      Ukrajiny, Operace Oluja — opakování beze změny
 vyroky:
 - id: vrabel-2026-08-02-01
   typ: tvrzeni
@@ -88,3 +104,15 @@ vyroky:
     vůči suverénní zemi, srovnatelný s americkým útokem na Írán (zabití nejvyššího duchovního vůdce, přirovnává
     k zabití papeže) — [Nedělní vysílání 2. 8.](_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)'
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-08-02-06
+  typ: stoch-teror
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: dělníci ve zbrojovkách vyrábějících zbraně proti Rusku (např. výrobna střel Narval)
+  text: kolektivní terč, normalizace jejich případné smrti při ruském útoku jako zasloužené
+  citace:
+  - text: O jednoho sebevraha víc, o jednoho sebevraha míň [...] když je někdo blbej a jde vyrábět zbraně,
+      který jsou používaný proti Rusku, tak musí počítat s tím, že se nemusí dožít prostě mnoha let.
+  teror:
+    terc: dělníci ve zbrojovkách vyrábějících zbraně proti Rusku (např. výrobna střel Narval)
+    hranicni: false

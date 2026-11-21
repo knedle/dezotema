@@ -26,4 +26,14 @@ vyroky:
   - text: Jakmile neporazíme tu dvouocasou příšeru, kterou pojmenoval Donald Trump, migraci a Green Deal,
       a já bych tomu přidal ještě třetí ocas, a to je válka, ten proválečný fanatismus, tak do té doby
       Evropa nemůže být silným kontinentem.
+  osoby:
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: Bývalý šéf BlackRocku, „pokračuje ve svém zadání“, „Schmerz“
+  - osoba: donald-trump
+    vztah: pozitivni
+    kontext: Pojmenoval „dvouocasou příšeru“; za něj hranici „nepřechází nikdo“
+  - osoba: joe-biden
+    vztah: negativni
+    kontext: „Sanctuary cities“, omezoval ICE
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)

@@ -10,6 +10,19 @@ zdroj:
   delka: '59:24'
   poznamka: 'Existuje druhý přepis téhož videa (`..._1.txt`) — obsah totožný, obě verze sloučeny. Zhlédnutí:
     ~199 800'
+  osoby:
+  - osoba: mikulas-minar
+    vztah: negativni
+    kontext: Označen za jednoho ze dvou největších lhářů v ČR, kritizován za pokrytectví
+  - osoba: katerina-stojanova
+    vztah: negativni
+    kontext: Nazvána „hloupou husou" po obvinění Rajchla z rasismu
+  - osoba: marketa-sichtarova
+    vztah: rozporuplny
+    kontext: Nesouhlasí s její rezignací — považuje ji za unilaterální krok bez konzultace s klubem
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Kritizován za jednání s Liechtensteinským rodem v kontextu Benešových dekretů
 vyroky:
 - id: rajchl-2026-03-15-01
   typ: tvrzeni
@@ -117,6 +130,10 @@ vyroky:
   citace:
   - text: Pokud tenhle člověk říká, že si myslel, že čtyřikrát za sebou dostane 41 000, že to je přeplatek
       za elektřinu, tak je to výsměch nám všem do očí.
+  osoby:
+  - osoba: zdenek-hrib
+    vztah: negativni
+    kontext: Čtyřikrát neoprávněně přijal 41 000 Kč, výmluva označena za výsměch
   podtema: Kauza Zdeněk Hřib — neoprávněné příjmy
 - id: rajchl-2026-03-15-09
   typ: tvrzeni
@@ -139,6 +156,13 @@ vyroky:
     k jejímu odvolání, ale kritikou „servilní mentality" vůči ukrajinskému narativu. Uhlová v DVTV tvrdila,
     že české děti zabírají místa na středních školách těm ukrajinskými — Rajchl to označuje za šílenou
     logiku, příznačnou pro část novinářů.
+  osoby:
+  - osoba: sasa-uhlova
+    vztah: negativni
+    kontext: Kritika výroku, že české děti zabírají místa ukrajinskím, označeno za šílenou logiku
+  - osoba: natalia-vachatova
+    vztah: pozitivni
+    kontext: Mediální útok na ni označen za „bolševický lynč"
   dalsi_zdroje:
   - 2026-11-01_rajchl_tal-jsem-do-ziveho-starkova-a-aspen-1-11-2026
   podtema: Dvojí metr v médiích
@@ -169,6 +193,10 @@ vyroky:
   citace:
   - text: Za jakýkoliv jejich útok přijde prostě tvrdá odveta. Já už se nehodlám prostě před nimi hrbit
       a krčit.
+  osoby:
+  - osoba: ales-juchelka
+    vztah: pozitivni
+    kontext: Schvaluje jeho tvrdé výstupy vůči Pirátům jako legitimní odvetu
   podtema: Politická kultura
 - id: rajchl-2026-03-15-13
   typ: tvrzeni

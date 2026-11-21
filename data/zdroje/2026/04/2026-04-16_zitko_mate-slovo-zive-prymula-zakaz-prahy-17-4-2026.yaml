@@ -10,3 +10,29 @@ zdroj:
   delka: '1:36:55'
   poznamka: 'Zítko sleduje živě pořad Máte slovo (16. 4.) a komentuje vystoupení Prymuly; popisuje zamítnutí
     žádosti o vstup do Prahy policií (24měsíční zákaz pobytu). Zhlédnutí: 702'
+  osoby:
+  - osoba: roman-prymula
+    vztah: negativni
+    kontext: V Máte slovo tvrdil, že vakcíny zachránily 15 000 životů v ČR a 20 milionů celosvětově; Zítko
+      komentuje živě a označuje čísla za „tisíckrát podhodnocená"
+  - osoba: jiri-beran
+    vztah: negativni
+    kontext: V Máte slovo obhajuje vakcíny a přínosy protilátek; Zítko ho označuje za jednoho z odborníků
+      šířících paniku (mrazáky v ulicích) za COVID
+  - osoba: daniela-rajfova
+    vztah: negativni
+    kontext: Soudkyně obvodního soudu pro Prahu 2; uložila Zítkovi 24měsíční zákaz pobytu v Praze, rozsudek
+      vydala v jeho nepřítomnosti (opakovaně ho vyhazovala z jednání)
+vyroky:
+- id: zitko-2026-04-16-01
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Primula, Chlíbek, Flegger, Kubek, Konvalenka, Maďar
+  text: 'Terč: Primula, Chlíbek, Flegger, Kubek, Konvalenka, Maďar.'
+  citace:
+  - text: jenom otázkou času, kdy [...] budou před tribunálem se ze svých činů zodpovídat osoby, jako
+      je Primula, Chlíbek, Flegger, Kubek, Konvalenka, Maďar
+  teror:
+    terc: Primula, Chlíbek, Flegger, Kubek, Konvalenka, Maďar
+    hranicni: false

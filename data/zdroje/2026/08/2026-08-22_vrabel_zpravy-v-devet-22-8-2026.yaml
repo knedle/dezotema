@@ -7,6 +7,43 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1478814770673581
   prepis: prepisy/done/2026-08-22_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Setkání v Příčovech — vlastenecká scéna jako loajální vůči vládě, kterou jinak kritizuje
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Propad exportu slovenského Slovnaftu do ČR
+    text: sarkasmus vůči Okamurovým "vztahům se Slovenskem" — nezpracováno
+  - tema: Útok mečem ve švédské škole
+    text: aktualizace (TikTok účet, Breivik) — nezpracováno (opakování)
+  - tema: Cla USA na Kanadu (50 %)
+    text: '"ekonomická válka" — nezpracováno'
+  - tema: „Piráctví" jako legalizovaný nástroj mocných (Somálci vs.
+    text: „Piráctví" jako legalizovaný nástroj mocných (Somálci vs. EU/USA a ruská "stínová flotila")
+      — nezpracováno
+  - tema: Lesní požáry odhalují nevybuchlou munici z WWI/WWII
+    text: nezpracováno (krátká zpráva)
+  - tema: Kazachstán
+    text: osévání mraků pro déšť — nezpracováno (krátká zpráva)
+  - tema: Britská vláda rozhoduje o těžebních projektech v Severním moři
+    text: nezpracováno
+  - tema: Ivan Noveský a CHEPS — přenos elektřiny z Německa přes ČR, likvidace české energetiky
+    text: → [Ceny energie](../ceny-energie.md)
+  - tema: Německo
+    text: návrh změnit ústavu kvůli klimatickým opatřením — nezpracováno (opakování Green Deal skepse)
+  - tema: Evropská závislost na ruském uranu i pro plánované malé reaktory (Rolls-Royce, Temelín, Dukovany)
+    text: → [Ceny energie](../ceny-energie.md)
+  - tema: Putinova odveta (sklad Wildberries) vs. ukrajinský útok na pláž (13 mrtvých, 7 dětí)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Americké tankovací letadlo opustilo Bulharsko
+    text: spekulace o íránské hrozbě — nezpracováno
+  - tema: Írán
+    text: nová ofenzivní vojenská doktrína, hrozba tvrdé odvety — nezpracováno
+  - tema: Budoucnost Francie v NATO — Le Pen vs. Mélenchon
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Německý ministr Wadephul v Kyjevě — spojení s Macinkou/Landsmannschaftem
+    text: → [Benešovy dekrety](../benesovy-dekrety.md)
+  - tema: Maroko nárokuje Ceutu/Melillu — filozofie hranic, srovnání s Donbasem/Krymem/Kosovem/Republikou
+      srbskou
+    text: → [Migrace](../migrace.md)
 vyroky:
 - id: vrabel-2026-08-22-01
   typ: tvrzeni
@@ -19,6 +56,11 @@ vyroky:
     příslibu nových systémů), Vrabel řadí Pavla, Babiše i Macinku do „jedné sebranky" politiků, kteří
     dělají „úplně to samé" — podporují zbrojaře v USA, plní pokyny EU a „lezou do pozadí" Německu; jejich
     vzájemné hádky označuje za „divadlo pro lidi", aby vypadalo, že mají odlišné názory.'
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Pozvání do Berlína 9. 5. vystavil ministr Wadephul; řazen do „jedné sebranky" s Pavlem a
+      Babišem dělající „úplně to samé"
   podtema: Parlament, politické a stranické reakce
 - id: vrabel-2026-08-22-02
   typ: tvrzeni
@@ -39,6 +81,11 @@ vyroky:
     výše) má být donuceno nakupovat přebytky z plánovaného německého 1000GW solárního programu. Vrabel
     oznamuje, že podpoří Noveského případnou kandidaturu do Senátu za SPD, přestože stranu jinak nemá
     rád.'
+  osoby:
+  - osoba: ivan-novesky
+    vztah: pozitivni
+    kontext: Bývalý zakladatel ERÚ, kandidát do Senátu za SPD — Vrabel ho i přes nechuť k SPD hodlá podpořit;
+      oceňuje jeho odbornost
   podtema: Energetika a Rusko
 - id: vrabel-2026-08-22-03
   typ: tvrzeni
@@ -96,6 +143,15 @@ vyroky:
     bodů přímé demokracie (referendum o vystoupení z EU/NATO), přičemž Babiš explicitně odmítl referendum
     umožnit. Zmiňuje také, že jeho vlastní živé vysílání mělo v úvodu jen 55 diváků, což připisuje záměrnému
     omezování dosahu ze strany Facebooku/vlády.
+  osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: Na setkání v Příčovech mluvil jen frázemi o vztazích se Slovenskem, odmítl otázku na sjednocení
+      vlastenecké scény; SPD za 12 let nesplnilo slib přímé demokracie
+  - osoba: erik-best
+    vztah: pozitivni
+    kontext: Vzpomínka na osobní setkání 2022 — varoval Vrabela, že úspěšnou revoluci by nakonec „převzal
+      někdo jiný" (Američané)
   podtema: Volby
 - id: vrabel-2026-08-22-07
   typ: tvrzeni
@@ -115,6 +171,11 @@ vyroky:
     financování a jednání o míru na ruských podmínkách (ochrana jazykových a náboženských práv obyvatel),
     namísto pokračujícího zbrojení — zmiňuje německé oznámení investice 12 mld. dolarů do hypersonických
     raket schopných útočit hluboko na ruské území jako důkaz, že „jsme na prahu třetí světové války".
+  osoby:
+  - osoba: vladimir-putin
+    vztah: rozporuplny
+    kontext: Odveta za útok na sklad Wildberries označena za pochopitelnou reakci na ukrajinské útoky
+      na civilisty
   podtema: Průběh války, útoky a „terorismus"
 - id: vrabel-2026-08-22-08
   typ: tvrzeni

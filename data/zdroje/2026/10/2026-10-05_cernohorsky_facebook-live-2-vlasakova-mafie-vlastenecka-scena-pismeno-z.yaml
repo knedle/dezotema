@@ -8,6 +8,10 @@ zdroj:
   prepis: prepisy/done/2026-10-05_Jiří-Černohorský_Facebook-Live_1.txt
   rezim: standard
   poznamka: 1 h 48 min, navazuje na přerušené vysílání o kauze Vlasáková.
+  osoby:
+  - osoba: jakub-jasek
+    vztah: pozitivni
+    kontext: „Dnes kamarádi"; udali ho „proukrajinské kurvy od muzea"
 vyroky:
 - id: cernohorsky-2026-10-05-01
   typ: tvrzeni
@@ -27,6 +31,16 @@ vyroky:
   citace:
   - text: Proč mám strkat hlavu do oprátky dobrovolně? [...] Svatojiřská stuha vedle trikolóry — na to
       mě nikdo nemůže říct.
+  osoby:
+  - osoba: vrabel
+    vztah: negativni
+    kontext: „Krypl", kterému shromáždění „sype peníze"; rozjel kauzu Jašek proti PRO
+  - osoba: rajchl
+    vztah: rozporuplny
+    kontext: Hájí ho, že Jaška neudal (přestože „s ním skončil")
+  - osoba: petr-vacek
+    vztah: rozporuplny
+    kontext: Jaška neudal, ale jeho vystoupení bylo „mužské ego"
   podtema: Trestání politického projevu
 - id: cernohorsky-2026-10-05-02
   typ: tvrzeni
@@ -75,6 +89,25 @@ vyroky:
   citace:
   - text: Nejdřív se spojí všichni velcí vlastenci, a jak dosáhnou svého cíle, tak v tu ránu všichni —
       peníze, peníze, peníze.
+  osoby:
+  - osoba: bernardy
+    vztah: negativni
+    kontext: „Saň Spriglu", rozjela „štvavou kampaň"
+  - osoba: patrik-tusl
+    vztah: negativni
+    kontext: „Žebrá" o peníze, „zmrd"
+  - osoba: dan-novas
+    vztah: negativni
+    kontext: Zveřejňuje jeho soukromé hlasovky; spekulace, že stojí za urážkami Rédové
+  - osoba: zdenek-vidra
+    vztah: negativni
+    kontext: „Ubožák", píše o něm, že ho „živí ženské"
+  - osoba: sonia-galligardy
+    vztah: negativni
+    kontext: Obviněna z krádeže u „Dagi"; zmínky o „romském, cigánském původu"
+  - osoba: tarabova
+    vztah: rozporuplny
+    kontext: Zesměšňuje („vymydlená"), ale odmítá, že by byla falešná opozice
   podtema: USA — volební systém
 - id: cernohorsky-2026-10-05-05
   typ: tvrzeni
@@ -93,6 +126,16 @@ vyroky:
   citace:
   - text: Jakýkoliv člověk, který by obelhal tento stát na daních o deset tisíc korun, jde okamžitě do
       basy. A politici mají na všechno imunitu.
+  osoby:
+  - osoba: zbynek-stanjura
+    vztah: negativni
+    kontext: „Svině", falšoval rozpočet, „je na svobodě"
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: „Gestapák, Sturmbannführer", Dozimetr
+  - osoba: eva-decroix
+    vztah: negativni
+    kontext: Zametla bitcoinovou kauzu pod koberec
   podtema: USA — volební systém
 - id: cernohorsky-2026-10-05-06
   typ: tvrzeni
@@ -104,6 +147,10 @@ vyroky:
     než 37 let vlády politiků. Lidé podle něj „ve většině nejsou hloupí" a při skutečné možnosti volby
     by si „další a další zmrdy" nezvolili. Vysílání ale končí pesimisticky: cituje příspěvek, že až budou
     Češi „znova narváni do dobytčáků", budou se hádat, „kdo bude u okna" — „tohle je tenhle národ".'
+  osoby:
+  - osoba: katerina-konecna
+    vztah: pozitivni
+    kontext: Jako jedna z mála upozorňovala na Donbas
   podtema: USA — volební systém
 - id: cernohorsky-2026-10-05-08
   typ: tvrzeni
@@ -125,6 +172,16 @@ vyroky:
   - text: Budu jmenovat tu ředitelku školy, budu jmenovat tu třídní učitelku [...] budu jmenovat tu státní
       zástupkyni z Prahy, budu jmenovat tu soudkyni a budu jmenovat i tu lékařku, tu psychiatričku, všechny
       je budu jmenovat.
+  osoby:
+  - osoba: tereza-vlasakova
+    vztah: pozitivni
+    kontext: Hájí ji jako oběť „mafie"; „paní Kolombová"; chystá s ní seriál
+  - osoba: varhanova
+    vztah: negativni
+    kontext: Prý záměrně nabourala Vlasákovou a křivě ji udala policii
+  - osoba: vlasak-a-varhan
+    vztah: negativni
+    kontext: „Dva zmrdi", kteří ji chtějí připravit o děti a domy
   podtema: Šmírování dětí státem
 - id: cernohorsky-2026-10-05-09
   typ: tvrzeni
@@ -143,6 +200,44 @@ vyroky:
   citace:
   - text: To si jako měli nechat srát pořád na hlavu? [...] Tadle celá vláda, s Andrejem Babišem, s Macinkou,
       s Turkem, s Borisem Šťastným, všichni tady tyhlenstí rusobijci, běžte do piče.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Vláda nic nevyšetřuje, přebírá narativ „ruského agresora"
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: „Rusobijce", „kde jste byl 8 let"
+  - osoba: josef-skala
+    vztah: pozitivni
+    kontext: Upozorňoval na Donbas od 2016–2017
+  - osoba: kaja-kallasova
+    vztah: negativni
+    kontext: Vulgárně napadeny za narativ „ruského agresora"
   dalsi_zdroje:
   - 2026-11-14_cernohorsky_facebook-live-14-11-2026
   podtema: Zahraniční aktéři a precedenty
+- id: cernohorsky-2026-10-05-10
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Zbyněk Stanjura
+  text: jmenovaný terč + dehumanizace („svině") + implicitní výzva k uvěznění; navazuje na opakované výzvy
+    k trestu (28. 8., 15. 9.)
+  citace:
+  - text: Jak je možný, že Staňura je na svobodě? Vždyť ta svině, kurva, čtyři roky falšovala státní rozpočet.
+  teror:
+    terc: Zbyněk Stanjura
+    hranicni: false
+- id: cernohorsky-2026-10-05-11
+  typ: stoch-teror
+  temata:
+  - media-propaganda
+  nadpis: moderátoři/zaměstnanci Facebooku
+  text: skupinový terč („ti čuráci z Facebooku", kteří mu vybírají náhledové fotky a podle něj přerušují
+    vysílání) + přání fyzického násilí
+  citace:
+  - text: Oni jednou dostanou po rypáku. Jim někdo jednou rozbije bejsbolkou tu jejich skurvenou palici.
+      Oni na to dojedou.
+  teror:
+    terc: moderátoři/zaměstnanci Facebooku
+    hranicni: false

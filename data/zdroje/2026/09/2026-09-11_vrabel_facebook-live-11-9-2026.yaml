@@ -7,6 +7,35 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1598198435117368
   prepis: prepisy/done/2026-09-11_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Litva ruší ústavní zákaz jaderných zbraní; Peskovo varování; paralela s ČR/Francií
+    text: → [Jaderné zbraně](../jaderne-zbrane.md)
+  - tema: Německo staví první trvalou zahraniční základnu Bundeswehru — Litva
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: 25. výročí 11. září — pochybnosti o oficiální verzi, sedmý mrakodrap, Wesley Clark
+    text: → [Konspirační teorie](../konspirace.md)
+  - tema: EU schválila 6,1 mld. eur na munici/drony pro Ukrajinu — mechanismus zakázek z ruky
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: AfD trestní oznámení na Merze za "etnickou čistku"; Vrabelova nuance k migraci
+    text: → [Migrace](../migrace.md)
+  - tema: '"Super El Niño" — varování před ovlivňováním počasí'
+    text: → [Konspirační teorie](../konspirace.md)
+  - tema: Centralizace onkologické péče (78→22 pracovišť) — kritika Vojtěcha
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Ukrajinská mobilizace "podle plánu" — režim vs. vlastní lidé
+    text: → [Válka na Ukrajině](../valka-ukrajina-prubeh.md)
+  - tema: Ministr Zůna neodjede do Číny, poslouchá Okamuru
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: Prodej ČSA/Smartwings turecké firmě Pegasus Airlines
+    text: → [Kauzy](../kauzy.md)
+  - tema: Rutteho "obranná průmyslová revoluce" — Evropa jako výrobna zbraní
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: 'Putin: BRICS 40 % světového HDP vs. G7 29 %'
+    text: → [Konspirační teorie](../konspirace.md)
+  - tema: Húsíové obsadili přístav Mocha a postupují k Bab al-Mandabu
+    text: nezpracováno
+  - tema: Ceny benzínu a elektřiny — Německo/Rusko/Srbsko srovnání
+    text: → [Ceny energie](../ceny-energie.md)
 vyroky:
 - id: vrabel-2026-09-11-01
   typ: tvrzeni
@@ -80,6 +109,11 @@ vyroky:
     K 25. výročí útoků z 11. září 2001 Vrabel kritizuje vyjádření vicepremiéra a ministra zahraničí Petra Macinky, že „některá data nepotřebují vysvětlení" — naopak tvrdí, že toto konkrétní datum vysvětlení potřebuje nejvíc. Argumentuje fyzikální nemožností oficiální verze: hliníkové letadlo s kerosinovým požárem podle něj nemohlo zničit masivní ocelovou konstrukci mrakodrapů navrženou na vydržení mnohem větší zátěže; sedmá budova Světového obchodního centra se zřítila, aniž do ní narazilo jakékoli letadlo; v Pentagonu nebyly nalezeny žádné trosky letadla; mezi jednotlivými útoky uplynulo přes tři čtvrtě hodiny, aniž by vzlétly americké stíhačky (na rozdíl od standardní reakce na dnešní dronové incidenty); a pasy únosců se našly na místě dřív, než budovy spadly. Připomíná, že na základě zprávy vyšetřovací komise (Kean-Hamilton) byla legitimizována invaze do Iráku a válka v Afghánistánu, a cituje generála Wesleyho Clarka, který měl krátce po útocích v Pentagonu vidět plán války v sedmi zemích (Irák, Sýrie, Libanon, Libye, Somálsko, Súdán, Írán) během pěti let — z nichž se většina později naplnila. Uzavírá, že konspirační vysvětlení („false flag" operace provedená k rozehrání „války proti terorismu") mu připadá logičtější než oficiální verze, byť připouští, že pro to nemá přímé důkazy.
 
     ⚡ **Konflikt:** Tvrzení o kontrolované demolici WTC a absenci trosek v Pentagonu jsou v rozporu se závěry oficiálních vyšetřování (komise NIST, 9/11 Commission), které fyzikální kolaps budov i nárazy letadel dokumentují.
+  osoby:
+  - osoba: wesley-clark
+    vztah: neutralni
+    kontext: Citován — americký generál, který po 11. září viděl v Pentagonu plán války v sedmi zemích
+      (Irák, Sýrie, Libanon, Libye, Somálsko, Súdán, Írán)
   podtema: Náboženský a okultní výklad moci
 - id: vrabel-2026-09-11-06
   typ: tvrzeni
@@ -169,6 +203,11 @@ vyroky:
     zbraní, Macinkovy obchodní cesty do USA). Dodává, že v Kanadě premiér Mark Carney nedávno slíbil Ukrajině
     dalších přes 300 mld. kanadských dolarů — celý Západ je dle něj v „době plundrování", kdy se země
     i občané zadlužují bez ohledu na důsledky.'
+  osoby:
+  - osoba: mark-carney
+    vztah: negativni
+    kontext: Kanadský premiér — slíbil Ukrajině přes 300 mld. kanadských dolarů, další příklad západního
+      „plundrování"
   podtema: EU jako vojenská struktura
 - id: vrabel-2026-09-11-12
   typ: tvrzeni
@@ -183,6 +222,11 @@ vyroky:
     k tomu poznamenává, že se změnil jen název (Wehrmacht → Bundeswehr) a někdejší nacistické symboly
     (kříže u Luftwaffe), velitelská struktura i generálové zůstali stejní jen s postupnou obměnou — a
     hodnotí krok jako další stupeň eskalace bezpečnostní situace v Evropě.
+  osoby:
+  - osoba: boris-pistorius
+    vztah: negativni
+    kontext: Německý ministr obrany — hledá dobrovolníky pro trvalou brigádu v Litvě, v některých případech
+      může nasazení nařídit
   podtema: EU jako vojenská struktura
 - id: vrabel-2026-09-11-13
   typ: tvrzeni

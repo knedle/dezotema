@@ -15,6 +15,14 @@ zdroj:
     nevyzpytatelný člen NATO + „druhá armáda" v civilu, vlastenecký kandidát (Sládek/Landa), mírové podmínky
     EU/Ukrajiny jako recyklace (Rusko odmítá příměří). Zprávy v devět s komentářem, 2. část (moderátorka
     Zuzka)'
+  prehled:
+  - tema: Hlavní bloky
+    text: eskalace NATO–Rusko (dron Lotyšsko, salámová metoda, F-35/B-61 scénář jaderného náletu), Dánsko
+      přesouvá ukrajinskou zbrojní výrobu, tlak v Rusku na protiútok (Putin „slabý", úder na evropské
+      město), BRICS vs unipolární svět + globalistická „chazarská" nadvláda (Rothschild/Rockefeller),
+      Írán pravděpodobně má jaderné zbraně, příprava na válku „zachraň se kdo můžeš" + bunkry, Turecko
+      jako nevyzpytatelný člen NATO + „druhá armáda" v civilu, vlastenecký kandidát (Sládek/Landa), mírové
+      podmínky EU/Ukrajiny jako recyklace (Rusko odmítá příměří).
 vyroky:
 - id: vrabel-2026-06-08-01
   typ: tvrzeni
@@ -72,6 +80,14 @@ vyroky:
     Připouští, že Landovi „napsali spoustu špíny".
   citace:
   - text: Daniel Landa, to je první vlastenec v České republice, největší vlastenec.
+  osoby:
+  - osoba: daniel-landa
+    vztah: pozitivni
+    kontext: Označen za „prvního a největšího vlastence v ČR"; Vrabel vyzývá zvážit ho jako prezidentského
+      kandidáta
+  - osoba: miroslav-sladek
+    vztah: pozitivni
+    kontext: Doporučený vlastenecký kandidát na prezidenta
   podtema: Volby
 - id: vrabel-2026-06-08-10
   typ: tvrzeni
@@ -87,6 +103,11 @@ vyroky:
     dohodnout a podepsat podmínky míru, teprve pak mír. Skupinu lídrů ironicky označuje za „klasickou
     partu kokainovou" a jejich prohlášení za „úplně zbytečné". Navazuje na [Zelenského otevřený dopis
     Putinovi (5. 6.)](#zelenského-otevřený-dopis-putinovi--putin-odmítá-příměří-před-vyjednáváním-vrabel-5-6-2026).'
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: „Velmi rozumný politik"; ale pod tlakem Moskvy, která ho má za „slabého" a žádá tvrdý protiútok
+      na NATO/Evropu
   podtema: Vyjednávání a mír
 - id: vrabel-2026-06-08-12
   typ: tvrzeni
@@ -134,3 +155,17 @@ vyroky:
     legitimním vojenským cílem. Dánský národ jinak hodnotí vřele (vzdělaný, pomáhal za 2. světové války),
     o to méně chápe rozhodnutí premiéra. Navazuje na [Rusko prohlásilo ČR za „spolupracovníka"](nato-zbrojeni-militarizace.md#rusko-prohlásilo-čr-za-spolupracovníka--česká-zbrojní-výroba-pro-ukrajinu-jako-casus-belli).
   podtema: Eskalace a hrozba rozšíření konfliktu
+- id: vrabel-2026-06-08-16
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Možný ruský vojenský úder na evropské město
+  text: Vrabel považuje za „docela pravděpodobné", že Rusko pod tlakem pokračujících útoků podnikne vojenský
+    úder na nějaké evropské město; nevylučuje, že terčem by mohla být i menší země jako Česká republika
+    („predátor loví ve stádu tu nejslabší laň"). Zároveň tvrdí, že svět je „pravděpodobně před velkým
+    vojenským konfliktem".
+  citace:
+  - text: '...připadá mi i docela pravděpodobné, že by se mohl stát nějaký útok na nějaké evropské městě.'
+  predikce:
+    horizont: neurčeno (brzy)
+    stav: ceka

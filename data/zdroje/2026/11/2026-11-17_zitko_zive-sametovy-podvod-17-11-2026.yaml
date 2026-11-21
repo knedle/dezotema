@@ -13,6 +13,13 @@ zdroj:
     doplněno k EBS 17. 11. a k „V jako vendeta“ (juliánský 18. 11.). Stochastický teror nezjištěn (hraniční:
     „západní Němci… jsou to všechno svině“, „velezrádci po zásluze potrestáni“ bez konkrétního terče).
     Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny v přepisu.'
+  osoby:
+  - osoba: vaclav-havel
+    vztah: negativni
+    kontext: „Zednář 33. stupně“, „třikrát křivě přísahal“
+  - osoba: tomas-langasek
+    vztah: negativni
+    kontext: Brání obnově právní kontinuity ČSR („žába na prameni“, „Langáškova finta“)
 vyroky:
 - id: zitko-2026-11-17-01
   typ: tvrzeni
@@ -38,6 +45,25 @@ vyroky:
   citace:
   - text: A proč tam ty študenti byli? No, protože jim ve škole dali volno, jo, aby cinkání klíčů mělo
       takovou tu sílu lidí.
+  osoby:
+  - osoba: alois-lorenz
+    vztah: negativni
+    kontext: Podle něj organizátoři „operace“ 17. 11. 1989 a fámy o mrtvém studentovi
+  - osoba: drahomira-drazska
+    vztah: negativni
+    kontext: Podle něj organizátoři „operace“ 17. 11. 1989 a fámy o mrtvém studentovi
+  - osoba: petr-uhl
+    vztah: negativni
+    kontext: Podle něj organizátoři „operace“ 17. 11. 1989 a fámy o mrtvém studentovi
+  - osoba: honza-dedek
+    vztah: negativni
+    kontext: V klipu podle něj hraje „reptiliána v médiích“
+  - osoba: eva-farna
+    vztah: pozitivni
+    kontext: Klipem podle něj odhalují „agenta Šmída“ a vyzývají k návratu do ČSR
+  - osoba: mirai-navratil
+    vztah: pozitivni
+    kontext: Klipem podle něj odhalují „agenta Šmída“ a vyzývají k návratu do ČSR
 - id: zitko-2026-11-17-02
   typ: tvrzeni
   temata:
@@ -53,6 +79,22 @@ vyroky:
     NATO“, a reparace „29 bilionů“ by z ní udělaly „světovou velmoc“.'
   citace:
   - text: Každý rok je… z korporace Česká republika vyvedeno, vytunelováno, vykradeno jeden bilion korun.
+  osoby:
+  - osoba: pavel-rychetsky
+    vztah: negativni
+    kontext: Brání obnově právní kontinuity ČSR („žába na prameni“, „Langáškova finta“)
+  - osoba: rajchl
+    vztah: rozporuplny
+    kontext: Cituje jeho „1 bilion ročně“, ale „vyučil se“ u Chvalovského
+  - osoba: vaclav-klaus
+    vztah: negativni
+    kontext: Vykrádání bank a prodej zlata v 90. letech
+  - osoba: livia-klausova
+    vztah: negativni
+    kontext: Vykrádání bank a prodej zlata v 90. letech
+  - osoba: josef-tosovsky
+    vztah: negativni
+    kontext: Vykrádání bank a prodej zlata v 90. letech
 - id: zitko-2026-11-17-03
   typ: tvrzeni
   temata:
@@ -66,6 +108,10 @@ vyroky:
     „jakékoliv volby včetně prezidentských jsou organizovaný podvod“ a řešením je blockchain. Jako doklad
     líčí svůj neúspěšný pokus z roku 2021 (Wolfová, „Langáškova finta“ s lhůtou, „přehozená čísla 51 a
     15“).'
+  osoby:
+  - osoba: jana-wolfova
+    vztah: negativni
+    kontext: Selhala při jeho pokusu o volební protest 2021
 - id: zitko-2026-11-17-04
   typ: tvrzeni
   temata:

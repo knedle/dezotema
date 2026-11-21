@@ -11,6 +11,13 @@ zdroj:
     Vlasáková, Společenství jako přímá demokracie, SPD „podráží nohy“ Babišovi, covid, Rusko „není agresor“
     od 30. 4. 2022. Stochastický teror: 1 výrok (Minář) a 1 hraniční (politici ODS). Přepis četl pomocný
     agent, klíčové citace ověřeny v přepisu.'
+  osoby:
+  - osoba: policista-bily
+    vztah: negativni
+    kontext: Součást „mafie“ proti Vlasákové
+  - osoba: herec-trojan
+    vztah: negativni
+    kontext: Projev na Letné
 vyroky:
 - id: cernohorsky-2026-11-16-02
   typ: tvrzeni
@@ -31,6 +38,13 @@ vyroky:
     odpověděl „Ne, nebudem, tečka, konec“.'
   citace:
   - text: Něco mezi 150 až 170 tisíci… Víc tam prostě nebylo.
+  osoby:
+  - osoba: mikulas-minar
+    vztah: negativni
+    kontext: „Zrzavý hajzl/kretén“, „žije z peněz spolku“, fantazie o fyzickém útoku
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Já, já, jenom já“ (Olympic), „úplně mimo mísu“
   podtema: Milion chvilek — struktura a financování
 - id: cernohorsky-2026-11-16-03
   typ: tvrzeni
@@ -57,6 +71,10 @@ vyroky:
     „podráželi“ a „lhali do ksichtu“.'
   citace:
   - text: Tady na téhle z té vlastenecké scény jsou ty samý ovce.
+  osoby:
+  - osoba: vaclav-sinagl
+    vztah: rozporuplny
+    kontext: Kamarád, přijal kritiku, ale vede „žabomiší války“
   podtema: Ekonomický program PRO
 - id: cernohorsky-2026-11-16-05
   typ: tvrzeni
@@ -100,6 +118,20 @@ vyroky:
   citace:
   - text: Ať se mi to líbí, nelíbí, tak SPD nemůže mít takovouhle hubu, i když je to dejme tomu odvážný,
       dobře, ale v téhle době je to na hovno.
+  osoby:
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: „Jediný politik“, který mluví s kritiky, chválí „Ne, nebudem“ k Letné; covid „svinstvo“,
+      „podlehl strachu“
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: „Podráží nohy“ Babišovi, chová se jako premiér
+  - osoba: radek-vondracek
+    vztah: rozporuplny
+    kontext: „Až moc korektní“, ale tentokrát kritizoval SPD
+  - osoba: martin-kuba
+    vztah: rozporuplny
+    kontext: Jako předseda ODS by mohl nahradit SPD ve vládě (zároveň „zmrd“)
   podtema: Vlastní vládní program „kdybych byl Babišem" (Černohorský)
 - id: cernohorsky-2026-11-16-08
   typ: tvrzeni
@@ -114,6 +146,10 @@ vyroky:
     Slibuje, že „hradby té mafie“ dobudou právní cestou.'
   citace:
   - text: My dobíváme hradby té mafie, který oni si myslí, že jsou neprolomitelný.
+  osoby:
+  - osoba: kamil-vlasak
+    vztah: negativni
+    kontext: Součást „mafie“ proti Vlasákové
   podtema: Šmírování dětí státem
 - id: cernohorsky-2026-11-16-09
   typ: tvrzeni
@@ -126,4 +162,55 @@ vyroky:
     vyfetovaný“) pak po příjezdu Borise Johnsona „s notičkama z EU a USA“ dohodu odmítl. „K 30. dubnu
     2022 přestalo být Rusko agresorem. Tečka.“ Proto ho „serou“ Motoristé i ANO, když o Rusku mluví jako
     o agresorovi. Macinku přitom chválí, že „rozmázl ty idioty na Letné“.'
+  osoby:
+  - osoba: petr-macinka
+    vztah: rozporuplny
+    kontext: „Rozmázl ty idioty na Letné“, ale „debil“ kvůli „mužatkám“ a „ruskému agresorovi“
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: Zmařili mír po stažení Rusů 30. 4. 2022
+  - osoba: boris-johnson
+    vztah: negativni
+    kontext: Zmařili mír po stažení Rusů 30. 4. 2022
   podtema: Příčiny a odpovědnost za válku
+- id: cernohorsky-2026-11-16-10
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Mikuláš Minář
+  text: jmenovaný terč, dehumanizace a fantazie o fyzickém násilí
+  citace:
+  - text: Ale tomuhle zrzavýmu hajzlovi, skurvenýmu, vykurvenýmu zmrdovi, že kdyby to bylo v tom socialistickým
+      zřízení, tak kdyby ho člověk potkal, tak mu dá tak porypáku, že už nikdy, nikdy neotevře hubu.“
+      Dále „zrzavej kripl“, „zrzavý kretén
+  teror:
+    terc: Mikuláš Minář
+    hranicni: false
+- id: cernohorsky-2026-11-16-11
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Kupka, Černochová, Decroix, Stanjura, Fiala
+  text: 'Terč: Kupka, Černochová, Decroix, Stanjura, Fiala.'
+  citace:
+  - text: Kupka „tupec“, Černochová „blbá, tupá kráva… pixle od sidolu zmačkaná“, Decroix „nádoba na semeno“,
+      Stanjura „zmrd“, Fiala „debil“ — dehumanizace jmenovaných politiků bez výzvy k trestu
+  osoby:
+  - osoba: kupka
+    vztah: negativni
+    kontext: Hrubé dehumanizující nadávky
+  - osoba: cernochova
+    vztah: negativni
+    kontext: Hrubé dehumanizující nadávky
+  - osoba: decroix
+    vztah: negativni
+    kontext: Hrubé dehumanizující nadávky
+  - osoba: stanjura
+    vztah: negativni
+    kontext: Hrubé dehumanizující nadávky
+  - osoba: fiala
+    vztah: negativni
+    kontext: Hrubé dehumanizující nadávky
+  teror:
+    terc: Kupka, Černochová, Decroix, Stanjura, Fiala
+    hranicni: true

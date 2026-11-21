@@ -37,4 +37,12 @@ vyroky:
     Evropy, bývalý švýcarský ministr zdraví, „sám těžký covidián"), Barackou Obamovu nadaci a ruskou ambasádu
     — vše bez praktického výsledku. Jako filosofický postoj uvádí: „Tuto hru v tuto chvíli není možné
     objektivně vyhrát, ale není možné ji nehrát."'
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Slíbil na sněmovním semináři 26. 1. pomoc s dopisem prezidentovi za COVID rehabilitaci —
+      slib nesplnil
+  - osoba: alain-berset
+    vztah: neutralni
+    kontext: Peková ho kontaktovala po Rajchlově nesplněném slibu; odezva nebyla zmíněna
   podtema: Pokusy o vyšetřování

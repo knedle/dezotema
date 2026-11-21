@@ -7,6 +7,20 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/4540968222845697
   prepis: prepisy/done/2026-09-06_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Teorie "totality na cestě" (mass formation) aplikovaná na ČR/Rusko jako společného nepřítele
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Rozhovor s Tomášem Hrdličkou a advokátem Bubeníčkem — detailní právní rozbor kauzy "Z" (§405/365,
+      důkazní břemeno), návrh recipročních trestních oznámení
+    text: → [DSA a cenzura](../dsa-cenzura.md)
+  - tema: 'Lavrov: incident v Lipsku je "skutečný začátek" reálné války, rekapitulace mírových jednání'
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Francouzský "jaderný deštník" a svolání demonstrace 3. 10.
+    text: nezpracováno (opakování)
+  - tema: Opakování 65% predikce, nedůvěra v Babišovy sliby, rady k emigraci do Srbska
+    text: nezpracováno (opakování)
+  - tema: Chvála Ivana Davida jako jediného smysluplného politika v EP
+    text: nezpracováno
 vyroky:
 - id: vrabel-2026-09-06-01
   typ: tvrzeni
@@ -32,6 +46,14 @@ vyroky:
     německého novináře/Zelenského na tiskové konferenci v Bělehradě (dotaz, co dalšího lze udělat, aby
     bylo možné „zabíjet víc Rusů", opravený na „ruských vojáků") a dřívější Zemanův výrok, že Rusové mají
     „agresi v genech".'
+  osoby:
+  - osoba: tomas-hrdlicka
+    vztah: pozitivni
+    kontext: Host vysílání — vlastní vylíčení zadržení a výslechu na Bartolomějské za odznak „Z"
+  - osoba: petr-bubenicek
+    vztah: pozitivni
+    kontext: Host vysílání, advokát — poskytl právní rozbor kauzy „Z", potvrdil právní nejistotu a kritizoval
+      justiční praxi
   podtema: Trestání politického projevu
 - id: vrabel-2026-09-06-02
   typ: tvrzeni
@@ -72,4 +94,9 @@ vyroky:
     boje na současné frontové linii — s tímto řešením Vrabel výjimečně souhlasí. Lavrov podmiňuje ruský
     souhlas zajištěním plných práv ruskojazyčného obyvatelstva na Ukrajině (přirovnání k hypotetickému
     zákazu arabštiny v Izraeli).'
+  osoby:
+  - osoba: sergej-lavrov
+    vztah: neutralni
+    kontext: 'Citován: incident v Lipsku označil za „skutečný začátek" reálné války, podmínil mír plnými
+      právy ruskojazyčného obyvatelstva Ukrajiny'
   podtema: Zahraniční aktéři a precedenty

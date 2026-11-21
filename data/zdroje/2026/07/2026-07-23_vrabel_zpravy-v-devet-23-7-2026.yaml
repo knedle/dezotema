@@ -18,6 +18,23 @@ zdroj:
     2027 — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). (9) Okamura v Číně, zadržený
     Čech / Strnad — [kauzy.md](kauzy.md). (10) EU pokutovala Google (DMA) — [digitalni-kontrola.md](digitalni-kontrola.md).
     Bez stoch. teroru.'
+  osoby:
+  - osoba: karel-havlicek
+    vztah: negativni
+    kontext: V Bělehradu chválil srbský ekonomický růst a lákal Srbsko do EU; dříve prodával kmenové buňky
+      s Rajchlem
+  prehled:
+  - tema: 'Zpracováno 10 témat: (1) Babiš/Havlíček v Bělehradu vs. Vučičova suverenita'
+    text: '[suverenita-eu.md](../suverenita-eu.md). (2) ASEAN Rubio–Lavrov, Rusko diplomaticky „vyhrálo"
+      — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md). (3) EU odmítla registrovat iniciativu
+      Save Europe Act — [migrace.md](../migrace.md). (4) Húsíové zaútočili na tankery, ropa nad 100 $
+      — [blizky-vychod.md](../blizky-vychod.md), predikce o úrocích/krizi — [predikce.md](../predikce.md).
+      (5) „Chazarští bankéři"/Fed jako skuteční vládci — [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md).
+      (6) Zasypání dolu ČSM Karviná — [suverenita-eu.md](../suverenita-eu.md). (7) Čečenská exilová vláda
+      v Praze, doplnění — [valka-nato-rusko.md](../valka-nato-rusko.md). (8) Polská armáda očekává invazi
+      po 2027 — [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md). (9) Okamura v Číně,
+      zadržený Čech / Strnad — [kauzy.md](../kauzy.md). (10) EU pokutovala Google (DMA) — [digitalni-kontrola.md](../digitalni-kontrola.md).
+      Bez stoch. teroru.'
 vyroky:
 - id: vrabel-2026-07-23-01
   typ: tvrzeni
@@ -64,6 +81,15 @@ vyroky:
     Předseda Poslanecké sněmovny Tomio Okamura při návštěvě čínského showroomu automobilky Zeekr vyjádřil obdiv k rychlému rozvoji čínského automobilového průmyslu a uvedl, že Evropa v automobilovém závodě ztrácí pozici. Vrabel s tímto konkrétním hodnocením souhlasí (srovnává výkon/cenu čínských elektromobilů s Mercedesem) a používá ho jako doklad své dlouhodobé teze o technologickém náskoku Číny (infrastruktura sledovaná umělou inteligencí, rychlovlaky) oproti „100 let pozadu" zaostávající Evropě.
 
     Zásadní část cesty ale podle Vrabela nebyla o automobilech: česká delegace vedená Okamurou zároveň jednala s čínskými nejvyššími představiteli (Čao Le-ťi, Wang Chu-ning) o případu zadrženého českého občana vyšetřovaného pro podezření z ohrožení státní bezpečnosti Číny — věc řeší i ministr zahraničí Petr Macinka a šéf tajných služeb. Z rozsahu nasazení (předseda sněmovny osobně, celá delegace, koordinace s vládou) Vrabel usuzuje, že nejde o běžného občana, ale o vlivnou osobu z vysokého byznysu — a spekuluje, s odkazem na to, že se za zadrženého do sněmovny osobně zajel přimluvit Michal Strnad, že jde o člověka pracujícího pro Strnadovu firmu. Obchod s Čínou jako takový Vrabel odmítá jako reálnou možnost („zakáže nám to Evropská unie" — přirovnává ČR k „protektorátu" EU, viz [Zasypání dolu ČSM](suverenita-eu.md#zasypání-posledního-černouhelného-dolu-čsm-v-karviné-jako-likvidace-suverenity-vrabel-23-7-2026)).
+  osoby:
+  - osoba: tomio-okamura
+    vztah: rozporuplny
+    kontext: V Číně chválil čínské automobilky (Vrabel souhlasí) a osobně jednal o zadrženém Čechovi —
+      podezření na vazbu na Strnada
+  - osoba: michal-strnad
+    vztah: rozporuplny
+    kontext: Zadržený Čech v Číně dle Vrabelovy spekulace pracuje pro jeho firmu — vysvětluje mimořádné
+      diplomatické nasazení
 - id: vrabel-2026-07-23-04
   typ: tvrzeni
   temata:
@@ -114,6 +140,14 @@ vyroky:
   - text: Aleksandar Vučič se nepřipojil ani k jedné sankci proti Ruské federaci [...] je prezidentem
       suverénní země Srbska. Jeho zvolili srbští občané a on nebude poslouchat příkazy ani z Evropské
       unie, ani z žádných jiných globalistických organizací.
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Jediný na kyjevském summitu nepodepsal deklaraci uznávající Rusko za agresora — Vrabel znovu
+      „nejlepší politik na světě"
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: V Bělehradu přesvědčoval Srbsko o vstupu do EU, místo aby se od Vučiče učil suverenní politice
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-07-23-07
   typ: tvrzeni
@@ -157,6 +191,14 @@ vyroky:
   citace:
   - text: Rusové jsou připraveni diplomatickému řešení konfliktu, ale pouze za ruských podmínek, ne za
       podmínek Ukrajiny.
+  osoby:
+  - osoba: sergej-lavrov
+    vztah: neutralni
+    kontext: 'Na ASEANu řekl Rubiovi, že další vyzbrojování Ukrajiny ze strany USA je „neakceptovatelné"
+      — Vrabel: diplomatická výhra Ruska'
+  - osoba: marco-rubio
+    vztah: rozporuplny
+    kontext: Odešel ze schůzky s Lavrovem na ASEANu jako „ne vítěz" — USA si schůzku samy vyžádaly
   podtema: Vyjednávání a mír
 - id: vrabel-2026-07-23-09
   typ: tvrzeni
@@ -192,4 +234,26 @@ vyroky:
     terorismus), Izraele („genocida v Gaze", útoky na Libanon), USA vůči Venezuele a Íránu (zabití „duchovního
     vůdce" a vlády) — a připomíná, že s gruzínskou i běloruskou opozicí jednal i ministr zahraničí Petr
     Macinka.'
+  osoby:
+  - osoba: achmed-zakajev
+    vztah: neutralni
+    kontext: Předseda exilové vlády Čečenské republiky Ičkerie (Londýn) — připojil se k pražskému jednání
+      videohovorem
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-07-23-11
+  typ: predikce
+  temata:
+  - blizky-vychod
+  nadpis: Úroky nad 5 % ze státních dluhopisů USA vyvolají krizi srovnatelnou s obdobím před 2. světovou
+    válkou
+  text: V důsledku uzavření průlivů (Hormuz, Báb al-Mandab) přijdou ropné/plynové státy o cashflow a začnou
+    prodávat americké státní dluhopisy; aby si USA udržely zájem investorů, budou muset zvýšit úrokovou
+    sazbu — jakmile přesáhne 5 %, může to vyvolat rychlý sesun americké ekonomiky do recese s „dominovým
+    efektem" až ke kolapsu srovnatelnému s obdobím před druhou světovou válkou. Kvůli navázanosti české
+    ekonomiky na americkou by to mělo silné dopady i pro ČR.
+  citace:
+  - text: Pokud si chcete představit, co to může znamenat, tak to může vyvolat krizi takovou, jako byla
+      před druhou světovou válkou.
+  predikce:
+    horizont: neurčeno (podmíněno vývojem úrokových sazeb)
+    stav: ceka

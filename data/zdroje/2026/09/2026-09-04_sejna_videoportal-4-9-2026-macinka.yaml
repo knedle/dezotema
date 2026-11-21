@@ -18,4 +18,13 @@ vyroky:
     poté, co se stejný aktivista Vojtěch Pšenák sešel i s ním, rozhovor nahrál na skrytou kameru a zveřejnil
     ho. Šejna kritiku přijímá s nadhledem, odmítá vydávat vlastní reakci na falešné účty vydávající se
     za něj, a využívá příležitosti k upřesnění, že je pouhým fanouškem Motoristů, ne členem strany.'
+  osoby:
+  - osoba: petr-macinka
+    vztah: rozporuplny
+    kontext: Veřejně „konstruktivně zkritizoval" Šejnu po zveřejnění rozhovoru s Pšenákem nahraného na
+      skrytou kameru; Šejna kritiku přijímá s nadhledem
+  - osoba: vojtech-psenak
+    vztah: neutralni
+    kontext: Aktivista, který se Šejnou natočil rozhovor na skrytou kameru a zveřejnil ho (stejný, kdo
+      dříve nastražil léčku na Macinku)
   podtema: Zahraniční aktéři a precedenty

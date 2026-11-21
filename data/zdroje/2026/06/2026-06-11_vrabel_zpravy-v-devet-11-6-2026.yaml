@@ -13,6 +13,13 @@ zdroj:
     schodek rozpočtu 350 mld, Norsko do EU, USA bombardovaly vodu v Íránu (terorismus), Trump ultimáta
     + manipulace ropy, Ukrajina terorismus/izolace Krymu/přístavy Oděsa, EU reforma diplomatické služby
     (Kallas), EU spor EPF Německo vs Polsko. Zprávy v devět s komentářem (moderátorka Zuzka)'
+  prehled:
+  - tema: Hlavní bloky
+    text: autonomní AI drony (ukr. test), Macinka „stát–stát–byznys"/Global Gateway (paralela s kuponovou
+      privatizací), ETS2 strop 45 EUR + Nerudová, EK utajení vakcinačních smluv (struktura moci), schodek
+      rozpočtu 350 mld, Norsko do EU, USA bombardovaly vodu v Íránu (terorismus), Trump ultimáta + manipulace
+      ropy, Ukrajina terorismus/izolace Krymu/přístavy Oděsa, EU reforma diplomatické služby (Kallas),
+      EU spor EPF Německo vs Polsko.
 vyroky:
 - id: vrabel-2026-06-11-01
   typ: tvrzeni
@@ -34,6 +41,11 @@ vyroky:
     už sedmé „konečné" ultimátum za měsíc). Tvrdí, že kolem Trumpa se opakuje vzorec spekulace s ropou:
     ~20 minut před Trumpovým oznámením někdo shortuje ropu, po oznámení cena klesne a spekulanti vydělají.
     Trumpa označuje za „nejkriminálnějšího prezidenta USA", jakého pamatuje.'
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: '„Nejkriminálnější prezident USA" — bombardoval vodní zařízení v Íránu (20k bez vody), opakovaná
+      „konečná" ultimáta, manipulace cen ropy; Vrabel: „dal bych mu přesnou ránu" (viz [stochastický teror](../stochasticky-teror.md))'
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-06-11-03
   typ: tvrzeni
@@ -60,6 +72,11 @@ vyroky:
     (model „stát–stát–byznys") a jako pokračování v duchu kuponové privatizace Václava Klause, u nějž
     Macinka „vyrůstal". Připomíná, že Macinka v USA nabízel výrobu zbraní pro USA (a jejich následný nákup
     pro Ukrajinu).'
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: 'Mění rozvojovou politiku na „stát–stát–byznys"/Global Gateway (rozvoj jako byznys pro USA/EU);
+      Vrabel: centrální řízení ekonomiky v duchu kuponové privatizace Klause'
   podtema: Ekonomický program PRO
 - id: vrabel-2026-06-11-05
   typ: tvrzeni
@@ -81,6 +98,11 @@ vyroky:
     stejně přijdou. Green Deal a emisní povolenky označuje za „specialitu" EU, kterou žádná jiná země
     na světě (Čína, USA, Rusko…) nedělá; řešením je vystoupit z EU a vypovědět Agendu 2030. Doplňuje [Rajchlův
     výklad ETS2 jako lži (11. 6.)](#ets2-zastropování-na-45-eur-je-lež--zrušit-emisní-povolenky-rajchl-11-6-2026).'
+  osoby:
+  - osoba: danuse-nerudova
+    vztah: negativni
+    kontext: „Vyjednala" cenový strop ETS2 na 45 EUR — Vrabel sarkasticky „gratuluje"; strop platí jen
+      do ~2027, povolenky stejně přijdou
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-06-11-07
   typ: tvrzeni
@@ -127,3 +149,16 @@ vyroky:
     zbraně (požaduje Polsko: „to jsou naše peníze"). Vrabel vysvětluje mechanismus EPF (stát dodá zbraně,
     EU proplatí ~60 %) a předpovídá, že ČR (Babiš/Macinka) podpoří poslání peněz přímo na Ukrajinu.'
   podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-06-11-11
+  typ: stoch-teror
+  temata:
+  - blizky-vychod
+  nadpis: Donald Trump
+  text: fantazie raketového úderu na jmenovaného prezidenta (reakce na odříznutí 20 000 lidí od vody v
+    Íránu)
+  citace:
+  - text: kdybych měl tu možnost, tak bych dal přesnou ránu Donaldu Trumpovi [...] tak jako on to poslal
+      k ním raketou, tak bych poslal přesnou ránu k Donaldu Trumpovi, buď to domů nebo do Bílého domu
+  teror:
+    terc: Donald Trump
+    hranicni: false

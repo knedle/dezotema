@@ -14,6 +14,27 @@ zdroj:
     projekt Petr Pavel; CBDC/digitální euro jako nástroj Velkého Resetu; deportace Ukrajinskych mužů odmítnuty;
     parlamentní opozice = součást systému; zklamání z demonstrace v Brně (Zeman, Sládek napaden); kryptoměny:
     sledování a kvantové hrozby.'
+  prehled:
+  - tema: Pravidelné nedělní vysílání. Klíčová témata
+    text: tři fáze konfliktu Západ–Rusko (Majdan → invaze → terorismus 2026)
+  - tema: útok na internátní školu (21 studentek) a dítě v Geničesku
+    text: útok na internátní školu (21 studentek) a dítě v Geničesku
+  - tema: Oriešník jako jaderná demonstrace
+    text: Oriešník jako jaderná demonstrace
+  - tema: ČR jako zbrojní centrum (Strnad/CSG, Macinka v Kongresu)
+    text: ČR jako zbrojní centrum (Strnad/CSG, Macinka v Kongresu)
+  - tema: Kolář–Hokovský–Janeček jako projekt Petr Pavel
+    text: Kolář–Hokovský–Janeček jako projekt Petr Pavel
+  - tema: CBDC/digitální euro jako nástroj Velkého Resetu
+    text: CBDC/digitální euro jako nástroj Velkého Resetu
+  - tema: deportace Ukrajinskych mužů odmítnuty
+    text: deportace Ukrajinskych mužů odmítnuty
+  - tema: parlamentní opozice = součást systému
+    text: parlamentní opozice = součást systému
+  - tema: zklamání z demonstrace v Brně (Zeman, Sládek napaden)
+    text: zklamání z demonstrace v Brně (Zeman, Sládek napaden)
+  - tema: kryptoměny
+    text: sledování a kvantové hrozby.
 vyroky:
 - id: vrabel-2026-05-31-01
   typ: tvrzeni
@@ -71,6 +92,19 @@ vyroky:
     Vrabel tvrdí, že Petr Pavel se stal prezidentem díky koordinovanému projektu tří lidí: Pavel Kolář (bývalý velvyslanec ČR v USA), Radko Hokovský (zakladatel neziskovky Evropské hodnoty) a místopředseda představenstva SJG (společnost Karla Janečka, sídlí vedle americké ambasády).
 
     Kolář jako velvyslanec jednal dle Vrabela proti zájmům ČR: z uniklých Wikileaks zápisků amerického ministerstva zahraničí vyplývá, že americkým diplomatům radil prezentovat radarovou základnu v Brdech jako „radar" (nikoli raketovou základnu) a počkat na premiéra Topolánka místo Paroubka. „Jednal proky zájmům České republiky — za to by měl být souzený." Zároveň Kolář zprostředkoval prodej Kold pod Strnadovu CSG — zbrojní firmu, která profituje na válečných zakázkách.
+  osoby:
+  - osoba: pavel-kolar
+    vztah: negativni
+    kontext: 'Wikileaks: jednal jako velvyslanec v USA proti zájmům ČR (radar v Brdech); spolutvůrce „projektu
+      Petr Pavel" s Hokovským a Janečkem'
+  - osoba: radko-hokovsky
+    vztah: negativni
+    kontext: Zakladatel neziskovky Evropské hodnoty; spolutvůrce „projektu Petr Pavel"; původně proti
+      imigraci, po zarybení globalistickými penězi otočil
+  - osoba: karel-janecek
+    vztah: negativni
+    kontext: Jeho SJG (vedle americké ambasády) — místopředseda představenstva součástí projektu Petr
+      Pavel
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: vrabel-2026-05-31-06
   typ: tvrzeni
@@ -85,6 +119,11 @@ vyroky:
   citace:
   - text: Lidi prostě si zvolili to, co jim řekli v televizi. Média nám řekly, tady máte 10 stran, ty
       mají šanci se tam dostat. Lidi si vybrali z těch 10 stran. Jsme hloupí.
+  osoby:
+  - osoba: katerina-konecna
+    vztah: negativni
+    kontext: Prokaučovala šanci KSČM/Stačilo; místo kandidatury na předsedkyni zůstane s třetím mandátem
+      v EP; její „aureola je pryč"
   podtema: Ekonomický program PRO
 - id: vrabel-2026-05-31-07
   typ: tvrzeni
@@ -95,6 +134,19 @@ vyroky:
     Vrabel hodnotí demonstraci v Brně jako hluboké zklamání. Miloš Zeman, který na ní vystoupil, je dle Vrabela „normální nácek, špinavý nácek": ocenil Zelenského Řádem Bílého Holodomoru, prohlásil, že Rusové mají agresi v genech (= rasová definice národa), a v roce 1997 nechal zatknout Miroslava Sládka za kritiku česko-německé deklarace — která dle Vrabela otevřela dveře sudetoněmeckým majetkovým nárokům.
 
     Sládek byl na demonstraci napaden — neznámý muž mu vytrhl megafon (Vrabela vlastnictví). Celá situace je pro Vrabela důkazem, že vlastenecká scéna „naskočila" na systémové figury Okamury, Rajchla a Majerové v médiích místo skutečné občanské akce.
+  osoby:
+  - osoba: milos-zeman
+    vztah: negativni
+    kontext: Na demonstraci v Brně označen za „normální nácek, špinavý nácek" — ocenil Zelenského Holodomorem,
+      prohlásil že Rusové mají agresi v genech, v 1997 nechal zatknout Sládka
+  - osoba: milos-zeman
+    vztah: negativni
+    kontext: Označen za napojení na elity (byl „udělán prezidentem" osobou z 89.) — potvrzení, že všechny
+      elity jsou propojeny bez ohledu na politický tábor
+  - osoba: miroslav-sladek
+    vztah: pozitivni
+    kontext: Na demonstraci v Brně mu neznámý muž vytrhl megafon (Vrabela majetek) — Vrabel vyzývá k identifikaci
+      útočníka; oceňuje Sládkovu přítomnost
   dalsi_zdroje:
   - 2026-05-31_rajchl_facebook-live-31-5-2026
   podtema: Ekonomický program PRO
@@ -131,4 +183,38 @@ vyroky:
     Vrabel kreslí historickou paralelu s protektorátním průmyslem přeměněným Heydrichem na výrobu zbraní pro boj s Ruskem. „Jednou někdo ponese zodpovědnost. A Česká republika se k tomu přihlásila dobrovolně."
   citace:
   - text: Česká republika se stala jedním z těch finančních center a zbrojařských center světových.
+  osoby:
+  - osoba: michal-strnad
+    vztah: negativni
+    kontext: CSG jako zbrojní centrum výroby munice pro Ukrainu — Vrabel varuje před zodpovědností ČR
+      po skončení konfliktu
+  - osoba: jan-macinka
+    vztah: negativni
+    kontext: Lobboval v americkém Kongresu za výrobu zbraní pro USA — Vrabel kreslí paralelu s Heydrichem
+      a protektorátním průmyslem
   podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-05-31-11
+  typ: predikce
+  temata:
+  - digitalni-kontrola
+  nadpis: Kryptoměny v roce 2026 porostou
+  text: Vrabel předpokládá, že kryptoměny (zejména Bitcoin, Solana, XRP) v roce 2026 ještě porostou z
+    aktuálně nízkých hodnot — čtyřletý cyklus to naznačuje; doporučuje investovat do silných měn.
+  citace:
+  - text: Předpokládám, že se stane... reálný, že v tomhletom roce zase půjdou kryptoměny nahoru, protože
+      jsou na velmi nízkých částkách.
+  predikce:
+    horizont: do konce 2026
+    stav: ceka
+- id: vrabel-2026-05-31-12
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Miloš Zeman
+  text: pojmenovaný terč + opakovaná dehumanizace přirovnáním k nacistovi v kontextu kritiky za demonstraci
+    v Brně
+  citace:
+  - text: prostě normální nácek, špinavý nácek, který ještě nevěří, že nechal zatknout Miroslava Sládka
+  teror:
+    terc: Miloš Zeman
+    hranicni: false

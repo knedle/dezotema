@@ -41,6 +41,15 @@ vyroky:
     LM sjezdu — přirovnává město k Lvovu/Kyjevu. Primátorku Markétu Vaňkovou obviňuje, že na sjezdu mluvila
     německy a „odpomněla svoji rodnou řeč", čímž podle něj zopakovala gesto Daniela Hermana (který sudetské
     Němce označil za „krajany"). Obě osoby označuje za zrádce českého národa.
+  osoby:
+  - osoba: marketa-vankova
+    vztah: negativni
+    kontext: 'Brněnská primátorka mluvila na LM sjezdu německy — Černohorský: „odpomněla svoji rodnou
+      řeč"; označuje ji za kolaborantku jako Hermana'
+  - osoba: daniel-herman
+    vztah: negativni
+    kontext: „Oficiální neonacista" — nazval sudetské Němce „krajany"; Vaňková dle Černohorského jeho
+      gesto zopakovala
   podtema: Sudetoněmecký sjezd v Brně 2026
 - id: cernohorsky-2026-05-24-04
   typ: tvrzeni

@@ -21,6 +21,15 @@ vyroky:
     Studie se dostala do rukou prof. Jana Žaloudíka (40 let ředitel Masarykova onkologického ústavu v Brně). Žaloudík napsal dopis ministrovi zdravotnictví Adamu Vojtěchovi s výzvou ke zvážení dalšího používání mRNA vakcín. Dopis postoupila ředitelka SÚKL dr. Macková, která Žaloudíkovi na šesti stranách vysvětlila, co je mRNA — Peková to označuje za výsměch odborníkovi jeho kalibru.
 
     ⚡ **Konflikt:** Regulační orgány EU (EMA, SÚKL) a vědecký konsensus schválené mRNA vakcíny označují za bezpečné; žádná recenzovaná studie nepotvrdila kauzální spojitost s nárůstem onkologických recidiv.
+  osoby:
+  - osoba: jan-zaloudik
+    vztah: pozitivni
+    kontext: Prof. onkolog (40 let ředitel Masarykova onkol. ústavu), předal PubMed studii Babišovi a
+      Vojtěchovi; SÚKL odpověděl 6stranným výkladem mRNA
+  - osoba: adam-vojtech
+    vztah: negativni
+    kontext: Ministr zdravotnictví nevyslyšel varování prof. Žaloudíka; věc postoupena na SÚKL (dr. Macková),
+      která Žaloudíkovi vysvětlila mRNA
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 - id: zitko-2026-04-09-02
   typ: tvrzeni
@@ -46,4 +55,14 @@ vyroky:
     Pavel Zítko oznámil, že v Amsterdamu proběhlo soudní jednání, kde jsou obžalovaní Bill Gates, Albert Bourla (CEO Pfizer) a Mark Rutte. Pokračování je naplánováno na 22. října 2026.
 
     ⚡ **Poznámka:** Existenci takového veřejného trestního řízení nelze ověřit z veřejně dostupných zdrojů; tvrzení je zachyceno výhradně jako výrok Zítka.
+  osoby:
+  - osoba: bill-gates
+    vztah: negativni
+    kontext: Uveden jako jeden ze tří obžalovaných v amsterdamském soudu za COVID
+  - osoba: albert-bourla
+    vztah: negativni
+    kontext: CEO Pfizer, uveden jako obžalovaný v amsterdamském soudu za COVID
+  - osoba: mark-rutte
+    vztah: negativni
+    kontext: Bývalý holandský premiér, uveden jako obžalovaný v amsterdamském soudu za COVID
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)

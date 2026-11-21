@@ -23,6 +23,13 @@ vyroky:
     a ventilátory; o očkovaných rodičích, kteří nechali očkovat i děti, mluví jako o „debilech“.
   citace:
   - text: Patent na COVID-19 měl jistý pan Rothschild už od roku 2015.
+  osoby:
+  - osoba: roman-prymula
+    vztah: negativni
+    kontext: Zakázal pitvy, aby se nezjistilo, co lidi zabíjelo
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Měl dostat vakcínu jako první; politici prý dostali placebo
   dalsi_zdroje:
   - 2026-11-12_zitko_zive-cermakiada-zvonec-a-konec-12-11-2026
   podtema: Slovenský poslanec Jaroslav Paška a selhání SÚKL (Zítko, 15. 9. 2026)
@@ -52,6 +59,13 @@ vyroky:
     číslem šelmy. Pokud Čermák do Holýšova nepřijde, „přestává hra na Čermáka fungovat“.'
   citace:
   - text: Odhadem na fotkách je rozdíl 10 až 17 cm výšky.
+  osoby:
+  - osoba: patrik-tusl
+    vztah: negativni
+    kontext: „Kokot, to není klon“, patří Rajchlovi
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Zamlčuje, že zákon 542/1992 bez podpisu prezidenta neplatí
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-10-27-04
   typ: tvrzeni
@@ -77,3 +91,36 @@ vyroky:
   citace:
   - text: To je ta správná taktika, která by měla vyústit v generální stávku a v paralyzování moci.
   podtema: Vlastní vládní program „kdybych byl Babišem" (Černohorský)
+- id: zitko-2026-10-27-06
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: kolem amerických voleb 3. 11. „to má bouchnout“, demokraté zkusí volby ukrást
+  text: Kolem amerických voleb 3. 11. 2026 se „má bouchnout“ — demokraté se podle něj znovu pokusí volby
+    ukrást přes Smartmatic a Dominion.
+  citace:
+  - text: Myslím si, že někde okolo těch voleb to má bouchnout.
+  dalsi_zdroje:
+  - 2026-11-05_zitko_zive-analyza-voleb-v-usa-velezrada-a-vlastizrada-5-11-2026
+  predikce:
+    horizont: kolem 3. 11. 2026
+    stav: vyvraceno
+    horizont_do: 2026-11-03
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: volby 3. 11. proběhly bez „výbuchu“ a vyhráli demokraté; Zítko výsledek 5. 11. dodatečně vyložil
+        jako „past“ na Deep State.
+      stav: vyvraceno
+- id: zitko-2026-10-27-07
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Andrej Babiš a vláda; Renata Bernardy (TV Šalingrad); Patrik Tušl; očkovaní rodiče
+  text: hraniční (démonizace a urážky, bez přímé výzvy k násilí)
+  citace:
+  - text: Zabodat jsem chtěl Babiše a celou tu jeho partu“ (vakcínou, kterou nazývá biologickou zbraní);
+      Bernardy jako „liška“ s číslem 666 — „a vy víte, co se stane, když se objeví liška v kurníku“; „Tušl
+      je kokot“; očkovaní rodiče „debilové
+  teror:
+    terc: Andrej Babiš a vláda; Renata Bernardy (TV Šalingrad); Patrik Tušl; očkovaní rodiče
+    hranicni: true

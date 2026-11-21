@@ -27,4 +27,37 @@ vyroky:
   citace:
   - text: Tak za to si vás před tu komisi jednou pozvu já. To je můj velký závazek. A až skončí, tak vy
       v tom vězení jednou schněte, protože vám nikdo žádnou milost nedá.
+  osoby:
+  - osoba: roman-prymula
+    vztah: negativni
+    kontext: „Největší covidový pokrytec a lhář“, rodina vydělala na pandemii miliony; „ve vězení budete
+      schnout“
+  - osoba: anthony-fauci
+    vztah: negativni
+    kontext: Bez Bidenovy milosti by „seděl do konce života“
   podtema: Původ a povaha pandemie
+- id: rajchl-2026-10-29-02
+  typ: predikce
+  temata:
+  - covid-vakciny
+  nadpis: Prymula předvolán před vyšetřovací komisi a skončí ve vězení
+  text: Rajchl předvolá Romana Prymulu před vyšetřovací komisi ke covidovým opatřením a Prymula skončí
+    ve vězení, protože „mu nikdo milost nedá“.
+  citace:
+  - text: Tak za to si vás před tu komisi jednou pozvu já. To je můj velký závazek. A až skončí, tak vy
+      v tom vězení jednou schněte.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: rajchl-2026-10-29-03
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Roman Prymula
+  text: 'Terč: Roman Prymula.'
+  citace:
+  - text: Největší covidový pokrytec a lhář v České republice […] za to si vás před tu komisi jednou pozvu
+      já. […] A až skončí, tak vy v tom vězení jednou schněte, protože vám nikdo žádnou milost nedá.
+  teror:
+    terc: Roman Prymula
+    hranicni: false

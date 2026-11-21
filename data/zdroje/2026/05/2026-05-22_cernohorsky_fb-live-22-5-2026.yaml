@@ -27,4 +27,9 @@ vyroky:
   citace:
   - text: Za mě dvě procenta HDP — to od České republiky neočekávejte. My dáme maximálně 1,2–1,3 %. 0,7
       % HDP z tohohle nasypu do zdravotnictví. Vyřešeno.
+  osoby:
+  - osoba: ales-juchelka
+    vztah: negativni
+    kontext: 'Ministr MPSV (ANO) — navrhl VR brýle jako „psychický odpočinek" pro sestřičky a opatrovníky;
+      Černohorský: „totální odtrženost od reality", fyzicky náročná práce se VR nevyřeší'
   podtema: NATO, zbrojení a militarizace ČR/Evropy

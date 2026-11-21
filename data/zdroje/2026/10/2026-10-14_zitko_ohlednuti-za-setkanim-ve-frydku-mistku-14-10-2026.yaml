@@ -8,6 +8,13 @@ zdroj:
   prepis: prepisy/done/2026-10-14_Československo-TV2_1410-OHLÉDNUTÍ-ZA-SUPER-SETKÁNÍM-1010-2026-ve-Frýd.txt
   rezim: standard
   poznamka: 17,5 min, ze záznamu.
+  osoby:
+  - osoba: martin-turek
+    vztah: negativni
+    kontext: Zveřejnil a smazal „hanebnou fotomontáž“ se Zítkem
+  - osoba: bob-acer
+    vztah: rozporuplny
+    kontext: Přednesl „přesně a exaktně“ část o ČSR, ale sdílí fotomontáže „hry na Čermáka“
 vyroky:
 - id: zitko-2026-10-14-01
   typ: tvrzeni
@@ -18,6 +25,10 @@ vyroky:
     Zítko na setkání ve Frýdku-Místku propagoval produkty sponzorující firmy BEWIT (CEO Jiří Černota): „více tisíc“ produktů, z toho 450 esenciálních olejů, a molekulu C60. Část produktů má podle něj „způsobovat dlouhověkost“ a v klinických studiích prý vedla „dokonce i ke stoprocentnímu prodloužení věku“. Černota měl místo plánované hodiny odpovídat publiku na otázky „týkající se vašeho zdraví“ hodinu a půl až tři čtvrtě. Už v pozvánce Zítko sliboval i „doporučení pro očkované, kteří podlehli, aby zlepšili svůj zdravotní stav“.
 
     ⚡ **Poznámka:** Jde o propagaci sponzora; údaj o „stoprocentním prodloužení věku“ Zítko nedokládá konkrétní studií (prodloužení života u C60 bylo hlášeno jen ve sporné studii na potkanech z roku 2012).
+  osoby:
+  - osoba: jiri-cernota
+    vztah: pozitivni
+    kontext: CEO sponzora; „fantastické“ produkty, publikum ho „nechtělo pustit z placu“
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 - id: zitko-2026-10-14-02
   typ: tvrzeni
@@ -55,4 +66,8 @@ vyroky:
     i když ho Zítko posílal, což je „porušování ústavy“ a čl. 17 Listiny. Odmítá i příspěvek, podle kterého
     si „uslintaný podvodník Pavel Zítko namastil kapsu“ a BEWIT si akci odepsal z daní: vstupné bylo dobrovolné
     a prostory si pronajala a 14 dní předem zaplatila jiná firma než BEWIT.'
+  osoby:
+  - osoba: ivan-masaryk
+    vztah: negativni
+    kontext: S „partičkou dalších škůdců“ měl e-mailem pronajímatelce narušit akci
   podtema: ČT poplatky a omezování na sociálních sítích

@@ -16,6 +16,35 @@ zdroj:
     vstup Ukrainy do EU (územní ústupky); Putin setkal s Araghdžím (rusko-íránské strategické partnerství);
     Kubilius — Evropská obranná unie; Andrew Haag (Pentagon) propuštěn za tvrzení, že ukrajinskě peníze
     byly rozkradeny.'
+  osoby:
+  - osoba: friedrich-merz
+    vztah: neutralni
+    kontext: Podmínil vstup Ukrainy do EU územními ústupky; odmítl rychlé přistoupení jako nerealistické
+      pro 2027–2028
+  prehled:
+  - tema: Večerní zprávy se Zuzkou. Klíčová témata
+    text: Babiš jednal v Ázerbájdžánu o 2 mld. m³ plynu/rok (~30 % spotřeby ČR)
+  - tema: česká plynová zásobovací struktura (Norsko 40–50%, LNG
+    text: česká plynová zásobovací struktura (Norsko 40–50%, LNG 30–40%, Německo 10–20% incl. neoficiální
+      ruský plyn)
+  - tema: spotřeba plynu klesla z 9–10 na 6,75 mld. m³
+    text: spotřeba plynu klesla z 9–10 na 6,75 mld. m³
+  - tema: SIPRI 2025 vojenské výdaje (USA 954 mld., Čína 336, Rusko
+    text: SIPRI 2025 vojenské výdaje (USA 954 mld., Čína 336, Rusko 190, Německo 114, Ukraina 84)
+  - tema: Druzhba severní větev a Berlín
+    text: Druzhba severní větev a Berlín
+  - tema: Hormuz ohrožuje katarské LNG
+    text: Hormuz ohrožuje katarské LNG
+  - tema: Merz přidělil 233 mil. EUR Ukraině + 30 mil. EUR Černobyl
+    text: Merz přidělil 233 mil. EUR Ukraině + 30 mil. EUR Černobyl
+  - tema: podmínky Merze pro vstup Ukrainy do EU (územní ústupky)
+    text: podmínky Merze pro vstup Ukrainy do EU (územní ústupky)
+  - tema: Putin setkal s Araghdžím (rusko-íránské strategické
+    text: Putin setkal s Araghdžím (rusko-íránské strategické partnerství)
+  - tema: Kubilius
+    text: Evropská obranná unie
+  - tema: Andrew Haag (Pentagon) propuštěn za tvrzení, že ukrajinskě
+    text: Andrew Haag (Pentagon) propuštěn za tvrzení, že ukrajinskě peníze byly rozkradeny.
 vyroky:
 - id: vrabel-2026-04-27-01
   typ: tvrzeni
@@ -31,4 +60,12 @@ vyroky:
     - **Ázerbájdžán** — plánovaná smlouva na 2 miliardy m³/rok ≈ ~30 % spotřeby ČR (ministr Havlíček); Babiš jednal přímo s prezidentem Aliyevem v Baku
 
     Spotřeba plynu v ČR klesla z 9–10 mld. m³ (2021) na 6,75 mld. m³ (2023), přičemž úspory přišly s útlumem průmyslu a omezením domácností. Vrabel hodnotí ázerbájdžánský plyn jako dílčí řešení výpadku katarských dodávek, ale dodává, že nejlevnější alternativou by stále bylo přímé nakupování od Ruska.
+  osoby:
+  - osoba: ilham-aliyev
+    vztah: neutralni
+    kontext: Ázerbájdžánský prezident — Babiš s ním jednal o 2 mld. m³ plynu/rok pro ČR; den před Babišem
+      přijal Zelenského
+  - osoba: martin-havlicek
+    vztah: neutralni
+    kontext: Ministr průmyslu — oznámil záměr ČR nakupovat 2 mld. m³ plynu ročně z Ázerbájdžánu
   podtema: Plyn v ČR — diverzifikace zásobování

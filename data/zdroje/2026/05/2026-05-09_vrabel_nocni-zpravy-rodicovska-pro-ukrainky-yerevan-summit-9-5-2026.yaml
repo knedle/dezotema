@@ -13,6 +13,22 @@ zdroj:
     na NATO komunikaci; Petr Pavel + finský prezident Stubb — diskuse o evropské obraně; Yerevan EPS summit
     — 40+ lídrů; Babiš Rutte: „podřídíme tomu vše" (NATO výdaje); Babiš bilaterálně se Zelenským; Trump
     vs. Merz — USA stahuje 5 000 vojáků z Německa do Polska/Rumunska.'
+  prehled:
+  - tema: Půlnoční zprávy. Témata
+    text: experti Daniel Prokop + Daniel Hulé (Člověk v tísni) navrhují rodičovskou dovolenou pro Ukrainky
+      v ČR ke zvýšení natality
+  - tema: Aspen Institute
+    text: Babiš jmenoval jeho člen za odborníka na NATO komunikaci
+  - tema: Petr Pavel + finský prezident Stubb
+    text: diskuse o evropské obraně
+  - tema: Yerevan EPS summit
+    text: 40+ lídrů
+  - tema: Babiš Rutte
+    text: „podřídíme tomu vše" (NATO výdaje)
+  - tema: Babiš bilaterálně se Zelenským
+    text: Babiš bilaterálně se Zelenským
+  - tema: Trump vs. Merz
+    text: USA stahuje 5 000 vojáků z Německa do Polska/Rumunska.
 vyroky:
 - id: vrabel-2026-05-09-03
   typ: tvrzeni
@@ -23,6 +39,10 @@ vyroky:
     ukrajinským ženám v ČR jako způsob, jak zvýšit českou natalitu. Vrabel návrh komentuje sarkasticky:
     „Jdi mít děti na Ukraině, proč bych je měl mít tady?" a označuje ho za nepřijatelnou prioritizaci
     cizích občanek na úkor Češek.'
+  osoby:
+  - osoba: daniel-prokop
+    vztah: negativni
+    kontext: Sociolog navrhující rodičovskou pro Ukrainky k zvýšení natality — Vrabel sarkasticky odmítá
   podtema: Ekonomický program PRO
 - id: vrabel-2026-05-09-04
   typ: tvrzeni

@@ -8,6 +8,11 @@ zdroj:
   prepis: prepisy/done/2026-04-05_Jindřich-Rajchl_Facebook-Live.txt
   rezim: standard
   delka: '1:06:14'
+  osoby:
+  - osoba: vit-rakusan
+    vztah: rozporuplny
+    kontext: Označen za nejlepšího debatéra z opozice — ocenění jeho rétorickych schopností i přes politický
+      protiklad; Dozimetr ho kompromituje
 vyroky:
 - id: rajchl-2026-04-05-01
   typ: tvrzeni
@@ -43,6 +48,15 @@ vyroky:
   - text: Usmrcení z nedbalosti mají podmínku a za verbální projev trestný čin mají podmínku. Za oboje.
       Jestli mi to někdo vysvětlí — já se pak omluvím. Ale nevysvětlí, protože to prostě vůbec nedává
       smysl.
+  osoby:
+  - osoba: adam-coubal
+    vztah: negativni
+    kontext: Srazil Porschem ženu s kočárkem, ta zemřela — dostal podmínku; Rajchl to označuje za dvojí
+      metr vůči verbálním trestným činům; Coubal byl Pavlův sponzor
+  - osoba: martina-bednarova
+    vztah: neutralni
+    kontext: Pedagog, dostal podmínku za tvrzení, že „v Kijevě se nic neděje"; Rajchl srovnává s Coubalovým
+      případem jako důkaz dvojího metru
   podtema: Kauza Adam Coubal — dvojí metr justice
 - id: rajchl-2026-04-05-03
   typ: tvrzeni
@@ -58,6 +72,11 @@ vyroky:
   - text: Já jim jenom nebudu zvyšovat v žádném případě sledovanost. A oni zase napsali, že stejně mají
       zájem o ten rozhovor. To víte, že máte, protože by to byl nejsledovanější rozhovor ve vaší historii
       a ještě byste si na tom vydělali peníze. Ale já si počkám, až klidně zkrachujete.
+  osoby:
+  - osoba: nora-friedrichova
+    vztah: negativni
+    kontext: Volala a psala Rajchlovi; odmítl jakýkoli kontakt; označuje DVTV jako žumpu; Friedrichová
+      nahrávala bez upozornění
   podtema: Mainstream jako politický aktivismus
 - id: rajchl-2026-04-05-04
   typ: tvrzeni
@@ -85,6 +104,11 @@ vyroky:
   - text: Pokud má být zahraniční politika v jakékoliv země čitelná, tak musí být jednohlasná. [...] Petr
       Pavel dlouhodobě dokazuje, že nehodlá respektovat zahraniční směřování vlády Andreje Babiše. [...]
       Ať sedí doma.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Nevysílán na summit NATO; jeho zahraniční politika neslučitelná s vládní linií (5 % vs. 2
+      % HDP na obranu)
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-04-05-06
   typ: tvrzeni

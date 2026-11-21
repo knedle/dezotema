@@ -12,6 +12,10 @@ zdroj:
     tvoří asi 75 %, zbytek je čtení textu TV Šalingrad a přehrávání záznamů (Turkův telefonát s matkou,
     Seznam Zprávy). Zpracováno 9 témat (souhrnně do kauzy Čermák), covidové téma se opakuje (jen zdroj).
     Predikce ani stochastický teror nejsou. Zpracováno podle shrnutí pomocného agenta.'
+  osoby:
+  - osoba: martin-turek
+    vztah: neutralni
+    kontext: Zveřejnil telefonát s matkou
 vyroky:
 - id: zitko-2026-11-12-01
   typ: tvrzeni
@@ -42,4 +46,11 @@ vyroky:
     „vysazené dveře“ a své zvolení „generálním konzulem ČSR“ 28. 10. 2023.'
   citace:
   - text: Z 99,999 % si myslím, že je Tomáš v ochraně svědků.
+  osoby:
+  - osoba: renata-bernardy
+    vztah: negativni
+    kontext: Lže a manipuluje, Čermáka nikdy neviděla, iniciovala oznámení pro stalking
+  - osoba: matka-tomase-cermaka
+    vztah: negativni
+    kontext: „Lhářka“, Čermák a otčím ji „použili“
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)

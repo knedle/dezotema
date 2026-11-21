@@ -16,6 +16,40 @@ zdroj:
     potopených lodí); Kaja Callas odmítnuta jako vyjednávačka s Ruskem; migrační pakt 1. 6.; Španělsko
     100k migrantů; Slovensko/plyn Ázerbájdžán — Fico odejde?; Tommy Robinson — Tačinsky zakázán do UK;
     EU ekonomika na levném ruském plynu — zbavujeme se dobrovolně.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Záštita sjezdu Sudetoněmeckého Landsmannschaftu = velezrada (§65 ústavy); bavorský kancléř
+      na Hradě = diplomatické ponížení ČR
+  prehled:
+  - tema: Pondělní večerní zprávy vysílaná z auta. Témata
+    text: Petr Pavel záštita sjezdu Landsmannschaft = velezrada (§65 ústavy)
+  - tema: bavorský kancléř na Hradu = diplomatické ponížení
+    text: bavorský kancléř na Hradu = diplomatické ponížení
+  - tema: Babiš/Global Leadership Exchange
+    text: věkové ověření soc. sítí → digitální ID → sledování všech
+  - tema: Zelenská NABU korupce + útěk do Londýna?
+    text: Zelenská NABU korupce + útěk do Londýna?
+  - tema: Rheinmetall+Destinus Ruta 3
+    text: raketa 2 000 km
+  - tema: zbrojení korupce
+    text: ceny +50–60 %, výběrová řízení neexistují (jako COVID)
+  - tema: Írán nová pravidla průjezdu Hormuzu
+    text: Írán nová pravidla průjezdu Hormuzu
+  - tema: Trump hrozí Íránu (AI obrázek potopených lodí)
+    text: Trump hrozí Íránu (AI obrázek potopených lodí)
+  - tema: Kaja Callas odmítnuta jako vyjednávačka s Ruskem
+    text: Kaja Callas odmítnuta jako vyjednávačka s Ruskem
+  - tema: migrační pakt 1. 6.
+    text: migrační pakt 1. 6.
+  - tema: Španělsko 100k migrantů
+    text: Španělsko 100k migrantů
+  - tema: Slovensko/plyn Ázerbájdžán
+    text: Fico odejde?
+  - tema: Tommy Robinson
+    text: Tačinsky zakázán do UK
+  - tema: EU ekonomika na levném ruském plynu
+    text: zbavujeme se dobrovolně.
 vyroky:
 - id: vrabel-2026-05-18-01
   typ: tvrzeni
@@ -54,6 +88,11 @@ vyroky:
     Vrabel poukazuje, že von der Leyen o digitálním ID mluvila v Oslu a covidové digitální certifikáty byly přímým prototypem tohoto systému. Babiš přitom veřejně sliboval, že žádné digitální ID nebude.
   citace:
   - text: Teďka on právě začíná prosazovat [...] a to právě dneska večer, tím lidským oznámením.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Účast na Global Leadership Exchange → prosazování digitálního ID přes věkové ověření na soc.
+      sítích = zárodek plošného sledování
   podtema: Historické konspirační výklady
 - id: vrabel-2026-05-18-07
   typ: tvrzeni
@@ -67,3 +106,31 @@ vyroky:
     obejít výběrová řízení, realizovat stamilionové kšefty. Odhaduje, že za každý miliardový kontrakt
     si politik vezme 10–20 %.'
   podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-05-18-09
+  typ: predikce
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: ČR jako cíl preventivního ruského útoku
+  text: Vrabel cituje výrok ruského profesora, že Rusko mělo v roce 2022 „preventivně zničit jednu evropskou
+    zemi", aby se Evropa probrala a přestala zbrojit. Vrabel spekuluje, zda tímto cílem by mohla být ČR
+    kvůli muniční iniciativě. Výslovně říká, že „to není alegrace" — považuje to za reálnou eventualitu,
+    ne hrozbu.
+  predikce:
+    horizont: neurčeno (v průběhu konfliktu)
+    stav: ceka
+- id: vrabel-2026-05-18-10
+  typ: predikce
+  temata:
+  - blizky-vychod
+  nadpis: Fico ztratí post po vzdání se ruské ropy
+  text: 'Vrabel komentuje zprávu, že Slovensko jedná o ázerbájdžánském plynu jako náhradě ruského. Predikuje,
+    že jakmile se Fico vzdá ruské ropy, ztratí zázemí a bude odstraněn z funkce: „Až se Fico zbaví ruské
+    ropy, zbavíme se Fica."'
+  osoby:
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: Jedná s Ázerbájdžánem o plynu jako náhradě ruského — Vrabel predikuje, že jakmile se Fico
+      vzdá ruské ropy, ztratí zázemí a bude odstraněn
+  predikce:
+    horizont: neurčeno (krátkodobé)
+    stav: ceka

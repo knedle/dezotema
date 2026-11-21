@@ -8,6 +8,10 @@ zdroj:
   prepis: prepisy/done/2026-10-07_Československo-TV2_Československo-TV2-vysílala-živě.txt
   rezim: standard
   poznamka: 1 h 34 min; soubor datován 7. 10., vysíláno v úterý 6. 10. dopoledne.
+  osoby:
+  - osoba: zitko
+    vztah: pozitivni
+    kontext: Dohledal fotku z Vězňovy cesty, klade „všetečné“ otázky
 vyroky:
 - id: zitko-2026-10-06-01
   typ: tvrzeni
@@ -33,6 +37,16 @@ vyroky:
     Vězňovy cesty se ani po 15 hodinách neobjevil a že „Čermák“ mu na profilu vyká, ačkoli si vždy tykali
     („za 53 vteřin devětkrát vole“). Odmítá, že by Čermák „seděl za všechny“: sám byl 110 dní ve vazbě
     „bez důkazů“ a bude žádat odškodnění. Pravý Čermák je podle něj „white hat“.'
+  osoby:
+  - osoba: renata-bernardy
+    vztah: negativni
+    kontext: „Hraje hru na Čermáka“, ačkoli dřív zpochybňovala Šišákovou; „ujíždějí nervičky“
+  - osoba: patrik-tusl
+    vztah: pozitivni
+    kontext: „Spolubojovník“, má Čermáka konfrontovat; prý se „prokoukává“
+  - osoba: naxera
+    vztah: negativni
+    kontext: „Svědek jako kráva“, „hrál hru tajných služeb“ s návštěvami Čermáka
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-10-06-03
   typ: tvrzeni

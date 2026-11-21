@@ -12,6 +12,77 @@ zdroj:
     Hraniční: Rutte jako „hysterická buzna na steroidech“ (urážka bez výzvy k trestu) a tvůrci systému
     poplatků by „měli být odsouzení“ a „zametat ulice“ (bez jmenovaného terče). Zpracováno podle podkladů
     pomocného agenta, citace ověřeny v přepisu.'
+  osoby:
+  - osoba: si-tin-pching
+    vztah: pozitivni
+    kontext: „Nejsilnější“ na summitu, návrh zlikvidovat jaderné zbraně
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Ohební“ jako Rutte; Babiš zakázal referendum o EU
+  prehled:
+  - tema: Summit USA–Rusko–Čína
+    text: „nový světový pořádek“, EU „propadla do bezvýznamnosti“, Havlíčkův americký plyn je čtyřikrát
+      dražší
+    vyrok: vrabel-2026-11-19-06
+  - tema: Jaderná dohoda a odzbrojení
+    text: vítá shodu, že jaderná válka nesmí být vedena, a souhlasí se Siho návrhem zlikvidovat jaderné
+      zbraně
+    vyrok: vrabel-2026-11-19-01
+  - tema: 'Trump: „Putin je můj kamarád“'
+    text: USA „nebudou zasahovat“, Rusko má „otevřené dveře“ i k Evropě
+    vyrok: vrabel-2026-11-19-06
+  - tema: Energetika a reforma OSN
+    text: dohody o rafinovaných produktech a reformě OSN bez Francie a Británie, pochybuje, zda trojice
+      vydrží spolu.
+  - tema: Obranná dohoda USA s Venezuelou
+    text: mafiánská „ochrana“ jako v Kmotrovi
+    vyrok: vrabel-2026-11-19-06
+  - tema: „Ponížený Putin v Číně“
+    text: výmysl „progresivistických lživých hlupáků“, Si byl „nejsilnější“
+    vyrok: vrabel-2026-11-19-06
+  - tema: Tlak na Glenna Diesena a novináře
+    text: „kdokoliv, kdo má mozek, musí být likvidovaný“
+    vyrok: vrabel-2026-11-18-05
+  - tema: 'Putin: válku nezačal'
+    text: převrat 2013, „neonacisté“, odmítnuté návrhy z roku 2021, hrozba v Pobaltí
+    vyrok: vrabel-2026-11-15-04
+  - tema: Tři scénáře konce války
+    text: předpokládá rozšíření do Evropy, „z 99 %“ vyhraje Rusko, pak nárazníková zóna
+    vyrok: vrabel-2026-11-15-04
+  - tema: Vlastní činnost
+    text: strana, spolek, demonstrace, Evropský parlament, „modlit se, aby to skončilo“.
+  - tema: 'Putin: po útocích na Krymský most žádné dohody'
+    text: potvrzuje, že Rusko čekalo jen na summit (opakuje).
+  - tema: Trump a Putin 40 minut, Anchorage
+    text: Evropa a Ukrajina se musí vejít do dohody z Anchorage (opakuje).
+  - tema: 'Frederiksenová: setkání „nepochopitelné“'
+    text: „je to jasné jako facka“
+    vyrok: vrabel-2026-11-15-04
+  - tema: Koalice ochotných slíbila podporu i na rok 2027
+    text: Evropu mají v jednáních zastupovat Německo, Francie, Británie, Itálie a Polsko (opakuje).
+  - tema: Putin zve Evropany do Moskvy
+    text: jen s „konstruktivními návrhy“
+    vyrok: vrabel-2026-11-15-04
+  - tema: Černá hora uzavřela daňovou kapitolu
+    text: v EU nelze zavést jeho 1% daň (opakuje).
+  - tema: Destinus a Krymský most
+    text: most zničili „Ukrajinci a Evropané“, Nizozemsko „potenciálně ve válce s Ruskem“, „euforie končí“
+    vyrok: vrabel-2026-11-16-03
+  - tema: Kyberútok na Evropskou komisi
+    text: „to byli Rusové“ (ironie, opakuje).
+  - tema: Rutte nemá obavy ze summitu
+    text: Trump z NATO nevystoupí, Rutte je „ohebný jako chobotnice“
+    vyrok: vrabel-2026-11-19-07
+  - tema: Bangladéš
+    text: z EU vystoupit dřív, než „poteče krve dost“ (opakuje).
+  - tema: Dluhy na poplatcích ČT 349 mil. Kč
+    text: exekuce za „válečnou propagandu“ jsou „zločinné“, ČT jako Národní divadlo s volenou radou
+    vyrok: vrabel-2026-11-19-02
+  - tema: Německá vláda a financování ČT
+    text: Češi „řeší nepodstatné věci“
+    vyrok: vrabel-2026-11-19-02
+  - tema: Kandidatura na prezidenta
+    text: kandidovat nebude.
 vyroky:
 - id: vrabel-2026-11-19-01
   typ: tvrzeni
@@ -29,6 +100,10 @@ vyroky:
   citace:
   - text: Absolutně s ním souhlasím, prostě, že by se měly zlikvidovat všechny jaderné zbraně, rozebrat
       ten jaderný obsah.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Ohební“ jako Rutte; Babiš zakázal referendum o EU
 - id: vrabel-2026-11-19-02
   typ: tvrzeni
   temata:
@@ -47,6 +122,13 @@ vyroky:
   citace:
   - text: Ty lidi by měli všichni být odsouzení za to, co vymysleli a prosazují tenhle systém. Ty by měli
       jít normálně zametat ulice.
+  osoby:
+  - osoba: jana-bobosikova
+    vztah: pozitivni
+    kontext: Angažoval by je do ČT
+  - osoba: petr-bures
+    vztah: pozitivni
+    kontext: Angažoval by je do ČT
   podtema: Česká televize a mainstreamová média
 - id: vrabel-2026-11-19-03
   typ: tvrzeni
@@ -61,6 +143,16 @@ vyroky:
     a tvrdé tlaky čeká i na sebe.'
   citace:
   - text: Kdokoliv, kdo má mozek, tak musí být likvidovaný.
+  osoby:
+  - osoba: glenn-diesen
+    vztah: pozitivni
+    kontext: Oběti tlaku na nezávislé hlasy
+  - osoba: tommy-robinson
+    vztah: pozitivni
+    kontext: Oběti tlaku na nezávislé hlasy
+  - osoba: russell-brand
+    vztah: pozitivni
+    kontext: Oběti tlaku na nezávislé hlasy
   podtema: Blokace zahraničních médií v ČR
 - id: vrabel-2026-11-19-04
   typ: tvrzeni
@@ -96,6 +188,10 @@ vyroky:
   citace:
   - text: A předpokládám, z 99 % předpokládám, že je jasné, že vyhraje Ruská federace, tak až Ruská federace
       vyhraje, tak se bude dělat nová bezpečnostní architektura skutečně.
+  osoby:
+  - osoba: mette-frederiksenova
+    vztah: negativni
+    kontext: 'Setkání „nepochopitelné“, Vrabel: „jasné jako facka“'
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-11-19-06
   typ: tvrzeni
@@ -117,6 +213,13 @@ vyroky:
     z Kmotra.'
   citace:
   - text: Je to ukázka především toho, že tady máme nový světový pořádek, že tady máme multipolární svět.
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: Summit jako historický moment, podmínky pro Evropany „jasné jako facka“
+  - osoba: karel-havlicek
+    vztah: negativni
+    kontext: Energie z USA asi čtyřikrát dražší
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-11-19-07
   typ: tvrzeni
@@ -133,4 +236,20 @@ vyroky:
     ve zdroji).'
   citace:
   - text: Proč by z ní pro boha vystupovali, když ji ovládají. To je naprostý nesmysl.
+  osoby:
+  - osoba: donald-trump
+    vztah: rozporuplny
+    kontext: „Není žádný mírotvůrce“, ale dal Rusku „otevřené dveře“; z NATO nevystoupí
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Ohební“ jako Rutte; Babiš zakázal referendum o EU
+  - osoba: petr-fiala
+    vztah: negativni
+    kontext: „Lemplové“
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: „Lemplové“
+  - osoba: mark-rutte
+    vztah: negativni
+    kontext: „Ohebný jako chobotnice“, hrubé urážky
   podtema: Zahraniční aktéři a precedenty

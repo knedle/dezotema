@@ -14,6 +14,32 @@ zdroj:
     proti Izraeli; migrační pakt připravovala Babišova vláda (Hamáček), nelze opustit bez vystoupení z
     EU (Vondráček), Konečná pro migrační cesty; AI DNA vakcína; Macinka „malý Heydrich"; šaría (Bill Warner).
     Pravidelné nedělní živé vysílání (z velké části rekapitulace týdne + Q&A)
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: „Malý Heydrich" / „český podrazák" — jel do Německa slavit konec WWII (s Wadephulem, čestným
+      hostem SdL), tlačí ČR do role výrobny zbraní pro USA
+  - osoba: libor-vondracek
+    vztah: rozporuplny
+    kontext: 'Naštval Vrabela (neodpověděl k odškodnění manželky), ale ocenil ho, že voličům upřímně přiznal:
+      migrační pakt je vymahatelný a nelze z něj vystoupit bez odchodu z EU'
+  prehled:
+  - tema: Eskalace NATO–Rusko (parabola školní šikany, „není to
+    text: Eskalace NATO–Rusko (parabola školní šikany, „není to Ukrajina, je to Západ", riziko úderu na
+      česká letiště s F-35), odmítá „menší zlo" preventivního ruského jaderného úderu — chce deeskalaci/odzbrojení
+  - tema: AI drony vraždící bez člověka (Ukrajina test, Erik Trump
+    text: AI drony vraždící bez člověka (Ukrajina test, Erik Trump továrna)
+  - tema: ČR předem oznámila veto EU rezoluce proti Izraeli
+    text: ČR předem oznámila veto EU rezoluce proti Izraeli
+  - tema: migrační pakt připravovala Babišova vláda (Hamáček), nelze
+    text: migrační pakt připravovala Babišova vláda (Hamáček), nelze opustit bez vystoupení z EU (Vondráček),
+      Konečná pro migrační cesty
+  - tema: AI DNA vakcína
+    text: AI DNA vakcína
+  - tema: Macinka „malý Heydrich"
+    text: Macinka „malý Heydrich"
+  - tema: šaría (Bill Warner).
+    text: šaría (Bill Warner).
 vyroky:
 - id: vrabel-2026-06-14-01
   typ: tvrzeni
@@ -42,6 +68,10 @@ vyroky:
     okno" pro odchod se zavírá (analogie s Katalánskem). Připomíná, že Kateřina Konečná hlasovala v EP
     „pro vytváření migračních cest" z Afriky. Výjimka ČR (kvůli ~450–480 tis. Ukrajincům) platí jen ~2
     roky.'
+  osoby:
+  - osoba: katerina-konecna
+    vztah: negativni
+    kontext: Hlasovala v EP „pro vytváření migračních cest" z Afriky — Vrabel vyvrací její obraz vlastenky
 - id: vrabel-2026-06-14-03
   typ: tvrzeni
   temata:
@@ -54,4 +84,9 @@ vyroky:
     Na dotaz, zda by preventivní ruský jaderný úder nebyl „menší zlo" než třetí světová válka, Vrabel odpovídá, že **není zastáncem tohoto řešení** — třetí světová válka se podle něj „teprve vaří" (nové zbrojovky, dohody, cvičení), spouštěčem nemusí být Ukrajina, a globalisté („chazarští váleční štváči" napojení na zbrojaře) do války s Ruskem cíleně provokují. Řešením je deeskalace a tlak občanů na jaderné odzbrojení, ne první jaderná rána. Sám staví v podhůří úkryt pro případ války.
 
     K týdnu navíc: Ukrajina otestovala ~10 **dronů řízených výhradně umělou inteligencí** (bez operátora), které samy zabíjely ruské vojáky — Vrabel to sarkasticky komentuje („sláva Ukrajině") jako „poprvé v historii stroj zabíjí lidi bez člověka"; připomíná továrnu Erika Trumpa na robotická zařízení s AI a dohodu se Zelenským testovat je na Ukrajině.
+  osoby:
+  - osoba: erik-trump
+    vztah: negativni
+    kontext: Má továrnu na robotická zařízení s AI a dohodu se Zelenským testovat je na Ukrajině — kde
+      se nasadily AI drony zabíjející bez člověka
   podtema: Eskalace a hrozba rozšíření konfliktu

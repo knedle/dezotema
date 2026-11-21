@@ -31,4 +31,9 @@ vyroky:
   - text: Pokud je tady někdo karikatura, tak jste to vy. Jste obžívnou karikaturou Adolfa Hitlera, nic
       víc, nic míň.
   - text: Tenhle sjezd bude vaším sjezdem poslední.
+  osoby:
+  - osoba: bernd-posselt
+    vztah: negativni
+    kontext: 'Označil sněmovní usnesení odsuzující sjezd za „frašku" a „karikaturu"; Rajchl odpověděl:
+      „Jste obžívnou karikaturou Adolfa Hitlera"'
   podtema: Parlament, politické a stranické reakce

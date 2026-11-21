@@ -23,4 +23,13 @@ vyroky:
     Duda později v podcastu uvedl, že Volodymyr Zelenskyj o ukrajinském původu rakety věděl předem a přesto
     žádal svalit vinu na Rusko, aby do konfliktu zatáhl západní státy. Rajchl to uvádí jako důkaz, proč
     je namístě počkat na ověřené informace, než se z incidentu vyvozují bezpečnostní závěry.'
+  osoby:
+  - osoba: andrzej-duda
+    vztah: pozitivni
+    kontext: Bývalý polský prezident — v podcastu uvedl, že Zelenskyj věděl o ukrajinském původu rakety
+      (2022) předem a přesto žádal svalit vinu na Rusko
+  - osoba: jana-cernochova
+    vztah: negativni
+    kontext: Po polském raketovém incidentu 2022 na síti X vyzývala ke zvážení aktivace čl. 5 NATO, než
+      se ukázalo, že šlo o ukrajinskou raketu — příklad unáhlené reakce
   podtema: Zahraniční aktéři a precedenty

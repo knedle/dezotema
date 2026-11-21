@@ -18,6 +18,11 @@ zdroj:
     (7) NCOZ studie o organizovaném zločinu Ukrajinců — zopakování z 5. 5., doplněn jako zdroj — [migrace.md](migrace.md).
     (8) Ukrajina po válce bude „ukřivděná", analogie s Výmarskou republikou — [valka-nato-rusko.md](valka-nato-rusko.md).
     Bez predikcí (mimo zmíněnou tezi) a stoch. teroru. Vysíláno z Chorvatska (dovolená)'
+  osoby:
+  - osoba: filip-turek
+    vztah: pozitivni
+    kontext: Označení „hnědý Turek" (Jan Jakob) hodnotí jako nejtěžší možnou urážku, horší než jeho vlastní
+      glosa o „mimoni"
 vyroky:
 - id: rajchl-2026-07-05-01
   typ: tvrzeni
@@ -40,6 +45,11 @@ vyroky:
   citace:
   - text: Jaká horší urážka je, než říct o někom, že je hnědý? [...] To je ten nejpodlejší možný útok,
       který může někdo vůbec podniknout.
+  osoby:
+  - osoba: cestmir-strakaty
+    vztah: rozporuplny
+    kontext: Dříve kritizován za neochotu pozvat Rajchla k obhajobě, dnes hájen proti lynči vlastní liberální
+      scény za sdílení fotky s Turkem
   podtema: Dvojí metr v médiích
 - id: rajchl-2026-07-05-02
   typ: tvrzeni
@@ -93,6 +103,10 @@ vyroky:
     o 40 % (obsahuje prý hlavně klimatickou agendu, Ukrajinu a „LGBTQ"), Vrabel dodává přesnější kontext
     programu „Savings and Investments" (von der Leyenová dlouhodobě cílí na soukromé úspory Evropanů,
     odhadem 300–600 mld. eur) jako alternativního zdroje k navýšení daní.'
+  osoby:
+  - osoba: ursula-von-der-leyen
+    vztah: negativni
+    kontext: 'Chce nové daně pro EU, jinak škrtne 40 % rozpočtu — Rajchl: „ani vindru", ať klidně škrtne'
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: rajchl-2026-07-05-05
   typ: tvrzeni
@@ -112,6 +126,10 @@ vyroky:
     vyslovit bez ohledu na šanci na úspěch, a klade důraz na to, že Polákům (kterým Ukrajina „po čtyřech
     letech pomoci za 226 mld. Kč plivla do obličeje") tím chtěl ukázat solidaritu V4. Návrh přivítal europoslanec
     Jaroslav Tyška v Polsku (50 tis. lajků) i místopředseda Slovenské národní rady Andrej Danko.
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: Formální parlamentní návrh na odebrání Řádu bílého lva; jednomyslná podpora klubu SPD
   podtema: Stav Ukrajiny a mobilizace
 - id: rajchl-2026-07-05-06
   typ: tvrzeni

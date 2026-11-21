@@ -9,6 +9,37 @@ zdroj:
   rezim: vrabel
   poznamka: Vysíláno z benzínky na srbsko-maďarské hranici; vstup T. Hrdličky [46:41–49:27], klip PRO
     [44:28–46:06].
+  prehled:
+  - tema: Babiš na schůzce s CIA
+    text: válka „na spadnutí", svět se dělí jako za studené války.
+  - tema: 'Pavel a rumunský prezident: obrana vzdušného prostoru'
+    text: narativ gradoval bez důkazů.
+  - tema: Dva světové konflikty, energetická krize
+    text: Japonsko, plyn v lednu, topit dřevem
+    vyrok: vrabel-2026-09-30-04
+  - tema: Saúdové nepustili izraelská letadla
+    text: Izrael „provádí genocidu", „Satanyahu".
+  - tema: 'Burnham: návrat Británie do EU'
+    text: „kdo chce tam, pomožme mu tam" — EU jako peklo; britsko-bruselský zbrojní pakt.
+  - tema: 'EU: emise metanu'
+    text: energetická krize „do plných obrátek".
+  - tema: 'Rutte: NATO neohroženo; Kaliningrad'
+    text: Rutte „si nedal prášky"; při odříznutí Kaliningradu hrozí jaderný úder.
+  - tema: Britský jaderný deštník pro Finsko a JEF
+    text: „jaderná vzduchovka proti jaderné pistoli"
+    vyrok: vrabel-2026-09-30-02
+  - tema: Wadephul–Lavrov, Ratcliffe v Moskvě
+    text: „99% jistota války", šanci 2022 zmařil Rajchl → viz [Politický systém](../politicky-system.md)
+    vyrok: vrabel-2026-09-30-04
+  - tema: 'Estonsko: ruské sabotáže'
+    text: „čistá válečná propaganda".
+  - tema: Rusko zabavuje evropské firmy; Euroclear
+    text: odveta za přípravu „krádeže" 200 mld.
+  - tema: Odsouzení Tomáše Hrdličky za „Z"
+    text: precedent vytvořila PRO, „soudruzi"; Konečná a domy KSČM
+    vyrok: vrabel-2026-09-30-03
+  - tema: Odvolávání vlády; Babišova medaile od Trumpa
+    text: Trump „nejhorší politika na světě"; odvolávat nemá smysl.
 vyroky:
 - id: vrabel-2026-09-30-02
   typ: tvrzeni
@@ -35,6 +66,13 @@ vyroky:
   citace:
   - text: Bohužel můžete poděkovat Jindřichu Rajchlovi, který ukradl tu naši velkou sílu Václaváku, aby
       ji postavil proti Rusku.
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Ukradl sílu Václaváku, aby ji postavil proti Rusku"
+  - osoba: katerina-konecna
+    vztah: negativni
+    kontext: Prodala domy KSČM na kampaň, Stačilo! jako zástěrka
   podtema: Politická kultura
 - id: vrabel-2026-09-30-04
   typ: tvrzeni
@@ -55,3 +93,15 @@ vyroky:
   citace:
   - text: Ono to vypadá, že jdeme do války, prostě podle mě 99% jistota, že Evropa jde do války.
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-30-05
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: „99% jistota", že Evropa jde do války; v lednu nedostatek plynu
+  text: Evropa s 99% jistotou vstoupí do války s Ruskem; v lednu 2027 bude v Evropě problém s plynem a
+    ceny budou „katastrofické"; do konfliktů v Asii se brzy zapojí Japonsko.
+  citace:
+  - text: Ono to vypadá, že jdeme do války, prostě podle mě 99% jistota, že Evropa jde do války.
+  predikce:
+    horizont: válka neurčeno; plyn leden 2027
+    stav: ceka

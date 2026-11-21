@@ -40,3 +40,17 @@ vyroky:
     základny na jeho území. Cituje biblickou předpověď o „sarančatech" (přirovnání k příchozím přes moře)
     a předpovědi Nostradama a Baby Vangy, že Evropa (tak jak ji známe) do roku 2050 zanikne a stane se
     muslimským státem.'
+- id: boldy-2026-07-31-03
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: Evropa zanikne a stane se muslimským státem do roku 2050
+  text: S odkazem na proroctví Nostradama (přirovnání migrantů přicházejících přes moře k „sarančatům")
+    a Baby Vangy tvrdí, že Evropa tak, jak ji dnes známe, do roku 2050 zanikne a stane se muslimským státem
+    — aktuální migrační krize v Ceutě je dle něj počátkem tohoto procesu.
+  citace:
+  - text: Stejně jako Evropu varovala Bába Vanga, která říkala, že do konce roku 2050 Evropa [...] zanikne
+      a bude to vlastně muslimský stát.
+  predikce:
+    horizont: do konce roku 2050
+    stav: ceka

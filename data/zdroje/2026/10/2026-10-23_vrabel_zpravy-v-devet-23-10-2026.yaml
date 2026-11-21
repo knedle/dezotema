@@ -9,6 +9,66 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 14 min, zprávy čte Zuzana, Vrabel vysílá z cesty (klienti v Subotici); v přepisu výpadek
     zvuku asi 26:00–30:20; bez sdílených videí.
+  osoby:
+  - osoba: giorgia-meloniova
+    vztah: negativni
+    kontext: Daní energetické firmy kvůli zbrojení jako Babiš; „když si šňupne, tak je taková veselá“
+  prehled:
+  - tema: Pavel mezi kandidáty na evropského vyjednavače, Moskva Evropany u stolu nechce
+    text: přiznává změnu ruské pozice oproti 22. 10. a „chápe“ ji; mírová jednání „neprobíhají“, jde o
+      Trumpovo předvolební „vrtění psem“ kvůli ropě, po izraelských volbách USA znovu zaútočí na Írán;
+      válka skončí, až Rusové zaberou celou Ukrajinu; velmoci si rozdělí sféry vlivu; Macron „pracuje
+      pro Rothschilda“, Pavel „další globalista“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-22-03
+  - tema: OpenAI jedná o 30 mld. dolarů (i ze SAE)
+    text: nafoukne se bublina AI a krach bude větší; Stargate a Palantir jako „šmírovací mašina“, Vance
+      „člověk Thiela“, „feudální oligarchie“ (opakuje)
+    vyrok: vrabel-2026-10-23-02
+  - tema: Melania Trumpová se podílela na příměří v Oleškách
+    text: zesměšňuje její angličtinu, „předvolební akt humanitární pomoci“.
+  - tema: Palestinci zabili dva izraelské vojáky, Izrael bourá domy
+    text: Netanjahu „Satanyahu“, Izraelci „satanisti“, kteří „všechno otáčí“; teroristé jsou ti, kdo bourají
+      lidem domy.
+  - tema: Indičtí námořníci přežili útok u Jemenu
+    text: bez komentáře.
+  - tema: 'Warhound: 200 mil. dolarů na geneticky upravené psy pro armádu'
+    text: chaos v Evropě (už i Albánie a Tunisko) řídí AI, transhumanismus a „podřadná rasa“ lidí bez
+      čipů, nezaměstnanost „klidně 90+“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-23-02
+  - tema: Anthropic zakládá s HD poradenskou firmu pro AI v Evropě
+    text: „už jsem o tom mluvil“.
+  - tema: EU chce s Pekingem omezit dovoz čínského zboží
+    text: v EU není volný trh, centrálně řízená ekonomika povede ke krachu a pak k technokracii a digitální
+      měně se smart kontrakty („novodobé otroctví“); lidi předtím „odmaterializují“ přes zlato, inflaci,
+      ETS2 a daně z nemovitostí
+    vyrok: vrabel-2026-10-23-01
+  - tema: Střelba v departementu Yvelines, ministr mluví o terorismu
+    text: tuší „vrtění psem“ spojené s potlačováním demonstrací; kdyby útočník křičel „Allahu Akbar“,
+      do médií by se to nedostalo.
+  - tema: Trilaterální jednání v Abú Zabí v první polovině listopadu
+    text: Rusové hrají o čas a Trumpovi kvůli kampani vyjdou vstříc, ale nemohou donekonečna snášet útoky
+      Evropy přes Ukrajinu.
+  - tema: Meloniová zvažuje vyšší daně pro energetické firmy
+    text: stejné jako Babišův rozpočet s o 22 % vyšší částkou na zbraně (opakuje); politikům to „píšou
+      v BlackRocku“, NATO je jen jedna ze struktur „celosvětové totality“ (Durov).
+  - tema: Magyar sbližuje Maďarsko s EU (von der Leyenová a Costa v Budapešti)
+    text: Babiš nikdy nehájil národní zájmy; Slovensko je svobodnější a Fico je „další na řadě“ k odstranění;
+      hlasování ministrů SPD proti režimu Ukrajinců je divadlo „opozice ve vládě“, SPD v Ostravě a Karviné
+      „prolítla“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-23-04
+  - tema: Všechna moskevská letiště uzavřena kvůli dronům
+    text: Rusko „nemá čas“, rozpoutat válku s Evropou je „nevyhnutelné“ (opakuje)
+    vyrok: vrabel-2026-10-23-06
+  - tema: Stávka ČT a ČRo 3. 11. proti zrušení poplatků
+    text: změna je kosmetická, platí se to stejně z daní; financovat si „vlastní válečnou propagandu“
+      nemá smysl, udělal by „velkou čistku“, nebo by je zavřel.
+  - tema: Zemětřesení v Tibetu (16 obětí)
+    text: „smutný“.
+  - tema: 'Putin pro Vesti: Rusko je připraveno jednat, cíle ale dosáhne'
+    text: měli jsme Rusko podpořit v Minských dohodách, denacifikaci i demilitarizaci, „my za to můžeme“;
+      válku s Ruskem nelze vyhrát (Mrtvá ruka), jediná cesta jsou dohody jako mezi Reaganem a Gorbačovem
+      (opakuje)
+    vyrok: vrabel-2026-10-22-03
 vyroky:
 - id: vrabel-2026-10-23-01
   typ: tvrzeni
@@ -59,6 +119,11 @@ vyroky:
     na rozdíl od Orbána nikdy nehájil národní zájmy; svobodnější je Slovensko, kde Fico bude „další na
     řadě, koho je potřeba odstranit“ a nahradit loutkami, případně mu nechají roli „vlasteneckého křoví“
     v opozici (→ [Predikce](predikce.md)).'
+  osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: Hlasování ministrů SPD proti režimu Ukrajinců je divadlo „opozice ve vládě“, „nikdo už jim
+      nevěří“
   podtema: Demokracie a politický systém
 - id: vrabel-2026-10-23-05
   typ: tvrzeni
@@ -86,6 +151,23 @@ vyroky:
   citace:
   - text: Jednání o míru v zásadě ani neprobíhají. To, co probíhá, je jakási politická snaha o to, aby
       to vypadalo, že se o míru jedná.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Jako vyjednavač s Putinem „tam nemá co dělat“, „další globalista“ a generál NATO
+  - osoba: emmanuel-macron
+    vztah: negativni
+    kontext: „Pracuje pro Alexandra Rothschilda“, evropští lídři „absolutně podřízení globalistickým strukturám“
+  - osoba: donald-trump
+    vztah: rozporuplny
+    kontext: V jednáních o Ukrajině „hraje poměrně kladnou roli“, ale „mírová jednání“ jsou jen předvolební
+      „vrtění psem“ a za Blízký východ a drahou ropu je „čistě“ odpovědný
+  - osoba: melania-trumpova
+    vztah: negativni
+    kontext: 'Zesměšněna: „neumí ani anglicky“, příměří v Oleškách jako „předvolební akt“'
+  - osoba: benjamin-netanjahu
+    vztah: negativni
+    kontext: „Benjamin Satanyahu“, Izraelci „satanisti“, kteří bourají Palestincům domy
   podtema: Vyjednávání a mír
 - id: vrabel-2026-10-23-06
   typ: tvrzeni
@@ -98,3 +180,64 @@ vyroky:
     takže bude muset zaútočit na zdroje zbraní, peněz a vojáků — rozpoutat válku s Evropou je podle něj
     „v určité části zájmu“ Ruska a „z určitého úhlu pohledu nevyhnutelné“ (opakuje).'
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-10-23-07
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: po izraelských volbách USA znovu zaútočí na Írán
+  text: Až v Izraeli vyhraje volby Benjamin Netanjahu, Spojené státy znovu zaútočí na Írán; současná „mírová
+    jednání“ o Ukrajině jsou jen předvolební odvádění pozornosti.
+  citace:
+  - text: Už je oznámeno, že po volbách, až vyhraje Benjamin Netanyahu, tak Spojené státy znovu zautočí
+      na Irán.
+  predikce:
+    horizont: po izraelských parlamentních volbách
+    stav: ceka
+- id: vrabel-2026-10-23-08
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: válka skončí až tím, že Rusové zaberou celou Ukrajinu
+  text: Pozice Ruska a Ukrajiny se zcela míjejí, žádné mírové řešení není možné; konflikt bude pokračovat,
+    dokud Rusko nedosáhne svých cílů a nezabere celou Ukrajinu.
+  citace:
+  - text: Jediný, co je možný, že ten konflikt bude pokračovat dál, dokud rusové […] nedosáhnou svých
+      cílů. To znamená, dokud nezaberou celou Ukrajinu.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-10-23-09
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: Robert Fico bude jako další „odstraněn“ a nahrazen loutkou EU
+  text: 'Po pádu Orbána je Fico „další na řadě“: bude odstraněn a nahrazen politiky poslušnými EU, případně
+    mu nechají roli „vlasteneckého křoví“ v opozici.'
+  citace:
+  - text: Robert Fico, podle mojho názoru, je další na řadě, koho je potřeba odstranit, protože nejde
+      úplně se Evropskou unii.
+  osoby:
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: Slovensko je díky němu svobodnější než ČR; „další na řadě, koho je potřeba odstranit“
+  predikce:
+    horizont: neurčeno (příští slovenské volby)
+    stav: ceka
+    vyhodnoceni:
+    - datum: 2026-11-04
+      text: '4. 11. Fico podle zpráv ztratil parlamentní většinu (75 ze 150) po přestupu poslance k Tarabovi;
+        Vrabel: „prakticky Robert Fico skončil“ ([Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)).
+        Fico zatím neodstoupil.'
+- id: vrabel-2026-10-23-10
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: nezaměstnanost kvůli robotizaci a AI může přesáhnout 90 %
+  text: Dřívější odhad nezaměstnanosti nad 50 % označuje za příliš optimistický — kvůli digitalizaci,
+    robotizaci a AI může být „klidně 90+“.
+  citace:
+  - text: Když jsem říkal před několika lety, že to bude nezaměstnanost 50+, jsem byl velmi optimistický,
+      ta nezaměstnanost může být klidně 90+.
+  predikce:
+    horizont: neurčeno
+    stav: ceka

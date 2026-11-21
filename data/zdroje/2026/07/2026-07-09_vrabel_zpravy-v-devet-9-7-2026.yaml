@@ -20,6 +20,25 @@ zdroj:
     a Grónsko, dvojí metr mezinárodního práva — [valka-nato-rusko.md](valka-nato-rusko.md). (11) Německo
     kupuje Tomahawk, útočné vs. obranné zbraně — [valka-nato-rusko.md](valka-nato-rusko.md). Stoch. teror:
     přání zavraždění Trumpa — [stochasticky-teror.md](stochasticky-teror.md).'
+  osoby:
+  - osoba: krzysztof-to-winski
+    vztah: pozitivni
+    kontext: Bývalý polský poslanec — posílá humanitární pomoc ruským vojákům, Vrabel to schvaluje jako
+      vyvážení protiruské hysterie
+  prehled:
+  - tema: 'Zpracováno 11 témat: (1) Vláda hodnotí 6 měsíců, neplněné klíčové sliby, PURL'
+    text: '[valka-nato-rusko.md](../valka-nato-rusko.md). (2) Zuna/SPD obhajuje PURL, porušené předvolební
+      sliby — [valka-nato-rusko.md](../valka-nato-rusko.md). (3) Chat control 2.0 schválen, opakované
+      hlasování — [digitalni-kontrola.md](../digitalni-kontrola.md). (4) Globální vzorec perzekuce kritiků
+      (Scott, Ritter, Bystroň, Assange, Brand, Füllmich, Čermák) — [politicky-system.md](../politicky-system.md).
+      (5) Maďarský influencer Šakáč zadržen, právo na odpor — [politicky-system.md](../politicky-system.md).
+      (6) NATO/Palantir „Maven" digitální dohled nad východním křídlem — [digitalni-kontrola.md](../digitalni-kontrola.md).
+      (7) Polský expolitik posílá pomoc ruským vojákům — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (8) Potyčky ve Lvově s náboráři — [valka-nato-rusko.md](../valka-nato-rusko.md). (9) Solovjov: boj
+      proti satanistickému Západu — [valka-nato-rusko.md](../valka-nato-rusko.md). (10) Trump a Grónsko,
+      dvojí metr mezinárodního práva — [valka-nato-rusko.md](../valka-nato-rusko.md). (11) Německo kupuje
+      Tomahawk, útočné vs. obranné zbraně — [valka-nato-rusko.md](../valka-nato-rusko.md). Stoch. teror:
+      přání zavraždění Trumpa — [stochasticky-teror.md](../stochasticky-teror.md).'
 vyroky:
 - id: vrabel-2026-07-09-01
   typ: tvrzeni
@@ -54,6 +73,11 @@ vyroky:
     řízené technologií a experty místo demokracie) — technologie podle něj nejen sleduje a vyhodnocuje
     hrozby, ale dokáže na základě zadání i přímo spustit útok zbraněmi (přirovnává ji k fiktivnímu Skynetu
     z Terminátora).
+  osoby:
+  - osoba: peter-thiel
+    vztah: negativni
+    kontext: Zakladatel Palantiru, „PayPal mafie", sponzor J. D. Vance — prosazuje technokracii (vládu
+      skrze technologie/experty) místo demokracie
 - id: vrabel-2026-07-09-04
   typ: tvrzeni
   temata:
@@ -116,6 +140,11 @@ vyroky:
     aliance — už jednou útočilo na cizí, neagresivní zemi a dodnes drží vojska v Kosovu. Podobně odmítá
     rámování chystaného „jaderného deštníku" (možná dohodnutého na příštím jednání „koalice ochotných"
     v Paříži) jako obranného nástroje — jde podle něj o umístění útočných jaderných zbraní, ne o štít.'
+  osoby:
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: 'Prezentuje nákup raket Tomahawk jako „obranu" — Vrabel: jde o čistě útočnou zbraň, zavádějící
+      rétorika'
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-07-09-08
   typ: tvrzeni
@@ -127,6 +156,19 @@ vyroky:
     K vládnímu hodnocení prvního půl roku (Babiš: splněno/rozpracováno 978 z celkových úkolů programu, jako úspěchy uvádí nízkou inflaci a ceny energie) Vrabel namítá, že podstatné není plnění procent programu, ale klíčových předvolebních slibů — a ty podle něj plněny nejsou: snížení věku odchodu do důchodu (vláda to svaluje na EU), konec zelené politiky (motoristé nyní prosazují umístění 500 větrníků do ČR, protože to chce EU) a zastavení plateb na zbraně Ukrajině. K poslednímu bodu počítá konkrétní dopad: Babiš v prosinci na summitu EU odsouhlasil 90 mld. eur pro Ukrajinu (z toho 60 mld. na zbraně) — ČR sice za půjčku neručí (na rozdíl od ostatních členských států), ale to je podle Vrabela horší, protože to znamená, že ČR ji platí přímo přes příspěvky do rozpočtu EU bez ohledu na to, zda EU zkrachuje. Jen úrok (cca 32 %) z českého podílu vychází na řádově miliardu korun ročně, což při odhadované 15leté splatnosti dělá zhruba 45 miliard Kč — proto označuje Babišovo tvrzení, že ČR neposílá peníze na zbraně, za „čistou lež". Podobně kritizuje ministra zahraničí Petra Macinku za cestu do Německa k výročí konce 2. světové války („líbat nohy Němcům") a oznámení příspěvku do programu PURL (viz výše).
 
     Ministr obrany Jaromír Zuna (SPD) k příspěvku do PURL uvedl, že nejde o porušení koaliční smlouvy, přiznal však, že o něm předem nevěděl. Vrabel namítá, že nejde o formální porušení smlouvy, ale o porušení předvolebních slibů SPD — strana slibovala zrušení letadel F-35 i české muniční iniciativy, a nakonec dělá pravý opak (Zuna letadla F-35 naopak označil za „skvělou volbu pro ČR").
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Hodnocení 6 měsíců vlády — tvrzení o neplacení zbraní Ukrajině označeno za „čistou lež" (ČR
+      platí ~45 mld. přes rozpočet EU)
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Cesta do Německa „líbat nohy Němcům"; oznámil příspěvek do PURL; kritizován za podřízenost
+      vůči USA v otázce Grónska
+  - osoba: jaromir-zuna
+    vztah: negativni
+    kontext: Obhajuje příspěvek do PURL jako neporušující koaliční smlouvu, ač SPD slibovalo zrušení F-35
+      a muniční iniciativy — nyní F-35 označuje za „skvělou volbu"
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-09-09
   typ: tvrzeni
@@ -155,6 +197,10 @@ vyroky:
     majetek byl rozprodán globalistům, malé podniky zlikvidovány ve prospěch nadnárodních firem neplatících
     daně, a evropský průmysl se přeorientovává na neustálou výrobu a ničení zbraní. Uzavírá, že současný
     konflikt je skutečně bojem proti „zlu, které rozkvetlo na Západě".'
+  osoby:
+  - osoba: vladimir-solovjov
+    vztah: pozitivni
+    kontext: Ruský moderátor — jeho výklad boje proti „zkorumpovanému satanistickému Západu" Vrabel podepisuje
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-09-11
   typ: tvrzeni
@@ -171,6 +217,23 @@ vyroky:
     od ruských energií skončila v závislosti na dražších amerických dodávkách a nyní i na vynuceném dovozu
     geneticky modifikovaných potravin výměnou za energie, což označuje za pokračování koloniálního vztahu
     USA k Evropě od roku 1974.'
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: 'Nárokuje si Grónsko bez ohledu na mezinárodní právo („jediná hranice je moje svědomí") —
+      Vrabel: „vůbec bych se nedivil, kdyby ho někdo zavraždil" (→ [stoch. teror](../stochasticky-teror.md))'
   dalsi_zdroje:
   - 2026-09-22_vrabel_zpravy-v-devet-22-9-2026
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-07-09-13
+  typ: stoch-teror
+  temata:
+  - valka-nato-rusko
+  nadpis: Donald Trump
+  text: v reakci na Trumpovo přiznání, že je „cíl číslo jedna" íránských útoků; doplněno výzvou, aby se
+    „svět spojil" a postavil proti USA
+  citace:
+  - text: Vůbec bych se nedivil, kdyby Donalda Trumpa někdo zavraždil.
+  teror:
+    terc: Donald Trump
+    hranicni: false

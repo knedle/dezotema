@@ -7,6 +7,51 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1595802791758732
   prepis: prepisy/done/2026-10-08_Ladislav-Vrabel_8-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
+  osoby:
+  - osoba: petr-hajek
+    vztah: negativni
+    kontext: Šíří „lež“ o shromáždění; bývalý „politruk“ Květů, Protiproud je „provládní médium“
+  prehled:
+  - tema: 'Dohra shromáždění: Hájek, Svatoš, Svobodné rádio, Štěpán'
+    text: „lež“ o počtu lidí, Hájek jako „politruk“ a Macinkův spojenec
+    vyrok: vrabel-2026-10-08-04
+  - tema: Macinka na Chanuce Chabadu
+    text: „Velký Izrael“, financiéři Trumpa, blokace sankcí
+    vyrok: vrabel-2026-10-08-01
+  - tema: Cvičení na Libavé
+    text: sarkasmus o válce jako „Star Wars“. „Vlastence nezajímá výzva proti zbraním pro Ukrajinu.“
+  - tema: Kushner a Dmitrijev o Nord Streamu
+    text: Kushner a Chabad, „Velký Izrael i směrem na Ukrajinu“
+    vyrok: vrabel-2026-10-08-01
+  - tema: Rusko odmítá příměří (Poljanskij)
+    text: „tvrdou kapitulaci Ukrajiny“
+    vyrok: vrabel-2026-10-08-05
+  - tema: „Je nebezpečné být vlastencem, mluvit česky“
+    text: liberálové i „falešní vlastenci“ jdou proti hnutí.
+  - tema: Trump nebude před volbami útočit na Írán
+    text: „předvolební výjevy“.
+  - tema: Socha nahého Trumpa „Oranžový mor“ v Evropském parlamentu
+    text: Trump je jeho největší politické zklamání. EP je „nejhorší organizace“, EU „žluto-modrý mor“
+      („nemyslím Ukrajinu“).
+  - tema: Rubio varuje před eskalací
+    text: USA válku připravily, „sionistická pyramida moci“, Hitler a Rothschildové
+    vyrok: vrabel-2026-10-08-03
+  - tema: Protesty ve Francii pokračují
+    text: dřív či později je „převezmou imigranti“, začíná „občanská válka“.
+  - tema: Blahníková
+    text: „pravděpodobně bude odsouzena“.
+  - tema: Asijské země doplňují zásoby ropy, ČR je kvůli Trumpovi vypouští
+    text: „oni se připravují, my máme Babiše“.
+  - tema: Řecko kupuje F-16 a F-35 za 4 mld. USD
+    text: „další idiot kromě ČR“, F-35 jsou „předražené krámy“.
+  - tema: Obžaloba Madura v New Yorku
+    text: únos hlavy státu je „válečný zločin a barbarství“
+    vyrok: vrabel-2026-10-08-02
+  - tema: Polsko aktivovalo letectvo
+    text: „po Ukrajincích jsou na řadě Poláci“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-08-06
+  - tema: Výpadek sítě Telenor v Norsku
+    text: „pořiďte si holuby“.
 vyroky:
 - id: vrabel-2026-10-08-01
   typ: tvrzeni
@@ -24,6 +69,16 @@ vyroky:
     Izraeli. U jednání Kushnera s Dmitrijevem o americkém vstupu do Nord Streamu naznačuje, že „Velký
     Izrael“ by se mohl „posunout i směrem na Ukrajinu“ a že „se mluví“ i o Zelenském. Pak se zarazí, „aby
     ho nezavřeli za antisemitismus“.
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Podporovatel Chabadu, přesun ambasády do Jeruzaléma, blokace sankcí proti Izraeli
+  - osoba: jared-kushner
+    vztah: negativni
+    kontext: Napojení na Chabad, „Velký Izrael i směrem na Ukrajinu“
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Politik, ve kterém se „zklamal nejvíc“
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-10-08-02
   typ: tvrzeni
@@ -51,6 +106,10 @@ vyroky:
     plán a brettonwoodský systém si Evropu zavázaly. I nyní podle něj USA s Ruskem obchodují, Evropě prodávají
     zbraně, „těší se, že se Evropa zničí“, a nakonec převezmou evropský i ruský byznys. „My jsme vždycky
     takoví kreténi, že nás poštvou proti sobě slovanské národy.“'
+  osoby:
+  - osoba: marco-rubio
+    vztah: negativni
+    kontext: „Mírotvůrce“ země, která válku připravila
   podtema: Náboženský a okultní výklad moci
 - id: vrabel-2026-10-08-04
   typ: tvrzeni
@@ -70,6 +129,13 @@ vyroky:
     Štěpána, že byl v roce 2022 domluven s Fialovou vládou na koalici a „klíčových ministerstvech“, které
     padly jen proto, že Vrabel neudělal další demonstraci s odborníky. Podle Vrabela tehdy existovala
     nabídka založit stranu ČR na 1. místě s penězi „přes Radima Fialu“ pod podmínkou, že v ní nebude on.'
+  osoby:
+  - osoba: michal-svatos
+    vztah: negativni
+    kontext: Přirovnal Vrabela k Pavlovi, „zkreslené informace“
+  - osoba: vladimir-stepan
+    vztah: negativni
+    kontext: Tvrdí, že byl v roce 2022 domluven s Fialovou vládou na ministerstvech (sarkasmus)
   podtema: USA — volební systém
 - id: vrabel-2026-10-08-05
   typ: tvrzeni
@@ -103,3 +169,16 @@ vyroky:
   citace:
   - text: Obávám se, že další na řadě po Ukrajincích jsou Poláci.
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-10-08-07
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: po Ukrajincích budou „na řadě Poláci“; migrační pakt nám začnou „lifrovat“ od ledna 2027
+  text: Pokud se válka rozšíří na území NATO, globalisté se podle něj zaměří na Polsko jako na poslední
+    silný evropský národ. Migrační pakt bude od ledna 2027 vymahatelný a ČR začnou dřív nebo později přidělovat
+    migranty.
+  citace:
+  - text: Obávám se, že pokud se ten konflikt rozběhne, že Poláci jsou další na řadě.
+  predikce:
+    horizont: neurčeno (Polsko); od ledna 2027 (migrační pakt)
+    stav: ceka

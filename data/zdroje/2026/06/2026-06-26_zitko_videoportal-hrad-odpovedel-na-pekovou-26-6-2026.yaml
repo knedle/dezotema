@@ -28,4 +28,17 @@ vyroky:
     Soňa Peková obdržela (po téměř dvou měsících) odpověď na svůj otevřený dopis z 7. května, adresovaný osobně Petru Pavlovi, v němž s více než tisícem podpisů žádala o objektivní přezkoumání trestních stíhání/pravomocných trestů čtyř osob odsouzených za veřejná vyjádření během covidové pandemie. Odpověď opět nepodepsal prezident, ale úředník kanceláře (ředitel legislativního odboru, dle dopisu Ing. Milan Vašina) — dopis Peková komentovala se zklamáním („odpověď opět delegoval na někoho, koho jsem se neptala"). Kancelář prezidenta v dopise uvádí, že institut milosti je určen jen pro výjimečné humanitární případy (péče o nezletilé dítě, závažný zdravotní stav, vysoký věk) a neslouží k přezkoumávání rozhodnutí nezávislých soudů; žádost o osobní jednání s prezidentem odmítla s odkazem na jeho pracovní vytíženost. Zítko na to reaguje svou opakovanou tezí, že soudy (včetně Ústavního) jsou „soukromé firmy s IČ" bez skutečné nezávislosti, a poukazuje na to, že Ústavní soud dokázal ve věci Pavlovy účasti na summitu NATO rozhodnout bleskově (během jednoho–dvou dnů), zatímco běžné případy řeší měsíce až půl roku — což čte jako důkaz konfliktu zájmů, protože soudce Ústavního soudu jmenoval sám Pavel.
 
     > „Založte si prosím tuto informaci do přihrádky pro a proti, kterou použijete, když se budou blížit prezidentské volby." — Soňa Peková, [Videoportál 26. 6. 2026](_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026)
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: 'Nový řádek: na petici o milost (7. 5.) odpověděl po 2 měsících přes úředníka, ne osobně;
+      odmítl i osobní jednání'
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Neodpověděl osobně na Pekové petici o milost — nechal odpovědět úředníka; obviněn z konfliktu
+      zájmů (jmenoval soudce ÚS, kteří v jeho vlastní kauze rozhodli bleskově)
+  - osoba: pekova
+    vztah: pozitivni
+    kontext: Sdílí její otevřený dopis a zklamání z odpovědi Hradu; zdůrazňuje, že petici podepsalo přes
+      1000 lidí
   podtema: Trestní stíhání kritiků covidu

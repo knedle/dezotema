@@ -25,6 +25,11 @@ vyroky:
     (spike proteiny, oxid grafenu), nebo zda dostal „prominentní placebo" (fyziologický roztok), jak Zítko
     předpokládá (navazuje na jeho dřívější tezi, že vláda dostala při očkování placebo, viz [konspiraci
     — Trump-Putin-Xi aliance](konspirace-deep-state-qanon.md#trump-putin-a-xi-jako-koordinovaná-aliance-proti-deep-state--zítko-čte-mcintosh)).
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Na tiskovce o vakcínách „zahrál neználka" — vinu hodil na úřednici „Baťovou" a na Chlíbka/Prymulu;
+      Zítko ho vyzývá na rozbor krve (placebo vs. ostrá šarže)
   podtema: Hantavirus
 - id: zitko-2026-06-03-02
   typ: tvrzeni
@@ -51,6 +56,11 @@ vyroky:
     rozsudky (viz [Konkrétní případy odsouzených za covidové výroky](#konkrétní-případy-odsouzených-za-covidové-výroky)).
   citace:
   - text: Pravda nikdy nemůže být poplašnou zprávou, tudíž ani trestným činem.
+  osoby:
+  - osoba: iva-dvorakova
+    vztah: negativni
+    kontext: Soudkyně z Chomutova — odsoudila Zítka nepodmíněně na 3 roky za „šíření poplašné zprávy";
+      dle Zítka porušila 11 zákonů (podal TO)
   podtema: Trestání politického projevu
 - id: zitko-2026-06-03-04
   typ: tvrzeni
@@ -68,6 +78,11 @@ vyroky:
     Havránek) prý chtěla krypto-příjmy do 40 mil. osvobodit od daně. Vrchní soud v Olomouci odsoudil Jiříkovského
     už 31. 5. 2018 na 9,5 roku za krádež bitcoinů ze SHIB Marketplace. Rozšiřuje dosavadní výklad (viz
     [Dvě darknetová tržiště, 100 miliard Kč](kauzy.md#dvě-darknetová-tržiště-100-miliard-kč-zítko-duben-2026)).'
+  osoby:
+  - osoba: tomas-jirikovsky
+    vztah: negativni
+    kontext: „Odklonil" bitcoiny za 100+ mld ze dvou tržišť; den před schůzkou s MS rozeslal BTC na spřátelené
+      peněženky; policie mu vrátila 50 PC, přinesl 1
   podtema: Korupce na Ukrajině — Mindić, Firepoint, Kvartal 95
 - id: zitko-2026-06-03-05
   typ: tvrzeni
@@ -82,6 +97,11 @@ vyroky:
     700násobné znehodnocení. Tištění „ničím nekrytých" peněz (zlatý standard zrušen 1971) označuje za
     skrytou loupež úspor a argumentuje pro zákonné právo na hotovost a pro uchování hodnoty ve zlatě/stříbře.
     Navazuje na jeho a Vrabelovu kritiku CBDC/bezhotovostní společnosti (viz [CBDC a digitální euro](digitalni-kontrola.md#cbdc-a-digitální-euro-jako-nástroj-kontroly--velký-reset-vrabel-31-5-2026)).'
+  osoby:
+  - osoba: antonin-zapotocky
+    vztah: negativni
+    kontext: Týden před měnovou reformou 1953 ujišťoval „naše měna je pevná" — Zítko uvádí jako klasický
+      příklad lži režimu před okradením lidí
 - id: zitko-2026-06-03-06
   typ: tvrzeni
   temata:
@@ -105,3 +125,46 @@ vyroky:
     Zítko rozvíjí QAnon narativ o sérii nových „odhalení": Justin Bieber měl být jako patnáctiletý v roce 2009 „prodán" rapperem P. Diddym pedofilovi Baracku Obamovi (v rámci „kšeftu s adrenochromem"); o Obamových sklonech má svědčit i tvrzení, že Michelle Obamová je „před přeoperováním Mike Robinson". Robert F. Kennedy Jr. prý poslal delegáta za Reinerem Füllmichem do věznice (Füllmich má být do prázdnin propuštěn). Dále popisuje „pozitivní" signály blížícího se finále: aréna na MMA u Bílého domu s „hvězdnou bránou" (14. 6.), události spojené s 24. 6. a 4. 7. (250. výročí nezávislosti USA), nová „kvantová" 250dolarová bankovka s podobiznou Trumpa, zrušení Fedu a IRS jako „soukromých firem" a Trumpovy exekutivní příkazy „jeden za druhým". Rozšiřuje existující QAnon výklad (viz [Quantum Financial System a MedBeds](#quantum-financial-system-a-medbeds), [Save the Children: adrenochrom](#save-the-children-adrenochrom-a-záchrana-dětí-z-tunelů)).
 
     ⚡ **Poznámka:** Jde o neověřitelná konspirační tvrzení bez opory ve faktech.
+  osoby:
+  - osoba: barack-obama
+    vztah: negativni
+    kontext: V QAnon narativu označen za pedofila, jemuž měl P. Diddy v roce 2009 „prodat" patnáctiletého
+      Justina Biebera (kšeft s adrenochromem)
+- id: zitko-2026-06-03-08
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: OSN dojdou peníze a globalismus se zhroutí
+  text: Zítko tvrdí, že Organizace spojených národů stojí před kolapsem — přibližně za šest týdnů jí mají
+    dojít peníze; spojuje to s očekávaným „hroucením globalismu jako domino" a s blížícím se 250. výročím
+    nezávislosti USA (4. 7.).
+  citace:
+  - text: Organizace spojených národů stojí před kolapsem, očekává se, že přibližně za šest týdnů dojdou
+      prašule.
+  predikce:
+    horizont: ~6 týdnů (do poloviny července 2026)
+    stav: vyvraceno
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: OSN do poloviny července nezkolabovala a globalismus se nezhroutil
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Generální tajemník Guterres v lednu 2026 varoval před finanční krizí OSN, organizace ale dál
+        funguje.
+- id: zitko-2026-06-03-09
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: Fiala, Stanjura, Blažek + „celý soudní aparát"
+  text: 'Terč: Fiala, Stanjura, Blažek + „celý soudní aparát".'
+  citace:
+  - text: Jmenovaní označeni za viníky „zabíjení biologickou zbraní hromadného ničení", „genocidy a sterilizace
+      obyvatel"; opakovaná výzva, aby „padni komu padni" stáli před tribunálem a nesli „spravedlivý trest"
+  osoby:
+  - osoba: pavel-blazek
+    vztah: negativni
+    kontext: „Don Pablo Blažek" — označen za hlavního organizátora bitcoinové loupeže; odstoupil 30. 5.
+      2025, případ rok nikdo nedořešil
+  teror:
+    terc: Fiala, Stanjura, Blažek + „celý soudní aparát"
+    hranicni: false

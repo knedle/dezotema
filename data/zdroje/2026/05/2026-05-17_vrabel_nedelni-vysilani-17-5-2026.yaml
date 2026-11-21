@@ -16,6 +16,68 @@ zdroj:
     proroctví pádu dolaru — Vrabel skeptický; definice svobody; Sládek odešel ze schůzky ANO/SPD; bílý
     muž jako záměrná likvidace; komunismus = globalismus; Posselt opět karikatura Hitlera; Landsmannschaft
     sjezd Brno 24. 5. — petice stánky; Černohorský vztah Vrabel/Rajchl; doporučení koupit půdu v Srbsku.'
+  osoby:
+  - osoba: olena-zelenska
+    vztah: negativni
+    kontext: Jméno spojováno s korupčním vyšetřováním NABU — Vrabel cituje jako součást kritiky systémové
+      korupce kolem Zelenského
+  - osoba: katerina-konecna
+    vztah: rozporuplny
+    kontext: Oznámila, že nebude kandidovat za KSČM — Vrabel zmiňuje jako aktuální politický vývoj bez
+      výraznějšího hodnocení
+  - osoba: vladimir-sladek
+    vztah: neutralni
+    kontext: Odešel ze schůzky, když zjistil přítomnost poslanců ANO a SPD — Vrabel komentuje jako příklad
+      fragmentace opozičního prostředí
+  - osoba: wolf-messing
+    vztah: neutralni
+    kontext: Proroctví o pádu dolaru — Vrabel k nim přistupuje skepticky; místo toho doporučuje investice
+      do nemovitostí v Srbsku
+  prehled:
+  - tema: Nedělní živé vysílání ve 20 h. Témata
+    text: Zelenská NABU korupce
+  - tema: Zelenský diktátor bez mandátu, kokainová závislost
+    text: Zelenský diktátor bez mandátu, kokainová závislost (Mendelová)
+  - tema: drony na Moskvu 400–500ks
+    text: drony na Moskvu 400–500ks
+  - tema: ČR muniční iniciativa
+    text: ČR muniční iniciativa
+  - tema: jaderná válka eskalace
+    text: jaderná válka eskalace
+  - tema: Trump-Čína
+    text: dohoda 1 trilion, tokenizace světa
+  - tema: digitální surveillance AI/6G
+    text: digitální surveillance AI/6G
+  - tema: digitální platby
+    text: PayPal mafie, Thiel
+  - tema: migrační pakt za 16 dní (od 17. 5.)
+    text: migrační pakt za 16 dní (od 17. 5.)
+  - tema: digitální euro 2027
+    text: digitální euro 2027
+  - tema: Konečná nekandiduje KSČM
+    text: Stačilo vykradení strany
+  - tema: Starmer pravděpodobně odstoupí
+    text: Starmer pravděpodobně odstoupí
+  - tema: Srbsko jako model suverenity
+    text: Srbsko jako model suverenity
+  - tema: Messing proroctví pádu dolaru
+    text: Vrabel skeptický
+  - tema: definice svobody
+    text: definice svobody
+  - tema: Sládek odešel ze schůzky ANO/SPD
+    text: Sládek odešel ze schůzky ANO/SPD
+  - tema: bílý muž jako záměrná likvidace
+    text: bílý muž jako záměrná likvidace
+  - tema: komunismus = globalismus
+    text: komunismus = globalismus
+  - tema: Posselt opět karikatura Hitlera
+    text: Posselt opět karikatura Hitlera
+  - tema: Landsmannschaft sjezd Brno 24. 5.
+    text: petice stánky
+  - tema: Černohorský vztah Vrabel/Rajchl
+    text: Černohorský vztah Vrabel/Rajchl
+  - tema: doporučení koupit půdu v Srbsku.
+    text: doporučení koupit půdu v Srbsku.
 vyroky:
 - id: vrabel-2026-05-17-01
   typ: tvrzeni
@@ -52,3 +114,32 @@ vyroky:
 
     ⚡ **Poznámka:** Tato tvrzení jsou extremní a konspirační; nezakládají se na ověřitelných faktech.
   podtema: Historické konspirační výklady
+- id: vrabel-2026-05-17-04
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: Keir Starmer pravděpodobně odstoupí z funkce
+  text: Vrabel předpovídá, že britský premiér Keir Starmer pravděpodobně v dohledné době odstoupí. Nesouvisí
+    s Tommy Robinsonem, ale s vnitřní nestabilitou vlády. Vrabel to zmiňuje jako signál kolapsu atlantického
+    establishmentu.
+  citace:
+  - text: Keir Starmer pravděpodobně odstoupí.
+  osoby:
+  - osoba: keir-starmer
+    vztah: negativni
+    kontext: Vrabel predikuje, že pravděpodobně v dohledné době odstoupí — nesouvisí s Tommy Robinsonem,
+      ale s vnitřní nestabilitou vlády; signál kolapsu atlantického establishmentu
+  predikce:
+    horizont: neurčeno (krátkodobé)
+    stav: ceka
+- id: vrabel-2026-05-17-05
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: Srbsko nevstoupí do EU, pravděpodobnost 5 %
+  text: Vrabel odhaduje pravděpodobnost vstupu Srbska do EU na přibližně 5 %. Doporučuje koupi nemovitostí
+    v Srbsku jako bezpečnou investici — ceny jsou mnohonásobně nižší než v ČR a při vstupu do EU by dramaticky
+    vzrostly, ale k tomu dle Vrabela nedojde.
+  predikce:
+    horizont: dlouhodobé (neurčeno)
+    stav: ceka

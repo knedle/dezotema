@@ -10,6 +10,15 @@ zdroj:
   delka: '22:11'
   poznamka: 'Projev z konference V4 v Bratislavě — EU jako nové Rakousko-Uhersko, Green Deal, migrace
     (Southport), DSA a cenzura, V4 jako most. Zhlédnutí: 53 310'
+  osoby:
+  - osoba: ursula-von-der-leyen
+    vztah: negativni
+    kontext: Přiznala chybu odchodu od jaderné energie, ale nyní chce odejít i od fosilních paliv — za
+      10 let přijde druhé přiznání
+  - osoba: viktor-orban
+    vztah: pozitivni
+    kontext: V Budapešti prohlásil, že V4 má "3,5 prutu"; Orbán je schopen mluvit s Pekingem, Moskvou
+      i Washingtonem — vzor diplomacie
 vyroky:
 - id: rajchl-2026-04-04-01
   typ: tvrzeni

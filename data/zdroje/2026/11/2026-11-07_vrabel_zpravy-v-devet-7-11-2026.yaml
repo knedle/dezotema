@@ -9,6 +9,75 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 18 min, zprávy čte Zuzka; hostka Vladimíra Vítová komentuje pochod spolku Svatopluk na
     ČT.
+  osoby:
+  - osoba: karel-havlicek
+    vztah: negativni
+    kontext: Kontrakt na americký plyn jako příprava na „megapodvod“
+  - osoba: petra-redova
+    vztah: neutralni
+    kontext: Stála vedle něj na pochodu na ČT 2022, nyní na pochodu Svatopluku
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Zlobbovaný“ zbrojaři
+  prehled:
+  - tema: Střelba v Krakově (6 mrtvých) a „černý týden“ Polska
+    text: Bundeswehr ve Varšavě přirovnává k roku 1968 — má pomoci „ústavnímu puči“ a případně se přesunout
+      ke Kaliningradu
+    vyrok: vrabel-2026-11-07-08
+  - tema: 'Cvičení koalice ochotných v Polsku (9.–22. 11.), Zacharovová: Evropa nemá místo u jednacího
+      stolu'
+    text: řeči o míru se zneužívají k přiblížení vojsk k Rusku, „běhá mi mráz po zádech“
+    vyrok: vrabel-2026-11-07-10
+  - tema: Zadržený Venezuelan, kterému „hlasy“ přikazovaly zabít Trumpa
+    text: výčet Trumpových „neodpustitelných“ činů (Írán, Venezuela, cla, Hormuz), hlasům „se nediví“
+      → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-11-07-01
+  - tema: EK zařadila ČR mezi státy pod migračním tlakem
+    text: vláda pakt „odmítla“ jen slovy, za 11 měsíců nepodnikla žádný právní krok, ČR pakt „plní dobrovolně“
+      Ukrajinci
+    vyrok: vrabel-2026-11-07-05
+  - tema: Zastavené stíhání Tomáše Čermáka za čin teroristické povahy
+    text: státní zástupce jen vrátil věc policii k doplnění důkazů; Čermák je „skutečně politický vězeň“
+      (opakuje).
+  - tema: Policie bude moci na žádost jiného státu EU zablokovat majetek na 7 dní bez soudu
+    text: bude se to používat proti odpůrcům režimu, příklad Kanady za covidu
+    vyrok: vrabel-2026-11-07-06
+  - tema: Vyšší kvóty pro pracovníky z Filipín, Indie a Indonésie
+    text: potřeba firem je „výmluva“, vláda si migranty „přiváží sama“, hrozí no-go zóny a šaría
+    vyrok: vrabel-2026-11-07-05
+  - tema: ČR blízko kontraktu na americký plyn (Havlíček)
+    text: příprava na Trumpovu dohodu, ruský plyn přes USA „klidně třikrát dražší“, „megapodvod“
+    vyrok: vrabel-2026-11-07-09
+  - tema: Krach banky v Paraguayi
+    text: nenechávat si peníze v bankách, krize bude pokračovat, „čeká nás Francie“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-07-03
+  - tema: Budanov čelí pokutě za použití ruštiny
+    text: ukázka toho, jak je to s „nacismem na Ukrajině“ (opakuje).
+  - tema: Pochod spolku Svatopluk na ČT (Konečná, Drulák aj.), komentuje hostka Vítová
+    text: 'heslo „Dost bylo dezinformací“ evokuje Konečnou („Rajchl s lidskou tváří“); Vítová: Svatopluk
+      „VIP spolek“ a „druhá garnitura“, ČT „placená cizí státní mocí“'
+    vyrok: vrabel-2026-11-07-04
+  - tema: 'Divák: neměli by se politici spojit?'
+    text: „cesta do pekla“, spojuje se jen s Vítovou (vystoupení z EU, NATO, WHO); politiku diktují sponzoři,
+      dnes zbrojaři
+    vyrok: vrabel-2026-11-07-07
+  - tema: Dvě rakety na íránský ostrov Kešm
+    text: jen informuje, že „to tam pokračuje“.
+  - tema: Propad Nasdaqu po amerických volbách
+    text: AI firmy jsou „přepumpovaná“ bublina, po jejím splasknutí přijde horší krize než v roce 2008
+      (opakuje).
+  - tema: Volby na Novém Zélandu
+    text: bez komentáře.
+  - tema: 'Rutte: válka skončí kompromisem; Sybihovy podmínky pro Abú Zabí'
+    text: válečná ekonomika a zbrojaři válku drží, mír až po „denacifikaci“ a odzbrojení Ukrajiny, v Abú
+      Zabí ani v Šen-čenu trvalý mír nebude → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-07-10
+  - tema: Protesty ve Francii (1,6 mil.), v Jakartě a Nepálu
+    text: „válka mezi státem a občany“, svět „se tady třese“ (opakuje).
+  - tema: Problémy „shora“ (Ozempic, umělé maso, Audi ve ztrátě)
+    text: Ozempicu přisuzuje řídnutí kostí, oslepnutí a poruchy mozku; jediným řešením je odejít z globalismu
+      do suverenity (opakuje)
+    vyrok: vrabel-2026-11-07-02
 vyroky:
 - id: vrabel-2026-11-07-01
   typ: tvrzeni
@@ -27,6 +96,11 @@ vyroky:
   citace:
   - text: Takže se vůbec nedivím tomu, že někde existují tady v prostoru nějaké hlasy, které občas někomu
       říkají, že by ho měl jít z tohohle světa dostat pryč.
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: „Neodpustitelné“ činy (Írán, Venezuela, cla, Hormuz); „nediví se“ hlasům, které radí ho „dostat
+      z tohohle světa“
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-11-07-02
   typ: tvrzeni
@@ -62,6 +136,19 @@ vyroky:
     **7. 11.** — K pochodu spolku Svatopluk za reformu veřejnoprávních médií (v čele Kateřina Konečná, Petr Drulák, Jan Skalický a Jiří Kobza; dále mj. Lenka Procházková, Jaroslava Obermaierová, Ivan David a Oldřich Kaiser) Vrabel poznamenává, že šla „celá ta parta“ z jeho demonstrací v roce 2022. Vlastní kritiku ale odmítá, protože podobný pochod na ČT sám pořádal. Výhradu má k heslu „Dost bylo dezinformací“, které podle něj evokuje „boj proti dezinformacím“, jenž v Evropském parlamentu prosazuje Konečná („Rajchl s lidskou tváří“), a nechápe, proč Kaiser recitoval báseň o Leninovi. Jeho hostka Vladimíra Vítová označila Svatopluk za „VIP spolek“, který nemá zájem koordinovat odpor, a za připravovanou „druhou garnituru“ falešné opozice. Jádro problému podle ní není ve financování ČT, ale v členství v EU, která určuje informační a ideologický obsah. ČT podle ní za covidu dostala od USA 4 miliony dolarů, je tedy „placená cizí státní mocí“ a měl by se na ni vztahovat zákon o spolupráci s cizí mocí. Zrušení či privatizaci ČT odmítá, protože každý stát má mít vlastní sdělovací prostředek.
 
     > „Tak to prostě není, protože my nejsme samostatný stát, nemáme samostatný jako stát zpravodajský kanál.“ — Vladimíra Vítová (hostka u Vrabela)
+  osoby:
+  - osoba: vladimira-vitova
+    vztah: pozitivni
+    kontext: Hostka zpráv; spolupracují ve volbách na vystoupení z EU, NATO a WHO
+  - osoba: katerina-konecna
+    vztah: negativni
+    kontext: „Rajchl s lidskou tváří“, v EP prosazuje boj proti dezinformacím
+  - osoba: oldrich-kaiser
+    vztah: neutralni
+    kontext: Nechápe, proč na pochodu recitoval báseň o Leninovi
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Podle SMS nemohl kandidovat s Konečnou kvůli sponzorům
   podtema: Česká televize a mainstreamová média
 - id: vrabel-2026-11-07-05
   typ: tvrzeni
@@ -98,6 +185,16 @@ vyroky:
     policii k doplnění důkazů; Čermáka nazývá „skutečně politickým vězněm“.'
   citace:
   - text: Takže tady lze jednoznačně předpokládat, že to bude zase používáno proti nám.
+  osoby:
+  - osoba: tomas-cermak
+    vztah: pozitivni
+    kontext: „Skutečně politický vězeň“
+  - osoba: chrystia-freelandova
+    vztah: negativni
+    kontext: „Vnučka ukrajinského nacisty“, zmrazovala účty podporovatelům kamioňáků
+  - osoba: justin-trudeau
+    vztah: negativni
+    kontext: Zmrazování účtů demonstrantům za covidu
   podtema: Politická perzekuce
 - id: vrabel-2026-11-07-07
   typ: tvrzeni
@@ -118,6 +215,22 @@ vyroky:
   citace:
   - text: Je to cesta do pekla, spojit se všichni v politice. To je dobrý jenom pro ty, jako byla pětikoalice,
       aby se udrželi u koryta.
+  osoby:
+  - osoba: mark-rutte
+    vztah: negativni
+    kontext: „Nemůžete věřit ani nos mezi očima“, každou chvíli říká něco jiného
+  - osoba: spd
+    vztah: negativni
+    kontext: Spojili se s ANO „ke korytům“ a přestali plnit vlastenecký program
+  - osoba: trikolora
+    vztah: negativni
+    kontext: Spojili se s ANO „ke korytům“ a přestali plnit vlastenecký program
+  - osoba: svobodni
+    vztah: negativni
+    kontext: Spojili se s ANO „ke korytům“ a přestali plnit vlastenecký program
+  - osoba: motoriste
+    vztah: negativni
+    kontext: Spojili se s ANO „ke korytům“ a přestali plnit vlastenecký program
   podtema: Vlastní vládní program „kdybych byl Babišem" (Černohorský)
 - id: vrabel-2026-11-07-08
   typ: tvrzeni
@@ -152,6 +265,10 @@ vyroky:
   citace:
   - text: Takže vzdálená Amerika bude jenom papírově nějaký mezičlánek, který nás bude kasírovat za obrovský
       peníze.
+  osoby:
+  - osoba: kyrylo-budanov
+    vztah: negativni
+    kontext: Pokuta za ruštinu jako ukázka „nacismu na Ukrajině“
   podtema: Vyjednávání a mír
 - id: vrabel-2026-11-07-10
   typ: tvrzeni
@@ -177,4 +294,63 @@ vyroky:
   citace:
   - text: Ten konflikt skončí, až se vyřeší ten nacismus, který na Ukrajině je, až se vyřeší to, že se
       okolo Ruska staví vojenský základny.
+  osoby:
+  - osoba: michal-strnad
+    vztah: negativni
+    kontext: Zbrojařská lobby, chodí za Okamurou do Sněmovny
+  - osoba: andrij-sybiha
+    vztah: negativni
+    kontext: Projev „v heslech“; podmínky pro Abú Zabí neslučitelné s mírem
   podtema: Vyjednávání a mír
+- id: vrabel-2026-11-07-11
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: trvalý mír nebude dosažen ani v Abú Zabí, ani na schůzce USA–Rusko–Čína v Šen-čenu
+  text: Jednání v Abú Zabí ani schůzka USA, Ruska a Číny na summitu APEC v Šen-čenu nepřinesou trvalé
+    ukončení války; Rutteho „kompromisní mír“ považuje za nereálný, dokud nebude Ukrajina „denacifikována“
+    a odzbrojena.
+  citace:
+  - text: Kdybyste se mi zeptali, kolik vsázím na to, že bude dosažený […] kompletního mírovýho řešení,
+      trvalýho, tak mně připadá, že tam ta velká šance není.
+  dalsi_zdroje:
+  - 2026-11-19_vrabel_zpravy-v-devet-19-11-2026
+  predikce:
+    horizont: Abú Zabí; Šen-čen 18.–19. 11. 2026
+    stav: castecne
+    horizont_do: 2026-11-19
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: summit v Šen-čenu (19. 11.) podle Vrabelova vysílání skončil bez mírové dohody pro Ukrajinu;
+        Abú Zabí viz dřívější poznámky
+      stav: castecne
+    - datum: 2026-11-19
+      text: 'Podle Vrabelova popisu summit v Šen-čenu přinesl shodu o jaderné bezpečnosti, ne mír na Ukrajině.
+        Putin prohlásil, že po útocích na Krymský most „nebudou žádné dohody“, a Vrabel dodává: „Rusko
+        nepřestane na Ukrajině.“'
+- id: vrabel-2026-11-07-12
+  typ: predikce
+  temata:
+  - digitalni-kontrola
+  nadpis: bankovní krize bude pokračovat, „čeká nás Francie“
+  text: Po krachu banky v Paraguayi budou bankovní problémy pokračovat a zasáhnou Francii; stát bude vkladatele
+    zachraňovat jen zpočátku.
+  citace:
+  - text: Ty bankovní problémy budou prostě pokračovat dál […] čeká nás Francie.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-11-07-13
+  typ: stoch-teror
+  temata:
+  - blizky-vychod
+  nadpis: Donald Trump
+  text: reakce na zadržení muže, kterému „hlasy“ přikazovaly zabít Trumpa; jmenovaný terč + racionalizace
+    atentátu výčtem „neodpustitelných“ činů
+  citace:
+  - text: když si vzpomeneme na zabitýho Khameneiho […] to je neodpustitelná věc […] takže se vůbec nedivím
+      tomu, že někde existují tady v prostoru nějaké hlasy, které občas někomu říkají, že by ho měl jít
+      z tohohle světa dostat pryč.
+  teror:
+    terc: Donald Trump
+    hranicni: false

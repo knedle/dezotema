@@ -7,6 +7,10 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/1569064014422116
   prepis: prepisy/done/2026-09-27_Jindřich-Rajchl_Padesátka-na-krku.txt
   rezim: standard
+  osoby:
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: Jediný v Evropě, kdo má „reálně odvahu hovořit o míru"
 vyroky:
 - id: rajchl-2026-09-27-01
   typ: tvrzeni
@@ -33,6 +37,10 @@ vyroky:
     provokaci (Nord Stream, Przewodów, Duda) jako pravděpodobnějším scénáři než ruský útok na Evropu a
     tvrdí, že NATO by jednotné nebylo (Turecko, USA) — zbyla by jen část „koalice ochotných" a „hlavní
     bojiště bude tady u nás".'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Obrovská ostuda" — výzva NATO sestřelit ruské letadlo slovně eskaluje konflikt
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-09-27-03
   typ: tvrzeni
@@ -53,6 +61,11 @@ vyroky:
     ve 12 ze 13 krajů, ve sněmovních volbách 7,8 % a jeho mandát s procentuálně druhým nejvyšším podílem
     preferenčních hlasů po Filipu Turkovi). Tvrdí, že ze sněmovní opozice rostou preference jedině klubu
     SPD, protože lidé vidí, že „myslíme ty naše cíle naprosto vážně".
+  osoby:
+  - osoba: donald-trump
+    vztah: rozporuplny
+    kontext: Jeho vítězství 2016 inspirovalo Rajchlův vstup do politiky; nyní „americký prezident hovoří
+      o vyhlazení národa"
   podtema: Politická kultura
 - id: rajchl-2026-09-27-04
   typ: tvrzeni
@@ -63,6 +76,14 @@ vyroky:
     Rajchl popisuje vznik velké demonstrace na Václavském náměstí 3. 9. 2022: PRO se Zwyrtek Hamplovou plánovali vlastní akci na 11. září, ale na nabídku Jiřího Havla (spolupracujícího s Chcípl PES) spojili síly s Ladislavem Vrabelem — přišlo podle něj kolem 100 tisíc lidí, snad největší demonstrace národně-konzervativního křídla od roku 1989, o níž média „mlčela" a později „lhala". Jednotu podle Rajchla rozbil hlavně Vrabel, který se „vpasoval do role" toho, kdo lidi na Václavák dostal — ve skutečnosti prý přišli za Mirkem Ševčíkem, Vladimírem Štěpánem, Tomášem Lukavcem, Zwyrtek Hamplovou „a snad i za mnou". Po rozchodu Vrabela s Havlem se skupina rozpadla a „osobní ambice vyhrály", čímž se promarnila šance vybudovat na této platformě silný subjekt proti Fialově vládě. Odmítá Vrabelovo tvrzení, že mu „ukradl demonstrace": vlastní demonstraci podle něj odmítal pořádat, dokud Vrabel neskončí — ohlásil ji až na březen 2023, poté co Vrabel na lednové demonstraci s minimální účastí sám oznámil, že velké demonstrace už dělat nebude.
 
     ⚡ **Vrabelova strana sporu (26.–27. 9.):** Vrabel Rajchla jmenovitě zmiňuje jen jednou (26. 9.) — lidé podle něj nepůjdou demonstrovat, protože „Reichel nám řekl, že to nemá smysl, demonstrace"; v témže vysílání zesměšňuje Janu Hruškovou („hysterická") a Vladimíra Štěpána, jehož údajné smlouvy s Ruskem na ropu a plyn jsou „pohádky pro děti" (takovou smlouvu lze podle něj uzavřít jen na vládní úrovni). V nedělním vysílání 27. 9. — v den Rajchlových padesátin — pak bez jména mluví o „podvodníkovi", kterému se „podařilo předat" hnutí z roku 2022 a který ho „celý zahodil do kanálu", a o „klasickém psychopatovi, který zrovna slaví kulaté narozeniny" a „udělá cokoliv pro to, aby se vydrapal nahoru po zádech všech". Jde o implicitní narážky; Rajchlovo tvrzení o „ukradených demonstracích" přímo nekomentuje.
+  osoby:
+  - osoba: vrabel
+    vztah: negativni
+    kontext: Rozbil jednotu hnutí po demonstraci 3. 9. 2022, „vpasoval se do role" toho, kdo přivedl lidi;
+      jeho tvrzení o „ukradených demonstracích" odmítá
+  - osoba: hamplova
+    vztah: pozitivni
+    kontext: Spolupracovnice od covidu, spoluorganizátorka demonstrace 3. 9. 2022
   dalsi_zdroje:
   - 2026-09-26_vrabel_zpravy-v-devet-26-9-2026
   - 2026-09-27_vrabel_nedelni-vysilani-27-9-2026
@@ -118,6 +139,16 @@ vyroky:
     Rajchl staví svůj narozeninový projev na tezi, že největší „prohrou kolektivního Západu" je ztráta upřímnosti — neschopnost přiznat si vlastní chyby a pocit morální nadřazenosti, s nímž diktuje zbytku světa, jak žít. Západ podle něj rozpoutává nejvíc válek a média „největší lež" nepáchají tím, co říkají, ale tím, co zamlčují. Jako příklady uvádí: druhou invazi do Iráku na základě „smyšlené záminky" zbraní hromadného ničení, o níž „všichni věděli" (milion mrtvých) — zpochybňuje sebevraždu zbrojního experta Davida Kellyho, který měl svědčit proti Tonymu Blairovi („podřezal si obě ruce"), a upozorňuje na 75leté utajení dokumentů; válku v Libyi „vylhanou od prvního do posledního centimetru" pod záminkou povstání v Benghází — Kaddáfí podle něj financoval kampaň Nicolase Sarkozyho a byl odstraněn, protože chtěl prodávat ropu a plyn za jiné měny než dolar; Green Deal (viz [emisní povolenky](suverenita-eu.md#emisní-povolenky-jako-spekulativní-derivátový-trh-němci-v-kleštích--válka-povolenkám-rajchl-7-6-2026)) a covid, kdy farmaceutické firmy „lhaly od prvního okamžiku" o vakcíně, která byla „dopředu připravená" jen kvůli zisku a poškodila zdraví milionů lidí. Ptá se, v čem se tehdejší invaze liší od ruského vstupu na Ukrajinu, který Západ označuje za mezinárodní zločin.
 
     Stav Západu ilustruje i Valným shromážděním OSN: nejlepší projevy tam podle něj měli argentinský prezident Javier Milei a ruský ministr zahraničí Sergej Lavrov, zatímco „americký prezident hovoří o vyhlazení národa" a politici „nedemokratického světa" o míru a dialogu. 21. století je podle Rajchla „stoletím úpadku západní civilizace" — ekonomického, mravního i z hlediska svobody a suverenity.
+  osoby:
+  - osoba: javier-milei
+    vztah: pozitivni
+    kontext: Spolu s Lavrovem měl nejlepší projev na Valném shromáždění OSN
+  - osoba: sergej-lavrov
+    vztah: pozitivni
+    kontext: Spolu s Mileiem měl nejlepší projev na Valném shromáždění OSN
+  - osoba: tony-blair
+    vztah: negativni
+    kontext: Irácká válka na smyšlené zámince; David Kelly měl svědčit proti němu
   podtema: Zahraniční aktéři a precedenty
 - id: rajchl-2026-09-27-09
   typ: tvrzeni
@@ -135,6 +166,19 @@ vyroky:
     - Z války profitují Zelenskyj, Mindič a další — Mindič podle něj okradl vlastní spoluobčany o peníze určené na energetickou infrastrukturu a postavil si „zlaté záchody a zlaté bidety".
 
     Připouští, že lze vnímat Rusko jako hlavního viníka, protože překročilo hranice 24. 2. 2022, ale dokud si Západ nepřizná „obrovskou část viny", je podle něj odsouzen opakovat stejné chyby.
+  osoby:
+  - osoba: boris-johnson
+    vztah: negativni
+    kontext: Zmařil istanbulskou mírovou dohodu 2022 — „hodili jsme je pod vlak"
+  - osoba: victoria-nulandova
+    vztah: negativni
+    kontext: Stála v čele USA při „zosnování" Majdanu
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Dekret č. 117 jako deklarace útoku na Krym; profituje z války
+  - osoba: timur-mindic
+    vztah: negativni
+    kontext: Okradl Ukrajince o peníze na energetiku, „zlaté záchody a bidety"
   dalsi_zdroje:
   - 2026-10-26_rajchl_ohlednuti-za-tydnem-talir-naivni-byl-bych-prvni-kdo-vezme-zb
   podtema: Zahraniční aktéři a precedenty
@@ -152,6 +196,19 @@ vyroky:
     platit v hotovosti a práva „žít offline" (nebýt povinen vyřizovat věci přes internet) do Ústavy. Sám
     se prý jako jediný člen výboru pro obranu zdržel při hlasování o vzetí na vědomí zprávy o výcviku
     800 ukrajinských vojáků v ČR — „nemohl bych se vám podívat do očí".'
+  osoby:
+  - osoba: milan-loprais
+    vztah: pozitivni
+    kontext: Podporovaní senátní kandidáti
+  - osoba: jan-skalicky
+    vztah: pozitivni
+    kontext: Podporovaní senátní kandidáti
+  - osoba: hynek-beran
+    vztah: pozitivni
+    kontext: Podporovaní senátní kandidáti
+  - osoba: mudr-sorna
+    vztah: pozitivni
+    kontext: Podporovaní senátní kandidáti
   podtema: Senátní kandidáti
 - id: rajchl-2026-09-27-11
   typ: tvrzeni
@@ -167,4 +224,28 @@ vyroky:
     hlasovat nebudou. V Chomutově kandiduje PRO v koalici s SPD, Svobodnými, Trikolórou i Motoristy a
     podle průzkumů má 17–20 %, tedy šanci být druhou nejsilnější silou po ANO. Ohlašuje předvolební turné
     včetně společné debaty s Milošem Zemanem v Chomutově.
+  osoby:
+  - osoba: milos-zeman
+    vztah: pozitivni
+    kontext: Společná předvolební debata v Chomutově, „obrovsky se těším"
   podtema: Komunální volby
+- id: rajchl-2026-09-27-12
+  typ: predikce
+  temata:
+  - volby-2026
+  nadpis: koalice PRO/SPD/Svobodní/Trikolóra/Motoristé v Chomutově druhá za ANO
+  text: V komunálních volbách v Chomutově získá společná kandidátka PRO, SPD, Svobodných, Trikolóry a
+    Motoristů podle průzkumů 17–20 % a má šanci skončit jako druhá nejsilnější strana po ANO.
+  citace:
+  - text: V Chomutově [...] máme dle průzkumů nějakých 17 až 20 % a máme šanci tam být druhou nejsilnější
+      stranou po ANO.
+  predikce:
+    horizont: komunální volby 9.–10. 10. 2026
+    stav: vyvraceno
+    horizont_do: 2026-10-10
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: společná kandidátka v Chomutově podle Rajchla získala „přes 9 %“, ne 17–20 %
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: 'Rajchl 11. 10.: „Chomutov. To bylo přes 9 %.“ Pořadí neuvedl.'

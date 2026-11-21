@@ -24,6 +24,14 @@ vyroky:
   citace:
   - text: Tady nenávistný komentář na sociální síť — druhý den seděl u výslechu na odboru extremismu.
       A tady se neděje nic. Terorismus je terorismus, dámy a pánové.
+  osoby:
+  - osoba: vojtech-psenak
+    vztah: negativni
+    kontext: Zveřejnil Rajchlovu domácí adresu s narážkou na výrobu dronů pro Izrael — de facto výzva
+      k žářskému útoku
+  - osoba: jakub-hedia
+    vztah: negativni
+    kontext: Člen ODS, přidal komentář o „škrtnutí sirkou" k Pšenákově příspěvku; ODS věc veřejně neodsoudila
   podtema: Hrozby a dvojí metr justice
 - id: rajchl-2026-03-29-03
   typ: tvrzeni
@@ -34,4 +42,9 @@ vyroky:
     demonstrací PRO, že s nimi „nemá cenu se bavit" a označil je za ztracené existence. Po třech letech
     se ovšem pozitivně vyjádřil k demonstraci Milionu chvilek, řekl, že „většina musí naslouchat menšině"
     a vyzývá vládu k dialogu. Rajchl to označuje za flagrantní dvojí metr.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Po třech letech pochválil demonstraci Milionu chvilek, ač dříve označil Rajchlovy příznivce
+      za „dezoláty"
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

@@ -8,6 +8,53 @@ zdroj:
   prepis: prepisy/done/2026-10-14_Ladislav-Vrabel_14-10-2026-Večerní-zprávy-s-komentářem.txt
   rezim: vrabel
   poznamka: 59 min, zprávy čte Zuzana, nový technik Ivan.
+  prehled:
+  - tema: Rozhovor pro RTVi o trojvýzvě
+    text: ruské médium s miliony diváků, česká média mlčí
+    vyrok: vrabel-2026-10-14-03
+  - tema: Rumunské F-16 kvůli dronům
+    text: sirény a stíhačky jsou „vytváření strachu“, ještě ne válka
+    vyrok: vrabel-2026-10-14-04
+  - tema: Sikorski vs. Musk, Starlink, Zelenskyj v Londýně
+    text: Sikorski je „vrchol trapnosti“, Trump „ukazuje, kdo drží karty“.
+  - tema: Italské radary na Balkáně
+    text: Kosovo je „americká kolonie“, radar v Brdech a Kolář (Wikileaks)
+    vyrok: vrabel-2026-10-14-04
+  - tema: Srbská nóta Chorvatsku, Studentský pokret
+    text: Británie provokuje přes Chorvatsko. Doufá, že pokretu, který se spojil s proevropskými politiky,
+      „lidi dají červenou“.
+  - tema: Rutte v Tallinnu
+    text: „North Atlantic Terroristic Organization“
+    vyrok: vrabel-2026-10-14-05
+  - tema: Protesty v Tiraně a v Evropě
+    text: „počátek občanské války“, migranti z Eritreje „nejvíc útoků“ → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-14-02
+  - tema: Mediální ticho o shromáždění 3. 10.
+    text: „ani jedno médium o tom nenapsalo“, lidé jako by „chtěli mít děti zářící“.
+  - tema: Trump a těžba v Grónsku
+    text: „naplnila se moje slova“, ČR za deset let „země nikoho a všech“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-14-02
+  - tema: 'Kryvonos: NATO „mrtvě narozený organismus“'
+    text: Evropa má „lidský materiál“ na 10 let války → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-14-05
+  - tema: Jemen a Saúdská Arábie
+    text: konflikt se rozšiřuje, bez vody přijdou migrační vlny, „voda bude velký problém“.
+  - tema: Korupce při zakázkách NATO (Norsko)
+    text: „psychopati z NATO“, „drancování před válkou“ (Česká spořitelna a Erste)
+    vyrok: vrabel-2026-10-14-05
+  - tema: Trumpovo energetické příměří
+    text: machinace na burze jako „obrovská kriminální činnost“
+    vyrok: vrabel-2026-10-14-01
+  - tema: 'Druzenko: rozpad Ruska by přinesl Strelkova'
+    text: Ukrajina se nechala „nalákat do pasti globalistů“ a je rozprodaná.
+  - tema: OpenAI žaluje bývalého zaměstnance
+    text: „krade se všude všechno“.
+  - tema: Estonsko chce uzavřít plynovod do Kaliningradu
+    text: Kaliningrad je „hora dynamitu“, krok Estonska „první vlaštovka“, kterou by „radši sestřelil
+      flintou“ (metafora).
+  - tema: Cvičení pořádkových jednotek ve Spolaně, represe
+    text: míří na 17. 11., „za Babiše přituhuje“, Rajchl „poslán, aby to zničil“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-14-03
 vyroky:
 - id: vrabel-2026-10-14-01
   typ: tvrzeni
@@ -19,6 +66,10 @@ vyroky:
     činnost, to, co dělá Donald Trump. On zneužívá svoji funkci.“ „Ten Trump by zasloužil prostě, nevím,
     ani nechci říkat, co by zasloužil.“ Ruské suroviny se podle něj mají kupovat přes Američany za čtyřnásobek
     a peníze jdou na volby a tajné operace, což je „korupce na úrovni států“.'
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Burzovní machinace jako „obrovská kriminální činnost“, Grónsko „podmanil“
   podtema: Energetika a Rusko
 - id: vrabel-2026-10-14-02
   typ: tvrzeni
@@ -53,6 +104,22 @@ vyroky:
     který je proti lidem.“ Vadí mu, že o jeho shromáždění 3. 10. „ani jedno médium nenapsalo“, zatímco
     ruskojazyčná RTVi s ním natočila rozhovor o trojvýzvě (bez jaderné dohody, mírový vyjednavač, konec
     dodávek zbraní).'
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Museli poslat Rajchla, aby to zničil“; zatýkání za Z
+  - osoba: tomas-hrdlicka
+    vztah: pozitivni
+    kontext: Oběti „teroru“ policie
+  - osoba: katka-rovna
+    vztah: pozitivni
+    kontext: Oběti „teroru“ policie
+  - osoba: slavek-popelka
+    vztah: pozitivni
+    kontext: Oběti „teroru“ policie
+  - osoba: pavel-zybko
+    vztah: pozitivni
+    kontext: Oběti „teroru“ policie
   podtema: Kritika soudnictví
 - id: vrabel-2026-10-14-04
   typ: tvrzeni
@@ -67,6 +134,13 @@ vyroky:
     aby se nebáli.“ Paroubek mu to prý osobně vyprávěl u snídaně. Obává se, že na Balkáně (Černá Hora,
     Albánie) půjde také o raketové základny nebo letiště. Každodenní vzlety stíhaček a sirény (Rumunsko,
     Polsko, Norimberk) podle něj „ještě nejsou válka s Ruskem“, ale „vytváření strachu“.'
+  osoby:
+  - osoba: petr-kolar
+    vztah: negativni
+    kontext: „Přítel po boku prezidenta“, za zády MZV radil USA k radaru (Wikileaks)
+  - osoba: jiri-paroubek
+    vztah: pozitivni
+    kontext: Postavil se proti radaru, „patří mu dík“
   podtema: EU jako vojenská struktura
 - id: vrabel-2026-10-14-05
   typ: tvrzeni
@@ -84,4 +158,52 @@ vyroky:
     Evropana“. Celý příběh o porážce Ruska si podle něj vymyslela úzká elita, „aby si z občanů Ukrajiny
     a EU udělala svoje vojáky, aby ukradly nerostné bohatství Ruska“. „My jsme v době drancování před
     válkou.“ Kaliningrad je „hora dynamitu“ a záměr Estonska uzavřít záložní plynovod je „první vlaštovka“.'
+  osoby:
+  - osoba: mark-rutte
+    vztah: negativni
+    kontext: Válečná propaganda, NATO není obranné
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-10-14-06
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: ČR bude za deset let „země nikoho a všech“; policie bude v regionu brutální
+  text: Kvůli migračnímu paktu a příchodu muslimů bude ČR za deset let „země nikoho a všech“; v ČR, Polsku,
+    na Slovensku a v Maďarsku bude policie „v následujících měsících až letech“ brutální vůči občanům.
+  citace:
+  - text: Za deset let Česká republika bude vypadat úplně jinak. To už vůbec nebude Česká republika, tak
+      jak my ji známe dneska. To bude země nikoho a všech, a bude se v ní mluvit různými jazyky.
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Srbsku stačí Schengen a trh, ne EU
+  predikce:
+    horizont: 2036; brutalita policie „měsíce až roky“
+    stav: ceka
+- id: vrabel-2026-10-14-07
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: válka Evropy s Ruskem by trvala „pěkně 10 let“ a byla krvavá, bez rychlého nasazení jaderných
+    zbraní
+  text: Pokud evropská část NATO vstoupí do války s Ruskem, bude to dlouhá (kolem 10 let), krvavá konvenční
+    válka; jaderné zbraně se rychle (nebo vůbec) nepoužijí.
+  citace:
+  - text: Může vést pěkně 10 let válku s Ruskem. […] Nemyslel bych si, že dojde na ty jaderné zbraně nějak
+      rychle, nebo jestli vůbec na ně dojde, ale obávám se, že by to mohlo být velmi krvavé.
+  predikce:
+    horizont: neurčeno (délka ~10 let)
+    stav: ceka
+- id: vrabel-2026-10-14-08
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: migranti z Eritreje a střední Afriky
+  text: rasová dehumanizace a kriminalizace podle barvy pleti
+  citace:
+  - text: to vidíte často ty lidi z Eritreje, nebo z těch středoafrických zemí, a ty jsou nejvíc, ty mají
+      jako nejvíc odstínů oproti tomu polínku… A taky, když je vidíte, tak tam bývá nejvíc útoků. A […]
+      tyhle ty migranti bojují proti tomu systému jenom jako kdyby ho chtěli zničit
+  teror:
+    terc: migranti z Eritreje a střední Afriky
+    hranicni: false

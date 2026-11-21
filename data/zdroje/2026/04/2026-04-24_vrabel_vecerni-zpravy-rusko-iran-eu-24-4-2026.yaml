@@ -12,6 +12,32 @@ zdroj:
     českých firem), Scott Ritter — rozhodující ruská ofenzíva léto 2026, ČR překlasifikována Ruskem z
     „napadené fašisty" na „spolupracovníka", 90 mld. EUR pro Ukrajinu, EU Hormuz, NATO čl. 5 pochybnosti
     (Tusk), US rakety docházejí, Srbsko-Putin plyn za 50 % ceny, Vladimír Štěpán — falešný mandát.'
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: „Není člověk, který by dával prázdná prohlášení — co říká, to dělá"; srovnán příznivě s Trumpem
+      (bluffuje); vůdce, jehož slovům se dá věřit
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: 'Chválen za přímou dohodu s Putinem: Srbsko dostalo plyn za ~50 % tržní ceny — ukázka správné
+      diplomatické politiky'
+  - osoba: vladimir-stepan
+    vztah: negativni
+    kontext: „Samozvaný odborník bez mandátu" — nemá oprávnění podepisovat smlouvy s Ruskem za ČR, snaží
+      se jen vydělat
+  - osoba: donald-tusk
+    vztah: neutralni
+    kontext: Citován — vyjádřil pochybnosti o připravenosti USA plnit závazky NATO podle čl. 5
+  - osoba: jeffrey-sachs
+    vztah: neutralni
+    kontext: 'Citován (Tucker Carlson): tvrdí, že Trump hledá „off-ramp" z íránského konfliktu — Vrabel
+      s tím nesouhlasí'
+  prehled:
+  - tema: Večerní zprávy se Zuzkou. Klíčová témata
+    text: Rusko hrozí útočit na EU zbrojní výrobce (včetně českých firem), Scott Ritter — rozhodující
+      ruská ofenzíva léto 2026, ČR překlasifikována Ruskem z „napadené fašisty" na „spolupracovníka",
+      90 mld. EUR pro Ukrajinu, EU Hormuz, NATO čl. 5 pochybnosti (Tusk), US rakety docházejí, Srbsko-Putin
+      plyn za 50 % ceny, Vladimír Štěpán — falešný mandát.
 vyroky:
 - id: vrabel-2026-04-24-01
   typ: tvrzeni
@@ -37,4 +63,28 @@ vyroky:
     Vrabel ve večerním vysílání (24. 4. 2026) predikuje s „velmi vysokou pravděpodobností", že Rusko v létě 2026 podnikne útok na evropská území mimo Ukrajinu — konkrétně zmiňuje jako nejpravděpodobnější cíle Německo, Francii nebo Británii. Logiku útoku vysvětluje takto: pokud Rusko usoudí, že Evropa aktivně válčí proti Rusku přes Ukrajinu, může dospět k závěru, že preventivní úder na zdroj (evropské zbrojní kapacity, velitelství) je strategicky výhodnější než čekat na přímý útok z Evropy. Cituje Scotta Rittera jako experta, který hovoří o rozhodující letní ofenzívě.
 
     Vrabel uvádí tři podmínky, které mu celkový scénář potvrzují: (1) NATO je fakticky „papírový drak" bez USA (Trump o tom mluvil otevřeně), (2) USA nezasáhne (nepomohly ani při útoku na Írán), (3) Rusko ekonomicky vydělává i přes sankce — je na koni, neporazitelné a uklidnit se nechce.
+  osoby:
+  - osoba: scott-ritter
+    vztah: pozitivni
+    kontext: Citován jako autoritativní vojenský expert — Ritter předpovídá rozhodující ruskou ofenzívu
+      léto 2026
   podtema: Eskalace a hrozba rozšíření konfliktu
+- id: vrabel-2026-04-24-03
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Rusko zaútočí na Evropu v létě 2026
+  text: Rusko s „velmi vysokou pravděpodobností" podnikne v létě 2026 útok na evropská území mimo Ukrajinu
+    — pravděpodobně na Německo, Francii nebo Británii. Vrabel vychází z analýzy Scotta Rittera o plánované
+    rozhodující ofenzívě a z vlastního přesvědčení, že Evropa se fakticky stala stranou konfliktu tím,
+    že vyrábí zbraně a financuje Kyjev. Rusko zároveň spoléhá na nezasáhnutí USA (Trumpův výrok o NATO
+    jako „papírovém drakovi").
+  predikce:
+    horizont: léto 2026
+    stav: vyvraceno
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: v létě 2026 Rusko na Evropu nezaútočilo
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: V denních přehledech ani zprávách za červen–září žádný ruský útok na členský stát NATO není.

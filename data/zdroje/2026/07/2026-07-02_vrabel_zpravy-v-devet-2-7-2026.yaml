@@ -19,6 +19,31 @@ zdroj:
     a rakety z Norska, Hormuzský průliv) jen rychlý přehled bez samostatného zpracování. Bez predikcí
     (nad rámec již zaznamenaných) a stoch. teroru. Pravidelný přehled zahraničních a domácích zpráv s
     komentářem'
+  osoby:
+  - osoba: tucker-carlson
+    vztah: pozitivni
+    kontext: Zakládá třetí politickou stranu v USA po rozchodu s Trumpem — Vrabel se s ním ztotožňuje
+      (sám dřív podporoval dnešní koalici/opozici, než pochopil potřebu třetí strany)
+  - osoba: kaja-kalas
+    vztah: negativni
+    kontext: „Jeden z největších válečných nacistických, fašistických štváčů EU" — komentuje i její proměněný
+      vzhled od nástupu do funkce
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Stěžuje si na nedodané rakety z Norska; Vrabel komentuje jeho vzhled jako důkaz „vážného
+      problému s drogama" a fyzického rozpadu
+  prehled:
+  - tema: Čtyři zpracovaná témata
+    text: '(1) Soudní dvůr EU potvrdil, že sdílení obsahu Russia Today je trestný čin i pro soukromé osoby
+      (až 5 let) — Vrabel maže celý archiv pořadu a přestává sdílet ruská média — [dsa-cenzura.md](../dsa-cenzura.md).
+      (2) Německo obžalovalo Ukrajince za Nord Stream, potvrzeno zapojení ukrajinských státních orgánů
+      — [konspirace.md](../konspirace.md). (3) Dvojí metr: aktivisté pašující drony na Ukrajinu bez povolení
+      „nespáchali trestný čin", na rozdíl od Vrabelova vlastního odsouzení za chybu ve formuláři — [kauzy.md](../kauzy.md).
+      (4) Rostoucí nerovnost v ČR (Knight Frank) + teze o centralizaci moci „shora" (BlackRock/Vanguard)
+      — [konspirace.md](../konspirace.md). Ostatní zprávy (Tucker Carlson zakládá třetí stranu, EU dotace
+      pro Jižní Kavkaz, digitální ID v USA, Kaja Kalas, Zelenskyj a rakety z Norska, Hormuzský průliv)
+      jen rychlý přehled bez samostatného zpracování. Bez predikcí (nad rámec již zaznamenaných) a stoch.
+      teroru.'
 vyroky:
 - id: vrabel-2026-07-02-01
   typ: tvrzeni

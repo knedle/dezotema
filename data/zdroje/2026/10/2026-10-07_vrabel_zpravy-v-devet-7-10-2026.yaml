@@ -7,6 +7,61 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1130389352749095
   prepis: prepisy/done/2026-10-07_Ladislav-Vrabel_7-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
+  osoby:
+  - osoba: robert-kalinak
+    vztah: neutralni
+    kontext: Rusko pro Slovensko není hrozba, ale spojencům by pomohl
+  - osoba: petr-robejsek
+    vztah: pozitivni
+    kontext: 'Souhlasně cituje: USA nepůjdou do války kvůli malé zemi'
+  - osoba: dan-j-rgensen
+    vztah: negativni
+    kontext: Řešení přes „účinnost“ a OZE je „úplně obráceně“
+  prehled:
+  - tema: Vojenští představitelé NATO v Kyjevě (poprvé po 8 letech)
+    text: „něco se chystá, dobrý pocit z toho nemám“
+    vyrok: vrabel-2026-10-07-06
+  - tema: 'Kaliňák: Rusko pro Slovensko není hrozba'
+    text: při útoku na spojence by ale pomohl. „Muslimské NATO“, Babišovy „dvě brigády“. USA do války
+      kvůli malé zemi nepůjdou.
+  - tema: Útok na lodě v bulharské zóně
+    text: Zelenskyj obvinil Rusko, ale typ dronu je podle Vrabela ukrajinský. „Klid před bouří.“
+  - tema: Koncepce armády do 2040, Ukrajina „proroste“ do Evropy
+    text: Ukrajinci budou i v policii → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-07-04
+  - tema: Jørgensen o drahých energiích
+    text: krize je umělá, v zimě přijdou úspory
+    vyrok: vrabel-2026-10-07-02
+  - tema: Babiš a „biliony v úsporách“
+    text: úspory mají jít do zbrojení, „nemít vajíčka v jednom košíku“
+    vyrok: vrabel-2026-10-07-05
+  - tema: Čínský lidar odhalí F-35 na 61,5 km
+    text: F-35 „nebudou neviditelné“, cena „vyšplhá na 300 miliard“.
+  - tema: Finsko zastavilo práce na datových centrech Google
+    text: „Google může odlesňovat bez povolení, vy ne.“
+  - tema: Hypotéky zdražují (5,79 %)
+    text: důsledek rozpočtového schodku, jak prý předpovídal.
+  - tema: Tesla FSD v Evropě
+    text: „Evropa jako silný kontinent končí“, ve Francii „začíná občanská válka“.
+  - tema: Rekordní útoky na tankery v Hormuzu vs. Trumpův „rekordní průtok“
+    text: Babiš jako „můj robot“, Trump a Babiš „fráři“.
+  - tema: Trump chce s Putinem řešit mor
+    text: možná „po covidu válka, po válce epidemie“
+    vyrok: vrabel-2026-10-07-03
+  - tema: 3. výročí 7. října
+    text: Netanjahu byl varován, Chabad a „Velký Izrael“
+    vyrok: vrabel-2026-10-07-01
+  - tema: Lavrov o Anchorage
+    text: o válce rozhodují „lidé v pozadí“, Evropa bude bojovat sama
+    vyrok: vrabel-2026-10-07-06
+  - tema: Útoky na tankery a sklad v Samaře
+    text: ekologické pokrytectví (papírová brčka vs. hořící tankery). „Na Západě vzniká totalitní systém“,
+      ČR je zatím „oáza svobody“.
+  - tema: Útok nožem ve škole v Ostrołęce
+    text: školství je „katastrofa“ (testy patnáctiletých), navrhuje „ministerstvo psychologie“. Největšími
+      nepřáteli Čechů jsou podle něj „úředník a soused“.
+  - tema: Úpadek Západu (USA, Paříž, Merz)
+    text: EU je „totalitní režim“, „nemáme patřit na Západ“.
 vyroky:
 - id: vrabel-2026-10-07-01
   typ: tvrzeni
@@ -64,6 +119,10 @@ vyroky:
     vajíčka v jednom košíku“ a varuje před inflací typu měnové reformy, „řeckým“ zdaněním vkladů s limity
     výběru a ztrátou peněz v bankách. Babiše přirovnává k Trumpovi („jaký jsou to fráři“) a ironicky ho
     nazývá „svým robotem“, který jeho výzvu proti jaderným zbraním „prezentuje jako svůj nápad“.'
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Můj robot“, chce vzít lidem úspory, s Trumpem „fráři“
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-10-07-06
   typ: tvrzeni
@@ -78,4 +137,25 @@ vyroky:
     to financují“. Dohoda z Anchorage byla americký „úskok“, aby se Rusko uklidnilo a Západ se mohl dozbrojit,
     a Merzova podmínka zastavit nejdřív boje je záměrně nepřijatelná. Schůzku 32 vojenských představitelů
     NATO v Kyjevě komentuje „dobrý pocit z toho nemám“.'
+  osoby:
+  - osoba: sergej-lavrov
+    vztah: rozporuplny
+    kontext: Nesouhlasí, že USA podlehly tlaku Evropy
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: Podmínka zastavit boje je záměrně nepřijatelná, oblíbenost pod 15 %
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-10-07-07
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: „jakmile se ochladí“ přijdou v ČR nařízené energetické úspory; Ukrajinci budou „velmi brzo“
+    i v české policii
+  text: S příchodem zimy EU a vláda zavedou „úsporné procesy“ v energetice, které poškodí ekonomiku. Ukrajinci
+    během pár let „prorostou“ do české politiky, armády i policie a „velmi brzo“ budou i mezi policisty,
+    kteří zatýkají demonstranty.
+  citace:
+  - text: Očekávejte, jakmile se ochladí, že se budou dělat nějaké úsporné procesy v naší republice.
+  predikce:
+    horizont: zima 2026/27 (úspory); „během příštích pár let“ (Ukrajinci)
+    stav: ceka

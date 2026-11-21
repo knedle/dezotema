@@ -9,6 +9,69 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 12 min (vysílání od 3:00), zprávy čte Zuzana, připravil režisér Ivan. Úsek [40:31–40:59]
     (sdílené video v polštině) bez přepisu.
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: „Absolutně vyhrál Nový Sad“, doufá v jeho vítězství
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: Osobně podpořil Vučiće v Novém Sadu
+  prehled:
+  - tema: ANO bez senátora ve 2. kole Senátu
+    text: Babiš „podvodník“, porušil sliby (munice, peníze Ukrajině, 150 tis. uprchlíků), výsledek je
+      „odrazem vlády“
+    vyrok: vrabel-2026-10-17-05
+  - tema: 'Babiš: ochrana hranic před migranty ze západu'
+    text: „nelegální migrace“ jako hantýrka, „mistrovský podvod“, rasové „polínko“ → viz [Stochastický
+      teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-17-01
+  - tema: 'Zelenskyj na summitu EU: 20 mil. uprchlíků, pokud Ukrajina padne'
+    text: v ČR by bylo víc Ukrajinců než Čechů; Babiš si od Zelenského korektně udržel odstup, ale je
+      „naprosto promigrační“.
+  - tema: Protesty ve Francii (270 zadržených)
+    text: „započíná… občanská válka“, Západ „padnul“, jediná šance je odejít z EU a zavřít hranice
+    vyrok: vrabel-2026-10-17-01
+  - tema: Protesty v Albánii (Rama)
+    text: „lidi proti režimu“, Západ čeká změna systému, bez nenásilné revoluce válkou → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-17-02
+  - tema: Protesty v Tunisu proti prezidentu Saíedovi
+    text: dokud se nezmění systém, bude to „pořád hůř“ (inflace, zadlužení, války).
+  - tema: Protiimigrační nepokoje v Dublinu
+    text: rabují „gangy“ na „M-U“, ne Irové → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-17-01
+  - tema: Turecká plynová platforma Osman Gazi
+    text: Erdoğan tíhne k islamismu, mohl by mobilizovat Turky v Evropě
+    vyrok: vrabel-2026-10-17-01
+  - tema: SAE se znovu zapojují v Jemenu
+    text: zničení odsolovacích zařízení vyžene miliony lidí, migrační pakt je rozdělí i do ČR a Babiš
+      přijme „dalších 30 tisíc“.
+  - tema: 'Tusk: státy nemají škrtat výdaje na obranu'
+    text: Poláci „nenávidí Rusy“, Babiš a Pavel „zakázali“ referendum o NATO, česká generace „zbabělců“
+    vyrok: vrabel-2026-10-17-04
+  - tema: 'Britský generál: veřejnost se má připravit na válku'
+    text: ČR „mlží“, aby lidé neutekli před zavřením hranic
+    vyrok: vrabel-2026-10-17-04
+  - tema: Trump pozastavil sankce proti Rusku
+    text: předvolební gesto, po volbách „další a další války“; Magyar „nejvypočítavější“ jako Rajchl →
+      viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-17-03
+  - tema: ANO „spočítali“ – Babiš a karabáč
+    text: Babiš na nástěnce „zrádce“ by zasloužil „větší trest“, politiky budou po válce soudit → viz
+      [Stochastický teror](../stochasticky-teror.md), [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-17-02
+  - tema: Izraelští osadníci napadli diplomaty na Západním břehu
+    text: bez komentáře.
+  - tema: Letecká bomba z 2. sv. války ve Vratislavi
+    text: 52 milionů mrtvých, politici a novináři dělají válečnou propagandu, babička by politika „pověsila
+      za žebro“
+    vyrok: vrabel-2026-10-17-02
+  - tema: Rumunsko a Moldavsko sestřelily drony
+    text: sarkastická „popcornová“ podívaná na výbuchy u Škodovky až po jaderný výbuch
+    vyrok: vrabel-2026-10-17-04
+  - tema: Trojvýzva a sledovanost
+    text: čeká, zda vláda odpoví; při 630 divácích zvažuje placenou reklamu, jinak zprávy „brzo zabalí“.
+  - tema: Fico podpořil Vučiće v Novém Sadu
+    text: protesty po pádu stříšky nádraží financovali „globalisté ze Západu“; doufá ve Vučićovo vítězství.
 vyroky:
 - id: vrabel-2026-10-17-01
   typ: tvrzeni
@@ -33,6 +96,10 @@ vyroky:
     milí“. Přistěhovalci se podle něj k protestům vždy přidají a „pomalu je přebírají“. U turecké plynové
     platformy Osman Gazi varuje, že Erdoğan tíhne k islámskému právu, a kdyby v Evropě vypukl větší konflikt,
     mohl by vyzvat Turky v Rakousku a Německu k mobilizaci.'
+  osoby:
+  - osoba: recep-tayyip-erdogan
+    vztah: negativni
+    kontext: Tíhne k islámskému právu, mohl by mobilizovat Turky v Evropě
 - id: vrabel-2026-10-17-02
   typ: tvrzeni
   temata:
@@ -70,6 +137,19 @@ vyroky:
     ze sankcí, označuje za „nejvypočítavějšího politika v Evropské unii“, na úrovni Jindřicha Rajchla.
     Z toho, že politici před volbami vždy zlepšují vztahy s Ruskem, vyvozuje, že „většina lidí by chtěla
     mít s Ruskem dobrý vztahy“.'
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Pozastavení sankcí jen předvolební gesto, „po volbách dělá další a další války“
+  - osoba: peter-magyar
+    vztah: negativni
+    kontext: „Nejvypočítavější politik v Evropské unii“
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Srovnán s Magyarem jako vypočítavý politik
+  - osoba: kirill-dmitrijev
+    vztah: neutralni
+    kontext: „Historický okamžik“ zbytečně veřejně oslavuje, může brzy opadnout
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-10-17-04
   typ: tvrzeni
@@ -86,6 +166,13 @@ vyroky:
     politici „mlží“, možná proto, „aby jim z republiky nezmizeli dřív, než vláda vyhlásí, že jsou zavřené
     hranice“. K sestřelení dvou dronů nad Rumunskem sarkasticky líčí „popcornovou“ podívanou na výbuchy
     u Škodovky, kde se prý mají vyrábět drony, až po jaderný výbuch u Řípu.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: S Babišem „zakázal“ referendum o NATO, „agent… pro Sovětský svaz“; ironicky „náš skvělý prezident“
+  - osoba: donald-tusk
+    vztah: negativni
+    kontext: Poláci „nenávidí Rusy“ a tlačí se do války
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-10-17-05
   typ: tvrzeni
@@ -100,4 +187,78 @@ vyroky:
     přislíbil další peníze a chystá se přijmout dalších 150 tisíc ukrajinských uprchlíků. Babiš „pracuje
     pro Evropskou unii, pro NATO… pro Američany a pro Ukrajinu a nepracuje pro Českou republiku“. Místo
     vymlouvání na krajské organizace by od něj čekal sebereflexi, protože výsledek je „odrazem vlády“.'
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Podvodník“, porušil sliby, „mistrovský podvod“ s nelegální migrací; „karabáčem“ na nástěnce
+      (→ [stoch. teror](../stochasticky-teror.md))
   podtema: Komunální volby
+- id: vrabel-2026-10-17-06
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: bez nenásilné revoluce přijde změna systému válkou s Ruskem nebo občanskou válkou v Evropě
+  text: 'Pokud se nepodaří nenásilná změna systému, přijde změna násilnou cestou: válkou s Ruskem, nebo
+    občanskou válkou v Evropě. Západ je podle něj „možná před změnou systému skrze občanskou válku“.'
+  citace:
+  - text: Pokud se nepodaří nenásilná revoluce… tak to pravděpodobně bude násilnou cestou. A to buď tou
+      válkou s Ruskem, nebo nějakou občanskou válkou v Evropě, jinak to nevyjde.
+  predikce:
+    horizont: neurčeno (ptá se diváků na „příštích pět let“)
+    stav: ceka
+- id: vrabel-2026-10-17-07
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Trumpovo zrušení sankcí „opadne“, po volbách další války
+  text: Pozastavení sankcí proti Rusku je jen předvolební gesto. Po amerických volbách do Kongresu se
+    „historický okamžik“ rychle vytratí a Trump bude rozjíždět další války.
+  citace:
+  - text: On ten historický okamžik může velmi brzo opadnout […] Před volbami je to mírotvůrce […] a po
+      volbách najednou už nechce, po volbách dělá další a další války.
+  predikce:
+    horizont: po volbách do Kongresu USA (listopad 2026)
+    stav: ceka
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: Do 19. 11. sankce proti Rusku obnoveny nebyly (Trump je nazývá „hloupými“) a nové války nezačaly.
+        Vyhodnocení až po listopadu.
+- id: vrabel-2026-10-17-08
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: politici odpovědní za válku budou po jejím skončení souzeni
+  text: Po skončení války budou politici, kteří ji podporovali (mj. Andrej Babiš), souzeni.
+  citace:
+  - text: Myslím si, že se to docela možná stane, až ta válka skončí, že tyhle politiky budou soudit za
+      to, za tu válku celou.
+  predikce:
+    horizont: po skončení války na Ukrajině
+    stav: ceka
+- id: vrabel-2026-10-17-09
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Andrej Babiš
+  text: jmenovaný terč („zrádce“) + fantazie o bití, formálně přenesená na „nástěnku“ s výslovným odmítnutím
+    výzvy k násilí; téhož dne cituje babičku, že by politika „pověsila za žebro“, „nedivím se tomu“
+  citace:
+  - text: Jako kdyby bylo po mém, tak bych si vzal nějakej karabáč nebo bejsbolovou pálku a takhle bych
+      mu to přes záda začal počítat. Samozřejmě na nástěnce… tam visí Andrej Babiš jako zrádce“ / „by
+      zasluhoval větší trest, než přetáhnout po zádech karabáčem na nástěnce
+  teror:
+    terc: Andrej Babiš
+    hranicni: false
+- id: vrabel-2026-10-17-10
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: migranti z islámských zemí / muslimové
+  text: opakované rasové přirovnání a plošná kriminalizace skupiny, bez výzvy k násilí
+  citace:
+  - text: 'spousty a spousty lidí barvy pleti trošku tmavší, než je tamhle to polínko… asi o čtyři odstíny“,
+      podle nichž ženy, „když to náhodou nedělají, tak je potřeba je bít“ / k Dublinu: rabují „gangy…
+      tím přídavným jménem, které začíná na M, druhé písmeno je U'
+  teror:
+    terc: migranti z islámských zemí / muslimové
+    hranicni: false

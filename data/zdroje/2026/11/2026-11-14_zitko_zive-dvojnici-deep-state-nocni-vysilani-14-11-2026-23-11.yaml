@@ -14,6 +14,10 @@ zdroj:
     11. Stochastický teror: Válek („zmrdeček… před vojenským tribunálem“, ověřeno v přepisu jako Zítkův
     komentář). Hraniční „zrůda“ (Vojtěch, Vašáková) a urážky Obamových nezapsány. Zpracováno podle shrnutí
     pomocného agenta.'
+  osoby:
+  - osoba: barack-a-michelle-obamovi
+    vztah: negativni
+    kontext: Hanlivé nálepky, dosazen „aby zničil Ameriku“
 vyroky:
 - id: zitko-2026-11-14-02
   typ: tvrzeni
@@ -35,6 +39,19 @@ vyroky:
     věznice. Výrok o Válkovi viz [Stochastický teror](stochasticky-teror.md).'
   citace:
   - text: Konec bude, až budou všichni pachatelé masových vražd stát před vojenským tribunálem.
+  osoby:
+  - osoba: adam-vojtech
+    vztah: negativni
+    kontext: „Zrůdy“, propagátoři očkování
+  - osoba: katerina-vasakova
+    vztah: negativni
+    kontext: „Zrůdy“, propagátoři očkování
+  - osoba: daniela-kolarova
+    vztah: negativni
+    kontext: Propagovala očkování, výroky o neočkovaných
+  - osoba: reiner-fuellmich
+    vztah: pozitivni
+    kontext: „Bijec covidové mafie číslo jedna“
   podtema: Slovenský poslanec Jaroslav Paška a selhání SÚKL (Zítko, 15. 9. 2026)
 - id: zitko-2026-11-14-04
   typ: tvrzeni
@@ -78,3 +95,19 @@ vyroky:
   text: '**14. 11. (23:11)** — Facebook podle Zítka „permanentně snižuje“ počet sledujících a přerušuje
     vysílání, proto chystá alternativní kanál „Alternativní média“.'
   podtema: ČT poplatky a omezování na sociálních sítích
+- id: zitko-2026-11-14-08
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Vlastimil Válek
+  text: v kontextu „pachatelů masových vražd, genocidy a sterilizace“
+  citace:
+  - text: Takže tady další zmrdeček z Brna Vlastimil Válek, tady rozhodně taky by měl skončit před vojenským
+      tribunálem.
+  osoby:
+  - osoba: vlastimil-valek
+    vztah: negativni
+    kontext: „Zmrdeček z Brna“, má skončit před vojenským tribunálem
+  teror:
+    terc: Vlastimil Válek
+    hranicni: false

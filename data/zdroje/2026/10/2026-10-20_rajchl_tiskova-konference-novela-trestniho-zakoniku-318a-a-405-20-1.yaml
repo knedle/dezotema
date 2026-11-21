@@ -19,6 +19,13 @@ vyroky:
     Rajchl na tiskové konferenci oznamuje koaliční shodu na novele trestního zákoníku, kterou „slíbili voličům“. Za důležitější z obou změn považuje úpravu § 405 (popírání, zpochybňování, schvalování a ospravedlňování genocidia), který se podle něj dnes používá „na postižení všech, kteří se odchýlí od oficiálního názoru“. Při novele z roku 2013 „podle zadání z Evropské unie“ z něj podle Rajchla vypadla podmínka, že čin je trestný jen tehdy, když podněcuje k násilí nebo nenávisti vůči jednotlivci či skupině. Odchylný názor na historickou či aktuální událost podle něj „trestný být nemůže a nesmí“. Jako absurdní uvádí odsouzení redaktora Vladimíra Kapala za diskusi o tom, zda masakr v Katyni spáchali Rusové, nebo Němci („naprosto reálná diskuze“), a trestní prověřování novináře Parlamentních listů Radima Panenky kvůli příspěvku k úmrtí Radka Mladiče. Novela má podle něj vrátit ČR „k plné svobodě slova“ místo „cenzury“, která zemi „v poslední době svazovala“.
 
     > „Pokud svoboda slova vůbec něco znamená, tak je to právo říkat lidem věci, které nechtějí slyšet.“ — Jindřich Rajchl (cituje George Orwella)
+  osoby:
+  - osoba: vladimir-kapal
+    vztah: pozitivni
+    kontext: Jeho odsouzení za diskusi o Katyni je „absurdní“
+  - osoba: radim-panenka
+    vztah: pozitivni
+    kontext: Trestní prověřování kvůli příspěvku k úmrtí Radka Mladiče je „totální nesmysl“
   dalsi_zdroje:
   - 2026-10-21_vrabel_facebook-live-21-10-2026
   podtema: Trestání politického projevu

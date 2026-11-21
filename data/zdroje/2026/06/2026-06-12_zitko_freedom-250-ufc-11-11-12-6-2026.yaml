@@ -38,6 +38,11 @@ vyroky:
     V téže relaci Zítko zarámoval události do New Age výkladu o „vzestupu". Cituje **Dolores Cannon**: Země je první planeta v kosmu, která zvýšila vlastní vibrace a vstupuje do vyšší roviny (5D — „prostor harmonie, lásky a vyššího vědomí"); dorazily tři vlny dobrovolníků bez pozemské karmy, aby lidstvu pomohly. Tvrdí, že se realita „staré" (3D) a „nové" země oddělují podle toho, jak kdo vibruje, a že nejvyšší hodnoty jsou pravda, láska, svoboda a mír.
 
     Z „kvantové fyziky" vyjmenovává **7 faktorů ovlivňujících vibrační frekvenci**: myšlenky, společnost (lidé kolem), hudba (reaguje na ni i voda), sledované pořady, prostředí/nálada, slovo (pomluvy snižují frekvenci) a vděčnost („univerzální platidlo vesmíru"). K tomu opakuje, že jen ~**17 % obyvatel** „srdce Evropy" má „Kristovskou DNA" a zbytek je „něco jiného" (odkaz na film *Oni žijí* a „aurabrýle" odhalující, kdo je a není člověk).
+  osoby:
+  - osoba: dolores-cannon
+    vztah: pozitivni
+    kontext: 'Citována jako autorita New Age výkladu: Země jako první planeta zvyšující vibrace, vzestup
+      do 5D, tři vlny dobrovolníků'
   podtema: Globalistická agenda a další výklady
 - id: zitko-2026-06-12-06
   typ: tvrzeni
@@ -56,3 +61,24 @@ vyroky:
   citace:
   - text: Všechno okolo je vojenská operace za osvobození dětí, boj proti všudypřítomnému prolezlému Deep
       State.
+- id: zitko-2026-06-12-07
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: '„Freedom 250": osvobození od Deep State kolem 14. 6. a 4. 7.'
+  text: Zítko očekává, že kolem 14. června (UFC u Bílého domu, narozeniny Trumpa) a 4. července (250 let
+    nezávislosti USA) se odehrají „velké a zajímavé věci" — finální tah „aliance" proti Deep State a začátek
+    globálního „osvobození" (odtajnění, kvantový finanční systém, návrat prostředků lidem).
+  citace:
+  - text: Možná nebude od věci, abychom se sešli u příležitosti tohoto data [4. 7.], kdy určitě do té
+      doby se budou dít velké a zajímavé věci.
+  predikce:
+    horizont: 14. 6. – 4. 7. 2026
+    stav: vyvraceno
+    horizont_do: 2026-07-04
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: kolem 14. 6. ani 4. 7. žádné „osvobození od Deep State“ nenastalo
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Zítko 11. 7. termín přepočítal „podle juliánského kalendáře“ na 17. 7., ani tehdy se nic nestalo.

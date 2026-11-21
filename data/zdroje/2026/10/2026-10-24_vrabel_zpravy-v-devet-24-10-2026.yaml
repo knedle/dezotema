@@ -8,6 +8,69 @@ zdroj:
   prepis: prepisy/done/2026-10-24_Ladislav-Vrabel_24-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: 1 h 19 min, zprávy čte Zuzana; krátký sdílený klip Tuckera Carlsona (angl.), jinak Vrabel.
+  osoby:
+  - osoba: spd
+    vztah: negativni
+    kontext: Při útoku na Vrabela v roce 2023 mlčela, za útok na Foldynu si „může sama“
+  - osoba: patryk-jaki
+    vztah: negativni
+    kontext: Lež o Lavrovově dopise, aby byl slavný
+  - osoba: edi-rama
+    vztah: negativni
+    kontext: „Elitářská parta“ privatizuje Albánii
+  prehled:
+  - tema: Protest před Sněmovnou proti zrušení poplatků ČT/ČRo, napadení Foldyny
+    text: ČT je „elitářský snobský podnik“ a médium „hlavní válečné propagandy“; kauza je uměle nafouknutá,
+      aby odvedla pozornost od války; policie měří dvojím metrem (Blahníková vs. útočníci na Foldynu)
+      a beztrestností útoku na něj v roce 2023 si „pěstuje teroristy“
+    vyrok: vrabel-2026-10-24-02
+  - tema: Ukrajinský útok na Orjol (Storm Shadow, 3 mrtví)
+    text: jsme „až po uši ve válce s Ruskem“, mírová jednání jsou Trumpova předvolební kampaň a „přejde
+      to za dva týdny“ (opakuje).
+  - tema: Francie a Británie poprvé cvičily jaderný úder
+    text: „satanisti“; francouzské jaderné zbraně přijdou do ČR až v nejnebezpečnější chvíli, Rusové sestřelí
+      Rafale do tří minut a ČR zasype spad
+    vyrok: vrabel-2026-10-24-01
+  - tema: Chemtrails (fotka oblohy)
+    text: „sypou přímo na nás“, jde to do půdy a jídla (opakuje).
+  - tema: Kim Čong-un v čínském Dandongu
+    text: Trump se chlubil dohodou s Kimem, kterou Kimova sestra popřela.
+  - tema: Útok na pravoslavný pohřeb v Jordánsku (9 mrtvých)
+    text: model islamizace (5 % šaría, 20 % muslimská země), Jugoslávie rozbita kvůli Kalergiho plánu,
+      „Evropa bude muslimská“, ČR islámská do 20–30 let → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-24-04
+  - tema: 'Guardian: EU chce od Británie a G7 víc peněz pro Ukrajinu (díra 70 mld. €)'
+    text: EU „nemá peníze“, přes Savings and Investments „vezmou lidem peníze z účtu“ na zbrojení (opakuje).
+  - tema: 'Trump: válečné lodě poplují ke Kubě, CIA zveřejnila návod pro odpůrce'
+    text: USA jsou „bezbrzdňáci“, převrat se už nedělá ani tajně.
+  - tema: USA stahují diplomaty ze Saúdské Arábie
+    text: po amerických volbách Blízký východ eskaluje, „rozjíždí se světová válka“ (opakuje); schůzka
+      Putin–Zelenskyj je předvolební tah a skončí fiaskem → viz [Predikce](../predikce.md)
+  - tema: Rekordní protesty ve Francii
+    text: v Evropě začíná občanská válka, protesty „ukradnou migranti“ 2.–3. generace; pojem „nelegální
+      migrace“ se používá schválně (opakuje).
+  - tema: 'Europoslanec Jaki: po Ukrajině přijde Polsko'
+    text: Jaki si to podle něj „vymyslel“, ale Polsko na řadě opravdu je, pak Chorvaté a Bulhaři → viz
+      [Predikce](../predikce.md)
+  - tema: Požár Hitlerova Orlího hnízda
+    text: škoda historického domu, ale připomínka „něčeho škaredého“; Evropa se „nacifikuje“.
+  - tema: Protesty v Paříži a Lyonu, Frexit
+    text: demonstranti jsou „naši kolegové“; rozpad EU bude krvavější než rozpad Jugoslávie, proto vystoupit,
+      „dokud je klid“ (opakuje).
+  - tema: Výprodej na americké burze
+    text: akcie AI jsou přepálené, krach bude horší než v roce 2008; mít fyzické zlato doma (opakuje)
+      → viz [Predikce](../predikce.md)
+  - tema: Násilné protesty v Tiraně proti Ramovi
+    text: „elitářská parta“ (Kushner, Ivanka Trumpová, Rothschild) privatizuje Albánii; předpovídá násilný
+      puč a pád vlády → viz [Predikce](../predikce.md)
+  - tema: Protesty v Belgii a Madridu
+    text: tvrzení, že jde o školství, je „propaganda“; lidé mají dost elit a může dojít až k požadavku
+      na pád kapitalismu; nálada se odvíjí od růstu či poklesu ekonomiky.
+  - tema: Tucker Carlson o úbytku bílé populace v evropských metropolích
+    text: Evropa „nebude znovu bílá“, v Praze slyší ukrajinštinu „jedna ku jedné“, Babišovi pracovníci
+      z Indie a Filipín budou muslimové (součást ⚡ migrace výše).
+  - tema: Jeho citáty na RT International
+    text: chlubí se, že RT cituje jeho komentáře k Pavlovi.
 vyroky:
 - id: vrabel-2026-10-24-01
   typ: tvrzeni
@@ -26,6 +89,11 @@ vyroky:
   citace:
   - text: Jestli vzlítne letadlo Rafal s jadernýma zbraněma z území České republiky a rusové to budou
       vědět, tak podle mojého názoru do tří minut budou sestřelený ty letadla Rafal.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Srovnání protestu s Kapitolem „legrační“; francouzské jaderné zbraně; dovoz pracovníků z
+      Indie a Filipín
 - id: vrabel-2026-10-24-02
   typ: tvrzeni
   temata:
@@ -44,6 +112,13 @@ vyroky:
   citace:
   - text: Ale prostě vadí jim, že by jejich válečná propaganda, médium hlavní válečné propagandy, nebylo
       ovině financováno z rukou každého občana. To je naprosto šílená schizofrenní situace.
+  osoby:
+  - osoba: jaroslav-foldyna
+    vztah: pozitivni
+    kontext: Napaden u Sněmovny, policie útočníky nechala jít
+  - osoba: katerina-blahnikova
+    vztah: pozitivni
+    kontext: Brutálně zatčena kvůli „Z“, doklad dvojího metru policie
   podtema: Česká televize a mainstreamová média
 - id: vrabel-2026-10-24-04
   typ: tvrzeni
@@ -63,3 +138,76 @@ vyroky:
   citace:
   - text: Evropa bude muslimská úplně stejně, jako se to děje dneska v Jordánsku, jako se to stalo v Sýrii.
       To je prostě nevyhnutelný.
+  osoby:
+  - osoba: tucker-carlson
+    vztah: rozporuplny
+    kontext: Souhlasí s jeho tezí o demografii Evropy, opravuje ho v číslech o Rusku
+- id: vrabel-2026-10-24-05
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: Evropa bude muslimská, ČR islámskou zemí do 20–30 let
+  text: Pokud ČR nezavře hranice a zůstane v EU, stane se během 20–30 let islámskou zemí; Evropa bude
+    muslimská nevyhnutelně.
+  citace:
+  - text: Tak potom i Česká republika se stane islámskou zemí v průběhu třeba 20 nebo 30 let.
+  predikce:
+    horizont: 20–30 let
+    stav: ceka
+- id: vrabel-2026-10-24-06
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: po Polsku přijdou na řadu Chorvaté a Bulhaři
+  text: Po Ukrajině je na řadě Polsko (opakuje), potom Chorvatsko a Bulharsko; globalisté chtějí „promíchat
+    a zlomit“ silné národy.
+  citace:
+  - text: Proto si myslím, že Poláci jsou na řadě. Pak budou Chorvaté a Bulhaři.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-10-24-07
+  typ: predikce
+  temata:
+  - jaderne-zbrane
+  nadpis: v Albánii bude násilný puč a vláda padne
+  text: Protesty v Tiraně proti projektu Kushnera a Ivanky Trumpové vyústí v násilný puč a konec Ramovy
+    vlády.
+  citace:
+  - text: V Albánii bude násilný puč proti vládě. Ta vláda bude muset skončit.
+  osoby:
+  - osoba: ivanka-trumpova
+    vztah: negativni
+    kontext: „Elitářská parta“ privatizuje Albánii
+  - osoba: jared-kushner
+    vztah: negativni
+    kontext: „Elitářská parta“ privatizuje Albánii
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-10-24-08
+  typ: predikce
+  temata:
+  - jaderne-zbrane
+  nadpis: krach akcií AI horší než hypoteční krize 2008
+  text: Přepálené akcie AI spadnou a krize bude horší než v roce 2008; výprodej na americké burze byl
+    „první vlaštovka“.
+  citace:
+  - text: Může to být mnohem horší […] než ta krize, která byla hypotéční s těma hypotékama v roce 2008.
+      A první vlaštovka byla včera.
+  predikce:
+    horizont: brzy, neurčeno
+    stav: ceka
+- id: vrabel-2026-10-24-09
+  typ: predikce
+  temata:
+  - jaderne-zbrane
+  nadpis: schůzka Putin–Zelenskyj skončí fiaskem až po amerických volbách
+  text: Trumpem chystaná schůzka Putina a Zelenského (13. nebo 19. 11.) skončí fiaskem, které ale vyjde
+    najevo až po amerických volbách.
+  citace:
+  - text: Ale nebudou mít ten výsledek toho jednání, který bude fiasko, pravděpodobně, před volbama. To
+      dostanou až po volbách.
+  predikce:
+    horizont: listopad 2026
+    stav: ceka

@@ -9,6 +9,73 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 12 min, bez intra; zprávy čte Zuzana, Vrabel vysílá z telefonu ze Srbska, konec vysílání
     přerušen výpadkem spojení; krátká sdílená videa nepokojů ve Francii ([46:40–48:30]).
+  osoby:
+  - osoba: dmitrij-medvedev
+    vztah: neutralni
+    kontext: Cituje, že s Ukrajinou nelze podepsat dohodu bez legitimního zástupce
+  prehled:
+  - tema: Vláda nesníží daň z příjmu firem
+    text: nejde o „nesplněný slib“, ale o porušení programu jako „dvoustranné smlouvy“; politici jsou
+      „naši zaměstnanci“ a mají být odvoláni; peníze jdou na zbraně a do rozpočtu EU
+    vyrok: vrabel-2026-10-19-04
+  - tema: Babišova výzva médiím
+    text: souhlasí, média „zdivočela“ a dělají válečnou propagandu; chce mediální zákon s licencemi a
+      likvidačními pokutami; vlastní mediální „poprava“, Bárta, Nečas, Rath
+    vyrok: vrabel-2026-10-19-02
+  - tema: ETS2 pro budovy a dopravu
+    text: „proč nevystoupí z EU?“; Babiš povolenky „99 ku 1“ přijme, až EU rozhodne, „sklapne krovky“
+      → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-19-05
+  - tema: NATO v Bukurešti o ruských hybridních hrozbách
+    text: hrozba „se nezvyšuje“, Rusové se chtějí válce s Evropou vyhnout, část evropských politiků ji
+      chce; USA chtějí poštvat Rusko a Evropu (Kissinger)
+    vyrok: vrabel-2026-10-19-08
+  - tema: 70 mld. eur pro Ukrajinu na příští rok
+    text: prosincová půjčka „nevydržela“, jak předpovídal; zaplatíme to my a vše bude dražší; řešení je
+      vystoupit z EU a NATO
+    vyrok: vrabel-2026-10-19-06
+  - tema: Ukrajinci jen jako váleční uprchlíci
+    text: bez dávek, ať „makají“ a po válce „mažete zpátky“; „Srbové by umlátili čepicema“ → viz [Stochastický
+      teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-19-03
+  - tema: „Kdyby vládnul Vrabel“
+    text: soukromá ochranka „něco jako armáda“, podnikatelům by jako Putin řekl, ať spolupracují, „anebo
+      budou mít problém“, loajalita generálů
+    vyrok: vrabel-2026-10-19-04
+  - tema: NATO a slovenští vědci (Bratislava)
+    text: přečtená zpráva bez komentáře.
+  - tema: Delegáti odešli při projevu Siluanova (Bangkok)
+    text: západní ekonomové nechápou, jak Rusko přežívá 30 tisíc sankcí a roste; „nacistické země“ se
+      mohly přiučit (opakuje).
+  - tema: Česká střela Narval
+    text: válečná propaganda, „nestrkejte ty sirky zpátky“; Heydrich a výroba zbraní; Starlink jako „Star
+      Shield“
+    vyrok: vrabel-2026-10-19-07
+  - tema: USA a výpadek zpravodajských informací pro Kyjev
+    text: Rubiova „chyba softwaru“ je nesmysl; Trump si Zelenského „vychutná“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-19-06
+  - tema: Nepokoje ve Francii (sdílená videa)
+    text: tři frakce, migranti chtějí šaríu; „občané proti občanům“ jsou už občanská válka, „vlak dojede“
+      i do ČR → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-19-03
+  - tema: Saúdská Arábie odložila konferenci FII
+    text: USA jako „mafie“ rozpoutaly válku kvůli petrodolarové dohodě; hrozí migrační vlna → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-19-01
+  - tema: Američtí farmáři a drahá nafta
+    text: demokracie není „vláda lidu“, z „rabování“ jsme přešli do „drancování“, profitují Křetínský
+      a Strnad (opakuje)
+    vyrok: vrabel-2026-10-19-04
+  - tema: Trump obvinil Zelenského, že nechce ukončit válku
+    text: do amerických voleb 3. 11. bude „uklidnění“, týden po nich přijde „šílená zpráva“ a strach (opakuje
+      predikci z 12. 10.).
+  - tema: Referendum o odtržení Alberty
+    text: srovnání s Katalánskem; varuje před moravským separatismem, republika má zůstat pohromadě.
+  - tema: Putinův návrh summitu s Trumpem a Si Ťin-pchingem
+    text: Putin chytře využívá Trumpovu kampaň, Zelenskyj „idiot politický“; válku to nezastaví, nanejvýš
+      obchodní dohoda; hlavním nepřítelem USA je Čína → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-19-06
+  - tema: Renew Europe chce tvrdší sankce a omezení veta
+    text: europoslance by poslal do „svěracích kazajek“.
 vyroky:
 - id: vrabel-2026-10-19-01
   typ: tvrzeni
@@ -47,6 +114,22 @@ vyroky:
   citace:
   - text: Média jsou velmi nebezpečný nástroj, pakli, že dělají válečnou propagandu a to je to, co dělají
       dneska prakticky všechna média v České republice.
+  osoby:
+  - osoba: vit-barta
+    vztah: pozitivni
+    kontext: Oběti mediálních „poprav“; Bárta se stal „nepřítelem číslo jedna“ kvůli sporu s kmotry s
+      přístupem k tajným službám
+  - osoba: petr-necas
+    vztah: pozitivni
+    kontext: Oběti mediálních „poprav“; Bárta se stal „nepřítelem číslo jedna“ kvůli sporu s kmotry s
+      přístupem k tajným službám
+  - osoba: david-rath
+    vztah: pozitivni
+    kontext: Oběti mediálních „poprav“; Bárta se stal „nepřítelem číslo jedna“ kvůli sporu s kmotry s
+      přístupem k tajným službám
+  - osoba: jiri-paroubek
+    vztah: neutralni
+    kontext: Odrazoval ho od žalob na média (roky soudů, omluva „někde vzadu“)
   podtema: Nová alternativní média
 - id: vrabel-2026-10-19-03
   typ: tvrzeni
@@ -86,6 +169,13 @@ vyroky:
     a řekl jim, „tak jak to udělal Putin, že buď budou spolupracovat s tím státem, anebo budou mít problém“,
     a zajistil by si loajalitu armádních generálů. „A pak bych teprve šel vládnout. Protože myslím si,
     že by mi usilovali o život každej den.“'
+  osoby:
+  - osoba: daniel-kretinsky
+    vztah: negativni
+    kontext: Profitují z drahé elektřiny a zbraní, zatímco 99,9 % lidí trpí
+  - osoba: michal-strnad
+    vztah: negativni
+    kontext: Profitují z drahé elektřiny a zbraní, zatímco 99,9 % lidí trpí
   podtema: Represe a policejní brutalita na Západě
 - id: vrabel-2026-10-19-05
   typ: tvrzeni
@@ -100,6 +190,11 @@ vyroky:
     F-35, daně pro podnikatele, schodek), takže je „99 ku 1“ jisté, že jakmile EU povolenky zavede, vláda
     je přijme „100 %“: „Andrej Babiš sklapne krovky a udělá to.“ Odklad pro firmy je podle něj rozhodnutím
     EU, ne Babiše. „Brusel je nadřízený Praze“, suverénní by Praha byla teprve po vystoupení (viz [Predikce](predikce.md)).'
+  osoby:
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: S výzvou médiím „obecně“ souhlasí („média zdivočela“), ale nesnížil daně firmám, ETS2 přijme,
+      až EU řekne („sklapne krovky“), a brání referendu o vystoupení z EU
   podtema: Česká suverenita
 - id: vrabel-2026-10-19-06
   typ: tvrzeni
@@ -121,6 +216,21 @@ vyroky:
     „idiot politický“ a „politický negramot“, protože před volbami útočí na toho, kdo ho drží u moci.
     Summit podle Vrabela konflikt nezastaví, „maximálně… nějaká obchodní dohoda“; hlavním nepřítelem USA
     je Čína a k roku 2030 se podle něj chystá vojenský konflikt.'
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: „Zelenýho kokainovýho krále“, „idiot politický“ a „politický negramot“, který před volbami
+      útočí na Trumpa
+  - osoba: donald-trump
+    vztah: rozporuplny
+    kontext: Před volbami hraje „mírového prezidenta“, „bojovník urputný a těžký a zákeřný“; USA jednají
+      vůči Saúdům jako „mafie“
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: Situaci „pochopil“ a chytře využívá Trumpovu kampaň k summitu s USA a Čínou
+  - osoba: marco-rubio
+    vztah: negativni
+    kontext: Vysvětlení výpadku zpravodajských informací „chybou softwaru“ je „nesmysl“
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-10-19-07
   typ: tvrzeni
@@ -137,6 +247,10 @@ vyroky:
     „žádnýho Heydricha“ není potřeba, protože lidé kvůli válečné propagandě a nedostatku peněz na jídlo
     jdou do zbrojovek sami. To, že se místo o Starlinku začíná mluvit o „Star Shield“, podle něj prozrazuje,
     že jde (jako u Stargate) o vojenské projekty.'
+  osoby:
+  - osoba: tomas-kopecny
+    vztah: negativni
+    kontext: Varování před slabou podporou zbrojařů (střela Narval) jako válečná propaganda
   podtema: EU jako vojenská struktura
 - id: vrabel-2026-10-19-08
   typ: tvrzeni
@@ -154,4 +268,73 @@ vyroky:
     S odkazem na Kissingera tvrdí, že USA nikdy nechtěly spojení Německa s Ruskem, a proto rozšiřovaly
     NATO s vědomím, že dojde ke konfliktu. Ve chvíli, kdy končí Pax Americana a Čína s Indií předhánějí
     USA ekonomicky, je pro ně „velmi výhodný poštvat proti sobě Rusko a Evropu“.'
+  osoby:
+  - osoba: henry-kissinger
+    vztah: neutralni
+    kontext: Cituje jeho varování, že spojení Německa s Ruskem by bylo pro USA katastrofou
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-10-19-09
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: vláda zavede emisní povolenky ETS2 „99 ku 1“, jakmile o tom rozhodne EU
+  text: Navzdory Babišovu ujištění česká vláda zavede ETS2 pro budovy a silniční dopravu „100 %“ tak,
+    jak rozhodne EU; jistotu odhaduje na 99 ku 1.
+  citace:
+  - text: Je jasný, že jakmile Evropská unie zavedí, že se budou zavádět evropské povolenky, tak Česká
+      vláda je bude přijímat 100%.
+  predikce:
+    horizont: neurčeno (až EU zavedení pro domácnosti a dopravu potvrdí)
+    stav: ceka
+- id: vrabel-2026-10-19-10
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Trump si po volbách „vychutná“ Zelenského; summit USA–Rusko–Čína válku nezastaví
+  text: Trump se postaví proti Zelenskému a „vychutná si ho“, pravděpodobně až po volbách do Kongresu.
+    Navržený summit Putin–Trump–Si konflikt nezastaví, výsledkem bude nanejvýš obchodní dohoda; mezi USA
+    a Čínou se k roku 2030 chystá vojenský konflikt.
+  citace:
+  - text: Osobně si nemyslím, že by z toho bylo něco, co by mohlo zastavit konflikt mezi Ruskem a Ukrajinou
+      a Evropou. Maximálně prostě z toho bude nějaký obchodní díl, nějaká obchodní dohoda.
+  predikce:
+    horizont: po volbách do Kongresu USA (3. 11. 2026); summit APEC 18.–19. 11. 2026; konflikt s Čínou
+      kolem roku 2030
+    stav: castecne
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: summit USA–Rusko–Čína 19. 11. válku nezastavil (potvrzeno); že si Trump „vychutná“ Zelenského,
+        zatím doloženo není
+      stav: castecne
+    - datum: 2026-11-20
+      text: Podle Vrabela se v Šen-čenu jednalo o sférách vlivu a jaderné bezpečnosti, ne o Ukrajině.
+        Trump po volbách naopak mluvil o blízké dohodě a viní Putina i Zelenského. Konflikt s Čínou kolem
+        roku 2030 zůstává otevřený.
+- id: vrabel-2026-10-19-11
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: francouzský scénář „dojede“ do ČR; z Blízkého východu přijde velká migrační vlna
+  text: Bez vystoupení z EU a uzavření hranic se nepokoje typu Francie („občané proti občanům“) přelijí
+    do ČR — ne letos, ale po spuštění migračního paktu od roku 2027. Válka na celém Blízkém východě podle
+    něj vyvolá velkou migrační vlnu.
+  citace:
+  - text: Pokud dneska ten vlak neodkloníme, pokud nevystoupíme z Evropské unie a neuzavřeme hranice…
+      tak tam ten vlak dojede taky.
+  predikce:
+    horizont: po roce 2027; migrační vlna neurčeno
+    stav: ceka
+- id: vrabel-2026-10-19-12
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: Ukrajinci v ČR
+  text: plošné nálepkování skupiny s náznakem, že by si za své chování zasloužila bití (idiom „umlátit
+    čepicemi“); hraniční, navazuje na 16. a 18. 10., bez výzvy k násilí
+  citace:
+  - text: V Srbsku je spousta Rusů, ale ty nikde neškemrají o peníze… protože Srbové by umlátili čepicema,
+      kdyby začali se chovat jako Ukrajinci v České republice.“ / „žádný sociální dávky budete makat a
+      jakmile to tam skončí, tak mažete zpátky na Ukrajinu
+  teror:
+    terc: Ukrajinci v ČR
+    hranicni: true

@@ -25,4 +25,12 @@ vyroky:
     (protaženému až za volby) si Stanjura mohl od státu odkoupit svůj služební mobil a počítač za zbytkovou
     cenu — Rajchl se domnívá, že jejich obsah „buď smazal, nebo došlapal", ještě než mohly být zajištěny
     jako důkaz.'
+  osoby:
+  - osoba: zbynek-stanjura
+    vztah: negativni
+    kontext: 'Nové tvrzení: díky zdržení kauzy si odkoupil od státu služební mobil a počítač za zbytkovou
+      cenu a obsah „smazal nebo došlapal"'
+  - osoba: eva-decroix
+    vztah: negativni
+    kontext: Zdržela vyšetřování; Uhlířovu zprávu označila za duplicitní k neuveřejněnému auditu
   podtema: Kauza Bitcoin — organizovaný zločin ve státní správě

@@ -34,4 +34,23 @@ vyroky:
   - text: 'Buďte si jistí, že já jsem sice označený za toho, kdo kreslí terče. Ale k tomu terčování přispívá
       taky Adéla Urbanová, která napíše, že jsem ruský agent, a pak jeden z jejích sledujících napíše:
       ‚Budeš viset ty zmrdě, my si tě najdeme.'''
+  osoby:
+  - osoba: zuzana-cerna
+    vztah: negativni
+    kontext: Novinářka; Rajchl dokumentuje faktické chyby (pandemická smlouva vs. „národní očkovací strategie")
+      a nečinnost vůči Hediově hrozbě — „nerozumí ani psanému textu"
+  - osoba: jakub-hedia
+    vztah: negativni
+    kontext: 'Člen ODS; pohrůžka žhářstvím: „ví, kde bydlím a teď stačí škrtnout zápalkou" — ODS nikdy
+      neodsoudila, přesto moralizuje vůči Rajchlovi'
+  - osoba: adela-urbanova
+    vztah: negativni
+    kontext: 'Vedla sledující k výhrůžkám vůči Rajchlovi: „Budeš viset ty zmrdě, my si tě najdeme"'
+  - osoba: natalie-vachatova
+    vztah: pozitivni
+    kontext: 'Označena za „ruskou kolaborantku" jen pro bratra žijícího v Rusku — Rajchl: „bolševické
+      manýry"'
+  - osoba: tomas-elner
+    vztah: neutralni
+    kontext: Moderátor, nahlášen Zuzanou Černou policii — Rajchl zmiňuje jako příklad dvojího standardu
   podtema: Dvojí metr v médiích

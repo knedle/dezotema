@@ -29,6 +29,11 @@ vyroky:
   - text: Je mi z toho fakt smutno, že vlastně se to dozvídám až teďka, až dneska, že vlastně tyhle věci
       vůbec nevím. Jak je možný, že v Brně je tady 240 ulic pojmenovaných po těchto hrdinech a kdo z těch
       Brňáků tady, co tady žije a bydlí, kdo to ví?
+  osoby:
+  - osoba: martin-riha
+    vztah: neutralni
+    kontext: Organizátor spolku Obrana národa 2 — pořádal čtení jmen 1 518 brněnských obětí nacistické
+      okupace jako protistánek k sjezdu Landsmannschaftu
   podtema: Sudetoněmecký sjezd v Brně 2026
 - id: cernohorsky-2026-05-22-03
   typ: tvrzeni
@@ -40,6 +45,11 @@ vyroky:
     Černohorský zastává názor, že kolem let 2015–2016 v ČR existoval zárodek skutečné vlastenecké scény — spontánního občanského aktivismu bez stranické příslušnosti. Tuto energii zničilo vstoupení Tomia Okamury, SPD a Bloku proti islamizaci do tohoto prostoru: „Přišel do toho Tomio Okamura, přišel do toho SPD, přišel do toho blok proti islamizaci, přišli do toho politici a byl konec." Jakmile strany aktivismus zabarvily stranickou barvou, lidé se začali rozdělovat a spontánní spolupráce se rozpadla.
 
     Dnes Černohorský tvrdí, že žádná soudržná „vlastenecká scéna" neexistuje — každá iniciativa jede samostatně, chybí propojení. Viník je primárně politizace: ne absence patriotismu u lidí, ale nemožnost spolupráce přes stranické hranice.
+  osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: Spolu s SPD a Blokem proti islamizaci označen za ničitele vlastenecké scény ~2015–2016 —
+      politizací aktivismu ji rozbil
   podtema: Ekonomický program PRO
 - id: cernohorsky-2026-05-22-04
   typ: tvrzeni
@@ -50,4 +60,9 @@ vyroky:
     Jako alternativu k stranickému fragmentování Černohorský prosazuje model spolku (občanského sdružení). Ke spolku může přijít kdokoliv bez ohledu na stranickou příslušnost — záleží na sdílených hodnotách, ne na stranické nálepce. Ilustruje to příkladem: lidé, kteří se přirozeně shodnou na mnoha věcech, se od sebe automaticky vzdálí, jakmile vidí navzájem stranické znaky (SPD, Stačilo, Okamura, Konečná, Babiš). Spolek tento efekt eliminuje, protože každý svou politickou příslušnost si nechává pro sebe.
 
     Základní podmínkou je nesmíchávat stranickou politiku s občanskou aktivitou. Extrémní pozice (jako Ponertova „listina nivoliče") jsou kontraproduktivní — k takovým věcem se naprostá většina lidí nikdy nepřidá, jakkoli s kritikou systému souhlasí.
+  osoby:
+  - osoba: ponert
+    vztah: negativni
+    kontext: Označen za provokátora a „idiota" — opakovaně narušoval živé vysílání Černohorského na brněnské
+      akci; prosazuje extrémní pozice (listina nivoliče)
   podtema: Ekonomický program PRO

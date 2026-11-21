@@ -26,6 +26,15 @@ vyroky:
     která by Stanjurovu roli dokumentovala. Strana PRO podala trestní oznámení 6. června 2025; Stanjura
     přesto po odchodu z funkce vzal notebook, tablet i telefon — Rajchl to přirovnává ke kauze Ursuly
     von der Leyen se smazanými SMS.'
+  osoby:
+  - osoba: zbynek-stanjura
+    vztah: negativni
+    kontext: Odpovědný za legalizaci výnosů z trestné činnosti (bitcoiny); po odchodu z funkce odnesl
+      notebook, tablet a telefon
+  - osoba: eva-decroix
+    vztah: negativni
+    kontext: Trestný čin nadržování — omezovala přístup k informacím o bitcoinech, zastavila zprávu Davida
+      Uhlíře
   dalsi_zdroje:
   - 2026-04-19_rajchl_organizovany-zlocin-v-politice-dozimetr-bitcoin-ct-19-4-2026
   podtema: Kauza Bitcoin — organizovaný zločin ve státní správě

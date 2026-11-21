@@ -13,6 +13,21 @@ zdroj:
     podcenil reakci, dialog pokračuje; USA image pod Ruskem (Alliance for Democracy průzkum); Čína jako
     „vyspělá civilizace" v globální politice; Trump — dominance v západní polokouli, boj s Čínou; média
     jako příběhy dobra a zla (rozdělování společnosti).'
+  prehled:
+  - tema: Večerní zprávy na výročí konce WWII. Témata
+    text: 'Zelenský: výměna 1 000 zajatců + příměří 9–11. 5.'
+  - tema: NATO summit Pavel vs. Babiš jako „narativní distrakce"
+    text: oba slouží NATO
+  - tema: Macinka Berlin
+    text: Posselt podcenil reakci, dialog pokračuje
+  - tema: USA image pod Ruskem (Alliance for Democracy průzkum)
+    text: USA image pod Ruskem (Alliance for Democracy průzkum)
+  - tema: Čína jako „vyspělá civilizace" v globální politice
+    text: Čína jako „vyspělá civilizace" v globální politice
+  - tema: Trump
+    text: dominance v západní polokouli, boj s Čínou
+  - tema: média jako příběhy dobra a zla (rozdělování společnosti).
+    text: média jako příběhy dobra a zla (rozdělování společnosti).
 vyroky:
 - id: vrabel-2026-05-08-01
   typ: tvrzeni
@@ -23,6 +38,11 @@ vyroky:
     Ministr zahraničí Petr Macinka navštívil 8. května 2026 Berlín a podepsal memorandum o pokračování Česko-německého fondu budoucnosti do roku 2037. Jako komentář k sjezdu v Brně řekl pouze, že Posselt „podcenil reakci, kterou sjezd vyvolal" a „nezvolil vhodného partnera" (Meeting Brno je dle Macinky pro toto téma „nedostatečná" organizace). Macinka zdůraznil, že sjezdová debata česko-německé vztahy „neohrozí."
 
     Vrabel hodnotí ironicky: „Největší útok na Posselta byl, že si vybral špatnou agenturu — vyměň agenturu a je všechno v pořádku." Označuje to za projev tradiční české podřízenosti vůči Německu.
+  osoby:
+  - osoba: bernd-posselt
+    vztah: neutralni
+    kontext: Posselt „podcenil reakci" na Macinkovu návštěvu v Berlíně; nepřímá zmínka v kontextu sudetoněmeckého
+      sjezdu
   podtema: Parlament, politické a stranické reakce
 - id: vrabel-2026-05-08-02
   typ: tvrzeni
@@ -35,6 +55,15 @@ vyroky:
     summit, je záměrnou mediální distrakcí zakrývající, že pro výsledek summitu nezáleží na tom, zda ČR
     zastupuje Pavel nebo Babiš — oba by prosazovali identické pozice. Vrabel tak popírá, že volba Babišovy
     vlády přinesla skutečnou změnu zahraničně-politické orientace.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: NATO summit Pavel vs. Babiš jako falešná narativní distrakce — oba slouží NATO stejně; volba
+      Babiše nepřinesla skutečnou změnu zahraničně-politické orientace
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Stejně jako Pavel slouží NATO, rozdíl je pouze narativní — Vrabel popírá, že vláda přinesla
+      skutečnou geopolitickou změnu
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: vrabel-2026-05-08-03
   typ: tvrzeni
@@ -46,4 +75,27 @@ vyroky:
     den klidu zachrání stovky životů. Avšak za předchozí dočasné příměří bylo zaznamenáno 1 630 porušení
     zastavení palby (dle ruského MO). Výzvu k evakuaci diplomatů z Kyjeva EU ignorovala — Vrabel komentuje
     sarkazmem: „Evropští diplomaté jsou nesmrtelní — jsou čistí jako oko Boží."'
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: 'Avizoval příměří 9–11. 5. a výměnu 1 000 zajatců — Vrabel: taktický manévr bez trvalého
+      efektu'
   podtema: Vyjednávání a mír
+- id: vrabel-2026-05-08-04
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Příměří Zelenského 9–11. 5. 2026 jako taktický manévr
+  text: Vrabel komentuje Zelenského avizované příměří (9–11. 5. 2026, vázané na výročí konce WWII) jako
+    taktický manévr, nikoliv jako skutečný krok k míru. Predikuje, že příměří bude využito k repositinoningu
+    sil a nebude mít trvalý efekt — válka bude pokračovat.
+  predikce:
+    horizont: 9–11. 5. 2026 a bezprostředně poté
+    stav: potvrzeno
+    horizont_do: 2026-05-11
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: příměří 9.–11. 5. bylo jen krátkodobé a válka pokračuje bez míru
+      stav: potvrzeno
+    - datum: 2026-11-20
+      text: Vrabel 10. 5. příměří vyložil jako taktický krok, ne začátek míru.

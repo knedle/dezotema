@@ -26,4 +26,13 @@ vyroky:
   citace:
   - text: Pokud mluvíte jako nacista, pokud se zastáváte nacistických spolků a nacistických bojůvek na
       Ukrajině, tak jediný, kdo je z nás tam nácek, jste vy. Vy jste největší nácek v celé České republice.
+  osoby:
+  - osoba: martin-dvorak
+    vztah: negativni
+    kontext: 'Poslanec STAN; v debatě na CNN Prima News nazval Rajchla „náckemé" — přitom sám obhajoval
+      Landsmannschaft a banderovce; Rajchl: „vy jste největší nácek v celé České republice"'
+  - osoba: martin-dvorak
+    vztah: negativni
+    kontext: 'Poslanec STAN (CNN Prima News) nazval Rajchla „náckemé" při obhajobě Landsmannschaftu a
+      banderovců — Rajchl: „vy jste největší nácek v celé České republice"'
   podtema: Parlament, politické a stranické reakce

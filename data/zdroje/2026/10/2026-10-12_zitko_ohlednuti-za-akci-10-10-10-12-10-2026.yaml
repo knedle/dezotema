@@ -50,6 +50,10 @@ vyroky:
     pozvánku se vším zaplaceným nedorazil, přestože o ní podle komentářů věděl. Na závěr akce prý Zítko
     s Jiřím Hradilem rozebrali „minimálně sedmnáct důvodů, proč to není Tomáš Čermák“: „těch věcí, který
     jsou brutálně divný, byla celá spousta“.'
+  osoby:
+  - osoba: zitko
+    vztah: pozitivni
+    kontext: Spolu rozebrali „17 důvodů, proč to není Tomáš Čermák“
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-10-12-05
   typ: tvrzeni
@@ -61,4 +65,8 @@ vyroky:
     po „množství nepřejících telefonátů“ zrušili sál. Akci podle zápisů sledovalo 71 lidí; „kvalita převážila
     kvantitu“. Připomíná, že 13. 10. slaví šest let vysílání na Facebooku, který mu minulý týden zablokoval
     všechny čtyři kanály.'
+  osoby:
+  - osoba: rajchl
+    vztah: neutralni
+    kontext: „Vládní poslanec“, kterému v Havířově zrušili sál — důvod utajení místa akce
   podtema: ČT poplatky a omezování na sociálních sítích

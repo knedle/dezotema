@@ -30,6 +30,11 @@ vyroky:
   citace:
   - text: Jenom jedna šarže. Jenom jedna šarže. A nám tady bylo celou dobu vyprávěno, jak se jedná o super
       bezpečnou věc.
+  osoby:
+  - osoba: marketa-dobijasova
+    vztah: neutralni
+    kontext: Investigativní novinářka, která zveřejnila data ÚZISu o nežádoucích účincích jedné šarže
+      Pfizer — stovky nežádoucích, 2 úmrtí
   podtema: Šarže vakcín
 - id: rajchl-2026-05-31-02
   typ: tvrzeni
@@ -52,6 +57,11 @@ vyroky:
     - **Cena**: jeden stroj je o přibližně miliardu korun dražší než u srovnatelných zemí (Švýcarsko, Jižní Korea), které uzavíraly kontrakty ve stejném období.
     - **Dodací lhůty**: ČR dostane letouny v letech 2031–2035, zatímco jiné země obdrží všechny stroje do roku 2029.
     - **SAAB Gripen**: ČR jako první oznámila ukončení nájmu Gripenů — a teprve poté zjistila pozdní termín dodání F-35. Švédský SAAB okamžitě prodražil pronájem Gripenů o 137 % (více než dvojnásobek původní ceny). Miliardy zbytečně vynaložené na prodloužení Gripenů mohly být investovány jinam.
+  osoby:
+  - osoba: jana-cernochova
+    vztah: negativni
+    kontext: Nákup F-35 za nejhorší podmínky ze všech zemí (cena o miliardu dražší, dodací lhůty 2031–2035,
+      Gripen prodražení o 137 %)
   podtema: 'Kauza F-35: nejhorší kontrakt ze všech zemí'
 - id: rajchl-2026-05-31-04
   typ: tvrzeni
@@ -67,6 +77,11 @@ vyroky:
   citace:
   - text: Nikdy, nikdy, nikdy nebudu na Andreje Babiše útočit přes Čapí hnízdo, přes jeho syna, nebo přes
       Agrofert. To je absolutně ubohé.
+  osoby:
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: Odmítá útočit na Babiše přes Agrofert nebo Čapí hnízdo; chce s ním soutěžit programem — ale
+      je to politický rival
   podtema: Agrofert a dotace EU
 - id: rajchl-2026-05-31-05
   typ: tvrzeni
@@ -81,6 +96,11 @@ vyroky:
     namířených vůči Rusku. Připomíná výrok Viktorie Nulandové před Kongresem v roce 2022, kdy mluvila
     o nutnosti „zajistit" laboratoře, a označuje Bidenovu vládu za lhářskou. Gabbard laboratoře prý nyní
     zavírá.'
+  osoby:
+  - osoba: pete-hegseth
+    vztah: pozitivni
+    kontext: Ministr obrany USA, spolu s Gabbard potvrdil existenci 40 amerických biolaboratoří na Ukrajině
+      z celkových 120
 - id: rajchl-2026-05-31-06
   typ: tvrzeni
   temata:
@@ -95,6 +115,11 @@ vyroky:
   citace:
   - text: Absolutně hodil Petra Pavla přes palubu. Absolutně. Žádné exkluzivní postavení, žádná panika
       v NATO hysterice, proč nebereme toho úžasného Petra Pavla do Ankary.
+  osoby:
+  - osoba: boris-ruge
+    vztah: neutralni
+    kontext: Náměstek gen. tajemníka NATO; výrok „je to vaše rozhodnutí" Rajchl využil k vyvrácení Pavlova
+      tvrzení o exkluzivním postavení v Ankaře
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-05-31-07
   typ: tvrzeni
@@ -130,6 +155,11 @@ vyroky:
       bojovníka proti fašismu, nesl člověk, jenž naopak fašismus minimálně omlouvá, či možná dokonce adoruje.
   - text: Nevím, pane Ženíšku, jestli byste tohle řekl do očí prezidentovi Polska Nawrockému, premiérovi
       Tuskovi či jejich ministru obrany.
+  osoby:
+  - osoba: andrzej-nawrocki
+    vztah: pozitivni
+    kontext: Polský prezident; navrhl odebrání Řádu Bílé Orlice Zelenskému za pojmenování jednotky po
+      UPA — Rajchl vyzval k totožnému kroku Petra Pavla
   dalsi_zdroje:
   - 2026-06-07_rajchl_fb-live-nenechme-si-rozkladat-zemi-7-6-2026
   - 2026-06-30_rajchl_videoportal-navrh-na-odebrani-radu-zelenskemu-30-6-2026

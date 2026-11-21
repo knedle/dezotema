@@ -9,6 +9,10 @@ zdroj:
   rezim: standard
   poznamka: 1 h 17 min, z auta; hlavním účelem je sbírka na právní pomoc pro Ivu Rosickou a Terezu Vlasákovou;
     na závěr píseň J. Jorka „Pětihlavá saň“.
+  osoby:
+  - osoba: zitko
+    vztah: negativni
+    kontext: „Já nejsem Zítko… nejsem žádná svině, která by zneužívala dobro lidí“
 vyroky:
 - id: cernohorsky-2026-11-07-01
   typ: tvrzeni
@@ -25,6 +29,11 @@ vyroky:
     obhajuje proti námitce, že „nahrazuje stát“: stát to podle něj nedělá a dělat nebude.'
   citace:
   - text: Jakmile nemáte peníze, tak se spravedlnosti nedovoláte.
+  osoby:
+  - osoba: iva-rosicka
+    vztah: pozitivni
+    kontext: „Veliká vlastenka s velikým srdcem“, pomáhá postiženým dětem; chyba je, že „všechno jede
+      přes mír“
   podtema: Vlastní vládní program „kdybych byl Babišem" (Černohorský)
 - id: cernohorsky-2026-11-07-02
   typ: tvrzeni
@@ -47,6 +56,16 @@ vyroky:
   citace:
   - text: Tak vám říkám, říkám s plnou zodpovědností a s plným vědomím, že je tam spiknutí proti Tereze
       Vlasákové.
+  osoby:
+  - osoba: tereza-vlasakova
+    vztah: pozitivni
+    kontext: „Úžasná mamina“, oběť spiknutí úřadů
+  - osoba: kamil-vlasak
+    vztah: negativni
+    kontext: „Zmrd“, „narcis“, „psychopat“, který ji kopal do hlavy
+  - osoba: linhartova
+    vztah: negativni
+    kontext: Vyslýchala dceru Vlasákové bez vědomí matky
   podtema: Šmírování dětí státem
 - id: cernohorsky-2026-11-07-03
   typ: tvrzeni
@@ -65,4 +84,48 @@ vyroky:
     státě“ (viz [stochastický teror](stochasticky-teror.md)).'
   citace:
   - text: Jestliže ublíží někdo dítěti, tak nemá právo na život. Hotovo. Tečka.
+  osoby:
+  - osoba: david-skarda
+    vztah: pozitivni
+    kontext: Zveřejnil případ dívky v psí boudě, „se mnou to mává stejně“
   podtema: Eutanazie
+- id: cernohorsky-2026-11-07-04
+  typ: stoch-teror
+  temata:
+  - rodina-deti
+  nadpis: rodiče, kteří věznili dceru v psí boudě (konkrétní soudní případ)
+  text: identifikovatelné osoby + dehumanizace + výzva k popravě
+  citace:
+  - text: takovýhle zmrdi, takovýhle svině, který patří popravit, ty nemají právo na život […] já bych
+      je normálně popravil elektrickým křeslem
+  teror:
+    terc: rodiče, kteří věznili dceru v psí boudě (konkrétní soudní případ)
+    hranicni: false
+- id: cernohorsky-2026-11-07-05
+  typ: stoch-teror
+  temata:
+  - rodina-deti
+  nadpis: migranti
+  text: opakovaná rasová dehumanizace skupiny (viz 6. 11.)
+  citace:
+  - text: neziskové organizace pro imigrantskou, černošskou, arabskou skurvenou verbež
+  teror:
+    terc: migranti
+    hranicni: false
+- id: cernohorsky-2026-11-07-06
+  typ: stoch-teror
+  temata:
+  - rodina-deti
+  nadpis: Varhanová, Kamil Vlasák (soukromé osoby v kauze Vlasáková)
+  text: 'Terč: Varhanová, Kamil Vlasák (soukromé osoby v kauze Vlasáková).'
+  citace:
+  - text: Varhanová „mrcha“, „svině“, „kunda“; Vlasák „zmrd“, „psychopat, který je schopen kopat ženu
+      do hlavy“ — jmenované soukromé osoby + vulgární dehumanizace před publikem (bez výzvy k násilí;
+      ohlašuje trestní oznámení)
+  osoby:
+  - osoba: varhanova
+    vztah: negativni
+    kontext: „Mrcha“, „svině“, úmyslně do Vlasákové narazila
+  teror:
+    terc: Varhanová, Kamil Vlasák (soukromé osoby v kauze Vlasáková)
+    hranicni: false

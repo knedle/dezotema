@@ -9,6 +9,70 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 50 min, monolog s dotazy z chatu; sdílená videa protestů v Evropě ([36:08–42:05], část
     zvuku zkomolená).
+  osoby:
+  - osoba: tommy-robinson
+    vztah: pozitivni
+    kontext: „Brzo to vezme do rukou“
+  prehled:
+  - tema: 'Trump: Ukrajina potřebuje nového prezidenta'
+    text: souhlasí, ale proč by o tom měl rozhodovat Trump, který „vybírá prezidenty“. Babiš a Macinka
+      mu „zobou z ruky“.
+  - tema: Rusko ruší embargo na ropu, energetické příměří
+    text: Trumpovi už „nevěří ani nos mezi očima“, po volbách se vše změní
+    vyrok: vrabel-2026-10-11-01
+  - tema: Petrodolar jako „největší podvod na světě“
+    text: Kissinger 1972, Irák kvůli euru, „Rothschildové, Rockefellerové, Warburgové“, kolaps i bez války
+    vyrok: vrabel-2026-10-11-01
+  - tema: Odklon od ruských energií jako ekonomická sebevražda
+    text: mezi Fialou a Babišem „není rozdíl“, vlády řídí „loutkovodiči“ a „školení v Aspenu“.
+  - tema: Komunální volby
+    text: volba „proti hajzlům“, ODS a STAN „mafiánské strany“, Kuba a billboardy („idioti úplně“)
+    vyrok: vrabel-2026-10-11-05
+  - tema: Změna systému
+    text: odvolatelnost politiků porotou, zákaz politické reklamy, lobbing jako úplatek (Majerová a referendum)
+    vyrok: vrabel-2026-10-11-02
+  - tema: Politika jako krádež pro sponzory
+    text: válka má „rozbít Rusko, aby si ho rozkradli“. Systém se změní, „možná až po válce“.
+  - tema: Nepokoje v Belgii, Francii, Británii a dalších zemích (sdílená videa)
+    text: nejde o studenty, ale o migraci („migranti je vyžírají“). Tommy Robinson „to brzo vezme do rukou“.
+  - tema: 'Braniborsko: demonstrace za urovnání vztahů s Ruskem'
+    text: „Němci jsou kousek za námi.“
+  - tema: „Lámání svobody“ a totalita
+    text: zlomená totalita „vraždí vlastní obyvatelstvo“, likvidace opozice, Rajchl „vymyslel“ stíhání
+      za Z → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-11-02
+  - tema: Ukrajina a Balkán
+    text: válka „vymyšlená k okradení Ruska“, Biden „rozehrál“ válku v Bosně
+    vyrok: vrabel-2026-10-11-03
+  - tema: „Měli jsme se přidat k Rusku“
+    text: denacifikace a demilitarizace, invaze „naprosto odůvodněná“
+    vyrok: vrabel-2026-10-11-03
+  - tema: § 405 (písmeno Z)
+    text: soudci „zločinci“, státní zástupce „by měl viset na nástěnce“ (Sládek) → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-11-02
+  - tema: „Americká demokracie“ = vláda nad světem
+    text: CNN Prima News „masí mozky“, F-35 „padají z nebe“, Černochové „oranžový mundur“. Nákup Nord
+      Streamu Američany je „největší idiotismus“.
+  - tema: Safe Europe Act
+    text: podepsal ji, právně je ale „pasé“. Občanská válka, o které mluví 20 let, „by skutečně mohla
+      být“, a vláda jsou „podvodníci“ v migračním paktu.
+  - tema: ČR je ve válce s Ruskem (OBSE)
+    text: financování, munice, „Američani jsou skety“, válka kolem přelomu roku → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-11-04
+  - tema: Susan Dell na obálce Financial Times
+    text: opakuje debatu o „ještěrovi“ a dodává, že povodně v Nepálu byly na obálce „namalované dopředu“.
+  - tema: „Jiný systém“ a buňky hnutí
+    text: čtyři reformy (politický, soudní, mediální a finanční systém), vystoupit z EU a NATO.
+  - tema: Desmet a mass formation
+    text: totalita začne vraždit, až umlčí posledních 5 %. ESLP je „pseudosoud“.
+  - tema: Proč Rusko nechá USA „kšeftovat“ z Ukrajiny
+    text: nechce válku s USA, ale jako jediné se jim postavilo.
+  - tema: Drulák, Svatopluk, Bogušíková, Švihlíková, Robejšek
+    text: Drulák je „absolutní elitář“, Svatopluk jeho prezidentská kampaň
+    vyrok: vrabel-2026-10-11-05
+  - tema: Válečné reparace Německa
+    text: 'deklaraci podepsali Zeman a Klaus, reparací jsme se nevzdali. Ironicky: „ať 14 000 mld. zaplatí
+      Klaus a Zeman“.'
 vyroky:
 - id: vrabel-2026-10-11-01
   typ: tvrzeni
@@ -23,6 +87,10 @@ vyroky:
     čeká nás kolaps“. Trumpovi „už nevěří ani nos mezi očima“, protože „jakmile projdou volby, tak budou
     věci zase úplně jinak“. Mezi Fialou a Babišem „není rozdíl“, všichni jezdí na „školení do Aspenu“
     a řídí je „loutkovodiči nad Amerikou“.'
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: „Chová se jako bandita“, „nevěřím mu ani nos mezi očima“
   podtema: Energetika a Rusko
 - id: vrabel-2026-10-11-02
   typ: tvrzeni
@@ -46,6 +114,19 @@ vyroky:
     náhodně vybraných občanů; příklad Zuzany Majerové, která pro referendum o vystoupení z EU „neudělala
     ani čárku“), zákaz politické reklamy a trestnost lobbingu jako úplatku. Janě Černochové by „dal oranžový
     mundur“ s nápisem a nechal ji zametat ulice.'
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Vymyslel“ stíhání za Z a „udával lidi“; s Wackem domluva s režimem
+  - osoba: zuzana-majerova
+    vztah: negativni
+    kontext: Slibovala referendum o vystoupení z EU, „neudělala ani čárku“
+  - osoba: jana-cernochova
+    vztah: negativni
+    kontext: „Dal bych jí oranžový mundur… jak zametá ulice“
+  - osoba: mattias-desmet
+    vztah: pozitivni
+    kontext: Teorie mass formation a 5 % pravdy
   podtema: Kritika soudnictví
 - id: vrabel-2026-10-11-03
   typ: tvrzeni
@@ -65,6 +146,13 @@ vyroky:
     Anglosasové „poštvali Slovany proti sobě“. Ukrajinci jsou „chudáci“, kteří se nechali sfanatizovat
     nacismem jako Chorvati v 90. letech; v Bosně podle něj „rozehrál válku Joe Biden“ (81 mil. dolarů
     na samopaly pro bosenské muslimy).'
+  osoby:
+  - osoba: petr-hajek
+    vztah: negativni
+    kontext: „Provládní médium“, „sorta, proplouvat“
+  - osoba: sergej-lavrov
+    vztah: pozitivni
+    kontext: Jeho výzvy jsme měli slyšet
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-10-11-04
   typ: tvrzeni
@@ -93,4 +181,55 @@ vyroky:
     Na dotaz z chatu označuje platformu Svatopluk za podporu prezidentské kandidatury Petra Druláka „od roku 2022“. Druláka nazývá „absolutním elitářem“ a „protekčním děckem“, „sortou jako Petr Hájek, proplouvat“. V roce 2022 prý odmítl přijít na jeho demonstraci, protože ji pořádá „týpek s insolvencí“. Jana Bogušíková ho dřív podporovala, „udělala pár chyb“; Ilona Švihlíková se bála přijít, „ale aspoň umí mluvit“; Petr Robejšek je „chytrý“ a „rovnější“. Do čela státu podle něj patří lidé, kteří „padli, dělali biznis, krachovali“.
   citace:
   - text: Celý Svatopluk je podpora Petra Druláka do prezidentských voleb. Od roku 2022, kdy to vzniklo.
+  osoby:
+  - osoba: petr-drulak
+    vztah: negativni
+    kontext: „Absolutní elitář“, „protekční děcko“, Svatopluk je jeho kampaň
   podtema: Komunální volby
+- id: vrabel-2026-10-11-06
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: „otázka času“, kdy bude opozice v ČR rozprášena a ukrajinský scénář se přesune do ČR
+  text: Likvidace politické opozice v ČR je „otázka času“ a to, „co se stalo na Ukrajině“, se posune do
+    ČR.
+  citace:
+  - text: Takže je otázka času, kdy ta opozice bude rozprášená úplně… A pak se to, co se stalo na Ukrajině,
+      posune na Českou republiku.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-10-11-07
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: válka Evropy s Ruskem začne kolem přelomu roku, ne až 2030; Rusko nakonec zaútočí na Evropu
+    nebo zabere Ukrajinu
+  text: Konflikt Evropy s Ruskem (nejaderný, „oťukávací“, s mobilizací východních zemí) se podle něj rozjede
+    kolem přelomu roku 2026/27, ne až v roce 2030 (jak tvrdí „VK“). Rusko pak bude muset buď zabrat celou
+    Ukrajinu, nebo zaútočit na Evropu.
+  citace:
+  - text: Osobně si myslím, mně to připadá někde na přelom roku, na přelom roku, že by mohlo něco spustit,
+      spíš než v roce 2030.
+  predikce:
+    horizont: přelom roku 2026/27
+    stav: ceka
+- id: vrabel-2026-10-11-08
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: státní zástupce, který zastavil stíhání Čecha z ukrajinské armády; „státní zástupci, kteří likvidují
+    právní systém“
+  text: narážka na věšení, formálně změkčená na „nástěnku“
+  citace:
+  - text: Ten státní zástupce by měl viset na nástěnce státních zástupců, kteří likvidují právní systém
+      v České republice. Protože doktor Sládek vždycky říkal, když se nevěší, tak není revoluce. Tak říkám,
+      že by měli viset ty lidi na různých nástěnkách. Aby to nebylo tak tvrdé, jak to říká doktor Sládek.
+  osoby:
+  - osoba: miroslav-sladek
+    vztah: pozitivni
+    kontext: „Mám velmi rád“; citace „když se nevěší, není revoluce“
+  teror:
+    terc: státní zástupce, který zastavil stíhání Čecha z ukrajinské armády; „státní zástupci, kteří likvidují
+      právní systém“
+    hranicni: false

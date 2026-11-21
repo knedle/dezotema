@@ -8,6 +8,34 @@ zdroj:
   prepis: prepisy/done/2026-10-26_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
   poznamka: 31 min, monolog s odpověďmi na zprávy diváků; bez sdílených videí.
+  osoby:
+  - osoba: michal-svatos
+    vztah: negativni
+    kontext: Vypráví „nesmysly“ o demonstraci 2022, aby dostal funkci v SPD
+  prehled:
+  - tema: Varování diváků před „majdanem“ v Praze
+    text: poprvé varování nezlehčuje, „to nebezpečí je vážné“; násilí rozehrávají maskovaní policisté,
+      aby se lidé nespojili proti chystané válce
+    vyrok: vrabel-2026-10-26-02
+  - tema: Migranti a násilí
+    text: lidé z Afriky „vyrůstali s mačetama v ruce“, mají jiný „práh násilí“, rabují kvůli „iPhonům
+      zadarmo“ (opakuje) → viz [Stochastický teror](../stochasticky-teror.md)
+  - tema: Babiš a Milion chvilek k poplatkům
+    text: se zrušením poplatků „musí souhlasit“, kampaň Milionu chvilek je rozeštvávání za zahraniční
+      peníze; Babiš je nově „obětí“ (25. 10. ještě 50:50)
+    vyrok: vrabel-2026-10-26-03
+  - tema: Srbsko po volbách
+    text: smutný z Vučićovy porážky, ale bude klid; referendum o EU podle něj neprojde, prozápadní studenty
+      by lidé „za rok“ sundali → viz [Predikce](../predikce.md)
+  - tema: Euforie po porážce Fialy
+    text: lidé rok „nejsou schopni vidět“ negativní kroky Babiše (opakuje).
+  - tema: Globalisté ovládají lidi
+    text: sociální sítě a AI dělají psychologické profily a manipulují davy (opakuje).
+  - tema: Svatoš a SPD
+    text: Svatoš na Svobodném rádiu vypráví „nesmysly“, aby dostal funkci v SPD; SPD je „falešná opozice“
+      (opakuje).
+  - tema: Energetická krize 2021
+    text: Fiala věděl, že přijde „něco mnohem horšího“ (opakuje).
 vyroky:
 - id: vrabel-2026-10-26-02
   typ: tvrzeni
@@ -41,4 +69,33 @@ vyroky:
   citace:
   - text: Ale v tomhle s tím musím souhlasit s Andrejem Babišem, že tohle je snaha organizací, které pracují
       za zahraniční kapitál, globalistický kapitál, rozeštvat společnost.
+  osoby:
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: V poplatcích a kritice Milionu chvilek mu dává za pravdu, je „obětí“; jinak proti jeho vládě
   podtema: Česká televize a mainstreamová média
+- id: vrabel-2026-10-26-08
+  typ: predikce
+  temata:
+  - media-propaganda
+  nadpis: Srbsko nevstoupí do EU, referendum neprojde
+  text: Srbsko za současného volebního období do EU nevstoupí a případné referendum o vstupu neprojde,
+    protože EU je „v blbým stavu“.
+  citace:
+  - text: Můj tip je, … že to nakonec neprojde do Evropské unie, protože Evropská unie je v blbým stavu.
+  predikce:
+    horizont: volební období (4 roky)
+    stav: ceka
+- id: vrabel-2026-10-26-12
+  typ: stoch-teror
+  temata:
+  - konspirace
+  nadpis: migranti z Afriky
+  text: 'Terč: migranti z Afriky.'
+  citace:
+  - text: A když vidíte ty lidi, kteří přichází z Afriky, kteří vyrůstali s mačetama v ruce a jsou rádi,
+      že přežili 20. rok života, … tak je jasný, že tyhle lidi budou mít jiný práh“ / „Proč zapalujou
+      ulice, protože jsou prostě násilní.
+  teror:
+    terc: migranti z Afriky
+    hranicni: false

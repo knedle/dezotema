@@ -20,6 +20,21 @@ zdroj:
     konkurence — [ceny-energie.md](ceny-energie.md). (13) Google/Big Tech jako americký armádní projekt,
     pokračování — [digitalni-kontrola.md](digitalni-kontrola.md). (14) Potvrzena smrt Lindseyho Grahama,
     spekulace o vraždě — [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.'
+  prehled:
+  - tema: 'Zpracováno 14 témat: (1) ČR dodá Černé Hoře zbraně, kontrast se Srbskem'
+    text: '[suverenita-eu.md](../suverenita-eu.md). (2) Okamura v Číně, čínské sankce na Tatru — [kauzy.md](../kauzy.md).
+      (3) Akcelerační zóny — ČR nemá od EU povinnost stavět větrníky — [vetrniky.md](../vetrniky.md).
+      (4) Babišův plán vládní čtvrti Letňany — [kauzy.md](../kauzy.md). (5) Rozsudek Kratochvíl/Šádler
+      (Vojáci v záloze za mír) — [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md). (6)
+      Nová americká cla 10–15 % — [ceny-energie.md](../ceny-energie.md). (7) EU ruší ochranu ukrajinským
+      mužům 18–65 let — [migrace.md](../migrace.md). (8) Ukrajinské útoky na Wildberries — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md).
+      (9) Rubio–Lavrov: plán „3+2" padl, Rusko rozšíří okupaci — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md).
+      (10) Bulharsko a americká tankovací letadla — [valka-nato-rusko.md](../valka-nato-rusko.md). (11)
+      Bab al-Mandab — vojenská mise EU — [blizky-vychod.md](../blizky-vychod.md). (12) Merz obviňuje Čínu
+      z nekalé konkurence — [ceny-energie.md](../ceny-energie.md). (13) Google/Big Tech jako americký
+      armádní projekt, pokračování — [digitalni-kontrola.md](../digitalni-kontrola.md). (14) Potvrzena
+      smrt Lindseyho Grahama, spekulace o vraždě — [valka-nato-rusko.md](../valka-nato-rusko.md). Bez
+      predikcí a stoch. teroru.'
 vyroky:
 - id: vrabel-2026-07-24-01
   typ: tvrzeni
@@ -72,6 +87,11 @@ vyroky:
     — odmítá i běžně používaný rámec „fair konkurence" (Ursula von der Leyen) jako ekonomicky nesmyslný:
     konkurence podle něj přirozeně znamená, že někdo umí a někdo neumí, a Evropa v tuto chvíli neumí,
     protože se nechala zatáhnout do her, které nemůže vyhrát.'
+  osoby:
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: 'Obviňuje Čínu z nekalé konkurence kvůli krizi VW — Vrabel: Německo si za to může samo odstřižením
+      od ruských energií'
   podtema: Manipulace trhu s ropou
 - id: vrabel-2026-07-24-04
   typ: tvrzeni
@@ -120,6 +140,11 @@ vyroky:
     je snaha získat peníze na zbrojení (viz zakázky pro Černou Horu a Chorvatsko) prodejem historických
     budov ministerstev v centru Prahy soukromým investorům — ty jsou dle něj udržované, v perfektním stavu
     a v cenné lokalitě, tedy potenciálně hodnotné v řádu miliard korun.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: ČR dodá Černé Hoře zbraně za 24,2 mil. eur — vláda tvrději prosazuje globalistické zájmy
+      EU/NATO, než sliboval v kampani
 - id: vrabel-2026-07-24-07
   typ: tvrzeni
   temata:
@@ -203,6 +228,11 @@ vyroky:
     let) za „zaškrtnutou kolonku v žádosti" a případ nakonec padl — a srovnává s Tomášem Čermákem, odsouzeným
     na 5,5 roku za terorismus kvůli hyperbolickým výrokům na internetu („to je naprostá brutalita, co
     se mu stalo... stát se mu bude muset jednou omluvit a rehabilitovat ho").'
+  osoby:
+  - osoba: ivan-kratochvil
+    vztah: pozitivni
+    kontext: Soud mu vyměřil jen podmíněný trest (ne hrozících 10 let) v kauze Vojáci v záloze za mír
+      — Vrabel to vítá jako spravedlivý výsledek
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-07-24-12
   typ: tvrzeni
@@ -218,6 +248,11 @@ vyroky:
     vzhledem k tomu, že Graham byl ještě dva dny předtím zdravě v Kyjevě s dronem po boku Zelenského —
     a shrnuje kolující spekulace, že za smrtí mohli stát Íránci, Rusové nebo Izraelci, aniž se sám přiklání
     ke konkrétní verzi.'
+  osoby:
+  - osoba: lindsey-graham
+    vztah: neutralni
+    kontext: Potvrzena smrt — Zelenskyj jede na pohřeb; Vrabel pochybuje o oficiální příčině a zmiňuje
+      spekulace o vraždě (Írán/Rusko/Izrael)
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-24-13
   typ: tvrzeni
@@ -233,6 +268,11 @@ vyroky:
     Rusko) — s tím rozdílem, že zatímco kritika vůči Rusku ho stála žalobu, u Íránu jde vše mnohem rychleji:
     Írán rovnou prohlásil, že poskytnutí letiště Američanům dělá z Bulharska legitimní cíl odvety. Předjímá,
     že se tak Evropě otevírá druhé, „íránské" válečné křídlo vedle ruského — obklíčena z obou stran.'
+  osoby:
+  - osoba: rumen-radev
+    vztah: rozporuplny
+    kontext: Bulharský prezident schválil americká tankovací letadla na základně Bezmer — potvrzuje Vrabelovu
+      dřívější skepsi vůči jeho „proruskému" obratu
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-24-14
   typ: tvrzeni

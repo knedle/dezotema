@@ -19,6 +19,10 @@ vyroky:
     které není důvod respektovat, a od 12. 3. 2020 mluví o „vládou a poslanci řízené genocidě a sterilizaci“;
     Karel Havlíček mu prý mimo kameru řekl: „kdybychom to tenkrát neudělali, oni by nás zabili“. Španělská
     chřipka byla podle něj obdobou covidu, kdy lidé umírali „za očkováním“.'
+  osoby:
+  - osoba: karel-havlicek
+    vztah: neutralni
+    kontext: 'Prý mimo kameru: „kdybychom to neudělali, oni by nás zabili“'
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 - id: zitko-2026-10-28-02
   typ: tvrzeni
@@ -34,6 +38,10 @@ vyroky:
     příčinou“ jeho předčasné smrti.
   citace:
   - text: Bezbřehá korupce a vydírání, jsou to ovládací mechanismy pro politická rozhodnutí.
+  osoby:
+  - osoba: karel-kryl
+    vztah: pozitivni
+    kontext: „Viděl zlodějům do karet“, možná proto předčasně zemřel
   podtema: Náboženský a okultní výklad moci
 - id: zitko-2026-10-28-03
   typ: tvrzeni
@@ -54,6 +62,10 @@ vyroky:
     zlatý poklad za 300–350 USD za unci a numismatické mince jen za cenu zlata; Tošovského nehodu ve Ferrari
     v USA uvádí jako důkaz „bakšiše“. Kandidáty ve volbách podle něj vybírá počítač — v ČR Hewlett Packard
     bez výběrového řízení, na Slovensku ESET.'
+  osoby:
+  - osoba: josef-tosovsky
+    vztah: negativni
+    kontext: Rozprodal zlatý poklad, nehoda ve Ferrari jako důkaz „bakšiše“
 - id: zitko-2026-10-28-05
   typ: tvrzeni
   temata:
@@ -70,6 +82,10 @@ vyroky:
     názor, že rozdělení bylo správné, odmítá, a Rajchla kritizuje za zlehčování („byli bychom ještě Rakousko-Uhersko“).'
   citace:
   - text: Nejsou platné žádné zákony přijaté po datu 20. července.
+  osoby:
+  - osoba: stefan-harabin
+    vztah: negativni
+    kontext: Mylně považuje rozdělení za správné
 - id: zitko-2026-10-28-06
   typ: tvrzeni
   temata:
@@ -81,3 +97,16 @@ vyroky:
     a Lavrovovo tričko „SSSR“ na Aljašce. Rozpad SSSR i Jugoslávie (ta podle něj „operací CIA“) proběhl
     protiprávně a obnova ČSR je „jenom otázka času“; k nápisu „Československo 15.12–24.12“ říká, že „nepredikuje
     žádná data“.'
+- id: zitko-2026-10-28-07
+  typ: stoch-teror
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: vláda a poslanci; Klaus, Mečiar, Havel, Stráský; novináři
+  text: 'Terč: vláda a poslanci; Klaus, Mečiar, Havel, Stráský; novináři.'
+  citace:
+  - text: Vláda a poslanci „masoví vrazi, který propagovaly pokusy na lidech“; aktéři rozdělení 1992 „stále
+      trestněprávně odpovědní“, Havel měl „vyslat armádu proti pučistům“; novináři „mediální prostituti“
+      — hraniční (dehumanizace, zpětná výzva k vojenskému zásahu; od násilí klackem se výslovně distancuje)
+  teror:
+    terc: vláda a poslanci; Klaus, Mečiar, Havel, Stráský; novináři
+    hranicni: true

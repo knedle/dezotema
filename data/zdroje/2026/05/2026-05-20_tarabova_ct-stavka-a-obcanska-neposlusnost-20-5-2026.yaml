@@ -11,6 +11,10 @@ zdroj:
   poznamka: 'Výzva k stávce (nebo okupační stávce) zaměstnanců ČT. Občanská neposlušnost jako nutnost.
     Varování: vládní moc se může uchýlit k násilí. Kritika Macinky a Turka za „chleba namazaný po obou
     stranách." Zhlédnutí: 2 902'
+  osoby:
+  - osoba: filip-turek
+    vztah: rozporuplny
+    kontext: MEP — obecně spojenec, ale kritizován za smíření se situací ČT; „myslí, že to projde"
 vyroky:
 - id: tarabova-2026-05-20-01
   typ: tvrzeni
@@ -23,4 +27,9 @@ vyroky:
     Varuje, že je třeba počítat s tím nejhorším: „vládní moc se může uchýlit k násilí." Zároveň se vyjadřuje
     ke smíření ministra kultury Macinky a MEP Turka se situací ČT: „myslí, že to projde, budou mít chleba
     namazaný po obou stranách — tak to říkám, že nebudou."'
+  osoby:
+  - osoba: mikulas-macinka
+    vztah: negativni
+    kontext: Ministr kultury — dle Tarabové si myslí, že „bude mít chleba namazaný po obou stranách" v
+      otázce ČT; to nevyjde
   podtema: Mainstream jako politický aktivismus

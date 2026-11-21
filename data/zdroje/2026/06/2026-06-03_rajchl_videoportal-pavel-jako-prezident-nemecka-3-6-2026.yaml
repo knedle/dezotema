@@ -31,4 +31,9 @@ vyroky:
   citace:
   - text: Oni jsou ti akcionáři této země. [...] Já jsem jako právník zvyklý realizovat pokyny svého klienta.
       Politici by k tomu měli přistupovat úplně stejně k názoru občanů.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: '„Si spletl zemi" — chová se jako prezident Německa: prosazuje euro, zrušení veta, Spojené
+      státy evropské a pomohl Lichtenštejnům obejít Benešovy dekrety; vše v rozporu se zájmy občanů ČR'
   podtema: Česká suverenita

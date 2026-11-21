@@ -30,4 +30,9 @@ vyroky:
   citace:
   - text: Politici přiložili průmyslu pistoli k hlavě. [...] Nutit německé inženýry přecházet na elektromobily,
       to je jako nutit [...] vařit veganské párky z tofu.
+  osoby:
+  - osoba: oliver-zipse
+    vztah: pozitivni
+    kontext: Šéf BMW — „snad jediný chlap v evropském autoprůmyslu, kterému ještě zbyly koule"; marně
+      varoval EU před zákazem spalovacích motorů
   podtema: EU a Green Deal

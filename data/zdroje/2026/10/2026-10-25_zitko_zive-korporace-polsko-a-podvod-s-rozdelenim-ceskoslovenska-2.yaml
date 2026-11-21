@@ -40,6 +40,16 @@ vyroky:
     Schůzku s Čermákem „jeden na jednoho“ odmítá, protože se ho už „několikrát pokusili zabít“; pokud
     Čermák do Holýšova nepřijde, „není originál“, a jinak pohrozil „místním šetřením“ ve firmě TKO, kde
     o něm prý nevědí.'
+  osoby:
+  - osoba: patrik-tusl
+    vztah: negativni
+    kontext: Součást „útočné formace“ proti Zítkovi
+  - osoba: cernohorsky
+    vztah: negativni
+    kontext: Součást „útočné formace“ proti Zítkovi
+  - osoba: patrik-svoboda
+    vztah: negativni
+    kontext: Součást „útočné formace“ proti Zítkovi
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-10-25-03
   typ: tvrzeni
@@ -86,6 +96,16 @@ vyroky:
     bilionů Kč (9,5 tisíce tun zlata); oslabena byla i 300tisícová armáda.'
   citace:
   - text: Právní stát ČSR neboli Československá republika funguje bez přerušení stále dál.
+  osoby:
+  - osoba: vaclav-klaus
+    vztah: negativni
+    kontext: Protiprávně rozdělili Československo
+  - osoba: vladimir-meciar
+    vztah: negativni
+    kontext: Protiprávně rozdělili Československo
+  - osoba: jan-strasky
+    vztah: negativni
+    kontext: Protiprávně rozdělili Československo
 - id: zitko-2026-10-25-06
   typ: tvrzeni
   temata:
@@ -99,6 +119,10 @@ vyroky:
     Deep State“. Zakarpatská Rus by měla mít referendum o připojení, hranice by vycházely z první republiky.'
   citace:
   - text: Rozhodnou o tom vítězné mocnosti.
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: Prý „na 99,9 %“ potvrdil obnovu Československa
 - id: zitko-2026-10-25-07
   typ: tvrzeni
   temata:
@@ -117,3 +141,34 @@ vyroky:
     intervalech, včetně Večerníčku; kontrolují ho prý „fízláci a tajné služby“. Ohlašuje přechod na platformu
     alternativnimedia.cz „bez sekaček a bez cenzury“.'
   podtema: ČT poplatky a omezování na sociálních sítích
+- id: zitko-2026-10-25-09
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Bill Gates, Albert Bourla, Mark Rutte
+  text: jmenovaní terči obvinění z genocidy s očekáváním trestu (hraniční, bez přímé výzvy)
+  citace:
+  - text: pachatelé genocidy a sterilizace sedí na lavici obžalovaných […] a budou se zodpovídat ze zločinů
+      proti lidskosti“; injekce jako „vyhlazování Čechoslováků
+  teror:
+    terc: Bill Gates, Albert Bourla, Mark Rutte
+    hranicni: true
+- id: zitko-2026-10-25-10
+  typ: stoch-teror
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Václav Havel, Pavel Rychetský
+  text: 'Terč: Václav Havel, Pavel Rychetský.'
+  citace:
+  - text: Havel „třikrát křivopřísežník“, který spáchal „trestný čin“ a „zbabělec“; Rychetský „jako žába
+      na prameni“ — obvinění z trestné činnosti a dehumanizující přirovnání (hraniční, bez výzvy)
+  osoby:
+  - osoba: vaclav-havel
+    vztah: negativni
+    kontext: „Třikrát křivopřísežník“, zbabělec, nenasadil armádu proti „puči“
+  - osoba: pavel-rychetsky
+    vztah: negativni
+    kontext: „Jako žába na prameni“ 30 let blokoval obnovu ČSR
+  teror:
+    terc: Václav Havel, Pavel Rychetský
+    hranicni: true

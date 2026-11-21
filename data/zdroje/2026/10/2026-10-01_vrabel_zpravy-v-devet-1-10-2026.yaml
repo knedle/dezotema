@@ -8,6 +8,40 @@ zdroj:
   prepis: prepisy/done/2026-10-01_Ladislav-Vrabel_1-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: Vysíláno z Českého Krumlova; výpadek audia [16:53–17:23].
+  prehled:
+  - tema: ČR požádala Francii o zapojení do jaderného odstrašení
+    text: „nejhorší krok vlády Babiše proti ČR"; Valdaj = „pozor, zlý pes"
+    vyrok: vrabel-2026-10-01-01
+  - tema: Zrušený tendr na 185 obrněnců
+    text: peníze jdou do útočných zbraní, ne na obranu.
+  - tema: Vojtěchova novela VZP
+    text: „korporátní fašismus", „zlatá půl miliarda"
+    vyrok: vrabel-2026-10-01-02
+  - tema: Chemtrails v Rakousku vs. Srbsko
+    text: „sypou hliník od roku 2000" (opakování).
+  - tema: Cvičení Red Storm Charlie
+    text: příprava na válku; „začínám chápat, jak se to mohlo stát".
+  - tema: 'Putin na Valdaji; Rutte: „Rusko vyhrožuje"'
+    text: varování, ne vyhrožování
+    vyrok: vrabel-2026-10-01-01
+  - tema: Protesty v Irsku; migrace 2015; migrační pakt
+    text: Okamura „se napakoval", mešita „jak bít ženu", pakt od 2027
+    vyrok: vrabel-2026-10-01-03
+  - tema: Studentské protesty ve Francii
+    text: „převezmou to muslimové".
+  - tema: Trump uvolňuje 40 mil. barelů z rezerv
+    text: „zoufalý krok před volbami"; brzy se bude řešit, čím topit.
+  - tema: Von der Leyenová v Kosovu; Tači
+    text: Tači nikdy souzen za Žlutý dům a obchod s orgány Srbů.
+  - tema: 'EU: návratová centra'
+    text: dvojí metr — Srb deportován, útočníci s nožem dostanou „další šanci".
+  - tema: 'Rada EU o hybridních hrozbách; Rutte: náhrada od Ruska'
+    text: Rusko by mělo „právo" na proxy útoky na EU
+    vyrok: vrabel-2026-10-01-04
+  - tema: 'Komise: chybí plán renovace budov'
+    text: donutit Čechy prodat domy „Hansovi a Johnovi".
+  - tema: 'Rutte: Evropa závislá na USA'
+    text: rozkol záměrný, aby EU „šla do války sama".
 vyroky:
 - id: vrabel-2026-10-01-01
   typ: tvrzeni
@@ -57,6 +91,13 @@ vyroky:
     že bůh je velký", dostanou léčbu a další šanci.'
   citace:
   - text: Nepodařilo se to kvůli takovým lidem, jako je Tomio Okamura. Ti se na tom jenom napakovali.
+  osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: „Napakoval se" na boji proti migraci
+  - osoba: martin-konvicka
+    vztah: pozitivni
+    kontext: Spolu zastavili migraci 2015–16
 - id: vrabel-2026-10-01-04
   typ: tvrzeni
   temata:
@@ -74,4 +115,33 @@ vyroky:
   citace:
   - text: Rusko by mělo v rámci reciprocity naprosto jednoznačně právo na to, aby třeba někdo útočil na
       území Evropské unie ruskýma zbraněma. Kdyby si našli nějaký proxy.
+  osoby:
+  - osoba: petr-bystron
+    vztah: pozitivni
+    kontext: „Kamarád", oběť falešných akcí tajných služeb
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-10-01-05
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: energetické lockdowny „letos v zimě"; přerozdělování migrantů od 2027
+  text: V zimě 2026/27 přijdou v Evropě „energetické lockdowny"; od roku 2027 začne podle migračního paktu
+    přerozdělování migrantů do ČR.
+  citace:
+  - text: Myslím si, že už letos v zimě zažijeme nějaké energetické lockdowny [...] To si myslím, že bude
+      letos v zimě.
+  predikce:
+    horizont: zima 2026/27; 2027
+    stav: ceka
+- id: vrabel-2026-10-01-06
+  typ: stoch-teror
+  temata:
+  - valka-nato-rusko
+  nadpis: území / obyvatelé EU (obecně)
+  text: 'hraniční: legitimizace proxy útoků na EU, bez konkrétního terče'
+  citace:
+  - text: Rusko by mělo v rámci reciprocity naprosto jednoznačně právo na to, aby třeba [...] někdo útočil
+      na území Evropské unie ruskýma zbraněma. Kdyby si našli nějaký proxy.
+  teror:
+    terc: území / obyvatelé EU (obecně)
+    hranicni: true

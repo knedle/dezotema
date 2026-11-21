@@ -9,6 +9,86 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 12 min, zprávy čte Zuzka; den po amerických volbách do Kongresu; Vrabel je nemocný, opakovaně
     radí „pár pytlíků rýže navíc“.
+  osoby:
+  - osoba: tomas-taraba
+    vztah: negativni
+    kontext: Přetáhl poslance, „prakticky Robert Fico skončil“; posměšky se jménem
+  - osoba: tarabova
+    vztah: negativni
+    kontext: Odrazuje lidi od jeho demonstrace 17. 11.
+  - osoba: jana-bobosikova
+    vztah: pozitivni
+    kontext: „Krásný video“ o koruně v ústavě
+  - osoba: katerina-konecna
+    vztah: negativni
+    kontext: Odchod z KSČM „její rozhodnutí“, čeká ji europoslanecká „renta“
+  - osoba: richard-stepan
+    vztah: negativni
+    kontext: „Komunistický svazák“, s dalšími napadl Sládka — „neuvěřitelný hovada“
+  - osoba: miroslav-sladek
+    vztah: pozitivni
+    kontext: „Je to lev“
+  prehled:
+  - tema: Demonstrace a stávka ČT a ČRo za nezávislost médií (3. 11.)
+    text: dokončení „přepsání“ demonstrací z roku 2022 — svoboda slova je „úplně otočená“ na boj za poplatky,
+      nepřítel je „velmi sofistikovaný“ a semele vše „jako kombajn“
+    vyrok: vrabel-2026-11-04-03
+  - tema: Demokraté ovládli Sněmovnu reprezentantů i Senát
+    text: může za to Trump (Írán, Hormuz, cla, zbraně pro Ukrajinu); lidé volili „proti Trumpovi“, střídání
+      „zla“ je „systémová chyba“, totéž v ČR; čekají pokusy o impeachment → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-04-04
+  - tema: Abdul El-Sayed prvním muslimským senátorem USA
+    text: média i politici teď budou „štvát proti Donaldu Trumpovi“.
+  - tema: Nálada po volbách, Trumpova korupce
+    text: možné vyšetřování Trumpových „kšeftů“ s cenou ropy (opakuje).
+  - tema: Trump slíbil spolupráci s demokraty, den předtím vetování
+    text: „jeden den řekne bílá, druhý den řekne černá“.
+  - tema: Trump odmítl jaderný útok na Írán, zároveň „něco velkého“
+    text: radí zásoby jídla, vody a baterií, možné výpadky proudu a internetu; útoky na mrazáky 6 000
+      francouzských supermarketů a úložiště krve, 90 dní soběstačnosti armády USA; „zima, jaro nebude
+      jednoduché“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-04-02
+  - tema: Francie si musí půjčit 350 mld. eur
+    text: „nejvíc nemocný člen“ bohatého světa, protože v eurozóně si nemůže natisknout peníze
+    vyrok: vrabel-2026-11-04-01
+  - tema: Fico ztratil většinu (přestup k Tarabovi)
+    text: „prakticky Robert Fico skončil“, splnilo se, co předpovídal; rýpne si do Lenky Tarabové, která
+      odrazuje od jeho demonstrace 17. 11.
+  - tema: Babiš u Tuska ve Varšavě, obnova V4
+    text: Babiš je „naprosto bravurní podvodník“, podpořil Tuska při „státním převratu skrze Ústavní soud“;
+      V4 nemá smysl, Babiš „podvedl celý národ“
+    vyrok: vrabel-2026-11-04-05
+  - tema: AfD ustupuje od požadavku Dexitu
+    text: „cestička ve ztracenu“ jako koruna v ústavě u Motoristů a SPD; AfD je rozdělená a může se rozpadnout
+      → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-04-06
+  - tema: 'Cvičení „koalice ochotných“ ve východním Polsku; Guardian: evropská vojska na Ukrajině by směla
+      opětovat palbu'
+    text: „cvičí na mírové záruky“ a přesouvají vojáky k Ukrajině, „nůž u krku“ Ruska; „už ve válce s
+      Ruskem jsme“; Britové na Shetlandech — dvojí metr
+    vyrok: vrabel-2026-11-04-08
+  - tema: Pohyb osob u hranice s Kaliningradem
+    text: Kaliningrad je „hora dynamitu“.
+  - tema: Írán sestřelil americký dron
+    text: „víc průhlednou válečnou propagandu“ si nelze vymyslet (opakuje).
+  - tema: 'Frederiksenová: Rusko chce ovládnout části Evropy'
+    text: „naprosto šílená rusofobka“.
+  - tema: Solovjov o ukrajinské armádě; summit USA–Rusko–Čína v Abú Zabí
+    text: pokud Rusové půjdou do Bruselu, tak „aby odnacifikovali Evropu“; velmoci si rozdělí sféry vlivu
+    vyrok: vrabel-2026-11-04-07
+  - tema: NABU vyšetřuje představitele SBU
+    text: „obrovská korupce“ (opakuje).
+  - tema: Konečná opouští KSČM
+    text: „kolečko je zakončeno“; Richard Štěpán a další jsou „neuvěřitelný hovada“ kvůli napadení Sládka,
+      Sládek „je to lev“ (opakuje).
+  - tema: Pavel podepíše smlouvu o česko-německé hranici
+    text: ČR je „protektorát znovu“ (opakuje).
+  - tema: Hackeři ohřáli úložiště krve ve Francii
+    text: neví se kdo, znovu radí pytlíky rýže.
+  - tema: Jednání v Bruselu o zárukách a obnově Ukrajiny (BlackRock)
+    text: „rozparcelování“ Ukrajiny, zaplatíme to my (opakuje).
+  - tema: Výhled
+    text: nejpozději do konce měsíce „opravdu zajímavé věci“; Evropa jako Titanic.
 vyroky:
 - id: vrabel-2026-11-04-01
   typ: tvrzeni
@@ -73,6 +153,10 @@ vyroky:
   citace:
   - text: Ne, tohle je systémová chyba, kdy lidi jsou neustále tlačení do toho, aby volili proti zlu,
       který je trápí aktuálně a zvolili zlo, které je trápilo před tím a bude je trápit znovu.
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Za prohru republikánů může sám; „jeden den řekne bílá, druhý den řekne černá“
   podtema: Politická kultura
 - id: vrabel-2026-11-04-05
   typ: tvrzeni
@@ -87,6 +171,16 @@ vyroky:
   citace:
   - text: Andrej Babiš je naprosto bravurní podvodník. Ten už rok vládne a už rok se tváří jako velký
       český vlastenec, za tím, co dělá úplný opak a pracuje pro globalisty.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Naprosto bravurní podvodník“ (analogie s ďáblem), „podvedl celý národ“, podpořil Tuska
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: Jediný „zajímavý“ ve V4, ztráta většiny „velmi špatná zpráva pro Slovensko“
+  - osoba: peter-magyar
+    vztah: negativni
+    kontext: „Absolutní globalista“, „absolutně totalitní hráč“
   podtema: Česká suverenita
 - id: vrabel-2026-11-04-06
   typ: tvrzeni
@@ -104,6 +198,10 @@ vyroky:
   - text: Zkusíme reformu Evropské unie a když to nepůjde, tak vyvoláme jednání o referendu o vystoupení
       z Evropské unie. A tohle je přesně ta cesta, kterou už znám a vím přesně, kam dopadne cestlička
       ve ztracenu.
+  osoby:
+  - osoba: alice-weidelova
+    vztah: rozporuplny
+    kontext: AfD „super strana“, ale ústup od Dexitu = „cestička ve ztracenu“
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-11-04-07
   typ: tvrzeni
@@ -119,6 +217,10 @@ vyroky:
   citace:
   - text: Ale jestli se to stane, že rusové půjdou až někam do Bruselu, tak to bude kvůli tomu, aby odnacifikovali
       Evropu, protože se jim to nepodařilo kompletně v druhý světový válce a vrátilo se jim to.
+  osoby:
+  - osoba: mette-frederiksenova
+    vztah: negativni
+    kontext: „Naprosto šílená rusofobka“
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-11-04-08
   typ: tvrzeni
@@ -137,3 +239,38 @@ vyroky:
   - text: Protože jako tady se, je to jako ve tmě dva lidi, oba dva ví, že mají pistoli, oba dva ví, že
       jsou ve tmě a oba dva předpokládají, že ten druhej se bude bránit. Jak to může dopadnout?
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-11-04-09
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: zima a jaro „nebudou jednoduché“, možné výpadky proudu a internetu
+  text: Kvůli eskalaci kolem Íránu a sérii útoků na infrastrukturu čeká Evropu těžká zima a jaro; radí
+    zásoby jídla, vody a baterií.
+  citace:
+  - text: …mám takový pocit, že tahle zima nebude úplně jednoduchá nebo minimálně zima, jaro nebude jednoduché.
+  predikce:
+    horizont: zima a jaro 2026/27
+    stav: ceka
+- id: vrabel-2026-11-04-10
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: AfD se může kvůli vnitřním rozporům rozpadnout
+  text: Po ústupu od požadavku Dexitu a kvůli sporům mezi proatlantickým křídlem a východními zeměmi se
+    AfD může rozpadnout.
+  citace:
+  - text: Dokonce si myslím, že by se klidně mohla i na základě toho někdy rozpadnout.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-11-04-11
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: koruna se do ústavy nezakotví
+  text: Návrh Motoristů a SPD zakotvit korunu v ústavě neprojde.
+  citace:
+  - text: …ve kterém říkali, že korona má být zakotvená do ústavy, což samozřejmě nebude…
+  predikce:
+    horizont: neurčeno (volební období 2025–2029)
+    stav: ceka

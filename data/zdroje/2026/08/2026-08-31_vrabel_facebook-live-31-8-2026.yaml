@@ -7,6 +7,21 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1778519469821307
   prepis: prepisy/done/2026-08-31_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Rozpočet 2027 (schodek 389 mld. Kč) — kritika „stejné vlády v jiném kabátě"
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Program „Národ sobě" (Pavel Drobil) — český klon EU Savings and Investments
+    text: → [Suverenita a EU](../suverenita-eu.md)
+  - tema: 41 mil. vakcín, 18 mil. zlikvidováno — zamlčené nežádoucí účinky jako „úmyslné zabití"
+    text: → [COVID a vakcíny](../covid-vakciny.md)
+  - tema: Ratcliffe v Moskvě
+    text: upřesnění o jednání ke summitu Trump-Putin-Zelenskyj, kritika Porošenka — nezpracováno
+  - tema: Friedrich Merz jako „nový Hitler" řízený BlackRockem
+    text: → [Konspirace](../konspirace.md)
+  - tema: Green Deal jako nástroj kontroly (opakování)
+    text: nezpracováno
+  - tema: 163 nalezených dětí na Floridě — teorie o obchodu s dětmi/Deep State
+    text: → [Konspirace](../konspirace.md)
 vyroky:
 - id: vrabel-2026-08-31-01
   typ: tvrzeni
@@ -42,6 +57,11 @@ vyroky:
     že Merzovým skutečným úkolem je dovést Německo k válce stejně, jako to (dle Vrabelovy teze) udělal
     Hitler, a že veškerá jeho zbrojní politika (výrok z roku 2023 o možném bombardování Krymského mostu
     raketami Taurus) neslouží Německu, ale zájmům BlackRocku.'
+  osoby:
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: Bývalý předseda představenstva BlackRock Deutschland — přirovnán k Hitlerovi jako loutce
+      financované globalisty k vedení Německa do války
   podtema: Náboženský a okultní výklad moci
 - id: vrabel-2026-08-31-03
   typ: tvrzeni
@@ -86,4 +106,9 @@ vyroky:
     privatizaci posledního zbylého státního majetku ve prospěch soukromých (často zahraničních) investorů.
     Ironicky glosuje samotný název „Národ sobě" jako geniální marketing pro to, co ve skutečnosti znamená
     vyvedení peněz lidí do soukromých kapes.'
+  osoby:
+  - osoba: pavel-drobil
+    vztah: negativni
+    kontext: Místopředseda ODS — návrh investičního holdingu „Národ sobě" označen za český klon EU Savings
+      and Investments a nástroj k vyvedení úspor občanů do zbrojní ekonomiky/soukromých kapes
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)

@@ -11,6 +11,68 @@ zdroj:
     sdílené klipy: Jana Bobošíková o Babišově ukrajinské klinice, Vackova tisková konference PRO z roku
     2023, Rajchlova TK k novele trestního zákoníku (20. 10.) a Witkoff u Putina; na konci soutěž o plakáty
     na pochod 17. 11.'
+  osoby:
+  - osoba: ursula-von-der-leyenova
+    vztah: negativni
+    kontext: Sankce vůči Rusku do konce války; Rusové je prý nakonec „mohli zrušit sami“
+  - osoba: radko-hokovsky
+    vztah: negativni
+    kontext: Podle něj zařídili, že on a manželka nesmějí do buddhistických center, „protože jsme nebezpeční“
+  - osoba: veronika-cerna
+    vztah: negativni
+    kontext: Podle něj zařídili, že on a manželka nesmějí do buddhistických center, „protože jsme nebezpeční“
+  prehled:
+  - tema: Babiš bude s bankami jednat o snížení sazeb hypoték, slibuje snižování schodku
+    text: „slibotechna na rok“, u Babiše platí „do roka a do dne“ opak, schodek poroste; drahé hypotéky
+      způsobil sám schodkem, teď ukazuje na banky jako dřív na pumpaře a hospodské → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-21-03
+  - tema: 'Bobošíková: Babiš je nepřímým spolumajitelem ukrajinské kliniky (Hartenberg)'
+    text: „brutální střet zájmů“, vydělává na penězích posílaných přes EU na Ukrajinu; lidé by ho měli
+      „pověsit na nástěnku největších lhářů, podvodníků“
+    vyrok: vrabel-2026-10-21-03
+  - tema: 'Rajchl: koalice zruší § 318a a upraví § 405'
+    text: Rajchl s Vackem trestnost písmene Z v roce 2023 „vymysleli“, teď „otočil kabátek“; Vrabel to
+      bere jako svůj „zářez na pažbě“, žádá omluvu a rehabilitaci všech stíhaných, pochod 17. 11. i „za
+      očištění“ politicky persekvovaných
+    vyrok: vrabel-2026-10-21-01
+  - tema: 'Von der Leyenová: energetické sankce vůči Rusku zůstanou do konce války'
+    text: sankce by si nakonec „mohli Rusové zrušit sami“.
+  - tema: 'Srbsko: blokády, výzvy ke změně hymny, nedělní volby'
+    text: kampaň studentů platí „zahraniční fondy“, globalisté investují „desítky miliard“ proti Vučićovi
+      kvůli barevné revoluci; doufá ve Vučićovo vítězství (opakuje)
+    vyrok: vrabel-2026-10-21-05
+  - tema: Witkoff u Putina, propuštění Stephena Hubbarda, mírové rozhovory nejdříve 10. 11. v Abú Zabí
+    text: „stačí jedny volby v Americe“ a Putin je „humanista“, zatímco v ČR se za totéž trestalo; tři
+      týdny „euforie“, pak atentát a válka s Evropou (opakuje predikci z 12.–13. 10.)
+    vyrok: vrabel-2026-10-21-06
+  - tema: Bundeswehr zvýšil stupeň hrozby ruských sabotáží (dron u základny Wunstorf)
+    text: dron tam mohl ležet dva roky, Vrabel to zesměšňuje jako „klasickou sabotáž ze strany Ruska“
+    vyrok: vrabel-2026-10-21-07
+  - tema: Protesty studentů a učitelů v Řecku
+    text: 10 tisíc demonstrantů je pro něj „nepovedená demonstrace“; doufá, že Řecko nedopadne jako Francie;
+      zmiňuje zákaz vstupu do buddhistických center, který mu podle něj zařídili Radko Hokovský a Veronika
+      Černá.
+  - tema: Macron slíbil zabránit nepokojům a kritizoval Trumpa
+    text: Trump má pravdu, že jde o migraci, ale USA mají stejný problém (no-go zóny); problémem není
+      ilegální, ale jakákoli migrace (třetí generace); Afričané „s mačetama“, „to mají od Mohameda“, Oslo
+      „rape city“; ponižující „návrh“ pro Macrona a jeho manželku; migrační pakt od 2027 (opakuje) → viz
+      [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-21-04
+  - tema: 'OSN: svět směřuje k vyššímu oteplení'
+    text: „bílé“ slunce, „práškování“ oblohy a americký HAARP, „krávy za to nemůžou“; návrat k národním
+      státům a soběstačnosti (opakuje) → viz [Konspirační teorie](../konspirace.md)
+  - tema: Vládní weby odstaveny kvůli zranitelnosti PHP
+    text: bez komentáře.
+  - tema: NABU provedl razii v ukrajinské centrální bance
+    text: 'ironicky: o peníze daňových poplatníků je „velmi dobře postaráno“ (Babiš, Zelenského vily a
+      jachty), zbraně se rozkradou a použijí při teroristických akcích'
+    vyrok: vrabel-2026-10-21-06
+  - tema: Maduro a jeho manželka obviněni v USA z mučení odpůrců
+    text: ⚡ Trumpa by „slíknul do naha“ na stadionu a Madurovi dal bič → viz [Stochastický teror](../stochasticky-teror.md)
+  - tema: 'Zelenskyj pro Fox News: přijal by zmrazení fronty'
+    text: Ukrajina dostává 12 Patriotů měsíčně, nemá vojáky ani protivzdušnou obranu; zmrazení jen kvůli
+      bezpečnostním zárukám = vojska NATO na Ukrajině = válka s Ruskem (opakuje)
+    vyrok: vrabel-2026-10-21-06
 vyroky:
 - id: vrabel-2026-10-21-01
   typ: tvrzeni
@@ -35,6 +97,20 @@ vyroky:
   citace:
   - text: Oni se musí omluvit všem, který zatkli, musí se omluvit všem, který odsoudili a musí všechny
       rehabilitovat.
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Posranec“, „hajzl“, „velmi rychle proměnný objekt“; s Vackem v roce 2023 „vymyslel“ trestnost
+      písmene Z, teď „otočil kabátek“
+  - osoba: hamplova
+    vztah: negativni
+    kontext: „Fuj“; s Rajchlem po covidovém semináři chválila Babiše jako „velkého politika“
+  - osoba: lubos-volny
+    vztah: pozitivni
+    kontext: Patří mezi politicky stíhané, kteří mají být rehabilitováni a dostat omluvu
+  - osoba: katka-blahnikova
+    vztah: pozitivni
+    kontext: Patří mezi politicky stíhané, kteří mají být rehabilitováni a dostat omluvu
   podtema: Trestání politického projevu
 - id: vrabel-2026-10-21-03
   typ: tvrzeni
@@ -48,6 +124,16 @@ vyroky:
     Babišův záměr jednat s bankami o nižších sazbách hypoték kvůli jejich ziskům a vyzvat obce, aby ukládaly peníze u ČNB, Vrabel vykládá jako typický postup „klasického komouše“: drahé hypotéky podle něj způsobil sám schodkem rozpočtu, který zvedl sazby ČNB (to prý předpověděl „první den“), a teď ukazuje na banky, stejně jako dřív na pumpaře a v roce 2015 na hospodské. Babiš je podle něj „slibotechna na rok“ a jeho slib snižovat deficit znamená opak (viz [Predikce](predikce.md)). Připomíná, že Babiš je sedmý nejbohatší Čech a začínal s penězi, které mu podle něj „posehnal“ otec po „kamarádech komunistech“.
   citace:
   - text: Měli by ho lidi normálně pověsit na nástěnku největších lhářů, podvodníků České republice.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Slibotechna“, „klasický komouš“, „lump“, „podvodník nejvyššího kalibru“ v „brutálním střetu
+      zájmů“ (ukrajinská klinika); lidé by ho měli „pověsit na nástěnku největších lhářů“; lže o migračním
+      paktu
+  - osoba: jana-bobosikova
+    vztah: pozitivni
+    kontext: „Vynikající novinářka“, odhalila Babišův podíl na ukrajinské klinice; v politice podle něj
+      „průšvih“
 - id: vrabel-2026-10-21-04
   typ: tvrzeni
   temata:
@@ -58,6 +144,15 @@ vyroky:
     **21. 10.** — K Macronovu slibu zabránit dalším nepokojům a k jeho kritice Trumpa Vrabel říká, že Trump to „pojmenoval správně“, Francie hoří kvůli migraci, ale USA mají stejný problém: podle jednoho „experta“ vznikají no-go zóny i v Detroitu. Odmítá mluvit o „ilegální migraci“: největší problémy jsou podle něj s druhou a třetí generací přistěhovalců z islámských zemí, kteří jsou francouzskými občany, a většina nových migrantů dostala razítko, že jsou legální; „ten problém je migrace“ a odlišná kultura. Lidé z Eritreje, Somálska či Rwandy podle něj vyrůstají „s mačetama v rukách“ a v Evropě vidí „slabý, vyčpělí, vycuclí Evropany“; v islámských zemích si podle něj nezakrytou ženu „vezmou“, „to prostě už mají od Mohameda“ (viz [Stochastický teror](stochasticky-teror.md)). Oslo označuje za „rape city“ s tvrzením, že v roce 2004 tam ze 4 tisíc nahlášených znásilnění nespáchal ani jedno původní obyvatel. Francouzské občany už podle něj vyhostit nelze, ČR ale může „dostat pryč Ukrajince“, kteří mají jen dočasnou ochranu: nedat jim občanství a poslat je budovat svou zemi, „klidně bych jim dal i nějaký peníze, jenom ať odjedou“; jinak s vládou, jako je Babišova, „už nikdy nebude Česká republika Česká“. Babiš podle něj „lže“, že vláda odmítla migrační pakt, který je právně závazný, a od roku 2027 sem budou jezdit lidé „se stejnou mentalitou“ jako ti, kdo podpalují Francii (opakuje z 19. 10.). Jediným řešením je od roku 2015 „vystoupit z Evropské unie a zavřít hranice“. Macrona, „který zlikvidoval Francii“, zesměšňuje transfobním „návrhem“, aby ho na pařížském stadionu před lidmi „tloukla“ jeho manželka (viz [Stochastický teror](stochasticky-teror.md)): „Prostě ty lidi se budou smažit v pekle.“
 
     ⚡ **Poznámka:** Údaj o 4 tisících znásilnění v Oslu v roce 2004 Vrabel nedokládá.
+  osoby:
+  - osoba: emmanuel-macron
+    vztah: negativni
+    kontext: Prezident, „který zlikvidoval Francii“; ponižující „návrh“ na veřejné bití manželkou, „budou
+      se smažit v pekle“
+  - osoba: donald-trump
+    vztah: rozporuplny
+    kontext: Nepokoje ve Francii „pojmenoval správně“ (migrace), USA ale mají stejný problém; kvůli stíhání
+      Madura by ho „slíknul do naha“ a nechal zbičovat
 - id: vrabel-2026-10-21-05
   typ: tvrzeni
   temata:
@@ -73,6 +168,11 @@ vyroky:
     se my měli učit od Srbska“; Vrabel doufá v jeho vítězství. Referendum o vstupu do EU, které studenti
     slibují, by podle něj neprošlo a uznat nezávislost Kosova by si nikdo netroufl, protože by se „musel
     bát, aby ho nepověsili“.'
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Doufá v jeho vítězství; jeho politika (bez sankcí, neutralita, suverenita) je vzorem pro
+      ČR
   podtema: Česká suverenita
 - id: vrabel-2026-10-21-06
   typ: tvrzeni
@@ -97,6 +197,14 @@ vyroky:
     akcích“: „Doufám, že to nebude proti českému obyvatelstvu.“'
   citace:
   - text: Stačí jedny volby v Americe a podívejte, Putin je humanista.
+  osoby:
+  - osoba: steve-witkoff
+    vztah: neutralni
+    kontext: Jeho označení Putina za „humanitáře“ jako doklad obratu po jedněch amerických volbách
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Za peníze daňových poplatníků si kupuje podíl v investiční bance, hotely, jachty a vily;
+      zmrazení fronty jen kvůli vojskům NATO
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-10-21-07
   typ: tvrzeni
@@ -111,3 +219,59 @@ vyroky:
     je klasika Rusové“. Ironicky navrhuje vyhlásit „válečný stav“, protože „dva roky tady leží nějakej
     dron“; navazuje na své tvrzení z 19. 10., že hybridní hrozba „se nezvyšuje“.'
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-10-21-08
+  typ: predikce
+  temata:
+  - kauzy
+  nadpis: schodek rozpočtu se místo slíbeného snižování bude zvyšovat
+  text: 'Babišův slib, že vláda bude v dalších letech snižovat deficit o desítky miliard ročně, se podle
+    něj „do roka a do dne“ obrátí: schodek se nebude snižovat, ale zvyšovat.'
+  citace:
+  - text: Do roka a do dne prostě uvidíte, že u Andreje Babiše to bude úplně obrácené.
+  predikce:
+    horizont: do roka (rozpočet na rok 2028)
+    stav: ceka
+- id: vrabel-2026-10-21-09
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: Donald Trump
+  text: fantazie o veřejném zbičování jako trestu za stíhání Madura v USA
+  citace:
+  - text: Jako za tohleto bych Trumpa normálně slíknul do naha. Postavil bych ho na nějaký takovej jako
+      fotbalovej stadion, aby tam byly lidi. Madurovi bych dal bič.“ / „A nechal bych toho Madura, aby
+      si to s ním vyříkal.
+  osoby:
+  - osoba: nicolas-maduro
+    vztah: pozitivni
+    kontext: Soucit s ním a s jeho manželkou, kterou podle něj při zatýkání mučili
+  teror:
+    terc: Donald Trump
+    hranicni: false
+- id: vrabel-2026-10-21-10
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: Emmanuel a Brigitte Macronovi
+  text: transfobní dehumanizace a fantazie o veřejném bití jako podívané; hraniční
+  citace:
+  - text: Stačilo by, kdyby vzali největší fotbalovej stadion v Paříži… a on by si stoupnul do prostředka
+      s jeho manželkou… s Michaelem předělanýho na ženu, a ten by ho tam prostě tlouk. A myslím si, že
+      to by se lidem líbilo.“ / „Prostě ty lidi se budou smažit v pekle.
+  teror:
+    terc: Emmanuel a Brigitte Macronovi
+    hranicni: true
+- id: vrabel-2026-10-21-11
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: migranti z Afriky a islámských zemí
+  text: 'Terč: migranti z Afriky a islámských zemí.'
+  citace:
+  - text: Lidé z Eritreje, Somálska či Rwandy „vyrostly na mačetách“; „když není pořádně zakrytá, anebo
+      je to nějaká Evropanka… obnažená, no tak si ji vezmou. To prostě už mají od Mohameda.“ / Oslo jako
+      „rape city“, kde znásilnění páchají jen migranti — plošné vykreslení skupiny jako násilníků, bez
+      výzvy k násilí; hraniční, navazuje na 15. a 17. 10.
+  teror:
+    terc: migranti z Afriky a islámských zemí
+    hranicni: true

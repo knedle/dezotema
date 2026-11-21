@@ -20,6 +20,29 @@ zdroj:
     pasáž o investicích (kryptoměny, zlato, stříbro, nemovitosti) nezpracována jako mimo tematický rozsah
     wiki. Bez predikcí (mimo dřívější) a stoch. teroru. První pravidelné nedělní vysílání od 21 h, volná
     diskuse/Q&A s diváky'
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: rozporuplny
+    kontext: Objekt vlastního snu o zabití — nakonec „nezabil", protože by ho systém stejně nahradil jiným
+      (Zalužný)
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Model vojenské neutrality + obchodu se všemi bloky (270 tis. lidí na shromáždění) — vzor
+      pro zahraniční politiku ČR
+  prehled:
+  - tema: 'Zpracováno 8 témat: (1) Film Citizen Vigilant + sen o zabití Zelenského'
+    text: '„systém, ne člověk" — [politicky-system.md](../politicky-system.md). (2) ⚡ Konflikt: odmítá
+      Rajchlův návrh na odebrání Řádu bílého lva jako prázdné gesto — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (3) Vondráčkovo „odebrání pravomocí prezidenta" jako mediální manipulace — [politicky-system.md](../politicky-system.md).
+      (4) Hodnocení AfD jako „jediné alternativy"'
+  - tema: SPD/Okamura „falešná karta"
+    text: '[suverenita-eu.md](../suverenita-eu.md). (5) Konkrétní návrh zahraniční politiky ČR podle vzoru
+      Srbska — [valka-nato-rusko.md](../valka-nato-rusko.md). (6) Doplnění BRICS bezpečnostního paktu
+      o vlastní postoj (zdrženlivost) — [valka-nato-rusko.md](../valka-nato-rusko.md). (7) Konkretizace
+      distribuce jaderných zbraní v Evropě (UK→Německo, Francie→Polsko) — [jaderne-zbrane.md](../jaderne-zbrane.md).
+      (8) Von der Leyenové 40% rozpočet — doplněn jako zdroj — [suverenita-eu.md](../suverenita-eu.md).
+      Rozsáhlá pasáž o investicích (kryptoměny, zlato, stříbro, nemovitosti) nezpracována jako mimo tematický
+      rozsah wiki. Bez predikcí (mimo dřívější) a stoch. teroru.'
 vyroky:
 - id: vrabel-2026-07-05-01
   typ: tvrzeni
@@ -35,6 +58,15 @@ vyroky:
     o odebrání Zelenského vyznamenání (viz [Rajchlův návrh na odebrání Řádu bílého lva](valka-ukrajina-prubeh.md#formální-návrh-na-odebrání-řádu-bílého-lva-zelenskému-jednomyslná-podpora-spd-pozitivní-reakce-polska-a-slovenska-rajchl-5-7-2026))
     — jde o „líbivé řeči" a mediální divadlo, které odvádí pozornost od skutečně zásadních jednání (jaderné
     zbraně, peníze pro Ukrajinu, členství v NATO).'
+  osoby:
+  - osoba: rajchl
+    vztah: rozporuplny
+    kontext: Návrh na odebrání Řádu bílého lva Zelenskému označen za „jenom líbivé řeči" bez reálného
+      efektu
+  - osoba: libor-vondracek
+    vztah: negativni
+    kontext: 'Prosadil změnu prezentovanou jako „odebrání pravomocí prezidenta" — Vrabel: jde jen o formální
+      přesun jmenovacího úkonu, mediální manipulace'
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: vrabel-2026-07-05-02
   typ: tvrzeni
@@ -70,6 +102,14 @@ vyroky:
     na rozdíl od jiných stran po zvolení nezradila voličům slibovanou politiku. Kontrastuje to s SPD:
     přestože v ní má osobní přátele, označuje ji za absolutně centrálně řízenou stranu, kde si žádný poslanec
     netroufne jít proti Tomiu Okamurovi — toho samotného nazývá „falešnou kartou".'
+  osoby:
+  - osoba: alice-weidelova
+    vztah: pozitivni
+    kontext: Její projev na sjezdu AfD Vrabel označuje za velmi blízký vlastnímu pohledu na politiku
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: „Falešná karta" — SPD je absolutně centrálně řízená strana, nikdo si netroufne jít proti
+      němu
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-07-05-04
   typ: tvrzeni

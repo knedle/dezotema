@@ -14,6 +14,36 @@ zdroj:
     — tokenizace světa (BlackRock, Visa, NVIDIA, Musk); OSN reforma — Írán volá po reformě Rady bezpečnosti;
     UN expert Alfred Sayas — USA by se měly omluvit za biolaboratoře na Ukraině; chemtrails = těžké kovy;
     větrníky 60 kg nanočástic; Green Deal kritika; ČR by měla vystoupit z EU.'
+  osoby:
+  - osoba: bernd-posselt
+    vztah: negativni
+    kontext: „Přetlustá karikatura Hitlera" — opakovaně takto označen v kontextu sudetoněmeckých sjezdů
+      a Macinkovy omluvy v Berlíně; Rajchl tuto formulaci po Vrabelovi přebírá
+  prehled:
+  - tema: 'Večerní zprávy s komentářem. Témata: Landsmannschaft sjezd Brno'
+    text: Posselt jako „přetlustý Hitler"
+  - tema: USA zrušilo 4 000 vojáků do Polska
+    text: USA zrušilo 4 000 vojáků do Polska
+  - tema: Rubio o Ukraině jako nejsilnější EU armádě
+    text: Rubio o Ukraině jako nejsilnější EU armádě
+  - tema: Lavrov BRICS
+    text: jazykové právo, Ukraina 4× MMF limit
+  - tema: Ukraina prodej přístavu Černomorsk cizím investorům
+    text: Ukraina prodej přístavu Černomorsk cizím investorům
+  - tema: Trump-Čína
+    text: tokenizace světa (BlackRock, Visa, NVIDIA, Musk)
+  - tema: OSN reforma
+    text: Írán volá po reformě Rady bezpečnosti
+  - tema: UN expert Alfred Sayas
+    text: USA by se měly omluvit za biolaboratoře na Ukraině
+  - tema: chemtrails = těžké kovy
+    text: chemtrails = těžké kovy
+  - tema: větrníky 60 kg nanočástic
+    text: větrníky 60 kg nanočástic
+  - tema: Green Deal kritika
+    text: Green Deal kritika
+  - tema: ČR by měla vystoupit z EU.
+    text: ČR by měla vystoupit z EU.
 vyroky:
 - id: vrabel-2026-05-18-03
   typ: tvrzeni

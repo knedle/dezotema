@@ -19,4 +19,13 @@ vyroky:
     Video sdílené Lenkou Tarabovou (text čte René Kanský) mapuje strukturu spolku Milion chvilek pro demokracii: Mikuláš Minář se vrátil do funkce předsedy na podzim 2024 po odchodu v roce 2020. V období přípravy politické kandidatury (říjen 2020 – březen 2021) bylo ze spolku Spolek pro ČR vyvedeno téměř 5,8 milionu Kč; Minář si devět dní před oznámením nekandidatury odebral posledních 500 000 Kč. Celkem 2,5 milionu CZK do spolku poslal investor Jan Barta. Milion chvilek má průhledný účet pro dary, ale platby zaměstnancům probíhají z jiného, neveřejného účtu. Regionální koordinátoři jsou propojeni s Hnutím starostové, organizacemi Zbraně pro Ukrajinu a konsorciem Business Club Ukrajina.
 
     > „Provázánost mezi členy vedení, regionálními lídry a politickými neziskovkami je až neskutečná." — čteno René Kanským, [Chvilkařská chobotnice 2026-03-27](_zdroje.md#lenka-tarabová--chvilkařská-chobotnice)
+  osoby:
+  - osoba: mikulas-minar
+    vztah: negativni
+    kontext: Šéf Milionu chvilek, hnutí kritizováno za neprůhledné financování a napojení na neziskový
+      sektor
+  - osoba: jan-barta
+    vztah: negativni
+    kontext: Investor, který poslal 2,5 mil. Kč do Spolku pro podporu liberální demokracie ČR propojeného
+      s Mináři
   podtema: Milion chvilek — struktura a financování

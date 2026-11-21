@@ -24,3 +24,17 @@ vyroky:
     založit novou politickou stranu s názvem „Kult", jejímž cílem má být zotročení celé planety. Dodává,
     že plánované srpnové setkání v Dublinu bylo po úniku informací zrušeno hotelem a nové místo/datum
     zatím není známo.'
+  osoby:
+  - osoba: peter-thiel
+    vztah: negativni
+    kontext: Zakladatel Palantiru (sledování obyvatelstva pro americký vojenský průmysl) a elitního klubu
+      „Dialog", který se má 20 let snažit řídit „třetí světovou válku" a plánovat zotročení planety
+  - osoba: elon-musk
+    vztah: negativni
+    kontext: Uveden jako člen elitního klubu „Dialog"
+  - osoba: jared-kushner
+    vztah: negativni
+    kontext: Uveden jako člen klubu „Dialog", označen za sionistu
+  - osoba: kaja-kallas
+    vztah: negativni
+    kontext: Uvedena jako členka klubu „Dialog"

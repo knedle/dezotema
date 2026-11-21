@@ -12,6 +12,11 @@ zdroj:
     V4 shoda, Pavel/Ankara, Hřib útoky na poslankyně, Rada ČT (Rakušan vs. Matocha/Bradáč), Dozimetr komise
     (systémové selhání), selhání médií (ČT/Seznam), rozsudek SPD + migrace, emisní povolenky („válka"),
     ekonomická strategie PRO. Pozvánka na seminář o větrnících (logistika).'
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: Pojmenoval jednotku po UPA = „adorace neonacismu" — měl by mu být odebrán řád Bílého lva;
+      ČR mlčí, na rozdíl od Polska
 vyroky:
 - id: rajchl-2026-06-07-01
   typ: tvrzeni
@@ -57,6 +62,11 @@ vyroky:
     čin zneužití pravomoci (a stejně tak u toho, kdo informace předal). Rajchl proto vyzývá Rakušana,
     aby do vyjasnění složil mandát — stejnou logikou, jakou STAN uplatnil na Matochu a Bradáče. Navazuje
     na [Rakušanův dvojí metr (22. 4.)](#parlamentní-vyšetřovací-komise-zablokována-rakušanův-dvojí-metr-22-4-2026).'
+  osoby:
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: Z přepisu nahrávky plyne, že měl informace z živého policejního spisu (zneužití pravomoci)
+      — Rajchl ho vyzývá složit mandát (dvojí metr vůči Matochovi/Bradáčovi)
   podtema: Kauza Ladislav Vrabel — dotační podvod
 - id: rajchl-2026-06-07-04
   typ: tvrzeni
@@ -70,6 +80,11 @@ vyroky:
     na to, že se „od rána do večera" řeší byt poslankyně Mrázové či moštárna Filipa Turka (drobnosti),
     zatímco velké kauzy (Rakušanův předražený nákup vrtulníků odhalený analýzou Tomáše Pauknera, spackaný
     nákup F-35) zůstávají bez pozornosti.
+  osoby:
+  - osoba: tomas-paukner
+    vztah: pozitivni
+    kontext: „Vycházející hvězda" investigativní žurnalistiky — analýza předražených vrtulníků nakoupených
+      Rakušanem těsně před volbami
   podtema: Nová alternativní média
 - id: rajchl-2026-06-07-05
   typ: tvrzeni
@@ -84,6 +99,11 @@ vyroky:
     (3) absolutní zákaz vstupu politických neziskovek (propagace transgenderu, klimatu, strašení Ruskem).
     Pavlovy výroky (euro, zrušení práva veta chránícího malé státy, Spojené státy evropské) označuje za
     snahu zrušit suverenitu ČR a za důvod, proč ho v roce 2028 nemít na Hradě.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Indoktrinace dětí" ve škole v Kunovicích (hybridní válka s Ruskem i po Ukrajině); tlak na
+      cestu do Ankary = „umanutost" bez přínosu pro ČR
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-06-07-06
   typ: tvrzeni
@@ -105,6 +125,11 @@ vyroky:
     politiky Motoristů (Adam Scheina, František Kubásek na MŽP) kvůli věku a chybějící maturitě, ač jde
     o schopné influencery, kteří si sami vybudovali silnou základnu — zatímco když kritiku mladých vznese
     Rajchl, spustí se „ohňostroj".'
+  osoby:
+  - osoba: zdenek-hrib
+    vztah: negativni
+    kontext: Osobní útoky na poslankyně (Mrázová, Válková) — pirátský klub jim tleskal; příklad dvojího
+      metru Pirátů (kritika „útoků na ženy a mladé")
   podtema: Ekonomický program PRO
 - id: rajchl-2026-06-07-08
   typ: tvrzeni
@@ -151,4 +176,9 @@ vyroky:
     Green Dealu, emisních povolenek a migrace i na odmítnutí adorace UPA. Nawrocki navíc slibuje referendum
     o Green Dealu. V ČR podle Rajchla naopak řada stran „podkopává českou suverenitu". Tuto shodu napříč
     spektrem označuje za to, co Polákům a Maďarům umožňuje hájit národní zájmy.
+  osoby:
+  - osoba: karol-nawrocki
+    vztah: pozitivni
+    kontext: 'Polský prezident — vzor: referendum o Green Dealu, ne migraci, návrh odebrat Zelenskému
+      řád Bílé orlice; shoda napříč polským spektrem na národních zájmech'
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)

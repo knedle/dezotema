@@ -10,6 +10,27 @@ zdroj:
   poznamka: 'Livestream shromáždění (2 h 49 min). Řečníci: I. Kratochvíl, P. Krejčík, J. Kupčík, K. Rybářová,
     T. Hrdlička, P. Bureš, V. Vítová, L. Křivánková, L. Beňovský, A. Šulc, VK (Aeronet). Úseky [00:01–08:12],
     [1:03:23–1:04:51] a závěr hudba / halucinace přepisu.'
+  osoby:
+  - osoba: ivan-kratochvil
+    vztah: pozitivni
+    kontext: Řečník — jaderný deštník jako terč
+  - osoba: petr-hajek
+    vztah: negativni
+    kontext: „Politruk", Klausův poradce, „kádruje hnutí"
+  prehled:
+  - tema: Tři výzvy vládě a parlamentu
+    text: jaderné zbraně, zmocněnec pro mír, zákaz vývozu zbraní
+    vyrok: vrabel-2026-10-03-06
+  - tema: Historie hnutí, „odevzdání moci" ve volbách 2025
+    text: Babiš „EU patriot", „jsme ve válce — válečná daň"
+    vyrok: vrabel-2026-10-03-08
+  - tema: Nevěřte těm, kdo zklamali
+    text: Raptor TV, spolek „za mými zády", muž z demonstrace 2022.
+  - tema: 'Kusturica: Rusko brání svobodu světa'
+    text: USA „trýznitel světa".
+  - tema: Ostatní řečníci
+    text: Kratochvíl (francouzský deštník = terč), VK (konflikt kolem 2030), Vítová, Beňovský („EU je
+      nihilismus"), Hrdlička, Rybářová, Bureš aj.
 vyroky:
 - id: vrabel-2026-10-03-06
   typ: tvrzeni
@@ -46,4 +67,25 @@ vyroky:
     za 50 let zažil".'
   citace:
   - text: Jestli vás někdo jednou zklamal, tak mu nevěřte. Jestli vás zklamal hodně, tak mu nevěřte vůbec.
+  osoby:
+  - osoba: emir-kusturica
+    vztah: pozitivni
+    kontext: „Velmi silná osobnost" — Rusko brání svobodu světa
+  - osoba: josef-kupcik
+    vztah: pozitivni
+    kontext: „Komunista přesvědčením, vážím si ho"
   podtema: Politická kultura
+- id: vk-2026-10-03-01
+  typ: predikce
+  temata:
+  - jaderne-zbrane
+  nadpis: otevřený konflikt EU s Ruskem kolem roku 2030
+  text: Na shromáždění 3. 10. řečník „VK" předpověděl, že kolem roku 2030 se vyčerpaná Ukrajina neudrží
+    a na frontu přijdou vojáci EU; Vrabel to označil za „dost optimistický" výhled.
+  citace:
+  - text: V roce 2030 vyčerpaná Ukrajina se nedokáže podržet na frontových liniích. Přijdou tam vojáci
+      Evropské unie.
+  mluvci: vk
+  predikce:
+    horizont: '2030'
+    stav: ceka

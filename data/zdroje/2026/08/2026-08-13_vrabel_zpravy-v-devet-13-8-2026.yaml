@@ -16,6 +16,41 @@ zdroj:
     Kuba, rozpočet USA na obranu, USS Abraham Lincoln, Zelenskyj/rakety, Varšava přehlídka, Libanon/Velký
     Izrael, USA elektrošokové rukavice, zemědělství ČR/Srbsko, IKEM útok) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md).
     Predikce (AFD jako SPD, ČR chudší za 20 let) extrahovány bezvýjimečně; bez stoch. teroru.'
+  prehled:
+  - tema: Zelenskyj
+    text: nové návrhy na ukončení války, USA nedostatečný tlak na Moskvu — nezpracováno (opakování zavedené
+      predikce ruského vítězství)
+  - tema: Sevastopol
+    text: výbuch zabil ruského důstojníka (sabotáž) — nezpracováno
+  - tema: Německá reforma zpravodajských služeb jako nástroj proti AFD, ne proti „hybridním hrozbám"
+    text: → [Digitální kontrola](../digitalni-kontrola.md)
+  - tema: Hormuzský průliv
+    text: spor Írán vs. USA o kontrolu, teorie o Trumpovi jako nástroji Deep State/Chabad-Lubavič — nezpracováno
+  - tema: Ceuta — zdravotní a bezpečnostní krize, organizovaná islamizace
+    text: → [Migrace](../migrace.md)
+  - tema: Rotterdam — koordinované útoky na energetickou infrastrukturu
+    text: → [Konspirační teorie](../konspirace.md)
+  - tema: Kuba
+    text: USA nevylučuje vojenskou operaci, kritika amerického imperialismu — nezpracováno
+  - tema: USA rozpočet na obranu 1,5 bilionu $
+    text: kritika USA jako „válečné mašinérie" — nezpracováno
+  - tema: Letadlová loď USS Abraham Lincoln
+    text: vyčerpaná posádka, kritika americké armády — nezpracováno
+  - tema: Agenda 2030 — jediná reálná cesta jsou protesty, ne volby; sebereflexe k roku 2022
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Zelenskyj žádá USA o víc raket (dostává jen 1 %)
+    text: „karma" teorie — nezpracováno
+  - tema: Varšava
+    text: vojenská přehlídka 15. 8., Ukrajinci nepozváni — teorie o nadnárodní globalistické armádě —
+      nezpracováno
+  - tema: Libanon
+    text: Izrael obviněn ze zakládání požárů, souvislost s projektem „Velký Izrael" — nezpracováno
+  - tema: USA
+    text: nákup elektrošokových rukavic pro imigrační úřad — nezpracováno
+  - tema: Zemědělská politika EU vs. Srbsko
+    text: potravinová soběstačnost, zákaz GMO — nezpracováno
+  - tema: IKEM
+    text: útok sekyrou mezi zaměstnanci (pervitin), glosa o politicích na kokainu — nezpracováno
 vyroky:
 - id: vrabel-2026-08-13-01
   typ: tvrzeni
@@ -37,6 +72,15 @@ vyroky:
     veřejné mediální napadení bývalým ředitelem BIS, prohlášení manželky za „bezpečnostní ohrožení státu"
     bez možnosti obrany) a se šikanou europoslance AFD Petra Bystroně (šest domovních prohlídek, vykonstruované
     trestní stíhání člena vedení AFD, který skončil ve vězení).
+  osoby:
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: Německý kancléř označen za bývalého šéfa představenstva BlackRock Deutschland — „absolutní
+      globalista", nehájící německé zájmy; reforma zpravodajských služeb pod jeho vládou míří proti AFD
+  - osoba: petr-bystron
+    vztah: pozitivni
+    kontext: Europoslanec AFD, osobní kamarád Vrabela (společně strávený čas v Praze i Bělehradě) — líčen
+      jako terč šikany německých tajných služeb (šest domovních prohlídek), srovnáváno s vlastním pronásledováním
 - id: vrabel-2026-08-13-02
   typ: tvrzeni
   temata:
@@ -87,3 +131,26 @@ vyroky:
     prognózou: pokud lidé nezareagují masovým odporem, je pravděpodobnější, že Agenda 2030 projde a ČR
     bude za 20 let jednou z chudších zemí světa, stejně jako celá Evropa.'
   podtema: USA — volební systém
+- id: vrabel-2026-08-13-05
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: AFD v Německu skončí jako SPD v ČR — silné řeči bez skutečné změny
+  text: Vrabel odhaduje více než 75% pravděpodobnost, že německá AFD (podobně jako Marine Le Pen ve Francii
+    nebo Nigel Farage v Británii), i přes současné vedení v předvolebních průzkumech, po případném zvolení
+    nedodrží svá suverenistická hesla a skončí podobně jako SPD v ČR — silné řeči bez reálné politické
+    změny.
+  predikce:
+    horizont: neurčeno (vztahuje se k příštím německým volbám)
+    stav: ceka
+- id: vrabel-2026-08-13-06
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: bez masového odporu bude ČR za 20 let jednou z chudších zemí světa
+  text: Pokud lidé nezareagují masovým občanským odporem proti globalistické agendě (Agenda 2030), Vrabel
+    předpovídá, že tato agenda „projde" a Česká republika bude za 20 let jednou z chudších zemí světa,
+    stejně jako celá Evropa.
+  predikce:
+    horizont: ~2046 (20 let)
+    stav: ceka

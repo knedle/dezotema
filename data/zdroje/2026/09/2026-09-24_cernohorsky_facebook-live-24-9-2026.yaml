@@ -11,6 +11,16 @@ zdroj:
     Čermáka, Tušl a Zítko (údajné udání), spolek, PHM a omluva Komínkovi, korupce na Ukrajině, příměří
     a „oříšky", proruská propaganda neexistuje, von der Leyenová, Vlasáková, volební kampaně (vlastní
     kandidatura Restart pro Brno), Volyň a Zelenskyj, premiérský program.
+  osoby:
+  - osoba: milos-kominek
+    vztah: pozitivni
+    kontext: Omlouvá se mu — měl pravdu o cenách PHM na Slovensku
+  - osoba: roman-maca
+    vztah: negativni
+    kontext: Tvrdil, že jeho spolek financuje Kreml; homofobní urážky
+  - osoba: tomas-lukavec
+    vztah: pozitivni
+    kontext: Rozhovor o von der Leyenové
 vyroky:
 - id: cernohorsky-2026-09-24-01
   typ: tvrzeni
@@ -36,6 +46,10 @@ vyroky:
     dětí kvůli adrenochromu, obchod s orgány, kanibalismus a satanistické obřady — „tohle všechno se děje".
     Von der Leyenovou by podle svých slov „flusnul do ksichtu" a udeřil, označuje ji za „svini", která
     by „měla být popravena" a spolu s dalšími „nemá právo na život". Viz [Stochastický teror](stochasticky-teror.md).
+  osoby:
+  - osoba: ursula-von-der-leyenova
+    vztah: negativni
+    kontext: „Měla by být popravena"
   podtema: Náboženský a okultní výklad moci
 - id: cernohorsky-2026-09-24-03
   typ: tvrzeni
@@ -54,6 +68,13 @@ vyroky:
     kterému podle fotky naslouchalo „asi osm lidí".
   citace:
   - text: Do prdele, kde je ta proruská propaganda?
+  osoby:
+  - osoba: rajchl
+    vztah: rozporuplny
+    kontext: „Není s ním za dobře", ale hájí jeho právo na názor proti Strakatému
+  - osoba: cestmir-strakaty
+    vztah: negativni
+    kontext: Nazval Rajchla „posrancem"; „parazit"
   podtema: Nová alternativní média
 - id: cernohorsky-2026-09-24-04
   typ: tvrzeni
@@ -65,6 +86,13 @@ vyroky:
     Černohorský vítá podmíněné propuštění Tomáše Čermáka, kterého zná od „Jízd za svobodu" (2020). Trest (prakticky šest let) považuje za nepřiměřený ve srovnání s podmínkami pro „Ukroše", násilníky a pedofily: státní zástupce podle něj pracoval „s předpokladem, ne s fakty", že se slovní projevy promění v násilí, a z Čermáka i Tušla chtěli udělat „zářný příklad, aby si každej dával pozor na tu hubu" — i přesto, že „tady máme dneska totalitu a za Rakušana, za tohoto gestapáka". Čermákovi ale připisuje i díl vlastní viny a hlavním viníkem jeho uvěznění je podle něj Tušl („kdyby nebylo Tušla, Tomáš Čermák nikdy v kriminálu nebude"); o termínu soudu věděl přes rodinu přes měsíc předem, ale mlčel, aby se neopakovaly výstupy Zítka, Petrkové a Malého u soudů. Navazuje na svůj výčet [politické perzekuce](#systematická-perzekuce-kritiků--selektivní-uplatňování-práva-černohorský-17-5-2026).
 
     ⚡ **Konflikt:** Pavel Zítko (ČsTV2) tvrdí, že propuštěný muž nebyl skutečný Čermák, ale dvojník, a udání odmítá — viz [kauzy.md](kauzy.md#propuštění-údajného-tomáše-čermáka-jako-sehraný-justiční-podvod-s-dvojníkem-zítko-2427-9-2026).
+  osoby:
+  - osoba: tomas-cermak
+    vztah: pozitivni
+    kontext: Raduje se z propuštění, trest nepřiměřený; přiznává mu i vlastní vinu
+  - osoba: petrkova
+    vztah: negativni
+    kontext: Údajně udala Čermáka spolu se Zítkem
   podtema: Politická perzekuce
 - id: cernohorsky-2026-09-24-05
   typ: tvrzeni
@@ -85,6 +113,10 @@ vyroky:
     se toho nedožije". Vlastní spolek podle něj má na účtu 700–750 tisíc Kč určených na pomoc lidem; z
     darů si prý jen dvakrát proplatil naftu. Úvod vysílání tvoří satirická parodie Zítkových příznivců
     („Franta Novák" „potvrzuje", že propuštěný Čermák je klon).'
+  osoby:
+  - osoba: zitko
+    vztah: negativni
+    kontext: „Vychcanej" manipulátor, „s největší pravděpodobností" udal Čermáka
   podtema: USA — volební systém
 - id: cernohorsky-2026-09-24-06
   typ: tvrzeni
@@ -110,6 +142,10 @@ vyroky:
     OSPOD, policie, psychiatričky, GIBS, soudu i státního zastupitelství (o dva dny dříve mluvil o tom,
     že se ředitelka a učitelka „spikly s OSPODem", aby jí vzali děti). Video Jarči Křivákové o praktikách
     policie podle něj „stoprocentně" říká pravdu.
+  osoby:
+  - osoba: tereza-vlasakova
+    vztah: pozitivni
+    kontext: Oběť „spiknutí" úřadů
   podtema: Šmírování dětí státem
 - id: cernohorsky-2026-09-24-08
   typ: tvrzeni
@@ -157,6 +193,16 @@ vyroky:
     vláda. Trumpa nazývá „kryplem", protože sliboval konec války do týdne. Viz [predikce](predikce.md).'
   citace:
   - text: Neskončí do té doby, dokud nebude Ukrajina poražena na hlavě.
+  osoby:
+  - osoba: sergej-lavrov
+    vztah: pozitivni
+    kontext: Odmítnutí příměří považuje za rozumné
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: Odmítnutí příměří považuje za rozumné
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: „Krypl" — nesplnil slib ukončit válku do týdne
   podtema: Zahraniční aktéři a precedenty
 - id: cernohorsky-2026-09-24-11
   typ: tvrzeni
@@ -169,3 +215,71 @@ vyroky:
     tlačením dodávky (Rajchl, Foldyna) považuje za trapné. Oznamuje, že kandiduje na třetím místě kandidátky
     Restart pro Brno v Brně-střed.'
   podtema: Komunální volby
+- id: cernohorsky-2026-09-24-12
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: válka skončí jen porážkou Ukrajiny; po příměří nová válka „pod falešnou vlajkou"; rakety na
+    evropská města
+  text: Válka neskončí, dokud Ukrajina nebude poražena nebo nepřijme ruské podmínky; Ukrajina „v životě
+    nebude v NATO" ani v EU. Případné příměří by Západ využil k vyzbrojení a poté pod falešnou vlajkou
+    znovu vyhlásil Rusku válku. Při dalších provokacích Putin pošle rakety („oříšky") na Londýn, Paříž,
+    Brusel, případně Prahu.
+  citace:
+  - text: Neskončí do té doby, dokud nebude Ukrajina poražena na hlavě. [...] Zapomeňte na příměří, které
+      nebude podle ruských požadavků. Tečka.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: cernohorsky-2026-09-24-13
+  typ: stoch-teror
+  temata:
+  - konspirace
+  nadpis: Ursula von der Leyenová
+  text: výzva k fyzickému napadení a popravě
+  citace:
+  - text: Já bych, kdybych měl tu možnost, taky flusnu do ksichtu. Ženská neženská prostě dostane po tlamě.
+      [...] Tohle je svině, která by měla jedno elektrický křeslo. Která by měla být popravena. [...]
+      vůbec nemají právo na život.
+  teror:
+    terc: Ursula von der Leyenová
+    hranicni: false
+- id: cernohorsky-2026-09-24-14
+  typ: stoch-teror
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Martin Dvořák (poslanec STAN)
+  text: dehumanizace + výzva k trestu
+  citace:
+  - text: To je prostě lidský odpad. [...] zrůda" a „Dvořák má sedět v kriminále
+  osoby:
+  - osoba: martin-dvorak
+    vztah: negativni
+    kontext: „Lidský odpad", má sedět v kriminále
+  teror:
+    terc: Martin Dvořák (poslanec STAN)
+    hranicni: false
+- id: cernohorsky-2026-09-24-15
+  typ: stoch-teror
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Volodymyr Zelenskyj (antisemitský rámec)
+  text: antisemitská dehumanizace
+  citace:
+  - text: víte o tom, že Židé milují symboliku [...] A Volodymyr Zelenský je Žid" / „tenhle žid, nacistický
+      zločinec
+  teror:
+    terc: Volodymyr Zelenskyj (antisemitský rámec)
+    hranicni: false
+- id: cernohorsky-2026-09-24-16
+  typ: stoch-teror
+  temata:
+  - valka-nato-rusko
+  nadpis: Praha / „banda kreténů" (obyvatelé evropských metropolí)
+  text: 'hraniční: schvalující rámování ruského raketového úderu na města'
+  citace:
+  - text: až vám prostě ty oříšky pošle [...] Kde by mohl přistát? V Praze? Protože tady je taky banda
+      kreténů.
+  teror:
+    terc: Praha / „banda kreténů" (obyvatelé evropských metropolí)
+    hranicni: true

@@ -8,6 +8,10 @@ zdroj:
   prepis: prepisy/done/2026-10-02_Lenka-Tarabová_21K-views-78-reactions-VELMI-DĚKUJI-ZA-ZPĚTNOU-VAZBU-Ž.txt
   rezim: standard
   poznamka: Předvolební beseda PRO Liberec v MCU Koloseum (vysíláno 1. 10., soubor nese datum 2. 10.).
+  osoby:
+  - osoba: petr-kral
+    vztah: pozitivni
+    kontext: Vzorný starosta s vyrovnaným rozpočtem
 vyroky:
 - id: tarabova-2026-10-01-01
   typ: tvrzeni
@@ -62,6 +66,16 @@ vyroky:
     na kandidátce SPD. Rajchla označuje za „budoucího premiéra".'
   citace:
   - text: Takhle se dá dělat politika. Když se dělá srdcem.
+  osoby:
+  - osoba: rajchl
+    vztah: pozitivni
+    kontext: „Budoucí premiér"; polovina platu primátorky na jeho spolek
+  - osoba: zdenek-hrib
+    vztah: negativni
+    kontext: „Psychopat"
+  - osoba: martin-puta
+    vztah: negativni
+    kontext: „Už dávno měl sedět", kandidatura do Senátu jako útěk
   podtema: USA — volební systém
 - id: tarabova-2026-10-01-04
   typ: tvrzeni
@@ -74,4 +88,19 @@ vyroky:
     nikdy", tým PRO odmítl jít dál bez ní a postavil vlastní kandidátku (číslo 3). STAN, ODS, TOP 09,
     KDU-ČSL a Piráty označuje za „nevolitelné", senátnímu kandidátovi Martinu Půtovi přeje, aby neuspěl.
     Podrobněji viz [politicky-system.md](politicky-system.md#beseda-v-koloseu-obstrukce-opozice-nevolitelné-strany-kampaň-za-2-tisíce-a-polovina-platu-na-rajchlův-spolek-tarabová-1-10-2026).'
+  osoby:
+  - osoba: tibor-batthyany-gen
+    vztah: negativni
+    kontext: Vypověděl koalici s PRO kvůli Tarabové
   podtema: Komunální volby
+- id: tarabova-2026-10-01-05
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: Jindřich Rajchl bude premiérem
+  text: Jindřich Rajchl se stane premiérem České republiky.
+  citace:
+  - text: Jindra je budoucím premiérem. Zapište si to za uši.
+  predikce:
+    horizont: neurčeno
+    stav: ceka

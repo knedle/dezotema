@@ -38,4 +38,13 @@ vyroky:
     Rajchl nabídl přímočařejší interpretaci: Kalas odmítla Schrödera, protože se obává, že by mír skutečně dohodl — a tím by skončil válečný byznys EU se zbrojními korporacemi.
 
     > „Ona se totiž bojí, že by Schröder ten mír skutečně dohodl. A co by potom v Bruselu dělali? Kola biznisu by se úplně zastavili. Váleční biznis by byl tentam." — Rajchl
+  osoby:
+  - osoba: kaja-kalas
+    vztah: negativni
+    kontext: 'Odmítla Schrödera jako zprostředkovatele EU–Rusko, protože se bojí skutečného míru — Rajchl:
+      EU válečný štváč v praxi'
+  - osoba: gerhard-schroder
+    vztah: neutralni
+    kontext: Putin ho navrhl jako zprostředkovatele EU–Rusko, Kalas odmítla — Rajchl to uvádí jako důkaz,
+      že Brusel nechce mír
   podtema: Vyjednávání a mír

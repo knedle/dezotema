@@ -15,6 +15,38 @@ zdroj:
     (Rajchl Instagram 230k→8k); Britská vládní krize (Starmer — 4 ministři rezignovali); Trump do Číny
     13–15. 5. (Musk, Cook, Fink); Tulsi Gabbard — 120 zahraničních biolaboratoří USA; Sarmat (Satan 2)
     — test a zařazení do ruské armády do konce 2026.'
+  osoby:
+  - osoba: jose-manuel-albares
+    vztah: neutralni
+    kontext: Španělský ministr zahraničí — prosazoval jednotnou EU armádu na zasedání EU ministrů obrany
+      v Bruselu
+  - osoba: keir-starmer
+    vztah: negativni
+    kontext: Britský PM — 4 ministři rezignovali; Vrabel zmiňuje jako příklad nestability atlantického
+      establishmentu
+  prehled:
+  - tema: Večerní zprávy se Zuzkou. Klíčová témata
+    text: Mendelová/Zelenský kokain (kniha, Mirotvorce)
+  - tema: Macron 2022 podvod
+    text: stáhnutí z Kyjeva zneužil k pokračování bojů
+  - tema: Sudetoněmecký sjezd
+    text: debata PS, výzva k zákazu LM
+  - tema: EU ministři obrany Brusel (Kalas
+    text: urychlení zbraní, mise v Libanonu)
+  - tema: španělský FM Alvarez
+    text: jednotná EU armáda
+  - tema: Copenhagen AI summit
+    text: digitální ID pro děti
+  - tema: Meta čistka fake účtů (Rajchl Instagram 230k→8k)
+    text: Meta čistka fake účtů (Rajchl Instagram 230k→8k)
+  - tema: Britská vládní krize (Starmer
+    text: 4 ministři rezignovali)
+  - tema: Trump do Číny 13–15. 5. (Musk, Cook, Fink)
+    text: Trump do Číny 13–15. 5. (Musk, Cook, Fink)
+  - tema: Tulsi Gabbard
+    text: 120 zahraničních biolaboratoří USA
+  - tema: Sarmat (Satan 2)
+    text: test a zařazení do ruské armády do konce 2026.
 vyroky:
 - id: vrabel-2026-05-12-01
   typ: tvrzeni
@@ -48,6 +80,11 @@ vyroky:
     využil jako taktickou výhodu k pokračování bojů. Vrabel přirovnává Macronovo jednání k Angele Merkelové,
     která přiznala, že Minské dohody sloužily jen ke koupení času na vyzbrojení Ukrajiny — dle Vrabela
     jde o dokladovaný vzorec podvodných dohod.
+  osoby:
+  - osoba: emmanuel-macron
+    vztah: negativni
+    kontext: '2022 podvod: stáhl vlastní vojáky z Kyjeva, ale tento ústup záměrně zneužil k přesvědčení
+      Ukrainy, aby bojovala dál — Vrabel: politický zločin'
   podtema: Příčiny a odpovědnost za válku
 - id: vrabel-2026-05-12-04
   typ: tvrzeni
@@ -59,6 +96,15 @@ vyroky:
     před každým rozhovorem odešel na 15 minut na toaletu a vrátil se zcela energetizovaný. Mendelová se
     za to ocitla na ukrajinskéom seznamu Mirotvorce — Vrabel tvrdí, že jde o seznam určený k fyzické likvidaci
     osob. Hodnotí situaci jako „odrovnání zbytku Zelenského kariéry."'
+  osoby:
+  - osoba: mendelova
+    vztah: neutralni
+    kontext: Autorka knihy o Zelenského kokainu; po vydání umístěna na ukrajinský seznam Mirotvorce —
+      Vrabel to cituje jako důkaz Zelenského totalitní povahy
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: 'Dal novinářku Mendelovou na seznam Mirotvorce za knihu o jeho kokainové závislosti — Vrabel:
+      důkaz fašistické diktatury'
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-05-12-05
   typ: tvrzeni
@@ -71,6 +117,11 @@ vyroky:
     výzkum. Část laboratoří se nachází na Ukrajině. Pentagon označení za program biologických zbraní popřel.
     Vrabel tuto zprávu hodnotí jako potvrzení konspirační teorie o biolaboratořích, o níž informoval od
     roku 2022.
+  osoby:
+  - osoba: tulsi-gabbard
+    vztah: pozitivni
+    kontext: Odhalila 120 zahraničních biolaboratoří USA financovaných Pentagonem — Vrabel cituje jako
+      potvrzení biologické válečné hrozby ze strany USA
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-05-12-06
   typ: tvrzeni

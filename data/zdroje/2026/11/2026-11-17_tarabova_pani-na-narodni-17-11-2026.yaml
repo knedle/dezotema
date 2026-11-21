@@ -27,4 +27,18 @@ vyroky:
   citace:
   - text: Proto stojí za zmínku říct, že Petr Pavel v době, kdy vás tady mlátili, tak támhle dělal kurz
       na rozvědčíka.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: V roce 1989 se „550 m od Národní“ učil na rozvědčíka pro komunisty, do NATO se dostal díky
+      „vzdělání z východních mocností“
+  - osoba: tomio-okamura
+    vztah: pozitivni
+    kontext: Hájí je proti výtkám kvůli komunismu, které považuje za dvojí metr
+  - osoba: rajchl
+    vztah: pozitivni
+    kontext: Hájí je proti výtkám kvůli komunismu, které považuje za dvojí metr
+  - osoba: alena-schillerova
+    vztah: pozitivni
+    kontext: Hájí je proti výtkám kvůli komunismu, které považuje za dvojí metr
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

@@ -9,6 +9,68 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 19 min, zprávy čte Zuzka; reaguje na komentáře diváků; na konci videa policejní brutality
     z Itálie, Francie a Španělska.
+  osoby:
+  - osoba: edi-rama
+    vztah: negativni
+    kontext: Mocní jsou „bezbrzdáci“
+  - osoba: tomas-cermak
+    vztah: pozitivni
+    kontext: Příklad nepřiměřeného trestu za slova
+  prehled:
+  - tema: Prezidenti V4 v Trenčíně za rozšíření EU a pomoc Ukrajině
+    text: V4 je pro vlastenectví „mrtvá“; mantru „V4 nás zachrání“ podle něj zavedl Konvička (2015), převzali
+      ji Okamura a Rajchl
+    vyrok: vrabel-2026-11-06-05
+  - tema: Výpadek proudu v Praze (70 tis. odběrných míst, 45 min)
+    text: dobře, že přišel, lidé si uvědomí, jaké to je bez elektřiny; doporučuje Neffovu Tmu (opakuje).
+  - tema: Trump chystá „velkou dohodu“ po schůzce s Dmitrijevem; delegace do Abú Zabí (Budanov, Medinskij,
+      Witkoff, Kushner)
+    text: Evropa bude kupovat ruskou energii přes USA, které ji „podojí“, a vojska se stáhnou od ruských
+      hranic („NATO 1997“); delegace bez mandátu, průlom nebude, Budanov „motyka“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-06-07
+  - tema: Nawrocki podmiňuje schůzku s Tuskem stažením policie od ÚS
+    text: Polsko „vypadá prakticky jako ve válce“, konflikt může začít u Kaliningradu (opakuje).
+  - tema: Zdražování plynu, tepla a elektřiny
+    text: „ještě chvilku to bude lepší, než to bude horší“.
+  - tema: 'Zelenskyj: USA nedodaly 16 mld. dolarů, vítá úspěch demokratů'
+    text: demokraté budou výměnou za energetickou dohodu chtít víc vojenské pomoci Ukrajině.
+  - tema: Série bombových výhrůžek (let Praha–Řím, redakce, „Michail Andropov“)
+    text: nejpravděpodobněji operace CIA a MI6 pod falešnou vlajkou; spolu s „ohřátými mrazáky“ chaos,
+      jaký si představuje „před začátkem války“
+    vyrok: vrabel-2026-11-06-02
+  - tema: Protest proti datovému centru Microsoftu v Amsterdamu
+    text: nejde o ekologii, protestující „přemýšlí podobně jako my“ a nechtějí „digitální koncentrák“
+    vyrok: vrabel-2026-11-06-01
+  - tema: Polský Sejm schválil zákon o sankcích za zahraniční vměšování
+    text: tak vzniká totalita — kritiky režim likviduje finančně nebo obviněním ze sexuálních deliktů;
+      Brandovo odsouzení „velmi nespravedlivé“
+    vyrok: vrabel-2026-11-06-03
+  - tema: 'Vojáci Bundeswehru ve Varšavě, Tusk: „nepanikařte“'
+    text: němečtí vojáci a policisté tam podle něj jsou, protože polští by proti „nacionalistickým“ Polákům
+      nezasáhli; Polsko „hromada dynamitu“
+    vyrok: vrabel-2026-11-06-04
+  - tema: Francouzští poslanci podpořili daň z datového provozu (5,5 centu/GB)
+    text: daň projde, Francie je „první domino“; s registrem majetku a digitální měnou (pro občany „během
+      několika let“) jde o další „obírání“ a kontrolu → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-06-01
+  - tema: Audi ve ztrátě, mrznoucí důchodci ve Vídni
+    text: politici pracují pro „tajné struktury“, které chtějí drahotu (opakuje).
+  - tema: 'Divák: „máš nějaké řešení?“'
+    text: organizace lidí a plán „ČR na prvním místě“ (opakuje).
+  - tema: 'Rada států Baltského moře; Kallasová: Putin nemá právo veta'
+    text: EU „prohrává na celý čáře“ (opakuje).
+  - tema: 'Kanárské ostrovy: 3261 zachráněných migrantů'
+    text: globalisté chtějí zničit národy tím, že je „namíchají s cizinci“ (opakuje).
+  - tema: Odchod úředníků amerického ministerstva spravedlnosti
+    text: „opouštějí potápějící se loď“.
+  - tema: 'Divák: koho za lídra Evropy?'
+    text: nikoho, za ČR by „poslal sebe“, vyjednávat by mohli Harabin nebo Bridgen; Costa „naivní strejda“,
+      Kallasová „absolutní nacistka“
+    vyrok: vrabel-2026-11-06-06
+  - tema: 'Albánie: protesty proti Ramovi'
+    text: „malá občanská válka“; brzy pošlou proti lidem vojáky (opakuje).
+  - tema: Videa policejní brutality z Itálie, Francie a Španělska
+    text: „tohle je začátek“ občanské války v Evropě (opakuje).
 vyroky:
 - id: vrabel-2026-11-06-01
   typ: tvrzeni
@@ -56,6 +118,10 @@ vyroky:
     za „velmi nespravedlivý“; Brand je podle něj „skutečná opozice“.'
   citace:
   - text: odsoudit teďko neho do vězení na několik let mi připadá velmi nespravdlivý.
+  osoby:
+  - osoba: russell-brand
+    vztah: pozitivni
+    kontext: Odsouzení „velmi nespravedlivé“, „skutečná opozice“
   podtema: Politická perzekuce
 - id: vrabel-2026-11-06-04
   typ: tvrzeni
@@ -81,6 +147,16 @@ vyroky:
     a Rajchl; dnes je V4 podle něj „rádoby spolek“, který podporuje nenávist proti Rusku a zbrojení.'
   citace:
   - text: prostě V4 je pro mě mrtvá, co se týče nějakého vlastenectví nebo nějakého patriotismu.
+  osoby:
+  - osoba: martin-konvicka
+    vztah: neutralni
+    kontext: Kolem roku 2015 zavedl mantru „V4 nás zachrání“
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: Převzal mantru „V4 nás spasí“
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Převzal mantru „V4 nás spasí“
   podtema: Evropský parlament a V4 strategie
 - id: vrabel-2026-11-06-06
   typ: tvrzeni
@@ -95,6 +171,22 @@ vyroky:
     Leyenovou za nacistky; Evropa podle něj stejně nemá co vyjednávat, protože není pozvaná.'
   citace:
   - text: Kaja Kalas je absolutní nacistka a co se týče Uršuli von der Leyen, no tak ta je taky.
+  osoby:
+  - osoba: kaja-kallasova
+    vztah: negativni
+    kontext: „Absolutní nacistka“
+  - osoba: ursula-von-der-leyenova
+    vztah: negativni
+    kontext: „Ta je taky“ (nacistka)
+  - osoba: antonio-costa
+    vztah: negativni
+    kontext: „Naivní strejda, který všechno odříká, co mu řeknou“
+  - osoba: stefan-harabin
+    vztah: pozitivni
+    kontext: Mohl by být „dobrým vyjednavačem“
+  - osoba: andrew-bridgen
+    vztah: pozitivni
+    kontext: Mohl by vyjednávat za Británii
   podtema: Vyjednávání a mír
 - id: vrabel-2026-11-06-07
   typ: tvrzeni
@@ -112,4 +204,49 @@ vyroky:
   citace:
   - text: Takže myslím si, že ta krásná dohoda bude o tom, že se Američani a Rusové dohodnou na tom, že
       Evropa bude přes Spojené státy nakupovat energie z Ruska a přes Ukrajinu,
+  osoby:
+  - osoba: kyrylo-budanov
+    vztah: negativni
+    kontext: „Budanov je u mě motyka“
+  - osoba: steve-witkoff
+    vztah: rozporuplny
+    kontext: „Milý chlapík“, ale „nemá žádnou legitimitu“
   podtema: Vyjednávání a mír
+- id: vrabel-2026-11-06-08
+  typ: predikce
+  temata:
+  - digitalni-kontrola
+  nadpis: digitální měna bude pro občany zavedena „během několika let“
+  text: Státy musí mít digitální měnu v roce 2027 a během několika let bude zavedena i pro občany.
+  citace:
+  - text: Brzy, během několika let, se bude muset zavést digitální měna i v rámci občanů.
+  predikce:
+    horizont: několik let
+    stav: ceka
+- id: vrabel-2026-11-06-09
+  typ: predikce
+  temata:
+  - digitalni-kontrola
+  nadpis: francouzská daň z datového provozu bude schválena
+  text: Daň 5,5 centu za gigabajt projde samostatně nebo v rozpočtu; Francie může být „první domino“,
+    které se začne sypat.
+  citace:
+  - text: Návrh zákona buď to bude formou samostatnou nebo formou rozpočtu jako přidružený a pravděpodobně
+      schválený bude.
+  predikce:
+    horizont: neurčeno (francouzský rozpočet)
+    stav: ceka
+- id: vrabel-2026-11-06-10
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: 'Trumpova „velká dohoda“: Evropa bude kupovat ruskou energii přes USA, vojska se stáhnou od
+    ruských hranic'
+  text: USA a Rusko se dohodnou, že Evropa bude nakupovat ruskou energii přes Spojené státy a Ukrajinu;
+    druhou rovinou bude stahování vojsk z okolí Ruska. Jednání v Abú Zabí žádný průlom nepřinese.
+  citace:
+  - text: Takže myslím si, že ta krásná dohoda bude o tom, že se Američani a Rusové dohodnou na tom, že
+      Evropa bude přes Spojené státy nakupovat energie z Ruska a přes Ukrajinu,
+  predikce:
+    horizont: nejbližší týdny
+    stav: ceka

@@ -19,6 +19,11 @@ vyroky:
     Rajchl opakovaně argumentuje, že EU se odstřižením od ruského plynu a ropy sama vyřadila z výhodné energetické pozice. Rusko totiž své suroviny prodá jinam (Čína, Indie), zatímco Evropa platí vyšší ceny za alternativní zdroje. Europarlament v dubnu 2026 odložil hlasování o zákazu dovozu ruské ropy — podle Rajchla to dokazuje, že i samotná EU pochopila svou chybu. Ursula von der Leyen se mezitím omluvila za chybné opuštění jádra. Rajchl předpovídá, že za deset let přijde stejné přiznání o fosilních palivech.
 
     > „Nechci nechat tyto šílence vládnout v Evropě." — Jindřich Rajchl o vedení EU, [Energetická krize a Rusko 2026-03-28](_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
+  osoby:
+  - osoba: ursula-von-der-leyen
+    vztah: negativni
+    kontext: Označena za „neschopného lídra", který dotáhl EU do energetické krize; sama se omluvila za
+      odchod od jádra
   podtema: Rusko a energetická krize EU
 - id: rajchl-2026-03-28-02
   typ: tvrzeni

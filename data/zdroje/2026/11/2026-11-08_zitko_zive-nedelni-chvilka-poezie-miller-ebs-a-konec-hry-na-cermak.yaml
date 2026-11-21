@@ -25,6 +25,13 @@ vyroky:
     podle svých slov nejel, protože mu Tušl vyhrožoval, že „dostane do držky“. Fanoušky ironicky vyzývá
     k „sázce na Čermáka“ na kanálech „hejtrů“. Připomíná také svůj záběr z 8. 3. 2023, kdy se u soudu
     s Čermákem a Tušlem redaktorka ČT „lekla mikrofonu“.'
+  osoby:
+  - osoba: tomas-cermak
+    vztah: negativni
+    kontext: „Hra skončila“, nejde o původního Čermáka
+  - osoba: tusl
+    vztah: negativni
+    kontext: Vyhrožoval mu, že „dostane do držky“
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-11-08-02
   typ: tvrzeni
@@ -39,6 +46,10 @@ vyroky:
     služeb“ a Dubček byl „odstraněn“, protože by bojoval za Československo proti „vlastizrádcům“.'
   citace:
   - text: Pravděpodobně z tohoto důvodu byl odstraněn.
+  osoby:
+  - osoba: alexander-dubcek
+    vztah: pozitivni
+    kontext: „Odstraněn“ tajnými službami, protože by bojoval za ČSR
 - id: zitko-2026-11-08-03
   typ: tvrzeni
   temata:
@@ -63,6 +74,16 @@ vyroky:
     veřejné odhalení s dvojníky a klony (Guantánamo přesunuto do Everglades, pro Evropu Island).'
   citace:
   - text: Takže bacha, zítra to bude lítat.
+  osoby:
+  - osoba: stephen-miller
+    vztah: pozitivni
+    kontext: „Miller 2.0“ nastupuje 9. 11. a odhalí volební podvod
+  - osoba: susie-wiles
+    vztah: negativni
+    kontext: Údajná spojka Gatese na lobbisty, Trump o její zradě věděl
+  - osoba: j-d-vance
+    vztah: negativni
+    kontext: Zrádce, „polibek smrti“ od Trumpa
 - id: zitko-2026-11-08-04
   typ: tvrzeni
   temata:
@@ -82,3 +103,33 @@ vyroky:
   text: '**8. 11.** — ČT podle Zítka „v žádném případě“ neposkytuje vyvážené pravdivé informace. Od 12.
     3. 2020 má podle něj platit odškodnění poškozeným očkováním.'
   podtema: Nová alternativní média
+- id: zitko-2026-11-08-06
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: 9. 11. nastoupí „Stephen Miller 2.0“ a „bude to lítat“; EBS a „velké odhalení“ do dnů až měsíců;
+    banky padnou jako domino
+  text: 9. 11. nastoupí Stephen Miller (podle Zítka „2.0“, tedy náhrada) jako šéf kanceláře Bílého domu
+    místo Susie Wiles a „začne veliký točo“. Systém EBS s 10denním výpadkem komunikací a „velké odhalení“
+    (mj. J. D. Vance jako zrádce) přijdou v řádu „dnů, týdnů, maximálně měsíců“. Banky budou „padat jako
+    domino“.
+  citace:
+  - text: Myslím, že to vůbec už nebude dlouho trvat a bude to záležitost dnů, týdnů, maximálně měsíců.
+  dalsi_zdroje:
+  - 2026-11-09_zitko_zive-zpravy-k-novoluni-miller-swift-a-tribunaly-9-11-2026
+  predikce:
+    horizont: 9. 11. 2026 (Miller); dny až měsíce (EBS, odhalení); neurčeno (banky)
+    stav: castecne
+    horizont_do: 2026-11-09
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: Stephen Miller se skutečně stal šéfem kanceláře Bílého domu; EBS 17. 11. proběhl jen jako
+        test bez výpadku, „velké odhalení“ ani pád bank nenastaly
+      stav: castecne
+    - datum: 2026-11-09
+      text: Zítko nástup Millera 9. 11. prohlašuje za splněný („dneska… úplnou náhodou nahradil“), „lítání“
+        ale konkrétně nedokládá. Stav ponechán do ověření.
+    - datum: 2026-11-20
+      text: Podle zpráv (např. Bay News 9, 6. 11. 2026) Trump jmenoval Stephena Millera šéfem kanceláře
+        místo Susie Wiles. Test EBS 17. 11. proběhl bez blackoutu a Zítko 18. 11. sám uvádí, že „byl to
+        pouze test“.

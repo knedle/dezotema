@@ -9,6 +9,11 @@ zdroj:
   rezim: standard
   delka: 31:13 — zahřívací kolo před večerním vysíláním na Svobodný vysílač Plzeň; Zítko sám o COVID tour,
     chemoterapii, COVID protokolu, 5G a anténách
+  osoby:
+  - osoba: barbara-o-neill
+    vztah: pozitivni
+    kontext: Sdílená přednáška o nebezpečnosti vakcín — citována jako důkaz, že odborníci varují před
+      poškozením imunity
 vyroky:
 - id: zitko-2026-04-10-01
   typ: tvrzeni
@@ -42,6 +47,12 @@ vyroky:
   citace:
   - text: 8 z 10 lidí umíralo. Ve Wuhanu to bylo dokonce 95 %, v Anglii, v Německu, doktor Günter Frank
       — zločin v režii státu — to bylo 80 % lidí umíralo na intubaci.
+  osoby:
+  - osoba: peterson-pierre
+    vztah: pozitivni
+    kontext: 'Americký lékař citovaný jako svědek: popisuje 5-krokový protokol (midazolam, ketamin, Remdesivir,
+      ventilátor, morfin), kterým zemřelo 8 z 10 pacientů; Zítkova matka zemřela tímto protokolem v říjnu
+      2020'
   podtema: Protokol covidových úmrtí — Peterson Pierre
 - id: zitko-2026-04-10-03
   typ: tvrzeni
@@ -68,3 +79,15 @@ vyroky:
     Šarže označené písmenem „E" podle něj znamenají „extrémně smrtelné" — syndromy náhlého úmrtí kojenců
     (SIDS) i dospělých (SADS) jsou svázány zejména s těmito šaržemi.
   podtema: Šarže vakcín
+- id: zitko-2026-04-10-06
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: všichni odpovědní (COVID opatření)
+  text: 'Terč: všichni odpovědní (COVID opatření).'
+  citace:
+  - text: Tečka za covidem bude, až všichni odpovědní budou stát před tribunálem a budou čelit spravedlivému
+      trestu.
+  teror:
+    terc: všichni odpovědní (COVID opatření)
+    hranicni: false

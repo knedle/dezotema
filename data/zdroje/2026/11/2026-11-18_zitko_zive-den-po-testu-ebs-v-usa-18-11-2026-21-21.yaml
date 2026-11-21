@@ -15,6 +15,10 @@ zdroj:
     teror nezjištěn (hraniční: „na všechny jednoznačně dojde“ bez jmen, Dědek jako „reptilián“, antisemitské
     obraty „Chazarská strana“ a „globální lichva“). Zpracováno podle shrnutí pomocného agenta, klíčové
     citace ověřeny v přepisu.'
+  osoby:
+  - osoba: pavel
+    vztah: negativni
+    kontext: „Melou furt stejný kokotiny“, výzva k debatě o ČSR
 vyroky:
 - id: zitko-2026-11-18-01
   typ: tvrzeni
@@ -26,6 +30,13 @@ vyroky:
     kampaň hlavně nezastavila“, a teď se „zabodává mRNA vakcínami na chřipku“. Opakuje, že šlo o útok
     „biologickou zbraní hromadného ničení s cílem genocidy a sterilizace původního československého obyvatelstva“.
     V reklamě nabízí očkovaným C60.'
+  osoby:
+  - osoba: sukl
+    vztah: negativni
+    kontext: „Odklízel mrtvé a nemocné z cesty“
+  - osoba: babis
+    vztah: negativni
+    kontext: „Melou furt stejný kokotiny“, výzva k debatě o ČSR
   podtema: Slovenský poslanec Jaroslav Paška a selhání SÚKL (Zítko, 15. 9. 2026)
 - id: zitko-2026-11-18-02
   typ: tvrzeni
@@ -37,6 +48,16 @@ vyroky:
     označuje Prognostický ústav (1984–1993) za „líheň kádrů“ (Komárek, Klaus, Zeman), který po „vytunelování
     korporací Česko a Slovensko“ zanikl. „Hra na hodné a zlé politiky… na Klause a Zemana, na levici a
     pravici“ je podle něj „pouhá show na odvedení vaší pozornosti“.'
+  osoby:
+  - osoba: vaclav-klaus
+    vztah: negativni
+    kontext: Rozdělení ČSR, „žádná omluva“, „vyvrcholením byla genocida COVID-19“
+  - osoba: valtr-komarek
+    vztah: negativni
+    kontext: Prognostický ústav jako „líheň kádrů“, „hra na hodného a zlého policajta“
+  - osoba: milos-zeman
+    vztah: negativni
+    kontext: Prognostický ústav jako „líheň kádrů“, „hra na hodného a zlého policajta“
 - id: zitko-2026-11-18-03
   typ: tvrzeni
   temata:
@@ -56,6 +77,22 @@ vyroky:
     furt stejný kokotiny“, vyzývá k online debatě o Československu.'
   citace:
   - text: Takže konflikt na Ukrajině se chýlí k závěru a začíná mír na zemi.
+  osoby:
+  - osoba: valerij-pjakin
+    vztah: pozitivni
+    kontext: Podle něj „přes 99 %“ šance na znovuspojení ČSR
+  - osoba: vladimir-meciar
+    vztah: negativni
+    kontext: Rozdělení ČSR, „žádná omluva“, „vyvrcholením byla genocida COVID-19“
+  - osoba: fiala
+    vztah: negativni
+    kontext: „Melou furt stejný kokotiny“, výzva k debatě o ČSR
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Melou furt stejný kokotiny“, výzva k debatě o ČSR
+  - osoba: okamura
+    vztah: negativni
+    kontext: „Melou furt stejný kokotiny“, výzva k debatě o ČSR
 - id: zitko-2026-11-18-04
   typ: tvrzeni
   temata:
@@ -82,3 +119,22 @@ vyroky:
   citace:
   - text: Byl to pouze test a ten proběhnul a proběhnul, aby se ukázalo, kdo z těch rozhlasových a televizních
       stanic spolupracuje a kdo ne.
+  osoby:
+  - osoba: stanley-kubrick
+    vztah: pozitivni
+    kontext: Podle něj zabit kvůli odhalení satanistických rituálů
+- id: zitko-2026-11-18-05
+  typ: predikce
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: mírová smlouva z Šen-čenu ukončí válku na Ukrajině; ČR, Polsko a Maďarsko se vrátí „do stavu
+    před rokem 1997“, Československo před rok 1992
+  text: Velká trojka (Trump, Putin, Si) podle Zítka v Šen-čenu uzavírá „mírovou smlouvu pro celý svět“,
+    „konflikt na Ukrajině se chýlí k závěru“ a země bývalé Varšavské smlouvy se „musí vrátit do stavu
+    před rokem 1997“ (před rozšířením NATO), u Československa do stavu před rokem 1992. S odkazem na Pjakina
+    dává „přes 99 %“ znovuspojení Česka a Slovenska.
+  citace:
+  - text: Takže konflikt na Ukrajině se chýlí k závěru a začíná mír na zemi.
+  predikce:
+    horizont: neurčeno („teď“, po schůzce v Šen-čenu)
+    stav: ceka

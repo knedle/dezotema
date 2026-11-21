@@ -13,6 +13,38 @@ zdroj:
     dočasné ochrany pro ukrajinské muže, ČR na „ukrajinské cestě", Hormuzský průliv v patu, Lotyšsko SS
     pohřeb/Thompson — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce
     (Rusko do Kyjeva) a stoch. teror („Černoch") extrahovány bezvýjimečně.'
+  prehled:
+  - tema: NATO posílá 1600 vojáků na východní křídlo — prázdné gesto
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: Dron s roznětkou na letišti v Lipsku — další podezřelý „ruský" incident
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Ceuta — nová invaze plánovaná na 15. 8., cílený útok USA/CIA na Španělsko
+    text: → [Migrace a islamizace](../migrace.md)
+  - tema: EU uvolnila dalších 1,4 mld. eur ze zmrazených ruských aktiv (5. transfer)
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: Ruské údery na ukrajinskou dronovou infrastrukturu a lodě v
+    text: Ruské údery na ukrajinskou dronovou infrastrukturu a lodě v Černém moři, ničení protivzdušné
+      obrany — opakování beze změny
+  - tema: Teorie o cílené likvidaci Slovanů/bílého muže skrze válku, propojení s islamizací
+    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Zákaz dočasné ochrany pro ukrajinské muže v bojovém věku bez potvrzení o odsloužení
+    text: → [Migrace a islamizace](../migrace.md)
+  - tema: ČR na „ukrajinské cestě" — varování před militarizací a potlačováním opozice
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Írán–USA jednání o Hormuzském průlivu v patu, srovnání s Ukrajinou/Gazou
+    text: → [Blízký východ](../blizky-vychod.md)
+  - tema: Pentagon vyvíjí tajnou jadernou strategii s důrazem na taktické jaderné zbraně
+    text: nezpracováno plně
+  - tema: 'Zalužnyj: NATO 10+ let pozadu za Ruskem, program Rearm Europe (800 mld. eur)'
+    text: nezpracováno plně
+  - tema: Severní Korea rozmístila v Rusku raketovou jednotku (20 balistických raket)
+    text: krátká zmínka
+  - tema: Blokáda ukrajinských přístavů
+    text: dopad na export obilí/železné rudy, nutnost vyšších plateb EU — nezpracováno plně
+  - tema: Lotyšsko — pohřeb veterána SS s vojenskými poctami, koncert Thompsona v Chorvatsku
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: OpenAI/Anthropic
+    text: AI agenti unikli z testovacích prostředí, útočili na třetí strany — nezpracováno plně
 vyroky:
 - id: vrabel-2026-08-05-01
   typ: tvrzeni
@@ -159,3 +191,46 @@ vyroky:
     s Ruskem dále eskalovat tak, jak se na to Evropa aktuálně chystá, bude ČR touto „ukrajinskou cestou"
     pokračovat dál.'
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-08-05-11
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: dalším cílem „snížení populace" po Ukrajincích budou Poláci
+  text: V souvislosti s teorií o cílené likvidaci Slovanů/bílého muže skrze válku Vrabel předpovídá, že
+    po Ukrajincích (které popisuje jako první oběť kvůli jejich početnosti a militantnosti) budou dalším
+    cílem „snížení populace" Poláci — odhad opírá o vlastní pozorování, že jde o silný a jednotný evropský
+    národ.
+  citace:
+  - text: Jestli ano, tak další budou Poláci. [...] já předpokládám, že další, kdo je na řadě k tomu,
+      aby se snížili populace, jsou Poláci.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-08-05-12
+  typ: predikce
+  temata:
+  - blizky-vychod
+  nadpis: ruská armáda dojde minimálně do Kyjeva, případně dál na západ
+  text: Vrabel odhaduje, že pokud žádná ze stran ukrajinského konfliktu (ani íránského, ani izraelsko-palestinského)
+    neustoupí, budou tyto konflikty pokračovat, dokud jedna strana vojensky nezvítězí. Je „stoprocentně
+    přesvědčen", že ruská armáda dojde minimálně do Kyjeva, aby tam vyměnila vládu a převzala kontrolu
+    nad celou Ukrajinou. Pokud bude eskalace ze strany evropských zemí (zbrojení, miliony vojáků, jaderné
+    zbraně) pokračovat tak, jak se nyní chystají, připouští, že by ruská armáda mohla nakonec zajistit
+    politická centra „dál na západ" — zmiňuje explicitně možnost postupu až do Bruselu — zdůrazňuje ale,
+    že jde o jeho osobní odhad, ne o utajované informace.
+  predikce:
+    horizont: neurčeno (podmíněno pokračující eskalací)
+    stav: ceka
+- id: vrabel-2026-08-05-13
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: „Černoch" (rasová skupina — pachatelé pouličních útoků)
+  text: v reakci na sdílené video útoku na ulici; explicitní násilná fantazie (zastřelení/prostřelení
+    kolen) vůči jmenované rasové skupině
+  citace:
+  - text: Kdybych tohle viděl, měl pistoli, tak mu ustřelím hlavu tomu Černochu, hned prostě [...] nebo
+      minimálně bych mu prostřelil kolena.
+  teror:
+    terc: „Černoch" (rasová skupina — pachatelé pouličních útoků)
+    hranicni: false

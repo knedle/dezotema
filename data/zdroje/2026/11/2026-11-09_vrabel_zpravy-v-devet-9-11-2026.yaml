@@ -9,6 +9,25 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 3 min, zprávy čte Zuzka; oznámení o odložení pochodu 17. 11.; na závěr rozsudek nad Russellem
     Brandem.
+  osoby:
+  - osoba: aleksandar-vulin
+    vztah: pozitivni
+    kontext: Zařazen na Myrotvorec za to, že řekl, že Ukrajina mohla mít mír v roce 2022
+  - osoba: jiri-janecek
+    vztah: neutralni
+    kontext: V březnu 2022 s ním vezl ukrajinské ženy a děti z hranic
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: „Šmerc“, drží EU „v šachu“ kvůli 45 mld. eur pro Ukrajinu, minulost v BlackRocku
+  - osoba: peter-magyar
+    vztah: negativni
+    kontext: „Maďarský Rajchl“, jde tvrdě po Orbánovi a jeho rodině
+  - osoba: kaja-kallasova
+    vztah: negativni
+    kontext: „Udělala spoustu zla“, 22. balíček sankcí
+  - osoba: kim-iversenova
+    vztah: negativni
+    kontext: Odsoudila Branda jako sexuálního predátora — „už ji zase rád nemám“
 vyroky:
 - id: vrabel-2026-11-09-01
   typ: tvrzeni
@@ -28,6 +47,13 @@ vyroky:
     u mešity uvězněn a ve vězení zabit muslimy) se přes Německo „postupně přelévají k nám“.'
   citace:
   - text: Podle mě by měla být souzená Lenka Bradáčová.
+  osoby:
+  - osoba: lenka-bradacova
+    vztah: negativni
+    kontext: Dovolání v kauze plakátů SPD; „měla by být souzená“, „visela by na nástěnce“ (→ stoch. teror)
+  - osoba: spd
+    vztah: pozitivni
+    kontext: Podpora v kauze předvolebních plakátů — „jediná věc“ za dlouhou dobu
   podtema: Trestání politického projevu
 - id: vrabel-2026-11-09-02
   typ: tvrzeni
@@ -62,6 +88,13 @@ vyroky:
   citace:
   - text: Režim, když někde mluvíte proti něčemu […] tak samozřejmě proti takovým lidem se nebojuje tím,
       že by byli odsouzení za to, co říkají.
+  osoby:
+  - osoba: russell-brand
+    vztah: pozitivni
+    kontext: Odsouzení k 10,5 roku „černý den“; „jeden z nejinteligentnějších lidí“, umlčen za kritiku
+  - osoba: reiner-fuellmich
+    vztah: pozitivni
+    kontext: Oběť vykonstruovaných finančních obvinění
   podtema: Politická perzekuce
 - id: vrabel-2026-11-09-05
   typ: tvrzeni
@@ -105,4 +138,46 @@ vyroky:
   citace:
   - text: Války se nevedou kvůli tomu, že má nenávist mezi sebou jeden prezident a druhý prezident. To
       je prostě nesmysl.
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Nenávist Putina a Zelenského jako „argument pro třetí třídu“; nevěří mu, válku slíbil ukončit
+      do 24 hodin
   podtema: Vyjednávání a mír
+- id: vrabel-2026-11-09-08
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: USA, Rusko a Čína si rozdělí sféry vlivu a dohodnou se, že spolu nepůjdou do velké války; Trump
+    „dlouhý a trvalý mír“ na Ukrajině nezajistí
+  text: Velmoci si podle vzoru Jalty rozdělí sféry vlivu a dohodnou se na tom, že mezi sebou nepovedou
+    velkou světovou válku (zda dohoda vydrží, neví). Trump nedokáže válku na Ukrajině ukončit trvalým
+    mírem.
+  citace:
+  - text: Samozřejmě, že si bude Ruská federace, Čína a Spojené státy rozdělovat sféry vlivu […] a dohodnou
+      se na tom, že nepůjdou do velké světové války mezi sebou. […] Ale nemyslím si, že Donald Trump je
+      schopný v tuhle chvíli ukončit ten konflikt na Ukrajině.
+  dalsi_zdroje:
+  - 2026-11-19_vrabel_zpravy-v-devet-19-11-2026
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+    vyhodnoceni:
+    - datum: 2026-11-19
+      text: Po summitu Vrabel říká, že jednání „dopadla přesně tak, jak jsem očekával“. Trumpův výrok
+        „Putin je můj kamarád“ chápe jako signál, že USA nebudou zasahovat. Zda jde o rozdělení sfér („Trump
+        do Íránu, Putin do Evropy, Čína Tajvan“), nechává otevřené („těžko říct“).
+- id: vrabel-2026-11-09-09
+  typ: stoch-teror
+  temata:
+  - dsa-cenzura
+  nadpis: Lenka Bradáčová (nejvyšší státní zástupkyně)
+  text: 'Terč: Lenka Bradáčová (nejvyšší státní zástupkyně).'
+  citace:
+  - text: Podle mě by měla být souzená Lenka Bradáčová. […] Kdyby to byla svobodná, slušná a normální
+      společnost, tak by pravděpodobně Bradáčová asi pravděpodobně visela na nějaké nástěnce lidí, který
+      udělali velmi nebezpečné situace pro Českou republiku.“ (hraniční — „nástěnka“ jako veřejný pranýř,
+      srov. 11. 10.)
+  teror:
+    terc: Lenka Bradáčová (nejvyšší státní zástupkyně)
+    hranicni: true

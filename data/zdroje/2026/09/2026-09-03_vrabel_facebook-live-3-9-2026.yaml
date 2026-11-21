@@ -7,6 +7,23 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1061758726450045
   prepis: prepisy/done/2026-09-03_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Macinkova aféra s falešným rozhovorem (Pšenákova past s maketou zbraně a výbušniny), předvolání
+      ruské velvyslankyně kvůli Halle jako nepřiměřená reakce
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Finanční systém od r. 1971 — konec zlatého standardu, znehodnocení dolaru, „plundrování", doporučení
+      nedržet peníze v bankách
+    text: → [Digitální kontrola](../digitalni-kontrola.md)
+  - tema: Petr Pavel „kopíruje" mluvu Petra Koláře, přirovnání k epizodě Dr. House
+    text: → [Petr Pavel](../petr-pavel.md)
+  - tema: Národní fond obnovy — 40 % na Green Deal, 20 % na digitalizaci/sledování místo pomoci zkrachovalým
+      živnostníkům
+    text: → [Kauzy](../kauzy.md)
+  - tema: Eskalace Německo-Rusko (žhářské útoky, německý test
+    text: Eskalace Německo-Rusko (žhářské útoky, německý test balistické střely, dánské varování, incident
+      s nožem/„senegalský fotbalista") — nezpracováno (opakování vzorce „false flag")
+  - tema: Petice za referendum o vystoupení z EU, protože chystaný zákon o referendu vyloučí témata EU/NATO
+    text: → [Suverenita a EU](../suverenita-eu.md)
 vyroky:
 - id: vrabel-2026-09-03-01
   typ: tvrzeni
@@ -48,6 +65,13 @@ vyroky:
     seriálu Dr. House, kde pacient trpěl nemocí napodobování okolí. Zasazuje to do širší, opakované teze
     o Pavlovi jako „kopírce": jako rozvědčík kopíroval Sovětský svaz, v NATO kopíroval NATO, a nyní kopíruje
     Koláře.'
+  osoby:
+  - osoba: petr-kolar
+    vztah: rozporuplny
+    kontext: Satiricky zmíněn jako vzor, od kterého se Pavel „naučil" svůj řečnický styl
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Satirický postřeh, že „kopíruje" mluvu Petra Koláře stejně jako dřív kopíroval SSSR a NATO
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: vrabel-2026-09-03-04
   typ: tvrzeni
@@ -72,4 +96,27 @@ vyroky:
   text: |-
     **3. 9. (Vrabel)** — Vrabel se vrací k incidentu jako komentář k reakci ministra zahraničí Petra Macinky, který si předvolal ruskou velvyslankyni Anu Ponomarevovou a odmítl její vysvětlení (že šlo o provokaci sloužící jiným zájmům), přičemž se opřel o německou stranu a vlastní zjištění českých tajných služeb. Vrabel to považuje za ponižující gesto vůči „třináctkrát větší" a historicky významné zemi (připomíná osvobození od nacismu) — přirovnává je k učiteli, který si předvolal do sborovny žáka, a ptá se, zda by si Macinka dovolil stejné gesto vůči americkému velvyslanci. Doplňuje argument o „dvojím metru": drony a rakety používané při útocích na ruská letiště jsou částečně vyráběny v ČR nebo hrazeny z českých peněz (zmiňuje 140 mil. Kč z Macinkova ministerstva na rakety pro Ukrajinu) — útok na civilní letiště označuje sám o sobě za teroristický čin, takže ČR se podle něj sama podílí na terorismu, zatímco nevybuchlý dron u Halle (bez důkazů) se prezentuje jako důvod k předvolávání velvyslanců. Kritizuje také, že Macinka na výročí 2. světové války jel do Německa a vyjádřil se, že je poctěn pozváním.
     K tomu Vrabel líčí facebookovou aféru: aktivista Vojtěch Pšenák (pod falešnou identitou „Tomáš Paukner", údajně odhalující korupci) vylákal Macinku na schůzku s kuklou přes Signál; Macinka poslal svou ochranku pryč, ve studiu byly nalezeny makety střelných zbraní a atrapa výbušného zařízení. Vrabel to označuje za trapas měsíce a poznamenává, že podobný trik zkoušela stejná skupina i na něm (v listopadu 2024 mu nabízeli peníze od „skupiny vlastenců" za rozhovor) — on ale na rozdíl od Macinky zůstal obezřetný a na schůzku nepřijel.
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Předvolal si ruskou velvyslankyni kvůli Halle (ponižující gesto vůči „velké" zemi); zapleten
+      do trapné aféry — na falešný rozhovor s aktivistou Pšenákem přišel s odhalenými maketami zbraní/výbušniny
+  - osoba: vojtech-psenak
+    vztah: neutralni
+    kontext: Aktivista, který pod falešnou identitou „Tomáš Paucner" vylákal Macinku na schůzku; podle
+      Vrabela zkoušel podobný trik i na něm samotném (listopad 2024)
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-03-06
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: migranti ze Senegalu/Eritreje
+  text: jmenovaný terč (skupina podle národnosti) kolektivně dehumanizován jako předvídaní budoucí násilníci/„tlupy
+    a bandy"
+  citace:
+  - text: mnohem horší bude, až [...] budou jezdit další fotbalisti, ale chirurgové s nožema skutečný
+      [...] a občas se ten muž odstne ve slinivce, někdy v zádech, někdy v ledvinách [...] až jich takhle
+      budou pobíhat takový ty tlupy a bandy
+  teror:
+    terc: migranti ze Senegalu/Eritreje
+    hranicni: false

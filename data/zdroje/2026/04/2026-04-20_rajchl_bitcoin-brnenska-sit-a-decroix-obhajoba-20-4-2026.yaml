@@ -32,6 +32,18 @@ vyroky:
     - **Bednářová** — šéfová právního oddělení MS
 
     Dle Rajchla měla kauza tři možná řešení: (1) zničit hardware — nikdo by z toho nic neměl; (2) konfiskovat vše — 100+ mld Kč do státního rozpočtu; (3) „šalamoucké" řešení — minimalizovat základ pro výpočet 30% a nechat zbytek Jiříkovskému na redistribuci. Třetí cesta implikuje korupci v brněnských institucích: aby Jiříkovský získal přístup k zabaveným počítačům, muselo dojít ke změně rozhodnutí u krajského soudu, nejvyššího soudu i krajského ředitelství policie — vše v Brně. K „inventuře" přinesl pouze jeden (rozbalený, nezapečetěný) počítač z padesáti, které mu stát protiprávně vrátil. Poslanec ODS Havránek navrhoval zákon osvobozující příjmy z Bitcoinu od daně do 40 mil. Kč — výhodné pro budoucí rozdělení kořisti.
+  osoby:
+  - osoba: alena-silerova
+    vztah: neutralni
+    kontext: Poslankyně, spolu s Tejcem podala společné trestní oznámení v kauze Bitcoin
+  - osoba: david-uhlir
+    vztah: neutralni
+    kontext: Ministr, jemuž Decroix znemožnila zmínit Stanjuru ve zprávě — Rajchl to označuje jako součást
+      trestného činu nadržování
+  - osoba: eva-decroix
+    vztah: negativni
+    kontext: Zastavila Uhlíře konkrétně v moment, kdy chtěl zmínit Stanjuru; SPD na tiskovce vyzývá k
+      jejímu odchodu
   dalsi_zdroje:
   - 2026-04-21_rajchl_decroix-vyzva-k-odchodu-z-politiky-21-4-2026
   - 2026-04-21_zitko_bitcoin-11-11-objasneno-fiala-decroix-fb-live-21-4-2026

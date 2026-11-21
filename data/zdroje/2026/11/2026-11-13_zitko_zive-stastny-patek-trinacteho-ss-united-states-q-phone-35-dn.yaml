@@ -13,6 +13,10 @@ zdroj:
     a asi čtvrthodinová reklama na Bewit. Zpracováno 10 témat a 1 nová predikce. Stochastický teror nezapsán,
     hraniční „banda gaunerů a spolupachatelů vražd“ (Prymula, Flegr, Kubek, Hořejší) je bez výzvy. Zpracováno
     podle shrnutí pomocného agenta.
+  osoby:
+  - osoba: milan-kubek
+    vztah: negativni
+    kontext: „Banda gaunerů a spolupachatelů vražd“
 vyroky:
 - id: zitko-2026-11-13-01
   typ: tvrzeni
@@ -27,6 +31,16 @@ vyroky:
     fenbendazol a hydroxychlorochin zatajené a obchodní model činil 60 mld. za vakcíny a 500 mld. za léčbu
     následků. Prymulu, Flegra, Kubka a Hořejšího nazývá „bandou gaunerů a spolupachatelů vražd“. Rajchlovi
     a Okamurovi vyčítá, že ČR nevystoupila z WHO, „kde je buřík Tedros“.'
+  osoby:
+  - osoba: roman-prymula
+    vztah: negativni
+    kontext: „Banda gaunerů a spolupachatelů vražd“
+  - osoba: jaroslav-flegr
+    vztah: negativni
+    kontext: „Banda gaunerů a spolupachatelů vražd“
+  - osoba: vaclav-horejsi
+    vztah: negativni
+    kontext: „Banda gaunerů a spolupachatelů vražd“
   podtema: Slovenský poslanec Jaroslav Paška a selhání SÚKL (Zítko, 15. 9. 2026)
 - id: zitko-2026-11-13-02
   typ: tvrzeni
@@ -75,6 +89,19 @@ vyroky:
   citace:
   - text: Okno je ode dneška maximálně 35 dnů otevřený, kdy musí být zločinci viditelným způsobem vzati
       ku spravedlnosti.
+  osoby:
+  - osoba: paul-mccartney
+    vztah: neutralni
+    kontext: Údajně zemřel 1966 a nahradil ho dvojník
+  - osoba: george-w-bush
+    vztah: negativni
+    kontext: Organizátoři 11. září
+  - osoba: donald-rumsfeld
+    vztah: negativni
+    kontext: Organizátoři 11. září
+  - osoba: dick-cheney
+    vztah: negativni
+    kontext: Organizátoři 11. září
 - id: zitko-2026-11-13-05
   typ: tvrzeni
   temata:
@@ -84,3 +111,36 @@ vyroky:
   text: '**13. 11.** — ČT podle Zítka dostala „88 milionů Kč“ z USAID, proto mají lidé nárok na vrácení
     poplatků od 12. 3. 2020. S odkazem na Johna Stockwella tvrdí, že CIA platila 400 novinářů.'
   podtema: Nová alternativní média
+- id: zitko-2026-11-13-06
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: do „maximálně 35 dní“ od 13. 11. budou zločinci viditelně potrestáni, pak dočasné vojenské vlády
+    a do 120 dní československé volby; od 1. 12. vše přes Q-phone
+  text: Nejpozději do 35 dní od 13. 11. 2026 (tj. zhruba do 18. 12.) musí být „zločinci viditelným způsobem
+    vzati ke spravedlnosti“, možná doprovázeno „pádem letadla s Trumpem, simulovaným atentátem nebo Blue
+    Beam“. Následovat mají dočasné vojenské vlády bez Babiše, Fialy a Rakušana a do 120 dní „regulérní“
+    československé volby. Od 1. 12. má vše fungovat přes „Q-phone“.
+  citace:
+  - text: Okno je ode dneška maximálně 35 dnů otevřený, kdy musí být zločinci viditelným způsobem vzati
+      ku spravedlnosti.
+  dalsi_zdroje:
+  - 2026-11-14_zitko_zive-letadla-a-vlaky-v-usa-14-11-2026-11-11
+  - 2026-11-14_zitko_zive-dvojnici-deep-state-nocni-vysilani-14-11-2026-23-11
+  - 2026-11-15_zitko_zive-nedelni-vysilani-15-11-2026-11-11
+  predikce:
+    horizont: do cca 18. 12. 2026 (35 dní); 1. 12. 2026 (Q-phone); +120 dní (volby)
+    stav: ceka
+    horizont_do: 2026-12-18
+    vyhodnoceni:
+    - datum: 2026-11-14
+      text: Dopoledne Zítko uvádí, že EBS test 17. 11. se „možná přetočí na ostré vysílání“, a znovu počítá
+        „35 dnů“ (tentokrát od 14. 11.).
+    - datum: 2026-11-14
+      text: (23:11) V nočním vysílání tvrdí, že „17. listopadu se bude testovat EBS“, 19. 11. se sejde
+        velká trojka Trump, Putin a Si a „jsme velmi blízko velkému finále“.
+    - datum: 2026-11-15
+      text: Zítko mluví o „33 dní časovém okně“ (konec zůstává kolem 18. 12.) a znovu o předání moci armádě
+        a volbách „v oknu do 120 dnů“. EBS „má proběhnout“ jako test 17. 11., „uvidíme, jestli fáze testování
+        nepřeroste v to, že EBS bude spuštěno“, případně „začneme 19. listopadu“. Je to podle něj „otázka
+        týdnů, možná i dnů“.

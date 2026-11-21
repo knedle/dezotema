@@ -18,6 +18,48 @@ zdroj:
     pomoc; Zelenský: Rusko porušilo příměří 1 180×, hrozba útoku na Moskvu 9. 5.; Ukraina: 1 000 km raketa
     do Ruska (možná Jekatěrinburg); EU de facto ve válce s Ruskem; Merz vojenský proslov v uniformě: „Německo
     bude řídit evropské armády."'
+  osoby:
+  - osoba: herbert-kalinak
+    vztah: neutralni
+    kontext: Slovenský ministr obrany — oznámil nasazení stíhaček do baltické hlídky do konce 2027; Vrabel
+      referuje bez hodnocení
+  - osoba: alexander-stubb
+    vztah: negativni
+    kontext: 'Finský prezident na pražské konferenci: EU musí rozšířit o Ukrainu do 5 let, jinak „okno
+      příležitosti se zavře" — Vrabel: eskalace'
+  - osoba: emmanuel-macron
+    vztah: negativni
+    kontext: 'Přislíbil 30M EUR pro arménskou armádu; na letišti v Arménii ukazoval srdeční gesta ze schodů
+      — Vrabel: divadelní politika'
+  prehled:
+  - tema: 'Večerní zprávy se Zuzkou. Témata: Daniela Kovářová (senátorka)'
+    text: návrh ústavní ochrany koruny a práva na hotovost a nedigitální život
+  - tema: Senát odmítl 2/71 hlasů i samotnou debatu
+    text: Senát odmítl 2/71 hlasů i samotnou debatu
+  - tema: Sudetoněmecký sjezd
+    text: Babiš se nezúčastní, Bavorsko kritizuje českou rezoluci
+  - tema: Slovensko (Kalinák)
+    text: stíhačky do baltické hlídky do konce 2027
+  - tema: 'Trump Freedom project: D1 eskortovat vojensky, D2 jen navigovat, D3 zrušit'
+    text: neeskortoval ani jednu loď
+  - tema: Hormuz
+    text: Německo minolovka Fulda → Středomoří, Francie letadlová loď Charles de Gaulle → Rudé moře
+  - tema: USA zabrala civilní loď u Ománu
+    text: USA zabrala civilní loď u Ománu
+  - tema: Írán sestřelil 2 americké vojenské lodi
+    text: Írán sestřelil 2 americké vojenské lodi
+  - tema: Írán–Čína–Rusko strategická jednota (FM v Pekingu)
+    text: Írán–Čína–Rusko strategická jednota (FM v Pekingu)
+  - tema: Arménie
+    text: EU bid, Macron 30M EUR vojenská pomoc
+  - tema: Zelenský
+    text: Rusko porušilo příměří 1 180×, hrozba útoku na Moskvu 9. 5.
+  - tema: Ukraina
+    text: 1 000 km raketa do Ruska (možná Jekatěrinburg)
+  - tema: EU de facto ve válce s Ruskem
+    text: EU de facto ve válce s Ruskem
+  - tema: Merz vojenský proslov v uniformě
+    text: „Německo bude řídit evropské armády."
 vyroky:
 - id: vrabel-2026-05-06-03
   typ: tvrzeni
@@ -61,6 +103,11 @@ vyroky:
     Senát ale hlasoval **2 hlasy z 71** — pro pouhou debatu o návrhu. Ani samotné projednání se nestalo.
 
     Vrabel to komentuje jako demonstraci toho, kde skutečně stojí česká politická elita: „Právo na korunu v ústavě, právo na hotovost, to je naprosto zásadní, a právo na nedigitální život." Odmítnutí i debaty jej nechává bez komentáře.
+  osoby:
+  - osoba: daniela-kovarova
+    vztah: pozitivni
+    kontext: Senátorka, navrhla ústavní ochranu koruny + hotovosti + nedigitálního života — Senát odmítl
+      2/71 hlasů i samotnou debatu
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-05-06-07
   typ: tvrzeni
@@ -73,6 +120,11 @@ vyroky:
     Ukraina navíc vypálila raketu s doletem **přes 1 000 km** na cíl uvnitř Ruska (možná Jekatěrinburg, vzdálenost 1 900 km). Zelenský prohlásil: „Jsme schopni přesunout válku do Ruska."
 
     Vrabel to hodnotí jako zásadní eskalaci — válka se fyzicky přesouvá na ruské území, přičemž USA schválily pro Ukrainu přesné bomby J-DAM v hodnotě 374 mil. USD.
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: 1 180 porušení příměří; hrozí útokem na Moskvu 9. 5.; odpálil 1 000km raketu do Ruska; chce
+      „přesunout válku do Ruska"
   podtema: Průběh války, útoky a „terorismus"
 - id: vrabel-2026-05-06-09
   typ: tvrzeni
@@ -84,4 +136,8 @@ vyroky:
     Vrabel referuje, že Friedrich Merz přednesl vojenský projev v uniformě, v němž prohlásil, že Německo převezme vedení evropských armád. Vrabel spojuje tuto rétoriku s opakovaným motivem německé hegemonie v EU.
 
     V témže vysílání Vrabel cituje sarkastický komentář k ruské 9. 5. oslavě Dne vítězství: Rusko zakázalo Němcům účast na berlínských oslavách, na což Vrabel reaguje: „Druhá světová válka přece pokračuje — mezi těmi potomky nacistů."
+  osoby:
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: 'Vojenský proslov v uniformě: „Německo bude řídit evropské armády" — Vrabel: hegemonie'
   podtema: NATO, zbrojení a militarizace ČR/Evropy

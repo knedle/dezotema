@@ -27,3 +27,19 @@ vyroky:
   - text: Až tohle bude, až budou moci lidé rozhodnout o věcech, které jdou proti České republice, proti
       občanům České republiky, tak potom se můžeme bavit o demokracii.
   podtema: Prezident a demokracie
+- id: cernohorsky-2026-05-25-12
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Petr Fiala + brněnští zastupitelé
+  text: 'Terč: Petr Fiala + brněnští zastupitelé.'
+  citace:
+  - text: Fiala označen za „spolupachatele vražd"; zastupitelé za „adepti na trest nejvyšší, trest smrti"
+      za kolaboraci se SdL — „kolaborují s něčím, co tady vraždilo Czechoslováky za druhé světové války"
+  osoby:
+  - osoba: petr-fiala
+    vztah: negativni
+    kontext: Označen za „spolupachatele vražd" v kontextu sjezdu LM v Brně, který vládou nebyl zastaven
+  teror:
+    terc: Petr Fiala + brněnští zastupitelé
+    hranicni: false

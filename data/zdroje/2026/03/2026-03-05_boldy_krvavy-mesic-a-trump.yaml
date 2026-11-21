@@ -21,6 +21,13 @@ vyroky:
   citace:
   - text: Takže Trump vůbec není žádný spasitel, jo, je to dítě z kazy.
   - text: Trump je čistý Abaddon, který šíří svou armádu po světě jako armádu kobylek.
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Označen za démonickou entitu „Moon Child" / Abaddona, nikoliv spasitele; dříve ho podporoval
+  - osoba: aleister-crowley
+    vztah: negativni
+    kontext: Označen za okultistického mága, který rituálem přivolal Trumpa jako „Moon Child"
   dalsi_zdroje:
   - 2026-03-12_boldy_facebook-live-z-prahy
   podtema: Okultismus

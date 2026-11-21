@@ -16,6 +16,31 @@ zdroj:
     — Liz Truss (migrace jako zbraň), Tommy Robinson, policejní brutalita → občanská válka; tanky D35;
     Luftwaffe (Neumann) připraven na Rusko (Kaliningrad/Petrohrad). Zprávy v devět s komentářem (moderátorka
     Zuzka)'
+  osoby:
+  - osoba: ursula-von-der-leyen
+    vztah: negativni
+    kontext: Vstup Ukrajiny do EU prohlásila za „hotovou věc"; Lavrov ji nazývá „Führer"
+  prehled:
+  - tema: G7
+    text: G7
+  - tema: Kallas
+    text: 'zákaz ruských umělců (Netrebko) a vojáků = nacismus (Charta OSN, Lavrov: VDL „Führer")'
+  - tema: Británie financuje uran pro Ukrajinu (210 mil £) + sankce
+    text: Británie financuje uran pro Ukrajinu (210 mil £) + sankce na stínovou flotilu/Yandex
+  - tema: Írán memorandum (60–90 dní, garanti Rusko/Čína, ~10 %
+    text: Írán memorandum (60–90 dní, garanti Rusko/Čína, ~10 % aktiv, Izrael/Libanon překážka)
+  - tema: Kushner/Witkoff do Moskvy („spirit of Anchorage"), Trump
+    text: Kushner/Witkoff do Moskvy („spirit of Anchorage"), Trump nechce vyjednávat „za Ukrajinu"
+  - tema: VDL
+    text: Ukrajina do EU hotová věc
+  - tema: Zelenskyj pozval Putina/Putin odmítl (neústavní → podpis
+    text: Zelenskyj pozval Putina/Putin odmítl (neústavní → podpis problém), Schröder odmítnut
+  - tema: Británie
+    text: Liz Truss (migrace jako zbraň), Tommy Robinson, policejní brutalita → občanská válka
+  - tema: tanky D35
+    text: tanky D35
+  - tema: Luftwaffe (Neumann) připraven na Rusko
+    text: Luftwaffe (Neumann) připraven na Rusko (Kaliningrad/Petrohrad).
 vyroky:
 - id: vrabel-2026-06-16-01
   typ: tvrzeni
@@ -49,6 +74,14 @@ vyroky:
     — policie pustila ukrajinského útočníka a zatkla jeho). Cituje Trumpa („Evropa páchá sebevraždu")
     a opakuje tezi, že jediná ochrana ČR je odstřižení od EU; varuje před občanskou válkou a vyzývá k
     protestům „dokud je čas".
+  osoby:
+  - osoba: liz-truss
+    vztah: pozitivni
+    kontext: Citována souhlasně — obvinila globalistické elity, že migraci využívají jako zbraň k oslabení
+      národních států
+  - osoba: tommy-robinson
+    vztah: pozitivni
+    kontext: „Silná karta" Británie, opakovaně zatýkán; symbol potlačování kritiků migrace
 - id: vrabel-2026-06-16-03
   typ: tvrzeni
   temata:
@@ -62,4 +95,9 @@ vyroky:
     - **Británie financuje Ukrajinu + sankce.** UK přes Export Finance vyčlení 210 mil. £ na dodávky obohaceného uranu pro ukrajinský Energoatom (2 roky) a zavádí sankce na ruskou „stínovou flotilu" LPG a firmy Yandex/Wildberries. Vrabel: EU/UK/Babiš financují Ukrajinu „z našich kapes"; sankce jsou jen rozhodnutí neobchodovat (ironicky navrhuje „dát sankce Německu" za nezaplacené reparace).
     - **Mírové procesy a postoj Trumpa.** K Ukrajině míří Jared Kushner a Steve Witkoff do Moskvy za Lavrovem — má se navázat na „spirit of Anchorage" (dohodu Trump–Putin, kterou prý po návratu Trumpa „rozmluvili"). Trump podle Vrabela nechce vyjednávat „za Ukrajinu" (Macron/EU ho do toho tlačí), protože strategicky nechce, aby se Rusko a Čína spojily — usiluje o neútočení a obchodní vztahy s Ruskem (tunel Kamčatka–Aljaška). VDL prohlásila vstup Ukrajiny do EU za „hotovou věc". Zelenskyj pozval Putina na G7; Putin odmítl — jednat je ochoten jen při předem dojednaných konečných podmínkách, nebo ať Zelenskyj přijede do Moskvy (navíc Zelenskyj není dle ústavy právoplatný prezident → problém s podpisem). Schrödera jako vyjednavače EU odmítá, ač mu Putin věří. Viz [Írán memorandum (blizky-vychod.md)](blizky-vychod.md#írán-memorandum-podepsáno-14-6-hormuz-otevřen-19-6-netanjahu-nespokojen--vrabel-15-6-2026).
     - **Luftwaffe „připraven".** Velitel německého letectva Holger Neumann pro The Telegraph: Německo je připraveno bojovat proti Rusku „ještě dnes večer", jako primární cíle vyjmenoval Kaliningrad, Petrohrad, Kolský poloostrov a Černé moře.
+  osoby:
+  - osoba: kaja-kallas
+    vztah: negativni
+    kontext: Zákaz ruských umělců (Netrebko) a vstupu ruských vojáků do EU = dle Vrabela nacismus (proti
+      Chartě OSN)
   podtema: NATO, zbrojení a militarizace ČR/Evropy

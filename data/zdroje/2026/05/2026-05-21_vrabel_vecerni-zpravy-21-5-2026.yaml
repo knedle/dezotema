@@ -16,6 +16,50 @@ zdroj:
     odletu z Číny; Kaja Kalas prohlásila Čínu za „nemocnou" — EU se distancovala, 5 států protestovalo;
     EU-USA obchodní dohoda (asymetrická); Ebola Bulovka — Adam Vojtěch: „velká čest"; Alatra v EP; flat
     earth tangent.'
+  osoby:
+  - osoba: valerij-zaluzny
+    vztah: neutralni
+    kontext: 'GLOBSEC: jako zástupce Ukrainy varoval, že EU-NATO propojení jde v nesprávném směru'
+  - osoba: jan-macinka
+    vztah: negativni
+    kontext: Na NATO ministerial v Helsingborgu — pokračuje v prosazování záp. vojenských závazků bez
+      veřejné debaty
+  - osoba: adam-vojtech
+    vztah: negativni
+    kontext: 'Jako český ministr zdravotnictví označil přivezení amerického Ebola pacienta do Bulovky
+      za „velkou čest" — Vrabel: perverzní prioritizace amerických zájmů'
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: 'Den po odletu z Číny schválil prodej zbraní Tajwanu — Vrabel: dvojí hra, nelze mu věřit'
+  prehled:
+  - tema: Noční zprávy z auta (23:43). Pavel na GLOBSEC
+    text: EU jako investiční a logistický sektor NATO
+  - tema: česká mobilizační/branná legislativa
+    text: meziválečná stavba, nefunkční pro 21. st., nutnost odvodů
+  - tema: Macinka na NATO ministerial Helsingborg
+    text: Macinka na NATO ministerial Helsingborg
+  - tema: Beneš socha červená barva (Tomáš Kočko)
+    text: Beneš socha červená barva (Tomáš Kočko)
+  - tema: ČR zdržení UN klimatické rezoluce (134-0)
+    text: ČR zdržení UN klimatické rezoluce (134-0)
+  - tema: Zelenský hrozí preventivním útokem Bělorusku
+    text: Zelenský hrozí preventivním útokem Bělorusku
+  - tema: Landsbergis volá útok na Kaliningrad
+    text: Landsbergis volá útok na Kaliningrad
+  - tema: Rusko-Bělorusko jaderná cvičení
+    text: 'Putin: „výjimečné opatření"'
+  - tema: Trump prodává zbraně Tajwanu den po odletu z Číny
+    text: Trump prodává zbraně Tajwanu den po odletu z Číny
+  - tema: Kaja Kalas prohlásila Čínu za „nemocnou"
+    text: EU se distancovala, 5 států protestovalo
+  - tema: EU-USA obchodní dohoda (asymetrická)
+    text: EU-USA obchodní dohoda (asymetrická)
+  - tema: Ebola Bulovka
+    text: 'Adam Vojtěch: „velká čest"'
+  - tema: Alatra v EP
+    text: Alatra v EP
+  - tema: flat earth tangent.
+    text: flat earth tangent.
 vyroky:
 - id: vrabel-2026-05-21-01
   typ: tvrzeni
@@ -29,6 +73,11 @@ vyroky:
     de facto vojensko-ekonomickým blokem podřadným NATO, přičemž NATO si zachová operační velení. Zároveň
     se USA stahují z přímých závazků — Rutte to „chápe." Výsledek: Evropa ponese větší tíhu případné války
     s Ruskem bez USA.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: 'Na GLOBSEC: EU se má stát investičním a logistickým sektorem NATO — Vrabel: potvrzení, že
+      Pavel prosazuje globalistický program'
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-05-21-02
   typ: tvrzeni
@@ -40,6 +89,15 @@ vyroky:
     Zelenský prohlásil, že Ukrajina je připravena jednat preventivně, pokud by hrozba vycházela z běloruského území. Vrabel hodnotí: dříve se aspoň dělaly útoky pod falešnou vlajkou; teď se mluví přímo o preventivním útoku na třetí stát. Paralelně litevský ministr zahraničí Landsbergis vyzývá k útoku na Kaliningradskou oblast jako způsobu tlaku na Moskvu. Vrabel říká: tato rétorika je extrémně nebezpečná — Kaliningrad je ze všech stran obklopen NATO a snadno napadnutelný, ale bránit by se muselo tvrdě.
 
     Pozitivně hodnotí, že Putin i Lukašenko opakovaně prohlásili, že nezaútočí jako první, pokud nebudou napadeni — to ztěžuje eskalaci ze strany Zelenského/pobaltských zemí.
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: 'Hrozí preventivním útokem Bělorusku — Vrabel: eskalace konfliktu na nová území, destabilizace
+      regionu'
+  - osoba: gabrielius-landsbergis
+    vztah: negativni
+    kontext: 'Litevský ministr zahraničí volá po útoku na Kaliningrad — Vrabel: nebezpečná eskalace tlačící
+      Evropu k přímé válce s Ruskem'
   podtema: Eskalace a hrozba rozšíření konfliktu
 - id: vrabel-2026-05-21-03
   typ: tvrzeni
@@ -52,4 +110,9 @@ vyroky:
     stížnost. Vrabel hodnotí jako ukázku diplomatického selhání — základem diplomacie je hledat dohody
     výhodné pro všechny strany, ne veřejně urážet obchodního partnera. Srovnává s „nacistickým vzorcem
     chování" politiků — nejdříve militarizace, pak ztráta soudnosti.
+  osoby:
+  - osoba: kaja-kalas
+    vztah: negativni
+    kontext: 'Označila Čínu za „nemocnou" — EU se distancovala, 5 členských států formálně protestovalo;
+      Vrabel: dalibortismus EU diplomacie'
   podtema: Zahraniční aktéři a precedenty

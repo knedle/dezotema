@@ -8,6 +8,14 @@ zdroj:
   prepis: prepisy/done/2026-10-03_Ladislav-Vrabel_269K-views-22K-reactions-Ladislav-Vrabel-on-Reels.txt
   rezim: vrabel
   poznamka: Záznam z místa zatčení po shromáždění 3. 10.
+  osoby:
+  - osoba: katerina-blahnikova
+    vztah: pozitivni
+    kontext: Spolubojovnice od roku 2020, zatčena za písmeno „Z"
+  prehled:
+  - tema: Zatčení účastnice shromáždění za písmeno „Z"
+    text: výzva jít před policejní stanici, „Babišova vláda nás terorizuje"
+    vyrok: vrabel-2026-10-03-04
 vyroky:
 - id: vrabel-2026-10-03-04
   typ: tvrzeni

@@ -14,6 +14,16 @@ zdroj:
     konec „falešné války“ do Vánoc. Stochastický teror nezjištěn (hraniční: souhlasné líčení poprav a
     tribunálů bez konkrétního terče). Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny
     v přepisu.'
+  osoby:
+  - osoba: suchomel
+    vztah: rozporuplny
+    kontext: Kritik, ale Zítko mu „drží palce“
+  - osoba: sas-z-trencina
+    vztah: negativni
+    kontext: Kritik, „kokot“ placený za útoky
+  - osoba: si-tin-pching
+    vztah: pozitivni
+    kontext: Vítězné mocnosti, 19. 11. mírová smlouva a obnova ČSR
 vyroky:
 - id: zitko-2026-11-15-01
   typ: tvrzeni
@@ -23,6 +33,10 @@ vyroky:
     27. 10. 2026)
   text: '**15. 11. (11:11)** — Injekce proti covidu Zítko znovu označuje za „biologickou zbraň hromadného
     ničení“ a jejich podávání dětem za „aplikování sraček a jedů do dětí“, tedy „zločin proti lidskosti“.'
+  osoby:
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: „Jak vyměněnej“, vypadá jinak než „původní Babiš“
   podtema: Slovenský poslanec Jaroslav Paška a selhání SÚKL (Zítko, 15. 9. 2026)
 - id: zitko-2026-11-15-02
   typ: tvrzeni
@@ -35,6 +49,10 @@ vyroky:
     kauze („víc jak 100 miliard“, ODS a „Brňáci“) pocházely podle něj z obchodu s drogami, který „dlouhodobě“
     ovládá CIA. Od odstoupení „kmotra“ Pavla Blažka sedí jen „bílý koník Jiříkovský“, což je pro něj důkaz
     „totálního selhání“ všech tří mocí.'
+  osoby:
+  - osoba: tomas-cermak
+    vztah: pozitivni
+    kontext: Rozsudek 5,5 roku je „totální zhovadilost“
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-11-15-03
   typ: tvrzeni
@@ -60,6 +78,10 @@ vyroky:
   citace:
   - text: Obnova Československa bez politiků, politických stran odspoda, to je ta úloha a úkol pro rok
       2027.
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: Vítězné mocnosti, 19. 11. mírová smlouva a obnova ČSR
 - id: zitko-2026-11-15-05
   typ: tvrzeni
   temata:
@@ -87,6 +109,13 @@ vyroky:
   citace:
   - text: Všechny falešné jaderné zbraně na světě, to je proto strašení jaderným konfliktem, byly v roce
       2019 zneškodněny americkými, myslím si, že i ruskými vesmírnými silami.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Šikovnej turista“, moc převezme armáda, ne on
+  - osoba: donald-trump
+    vztah: pozitivni
+    kontext: Vítězné mocnosti, 19. 11. mírová smlouva a obnova ČSR
 - id: zitko-2026-11-15-06
   typ: tvrzeni
   temata:
@@ -106,4 +135,24 @@ vyroky:
     a „88 milionů z Ameriky od administrativy fake prezidenta, dvojníka Bidena“. Proto má lidem vrátit
     „neoprávněně zkasírované“ poplatky a pozůstalým a poškozeným platit odškodné. Kdo poplatky ještě platí,
     je podle něj „blázen“.'
+  osoby:
+  - osoba: pavel-blazek
+    vztah: negativni
+    kontext: „Kmotr“ bitcoinové kauzy, nesedí
   podtema: Nová alternativní média
+- id: zitko-2026-11-15-08
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: „falešná“ válka a strach z jaderného konfliktu „do falešných Vánoc skončí“; MedBeds a obnova
+    ČSR „bez politiků“ viditelné v roce 2027
+  text: Strach z třetí a čtvrté světové války je podle Zítka „falešná událost“, protože jaderné zbraně
+    zneškodnily vesmírné síly už v roce 2019, a tato fáze skončí do Vánoc 2026. MedBeds budou v roce 2027
+    „viditelné“ a obnova Československa „bez politiků, odspoda“ je úkolem pro rok 2027, na jehož konci
+    proběhne „drma vrma“. Ve čteném textu Barbary Pražské, který souhlasně cituje, má „v polovině až koncem
+    ledna“ začít „jubileum“.
+  citace:
+  - text: Kdy, nevím jistě, ale vsadím se, že to do falešných Vánoc skončí.
+  predikce:
+    horizont: do Vánoc 2026; leden 2027 („jubileum“); rok 2027 (MedBeds, obnova ČSR)
+    stav: ceka

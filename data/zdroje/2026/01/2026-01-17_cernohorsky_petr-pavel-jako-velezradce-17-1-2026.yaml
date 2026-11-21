@@ -24,4 +24,12 @@ vyroky:
   - text: Za mě tenhle velezrádce, naprostej velezrádce, který nestojí za zájmy České republiky, který
       je schopen obcházet veškerou justici — jak justici České republiky, tak mezinárodní justici. Za
       mě Petr Pavel je velezrádce.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Označen za „velezrádce" — komunistická minulost, lhaní o vojenské rozvědce, schůzka s předsedou
+      Sudetoněmeckého Landsmannschaftu
+  - osoba: petr-kolar
+    vztah: negativni
+    kontext: Označen za „odpornou postavu", která vede Pavlův tým a umožňuje mu porušovat dané slovo
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

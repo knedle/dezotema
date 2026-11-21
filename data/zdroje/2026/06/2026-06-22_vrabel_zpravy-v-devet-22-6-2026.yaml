@@ -34,6 +34,49 @@ zdroj:
     „podržtaška Klause"), ale oba dělají totéž; Babiš 2020 vyhostil ~80 ruských diplomatů a adoroval Zelenského
     = „žádná změna kurzu". Predikce: žádná nová (potvrzena Rajchlova o Starmerovi). Bez stoch. teroru.
     Zprávy v devět s komentářem (moderátorka Zuzka), v den výročí operace Barbarossa'
+  osoby:
+  - osoba: ahmed-al-saraa
+    vztah: neutralni
+    kontext: Syrský prezident v „schizofrenní" pozici — odmítl zásah proti Hizballáhu, jen politická jednání;
+      spolupracuje se Západem, ale spíš tajně podpoří islamisty (paralela Erdogan)
+  - osoba: karol-nawrocki
+    vztah: rozporuplny
+    kontext: „Jak ho nemusím" — ale odebrání Řádu bílého orla Zelenskému je „sympatické"
+  prehled:
+  - tema: Stávka ČT/ČRo + demonstrace Milionu chvilek na podporu ČT
+    text: 'Vrabel stávku vítá (doporučuje trvalou), ČT = válečná/globalistická propaganda, Minář placená
+      nastrčená figurka (Halík mu pomáhal s diplomkou). Pavel vs. Babiš — summit NATO/kompetenční žaloba
+      k ÚS: Vrabel nevidí jiný kurz Pavla než Babiš/Macinka, spor čte jako boj o zbrojní zakázky (Pavel/Kolář
+      vs. Macinka/USA) nebo štvaní společnosti / „iluzi demokracie" + umělé téma odvádějící pozornost
+      od ženutí do války. Starmer rezignoval = „cynický podvod demokratické obnovy" (cituje K. von Hofmeistera),
+      paralela s ČR 2025 (volby = iluze, staronová vláda — Vojtěch/Šilerová/Havlíček/Babiš — jede stejný
+      kurz: proti Rusku, pro NATO/EU/Agendu 2030) → potvrzení Rajchlovy predikce z 21. 6. Írán–USA jednání
+      (Švýcarsko): pokrok (6 mld $ aktiv, IAEA inspektoři, deeskalace Libanon), ale Netanyahu nestahuje
+      z Libanonu + spor o Hormuz (USA vs. Írán kdo vybírá poplatky), Trump dává Íránu hodně před primárkami'
+  - tema: Sýrie
+    text: al-Šaraa odmítá vojensky zasáhnout proti Hizballáhu = „schizofrenní" pozice mezi Západem a islamisty
+      (paralela Erdogan)
+  - tema: Izrael
+    text: ČR jediná plně podporuje (Macinka veto rezolucí EU), zatímco USA (Vance/Trump kritika Netanyahua)
+      i EU (ICC zatykač) se distancují. Polsko vs. Ukrajina — válka o vyznamenání (Nawrocki odebral řád
+      Bílého orla, Ukrajinci vracejí řády poštou, Volyň, konference o obnově Ukrajiny Gdaňsk 25.–26. 6.)
+  - tema: Trump chce 350 mld $ od Evropy za Bidenovu pomoc Ukrajině (Vrabel
+    text: nakonec zaplatíme, EU se zadluží vůči USA). Dánsko — pravicový extremismus mladých Ukrajinců
+      (svastiky/SS, ~65 tis.), Evropa „se probouzí" k nacismu na Ukrajině
+  - tema: riziko ozbrojených Ukrajinců v EU (analogie Turci/džihad). Barbarossa 2.0
+    text: Německo přesouvá tanky do Litvy + 5000 vojáků k běloruské hranici do 2027, Vilnius mobilizace
+  - tema: ruský náměstek MZV Bruško
+    text: militarizace NATO připomíná přípravu Barbarossy
+  - tema: ČR/CSG (Avia/Avianera Technologies) + Ukrainian Armor
+    text: ČR/CSG (Avia/Avianera Technologies) + Ukrainian Armor dohoda na motory pro ukrajinské řízené
+      střely a drony (Eurosatory, kde promítali bombardování Moskvy). Západní dystopie — Německo zvyšuje
+      důchodový věk na 73, Kanada eutanazie (50 tis., i pro psychicky nemocné), ČR zvyšuje odchod do důchodu
+      — stát potřebuje peníze na válku
+  - tema: Babiš plánuje vyšší schodek 2027 (2,8 % HDP). Macinka vs. Pavel
+    text: „šplhání" (Pavel kariérní rozvědčík, Macinka „podržtaška Klause"), ale oba dělají totéž
+  - tema: Babiš 2020 vyhostil ~80 ruských diplomatů a adoroval
+    text: 'Babiš 2020 vyhostil ~80 ruských diplomatů a adoroval Zelenského = „žádná změna kurzu". Predikce:
+      žádná nová (potvrzena Rajchlova o Starmerovi). Bez stoch. teroru.'
 vyroky:
 - id: vrabel-2026-06-22-01
   typ: tvrzeni
@@ -82,6 +125,19 @@ vyroky:
   citace:
   - text: Je to iluze demokracie. To, co udělali dneska v Británii, to samé udělali v roce 25 v České
       republice.
+  osoby:
+  - osoba: keir-starmer
+    vztah: neutralni
+    kontext: Jeho rezignace (22. 6.) označena (s citací von Hofmeistera) za „cynický podvod demokratické
+      obnovy" — vystřídá ho „jiný Starmer", kurz se nezmění
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Vetuje rezoluce EU proti Izraeli; „podržtaška Klause", k moci se „prošplhal" osobními kontakty
+      — dělá ale totéž co Pavel (NATO/USA)
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Slibuje plnit závazky vůči NATO; v roce 2020 vyhostil ~80 ruských diplomatů a adoroval Zelenského
+      — „žádná změna kurzu" oproti Fialovi
   podtema: Demokracie a politický systém
 - id: vrabel-2026-06-22-04
   typ: tvrzeni

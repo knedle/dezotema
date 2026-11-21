@@ -22,3 +22,14 @@ vyroky:
   - text: Nacisti a židi, to je neuvěřitelné... nacisti, kteří vyhlazovali židi, tak oni vám tady nesou
       [vlajku]. Jak kdyby oni mohli mluvit za všechny ty, kteří byli v koncentrátu splinováni.
   podtema: Sudetoněmecký sjezd v Brně 2026
+- id: cernohorsky-2026-05-23-02
+  typ: stoch-teror
+  temata:
+  - benesovy-dekrety
+  nadpis: „Pšenák" (Hero Hero)
+  text: přímá výzva k fyzickému napadení provokátora, který natáčel demonstraci pro svůj placený kanál
+  citace:
+  - text: Tobě prostě patří rozkopat rypák. A doufám, že to někdo udělá.
+  teror:
+    terc: „Pšenák" (Hero Hero)
+    hranicni: false

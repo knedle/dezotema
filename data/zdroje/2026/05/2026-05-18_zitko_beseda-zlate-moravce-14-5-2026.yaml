@@ -26,6 +26,15 @@ vyroky:
     - **Rozpor s oficiálními daty**: Slovensko úředně eviduje 7 zemřelých po vakcíně; srovnání s americkým systémem VAERS (přepočteno na velikost populace) naznačuje, že reálný počet by mohl být přibližně 400.
     - **Kompenzační systém**: na Slovensku neexistuje žádný zákonný kompenzační mechanismus pro poškozené po vakcinaci.
     - **Kotlárovo odmítnutí**: Šlosár připravil trestní oznámení ve věci vakcinace; vládní zmocněnec Marian Kotlár odmítl se k oznámení připojit nebo ho sám podat. Šlosár ho proto podal na vlastní pěst — a oznámení bylo přehazováno mezi prokurátory bez věcného projednání.
+  osoby:
+  - osoba: lubomir-slosar
+    vztah: pozitivni
+    kontext: Slovenský právník, host besedy ve Zlatých Moravciach; vypracoval trestní analýzu vakcinace
+      (ublížení na zdraví → genocida); Kotlár odmítl se přidat k TO — Šlosár ho podal sám
+  - osoba: marian-kotlar
+    vztah: neutralni
+    kontext: Slovenský vládní zmocněnec pro COVID-19 — odmítl se připojit k Šlosárovu trestnímu oznámení;
+      Šlosár na Kotlára narazil při přehazování oznámení mezi prokurátory
   podtema: Pokusy o vyšetřování
 - id: pekova-2026-05-18-01
   typ: tvrzeni

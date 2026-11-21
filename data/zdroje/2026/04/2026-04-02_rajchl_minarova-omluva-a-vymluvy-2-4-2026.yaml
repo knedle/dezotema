@@ -26,4 +26,9 @@ vyroky:
   citace:
   - text: Výmluvy jak ten největší srap pod sluncem. Víš, Mikuláši, se mnou debatuje kde kdo a ti lidé
       v té opoziční politické sféře na to mají aspoň koule. Ty žádné nemáš.
+  osoby:
+  - osoba: mikulas-minar
+    vztah: negativni
+    kontext: Po dvou dnech vydal video s výmluvami; Rajchl je označuje za alibismus, tvrdí že Minář dobře
+      ví, že by v debatě prohrál
   podtema: Prezident a demokracie

@@ -74,4 +74,37 @@ vyroky:
     zemědělskou půdu a vodní práva, protože vědí o přicházející krizi, kterou sami způsobují („chobotnice,
     která spolupracuje"). Připomíná Gatesův výrok, že „budou umírat miliardy lidí" — video podle svých
     slov netočí pro strach, ale aby lidi připravil na to, co „pravděpodobně nejspíš přijde". Viz [predikce](predikce.md).'
+  osoby:
+  - osoba: bill-gates
+    vztah: negativni
+    kontext: Skupuje půdu a vodní práva kvůli krizi, kterou elity samy způsobují; výrok o „miliardách
+      mrtvých"
+  - osoba: klaus-schwab
+    vztah: negativni
+    kontext: Jeho nástupce ve WEF měl říct, že „voda není pro všechny" — elity si přivlastňují vodu
   podtema: Náboženský a okultní výklad moci
+- id: boldy-2026-09-22-07
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: vodné a stočné stonásobně dražší do 1–2 let
+  text: Voda bude obchodována na burze a tokenizována; cena vodného a stočného vzroste v horizontu roku
+    až dvou zhruba stonásobně. Elity podle něj plánují vodní krizi, na niž „budou umírat miliardy lidí".
+  citace:
+  - text: Abyste se nedivili, že potom budete platit 100 násobek toho… A oni to mají v plánu.
+  predikce:
+    horizont: 2027–2028
+    stav: ceka
+- id: boldy-2026-09-22-08
+  typ: predikce
+  temata:
+  - ceny-energie
+  nadpis: nafta přes 50 Kč za litr, benzín a nafta 60–70 Kč
+  text: Ceny pohonných hmot porostou — nafta přesáhne 50 Kč za litr, dle jeho dřívějšího odhadu to bude
+    60–70 Kč. Navazuje na svou březnovou předpověď 70–150 Kč/l při válce s Íránem.
+  citace:
+  - text: Benzín a nafta prostě poletí nahoru a nebude to jenom 50 korun, bude to 60, 70 korun. Teď už
+      jsme připraveni. Bude přes 50 korun za litr nafty.
+  predikce:
+    horizont: neurčeno
+    stav: ceka

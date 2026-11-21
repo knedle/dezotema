@@ -12,6 +12,15 @@ zdroj:
     vztahy a způsobují demografickou krizi: dating aplikace optimalizované pro engagement (ne lásku),
     panoptikon efekt — nikdo netančí v klubech, protože je nahrávají; slib internetu (svoboda, demokracie,
     štěstí) se nenaplnil; technologické firmy nenesou odpovědnost. Zhlédnutí: 56 744'
+  prehled:
+  - tema: Sdílený krátký klip (monolog 30letého muže). Technologie a
+    text: 'Sdílený krátký klip (monolog 30letého muže). Technologie a sociální sítě ničí mezilidské vztahy
+      a způsobují demografickou krizi: dating aplikace optimalizované pro engagement (ne lásku), panoptikon
+      efekt — nikdo netančí v klubech, protože je nahrávají'
+  - tema: slib internetu (svoboda, demokracie, štěstí) se nenaplnil
+    text: slib internetu (svoboda, demokracie, štěstí) se nenaplnil
+  - tema: technologické firmy nenesou odpovědnost.
+    text: technologické firmy nenesou odpovědnost.
 vyroky:
 - id: vrabel-2026-05-01-04
   typ: tvrzeni

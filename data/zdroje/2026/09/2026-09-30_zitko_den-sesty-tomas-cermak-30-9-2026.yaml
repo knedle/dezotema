@@ -7,6 +7,13 @@ zdroj:
   url: https://m.facebook.com/watch/?v=4474179519512210&_rdr
   prepis: prepisy/done/2026-09-30_Československo-TV2_26K-views-83-reactions-Československo-TV2-vysílala.txt
   rezim: standard
+  osoby:
+  - osoba: cernohorsky
+    vztah: negativni
+    kontext: „Jedenáctiletý exot", omluva „teatrální"
+  - osoba: patrik-tusl
+    vztah: rozporuplny
+    kontext: „Prokoukává se" — chystá omluvu
 vyroky:
 - id: zitko-2026-09-30-01
   typ: tvrzeni
@@ -19,3 +26,7 @@ vyroky:
     zákon z 25. 11. 1992 prý „neměl kdo podepsat"); Okamura podle něj „všechno věděl a všechno přiznal",
     ale vymlouvá se — politiku dělá „jako výdělečnou činnost" a SPD s 15 poslanci by mohla Babiše přinutit,
     „ale ono se jim nechce".'
+  osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: „Všechno ví" o podvodu s rozdělením ČSFR, ale politiku dělá pro výdělek

@@ -22,5 +22,14 @@ vyroky:
     spolupráce s Rajchlem: nachystala mu dva dopisy — jeden adresovaný prezidentu Petru Pavlovi s žádostí
     o clemenci pro osoby odsouzené za covidové výroky, druhý evropskému ombudsmanovi Oliveru Anginovi.
     Rajchl oba dopisy obdržel a nikdy je neodeslal. Peková je nakonec odeslala sama doporučeně poštou.'
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Obdržel od Pekové dva dopisy k odeslání (prezidentu Pavlovi + ombudsmanovi Anginovi) — nikdy
+      je neposlal; Peková je odeslala sama doporučeně
+  - osoba: oliver-angino
+    vztah: neutralni
+    kontext: Evropský ombudsman — Peková mu zaslala dopis v covidové kauze (přes Rajchla neodeslán, pak
+      sama)
   mluvci: pekova
   podtema: Pokusy o vyšetřování

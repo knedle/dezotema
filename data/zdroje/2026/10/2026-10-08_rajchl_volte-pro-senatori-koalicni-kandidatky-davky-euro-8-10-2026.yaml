@@ -16,6 +16,10 @@ vyroky:
   text: '**8. 10.** — Rajchl uvádí další případ: 33letá Ukrajinka měla stát obrat na humanitárních dávkách
     o 750 tisíc Kč. Garantuje, že jde jen o „špičku ledovce“: lidé podle něj deklarují pobyt v ČR, ale
     žijí na Ukrajině a z posílaných peněz „si královsky luxusně žijí“.'
+  osoby:
+  - osoba: martin-gara
+    vztah: pozitivni
+    kontext: „Úžasný chlap“, lídr PRO v Havířově
 - id: rajchl-2026-10-08-02
   typ: tvrzeni
   temata:
@@ -49,4 +53,11 @@ vyroky:
     podle něj podařilo spojit „všechny strany naší vládní koalice, včetně Motoristů“ na jednu kandidátku,
     která má šanci skončit první nebo druhá. Žádá „jeden velký křížek“ u celé kandidátky — větší mandát
     je podle něj podmínkou, aby mohl prosadit, co lidé chtějí.'
+  osoby:
+  - osoba: tarabova
+    vztah: pozitivni
+    kontext: „Skvělá bojovnice“, kandidátka v Liberci
+  - osoba: libor-vondracek
+    vztah: pozitivni
+    kontext: Společná koaliční kandidátka v Jindřichově Hradci
   podtema: Komunální volby

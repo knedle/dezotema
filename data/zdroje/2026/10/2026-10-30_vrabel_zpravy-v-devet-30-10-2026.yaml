@@ -8,6 +8,58 @@ zdroj:
   prepis: prepisy/done/2026-10-30_Ladislav-Vrabel_30-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: 1 h 15 min, zprávy čte Zuzana; krátký sdílený anglický klip (51:51–52:57) nezpracován.
+  osoby:
+  - osoba: stefan-harabin
+    vztah: pozitivni
+    kontext: Jediný slovenský politik, který otevřeně mluví o příčinách války
+  prehled:
+  - tema: 'Úvod: 17. 11. jako demonstrace za mír'
+    text: bez svobody slova se nedá mluvit o příčinách války, a proto nebude ani mír (opakuje).
+  - tema: Společný protiraketový štít EU (325 mil. €)
+    text: „drobné“ proti 70 mld. pro Ukrajinu.
+  - tema: CAS zrušila zákaz ruských hokejistů, Šťastný chce zákaz udržet
+    text: „čistý nacismus“, Šťastný by měl být trestně stíhán; Motoristé jsou „ODS pod jiným názvem“ →
+      viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-30-03
+  - tema: Rajchl podává trestní oznámení na demonstranty před Sněmovnou
+    text: lidé mají právo protestovat, kdo zakazuje protesty, vede zemi k totalitě (opakuje).
+  - tema: 'G20: Sikorski se odmítl fotit s Lavrovem'
+    text: Lavrov je „nejlepší ministr zahraničních věcí na světě“, většina světa stojí na straně Ruska,
+      proti jen „pár idiotů v EU“
+    vyrok: vrabel-2026-10-30-04
+  - tema: 'Zacharovová: Polsko není členem G20'
+    text: Sikorského a Tuska by „zakázal“, babička by válečníky „pověsila za žebro“ (opakuje).
+  - tema: Výbuch v muniční továrně CSG v Granadě
+    text: „první vlaštovka“, Rusko zasáhne i podnik pro českou muniční iniciativu → viz [Predikce](../predikce.md)
+  - tema: Srbsko po porážce Vučiće
+    text: vítězství studentů je „zázrak“ a dělá přesně to, co chtěl pro ČR; vadí mu Srdžanović
+    vyrok: vrabel-2026-10-30-02
+  - tema: Vučić si odnesl vlajku z úřadu
+    text: „hysterie“, počká na vládu a první zákony.
+  - tema: 'Von der Leyenová: přidružené členství Kanady'
+    text: takový status neexistuje, vymyslel ho Merz pro Ukrajinu (opakuje).
+  - tema: 'EK: rámec pro 45 mld. € úvěru Ukrajině'
+    text: Babiš to odhlasoval „5 dní po jmenování“, EU „bere peníze od občanů a posílá na Ukrajinu“ (opakuje).
+  - tema: Stávka přístavních dělníků proti přepravě zbraní
+    text: hnutí a volby v ČR selhaly, zbývají protesty po vzoru Srbska (opakuje).
+  - tema: Generální stávka v Itálii, Milion chvilek
+    text: Milion chvilek „rozpoutává nenávist“ a táhne ČR do války (opakuje).
+  - tema: Súdán nabídl Rusku zlato a přístav
+    text: Afrika je „budoucnost ekonomiky“ a Putin to ví.
+  - tema: Britská kampaň za zásoby vody a potravin
+    text: „zachraň se, kdo můžeš“ (opakuje).
+  - tema: 'Sybiha: Zelenskyj je připraven jednat s Putinem'
+    text: příštích šest měsíců rozhodne, spíš „se někdo hecne“ a bude bojovat → viz [Predikce](../predikce.md)
+  - tema: Ukrajinská národní banka zhoršila výhled HDP
+    text: Ukrajinci si za to mohou sami, jako Češi kvůli Rajchlovi (opakuje).
+  - tema: Francouzská inflace 3,8 %
+    text: čeká nás další energetická krize, sám topí dřevem → viz [Predikce](../predikce.md)
+  - tema: 'Trump: válka s Íránem brzy skončí'
+    text: jen se tomu vysmívá.
+  - tema: 'Divák: zrušit Lipskou burzu'
+    text: burzu rušit netřeba, „péče řádného hospodáře“ je výmluva, cenu lze stanovit zákonem „za jeden
+      den“; elektřina zdarma do průměrné spotřeby
+    vyrok: vrabel-2026-10-30-01
 vyroky:
 - id: vrabel-2026-10-30-01
   typ: tvrzeni
@@ -26,6 +78,10 @@ vyroky:
   - text: Klidně může přijít vláda a udělat jednoduchý zákon. Co se týče elektřiny, tak bude za tolik
       a za tolik peněz. A obejde tím úplně zákon o obchodních korporacích. To je úplně jednoduchý, to
       je úplně triviální.
+  osoby:
+  - osoba: daniel-kretinsky
+    vztah: negativni
+    kontext: „Energobaron“, bere 5 Kč z každé kWh
   podtema: Elektřina — marže a ceny
 - id: vrabel-2026-10-30-02
   typ: tvrzeni
@@ -45,6 +101,10 @@ vyroky:
   - text: Tak to vypadá, že se stal v Srbsku zázrak. Že ty studenti, který vyhráli ty ligy na ulici, že
       skutečně vyhráli svoji zemi a to, co říkají, že budou dělat, tak to zatím vypadá přesně jako to,
       co jsem chtěl udělat.
+  osoby:
+  - osoba: ilija-srdzanovic
+    vztah: negativni
+    kontext: Možný srbský premiér, výroky o Srebrenici „nepřijatelné“
   podtema: Česká suverenita
 - id: vrabel-2026-10-30-03
   typ: tvrzeni
@@ -62,6 +122,10 @@ vyroky:
   citace:
   - text: To je čistý nacizmus. To jsme tady naposledy měli za druhé světové války. Je to trestné. Ministr
       Šťastný by podle mě měl být trestně stíhaný.
+  osoby:
+  - osoba: boris-stastny
+    vztah: negativni
+    kontext: Zákaz ruských sportovců je „čistý nacismus“, měl by být trestně stíhán
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-10-30-04
   typ: tvrzeni
@@ -79,4 +143,64 @@ vyroky:
   citace:
   - text: Za mě Sergej Lavrov je nejlepší ministr zahraničních věcí na světě, který existuje. Basta tečka.
       Je to prostě diplomat každým coulem.
+  osoby:
+  - osoba: sergej-lavrov
+    vztah: pozitivni
+    kontext: „Nejlepší ministr zahraničních věcí na světě“, „diplomat každým coulem“
+  - osoba: marco-rubio
+    vztah: pozitivni
+    kontext: Vyzval Evropu ke zmírnění rétoriky vůči Rusku
+  - osoba: rados-aw-sikorski
+    vztah: negativni
+    kontext: Bojkot fotky s Lavrovem, „zakázal bych je“
+  - osoba: donald-tusk
+    vztah: negativni
+    kontext: Bojkot fotky s Lavrovem, „zakázal bych je“
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-10-30-05
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: Rusko zasáhne továrnu vyrábějící munici pro českou muniční iniciativu
+  text: Výbuch v muniční továrně CSG v Granadě je „první vlaštovka“; Rusko zasáhne podnik vyrábějící munici
+    pro českou iniciativu a budou mrtví.
+  citace:
+  - text: Možná, že se to zastaví před tím, ale logika je taková, že to spíš vypadá, že se to stane.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-10-30-06
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: příštích šest měsíců rozhodne — Rusko nejspíš celou Ukrajinu nevezme
+  text: Příštích šest měsíců bude rozhodujících; pravděpodobnější je, že „se někdo hecne“ a bude bojovat,
+    aby Rusko nevzalo celou Ukrajinu, a mír „jen tak“ nepřijde.
+  citace:
+  - text: Další možnost je, že někdo se hecne a zabojuje, aby Rusové nevzali celou Ukrajinu. To mi připadá
+      jako pravděpodobnější scénář.
+  predikce:
+    horizont: cca do dubna 2027
+    stav: ceka
+- id: vrabel-2026-10-30-07
+  typ: predikce
+  temata:
+  - ceny-energie
+  nadpis: tuto zimu přijde další energetická krize
+  text: Zima 2026/27 bude komplikovaná, přijde další energetická krize a státy budou muset energie dotovat.
+  citace:
+  - text: Prostě čeká nás další energetická krize. […] Takže to, co nás čeká tuto zimu, bude problém.
+  predikce:
+    horizont: zima 2026/27
+    stav: ceka
+- id: vrabel-2026-10-30-08
+  typ: stoch-teror
+  temata:
+  - suverenita-eu
+  nadpis: Boris Šťastný (ministr sportu)
+  text: 'Terč: Boris Šťastný (ministr sportu).'
+  citace:
+  - text: To je čistý nacizmus. […] Je to trestné. Ministr Šťastný by podle mě měl být trestně stíhaný.
+  teror:
+    terc: Boris Šťastný (ministr sportu)
+    hranicni: false

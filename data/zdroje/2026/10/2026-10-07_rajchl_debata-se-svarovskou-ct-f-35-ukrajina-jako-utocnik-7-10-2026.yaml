@@ -20,6 +20,10 @@ vyroky:
   citace:
   - text: Jestli chceme bojovat s dezinformacemi, tak my máme v plánu právě omezit tu Českou televizi,
       což je kanál, který nejvíce šíří dezinformace v České republice.
+  osoby:
+  - osoba: gabriela-svarovska
+    vztah: negativni
+    kontext: Oponentka v debatě („fanatická zelená eurohujerka“ v titulku)
   podtema: Česká televize a mainstreamová média
 - id: rajchl-2026-10-07-02
   typ: tvrzeni
@@ -28,6 +32,10 @@ vyroky:
   nadpis: Pavel „troubí do války" — ve sporu s Ficem o čl. 5 NATO (Rajchl, 24. 9. 2026)
   text: '**7. 10. (Rajchl, debata)** — Opakuje, že Pavlova výzva mít „odvahu“ sestřelit ruskou stíhačku
     nad územím je „absolutní nesmysl“.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Výzva k sestřelení ruské stíhačky = „absolutní nesmysl“
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-10-07-03
   typ: tvrzeni

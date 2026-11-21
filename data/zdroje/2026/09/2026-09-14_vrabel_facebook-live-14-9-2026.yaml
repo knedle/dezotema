@@ -7,6 +7,11 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1384635053298742
   prepis: prepisy/done/2026-09-14_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  osoby:
+  - osoba: mark-rutte
+    vztah: negativni
+    kontext: 'Nový řádek: jeho „hysterický" projev přirovnán ke stylu Adolfa Hitlera; spekulace o duševní
+      nemoci nebo drogách'
 vyroky:
 - id: vrabel-2026-09-14-01
   typ: tvrzeni
@@ -18,6 +23,11 @@ vyroky:
     Polský ministr zahraničí Radosław Sikorski na bezpečnostní konferenci v Kyjevě prohlásil, že Polsko a další státy NATO by v případě přímého konfliktu s Ruskem měly výraznou vzdušnou převahu a mohly by Moskvu porazit „poměrně rychle" — jako doklad uvedl, že pokud Ukrajina za půl roku vyřadila polovinu ruských rafinerií, NATO by tu druhou polovinu zvládlo zničit „za šest týdnů". Vrabel argument opravuje (ruské rafinerie vyřazovalo celé NATO, ne samotná Ukrajina) a varuje, že takové výroky přesně odpovídají tomu, co „říká už čtyři roky": Západ soustavně přesouvá letadla schopná nést jaderné hlavice do okolí Ruska pro případný hromadný nálet. V této souvislosti odhaduje, že Českou republiku (podpis buď Babišem, nebo Pavlem) čeká zapojení do francouzské jaderné aliance — letouny Rafale s raketami ASMP by měly operovat z českého území místo francouzského, protože Francie se nechce vystavit riziku ruské odvety na vlastní půdě. Připomíná vyjádření Sergeje Lavrova, že případný přímý střet NATO–Rusko by byl „velmi rychlou válkou" — což si vykládá jako varování před rychlým použitím mimořádně ničivých zbraní.
 
     ⚡ **Poznámka:** Tvrzení o plánovaném umístění francouzských jaderných zbraní na českém území je Vrabelova vlastní spekulace, ne doložený fakt.
+  osoby:
+  - osoba: rados-aw-sikorski
+    vztah: negativni
+    kontext: Polský ministr zahraničí — tvrzení o vzdušné převaze NATO nad Ruskem hodnoceno jako nebezpečná
+      eskalační rétorika
 - id: vrabel-2026-09-14-02
   typ: tvrzeni
   temata:
@@ -55,6 +65,11 @@ vyroky:
     s Tuckerem Carlsonem, v němž mj. líčila korupci v Zelenského okolí a vzpomínala na duben 2022, kdy
     Boris Johnson při návštěvě Kyjeva slíbil Zelenskému neomezenou podporu (zbraně, peníze) k porážce
     Ruska — což dle Vrabela spoluzavinilo zablokování tehdy rozjednané mírové dohody.'
+  osoby:
+  - osoba: julie-mendelova
+    vztah: pozitivni
+    kontext: Bývalá mluvčí Zelenského — nyní na 10 let sankcionována za rozhovor s Tuckerem Carlsonem,
+      kde popsala korupci v Zelenského okolí
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-09-14-05
   typ: tvrzeni
@@ -80,6 +95,11 @@ vyroky:
     Vrabel srovnává protichůdné signály z obou stran před americkými volbami do Kongresu (listopad 2026). Jared Kushner tvrdí, že mírová dohoda je „téměř hotová" — jediné, co zbývá, je přimět Ukrajince stáhnout se za linii vytyčenou Vladimirem Putinem — a označuje Trumpa za „mírotvorce", který dojednal mír v osmi zemích. Naproti tomu z Ruska (dle Vrabelova sledování ruských zdrojů) zaznívá opak: Putin měl být z jednání se Steve Witkoffem a Kushnerem „velmi znechucený", stejně jako z nátlaku Módího, Erdoğana a Tokajeva na summitu v Šanghaji, aby vyhlásil příměří veřejně. Kreml navíc odmítl myšlenku trojstranné schůzky Zelenskyj–Putin–Trump v Miami a Putin označil Zelenského za „teroristu", s nímž se nevyjednává. Vrabel to čte jako důkaz, že Kushnerovo optimistické vykreslení je především předvolební kampaní republikánů (slib ukončení války „do 24 hodin" se protáhl na přes 24 měsíců) — přičemž v samotném Rusku podle něj sílí nálada, že by se země místo trpělivého čekání měla začít aktivně bránit údajně mohutným útokům Západu.
 
     ⚡ **Poznámka:** Tvrzení o Putinově „znechucení" z jednání i o většinové ruské náladě je Vrabelova vlastní interpretace nepodložená citovaným zdrojem.
+  osoby:
+  - osoba: jared-kushner
+    vztah: rozporuplny
+    kontext: 'Nový řádek: vykresluje poválečnou Ukrajinu jako investiční příležitost (Světová banka, Larry
+      Fink) a mír jako „téměř hotový" — Vrabel to čte jako předvolební PR, ne realitu'
   podtema: Vyjednávání a mír
 - id: vrabel-2026-09-14-07
   typ: tvrzeni
@@ -94,3 +114,35 @@ vyroky:
     přípravy na válku (kaplani, pohřby) by podle něj bylo racionálnější usilovat o obnovení dodávek levného
     ruského plynu a ropy a o zlepšení vztahů s Ruskem.
   podtema: EU jako vojenská struktura
+- id: vrabel-2026-09-14-08
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Zelenskyj nevydrží 30denní moratorium na útoky na energetickou infrastrukturu
+  text: K oznámení Donalda Trumpa, že se Rusko a Ukrajina dohodly přestat útočit na energetickou infrastrukturu
+    druhé strany, Vrabel vyjadřuje skepsi — připomíná, že podobné 30denní příměří v minulosti Rusko dodrželo,
+    zatímco Ukrajina během něj zaútočila na ruská ropná zařízení 48×. Odhaduje šanci na dodržení „tak
+    50 na 50" v závislosti na tom, jak tvrdý nátlak na Zelenského Trump skutečně vyvíjí.
+  predikce:
+    horizont: cca 30 dní od oznámení (polovina října 2026)
+    stav: castecne
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: 'Nerozhodnuto — formální 30denní moratorium nevzniklo: „energetické příměří“ ohlášené 11.
+        10. žádná strana nepotvrdila, Ukrajina zdržela údery na rafinerie jen asi dva dny'
+      stav: castecne
+    - datum: 2026-11-20
+      text: Podle Al Jazeery (12. 10.) a United24 si obě strany vzájemně vyčítaly porušování. Test „vydrží/nevydrží
+        30 dní“ tak vlastně neproběhl.
+- id: vrabel-2026-09-14-09
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: konflikt s Íránem se nevyřeší jako Venezuela, potáhne se déle
+  text: Trump tvrdí, že konflikt s Íránem skončí do konce roku 2026 (po listopadových volbách do Kongresu)
+    stejným způsobem jako ve Venezuele. Vrabel s poměrem 99:1 předpovídá, že se tak nestane — Írán na
+    rozdíl od Venezuely úzce spolupracuje s Ruskem, Čínou a Indií, takže podle něj „mu to Trumpovi neprojde"
+    a konflikt se potáhne podstatně déle.
+  predikce:
+    horizont: konec roku 2026 / po volbách do amerického Kongresu (listopad 2026)
+    stav: ceka

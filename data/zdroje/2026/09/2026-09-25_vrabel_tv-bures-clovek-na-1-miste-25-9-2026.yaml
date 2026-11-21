@@ -10,6 +10,47 @@ zdroj:
   poznamka: Host-stream na kanálu TV Bureš (moderuje Petr Bureš), propagace shromáždění „Člověk na prvním
     místě" 3. 10. V části 32:00–1:09:44 mluví hosté (T. Hrdlička, L. Benovský, Z. Žákovičová, A. Šulc,
     K. Rybářová, L. Křivánková) — jejich tvrzení nezpracována.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Psychopat, který všude chce rozdávat jaderné zbraně"
+  prehled:
+  - tema: Návrat ze Srbska, perzekuce
+    text: „aktivity režimu proti mojí osobě se nezastavily".
+  - tema: Srbsko jako neutrální země
+    text: levný plyn, elektřina 4,5× levnější, hypersonické rakety z Číny, rotační migranti z Nepálu
+    vyrok: vrabel-2026-09-25-10
+  - tema: Česká delegace u srbské zbrojovky; sankce na zbraně
+    text: ČR prý přemlouvala Srby k přeposílání zbraní; EU sankcionuje RT, zbraně by mohla také
+    vyrok: vrabel-2026-09-25-10
+  - tema: USA válku vyprovokovaly od 2013, Ukrajina proxy
+    text: opakování.
+  - tema: „Česko na prvním místě" jako převzatý brand; Babiš „cizinec" a referendum
+    text: ⚡ viz [Politický systém](../politicky-system.md)
+  - tema: Nesplněné sliby Babišovy vlády
+    text: muniční iniciativa, F-35, 90 mld. — opakování.
+  - tema: Jaderný deštník, Pavel „psychopat", ochuzený uran v Srbsku
+    text: ⚡ viz [Jaderné zbraně](../jaderne-zbrane.md)
+  - tema: Trump horší než Biden, vláda „podvodníků a herců"; Trump „nepracuje pro USA"
+    text: ⚡ viz [Deep State](../konspirace-deep-state-qanon.md)
+  - tema: Demonstrace mají smysl, srbský model; „před francouzskou revolucí"
+    text: ⚡ viz [Politický systém](../politicky-system.md), [Predikce](../predikce.md)
+  - tema: 1 % vlastní 93 % světa, covid jako přesun majetku; konec petrodolaru
+    text: ⚡ viz [Konspirační teorie](../konspirace.md)
+  - tema: Válka vyžaduje umlčet odpůrce (Čapek, Goebbels)
+    text: ⚡ viz [Politický systém](../politicky-system.md)
+  - tema: Druhá světová válka a stejné elity jako dnes
+    text: opakování.
+  - tema: Třetí světová válka nevyhnutelná, falešná vlajka, čl. 5; Lavrov o „krátké" válce
+    text: opakování.
+  - tema: Za vládu mohou voliči vedení médii a Aspenem
+    text: opakování.
+  - tema: Francie „pět důvodů" k zastřelení, digitální koncentrák
+    text: ⚡ viz [Politický systém](../politicky-system.md)
+  - tema: Rozkrást Rusko jako Jugoslávii, nový „Jelcin"
+    text: opakování s novým detailem.
+  - tema: Organizace shromáždění 3. 10.
+    text: mediální ban, podpis výzvy proti jaderné dohodě; řečníci Bureš a Kratochvíl.
 vyroky:
 - id: vrabel-2026-09-25-03
   typ: tvrzeni
@@ -24,6 +65,10 @@ vyroky:
     všude chce rozdávat jaderné zbraně". Připomíná, že Američané při bombardování Jugoslávie použili munici
     s ochuzeným uranem, což podle něj v 90. letech způsobilo v Srbsku „epidemii rakoviny" — výbuch hlavice
     ASMP by byl „statisíce násobky" horší a zásah skladu by zamořil „celou Českou republiku".'
+  osoby:
+  - osoba: petr-bures
+    vztah: pozitivni
+    kontext: Moderátor TV Bureš, spojenec, řečník 3. 10.
 - id: vrabel-2026-09-25-04
   typ: tvrzeni
   temata:
@@ -57,6 +102,10 @@ vyroky:
       za tím skrývá.
   - text: Prostě ta lež se vezme, postaví se takhle a řekne se, kdo nebude opakovat tu lež, toho zastřelíme.
       A kdo bude s náma opakovat tu lež, tomu dáme kus kořisti.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Cizinec, který není rodilý Čech", zakázal referendum o vystoupení z EU
   podtema: Politická kultura
 - id: vrabel-2026-09-25-07
   typ: tvrzeni
@@ -82,3 +131,16 @@ vyroky:
     jediná vojensky neutrální země v Evropě má díky dohodě Vučić–Putin levný plyn, elektřinu 4,5× levnější
     než ČR (mimo lipskou burzu) a od Číny hypersonické rakety.'
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-25-12
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: „jsme před francouzskou revolucí" — vlády začnou padat
+  text: 'Evropa je „před francouzskou revolucí": vlády začnou padat a přijdou velké změny; po válce přijde
+    změna systému.'
+  citace:
+  - text: My jsme v podstatě před francouzskou revolucí teďkon, protože to, že ty vlády začnou padat a
+      že se bude, že budou velký změny, to je úplně jasný.
+  predikce:
+    horizont: neurčeno
+    stav: ceka

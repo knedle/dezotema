@@ -11,6 +11,16 @@ zdroj:
     a trest smrti za korupci, Pavel a ústavní žaloba, Grolich, spravedlnost bez peněz. Sovětská vlajka
     na profilovce je podle něj úcta rudoarmějcům, ne obdiv k Rusku. 6 výroků stochastického teroru (3
     hraniční). Druhou část (od cca 37. minuty) zpracoval pomocný agent, klíčové citace ověřeny v přepisu.
+  osoby:
+  - osoba: milan-mazurek
+    vztah: pozitivni
+    kontext: „Totálně setřel“ Nerudovou v EP
+  - osoba: mikulas-minar
+    vztah: negativni
+    kontext: „Zrzavý kripl“, zneužil Večerníčka
+  - osoba: ondrej-kolar
+    vztah: negativni
+    kontext: Přejmenoval náměstí po Borisi Němcovovi
 vyroky:
 - id: cernohorsky-2026-11-14-01
   typ: tvrzeni
@@ -34,6 +44,19 @@ vyroky:
     ČT viz [Stochastický teror](stochasticky-teror.md).'
   citace:
   - text: Já se vsadím, že 90 % z nich bydlí v těch králíkárnách.
+  osoby:
+  - osoba: danuse-nerudova
+    vztah: negativni
+    kontext: Hájí poplatky kvůli manželovým exekucím
+  - osoba: oldrich-kaiser
+    vztah: pozitivni
+    kontext: Výjimky mezi herci, kritičtí k ČT
+  - osoba: vyskocil
+    vztah: pozitivni
+    kontext: Výjimky mezi herci, kritičtí k ČT
+  - osoba: vasut
+    vztah: pozitivni
+    kontext: Výjimky mezi herci, kritičtí k ČT
   podtema: Nová alternativní média
 - id: cernohorsky-2026-11-14-02
   typ: tvrzeni
@@ -52,6 +75,13 @@ vyroky:
   citace:
   - text: Bez problému by nechal zrušit právo veta pro Českou republiku v zahraničních otázkách. […] Takže
       by vlastně o nás mohli rozhodovat bývalí nácci jako Merz.
+  osoby:
+  - osoba: eva-pavlova
+    vztah: negativni
+    kontext: Nevrátil důchodovou reformu, „cestovka“, veto; Pavlová „do Lidlu k pokladně“
+  - osoba: milos-zeman
+    vztah: pozitivni
+    kontext: „Diamantový člověk“ oproti Pavlovi
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: cernohorsky-2026-11-14-03
   typ: tvrzeni
@@ -105,6 +135,10 @@ vyroky:
     ve 3–5 ráno běžně.
   citace:
   - text: Pan Grolich, protože je senátor, tak je nad člověk? On je nad právem?
+  osoby:
+  - osoba: grolich
+    vztah: negativni
+    kontext: „Rozhodne ulice“ jako výzva k násilí
   podtema: Politická kultura
 - id: cernohorsky-2026-11-14-06
   typ: tvrzeni
@@ -115,4 +149,89 @@ vyroky:
     pro Ivu Rosickou a Terezu Vlasákovou. Těžce nemocní podle něj přicházejí o invalidní důchod 2. a 3.
     stupně a na příspěvky čekají měsíce. Ministra Juchelku by vyměnil za „člověka s empatií“. Exekutory
     označuje za „mafii“.'
+  osoby:
+  - osoba: ales-juchelka
+    vztah: negativni
+    kontext: Vyměnit za „člověka s empatií“
   podtema: Vlastní vládní program „kdybych byl Babišem" (Černohorský)
+- id: cernohorsky-2026-11-14-07
+  typ: stoch-teror
+  temata:
+  - media-propaganda
+  nadpis: Vít Rakušan
+  text: 'Terč: Vít Rakušan.'
+  citace:
+  - text: Proč já absolutně nedávám Rakušana, který ho, kdyby to jenom šlo, tak ho nechám popravit, hajzla.
+      […] Ty máš být v tom kriminále, ty hajzle, skurvenej Rakouskej, vole. Ty máš makat od rána […] Nic
+      zadarmo, ty hajzle.
+  osoby:
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: „Nechám popravit, hajzla“, „máš být v kriminále“
+  teror:
+    terc: Vít Rakušan
+    hranicni: false
+- id: cernohorsky-2026-11-14-08
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Fialova vláda („Fialová pakáž“)
+  text: 'Terč: Fialova vláda („Fialová pakáž“).'
+  citace:
+  - text: Fialová pakáž okradla seniory, důchodce […] okradli tyhle zmrdi zkurvení. Rozkopat rypáky hajzlům
+      za to.
+  teror:
+    terc: Fialova vláda („Fialová pakáž“)
+    hranicni: false
+- id: cernohorsky-2026-11-14-09
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: aktéři Dozimetru, kampeličky, zbrojních zakázek a bitcoinové kauzy
+  text: 'Terč: aktéři Dozimetru, kampeličky, zbrojních zakázek a bitcoinové kauzy.'
+  citace:
+  - text: Jako v Číně bych všechny tyhle kurvy, krysy, kteří se podíleli na Dozimetru, Kampeličce, rozkrádání
+      zbrojních zakázek […] bitcoinu […] tak bych je nechal popravit. A nebo možná bych udělal lepší.
+      Dal bych jim elektronické obojky na krky a nucené práce.
+  teror:
+    terc: aktéři Dozimetru, kampeličky, zbrojních zakázek a bitcoinové kauzy
+    hranicni: false
+- id: cernohorsky-2026-11-14-10
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: „fialovo-modrožlutá banda“
+  text: 'Terč: „fialovo-modrožlutá banda“.'
+  citace:
+  - text: 90 % všech těch hajzlů mají být dávno v kriminále. Má jim být zabavený majetek.
+  teror:
+    terc: „fialovo-modrožlutá banda“
+    hranicni: true
+- id: cernohorsky-2026-11-14-11
+  typ: stoch-teror
+  temata:
+  - media-propaganda
+  nadpis: zaměstnanci ČT
+  text: 'Terč: zaměstnanci ČT.'
+  citace:
+  - text: Všechny tyhle kurvy z té České televize jsou ti, jenž mají na rukou tu krev těch lidí, tu smrt
+      těch lidí, kteří se očkovali.
+  teror:
+    terc: zaměstnanci ČT
+    hranicni: true
+- id: cernohorsky-2026-11-14-12
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Petr Pavel, Eva Pavlová
+  text: 'Terč: Petr Pavel, Eva Pavlová.'
+  citace:
+  - text: 'Pavel „ta svině skurvená z toho hradu“; o Pavlové: „táhni dělat do Lidlu, do Penny […] 12 hodin
+      do pokladny, ty mrtko“ — dehumanizace a ponížení bez výzvy k násilí'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Nevrátil důchodovou reformu, „cestovka“, veto; Pavlová „do Lidlu k pokladně“
+  teror:
+    terc: Petr Pavel, Eva Pavlová
+    hranicni: true

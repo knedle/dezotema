@@ -7,6 +7,51 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/976458615501810
   prepis: prepisy/done/2026-10-06_Ladislav-Vrabel_6-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
+  osoby:
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: „Hrdina se svědomím“, který může zablokovat agendu EU
+  prehled:
+  - tema: ČR dostala první platbu ze SAFE (309 mil. €)
+    text: SAFE je „klasický příběh korupce a přerozdělování“, EU je „figurant“ utrácející naše peníze.
+  - tema: Protesty ve Francii (256–450 tisíc lidí)
+    text: nejde o učitele, je to „začátek občanské války“ spojený s migrací.
+  - tema: Studentské protesty se šíří do Itálie
+    text: globalisté k převratům vždy používají studenty (1989, Majdan, Srbsko)
+    vyrok: vrabel-2026-10-06-05
+  - tema: EU odkládá pravidla o metanu
+    text: „salámová metoda“ globalistů (Sachs).
+  - tema: Rozšíření EU, pozastavení hlasovacích práv na 15 let
+    text: cesta ke kvalifikované většině, k přesunu muslimů do V4 a ke vstupu Ukrajiny
+    vyrok: vrabel-2026-10-06-06
+  - tema: 900 ukrajinských dronů nad Ruskem
+    text: Zelenskyj eskaluje, „pobaltské země už jsou na řadě“.
+  - tema: Drony zasáhly dvě lodě v bulharské ekonomické zóně
+    text: útočník neznámý, „v Černém moři zuří válka“.
+  - tema: „Muslimské NATO“ (Saúdská Arábie, Turecko, Pákistán) zahájilo válku v Jemenu
+    text: začíná další válka, „přiostřuje se to“.
+  - tema: Francie testovala raketu M51-3
+    text: o „deštníku“ by rozhodoval „nestabilní“ Macron
+    vyrok: vrabel-2026-10-06-03
+  - tema: 'Británie: zatčení kvůli plánu íránského útoku na RAF Fairford'
+    text: jen zpráva.
+  - tema: Údajný mor v Irkutsku
+    text: protiruská propaganda, covid „udělali Američané“
+    vyrok: vrabel-2026-10-06-01
+  - tema: Útok na Aramco, Trump o rekordním průtoku Hormuzem
+    text: ironie před americkými volbami.
+  - tema: Švédské Patrioty do Polska, válka s Ruskem
+    text: „na 99 %“ začne v Pobaltí a bude vleklá; „zachraň se, kdo můžeš“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-06-07
+  - tema: Francie a Německo chtějí nástroj proti Číně
+    text: Evropa „páchá harakiri“, čeká ji „ekonomický držkopád“
+    vyrok: vrabel-2026-10-06-04
+  - tema: Ropa, Green Deal a depopulace
+    text: „svět bez ropy“ jako plán snížení na miliardu lidí
+    vyrok: vrabel-2026-10-06-05
+  - tema: Další postup hnutí
+    text: výzvy vládě, dopis Babišovi kvůli stíhaným za „Z“, možná demonstrace 17. 11.
+    vyrok: vrabel-2026-10-06-02
 vyroky:
 - id: vrabel-2026-10-06-01
   typ: tvrzeni
@@ -35,6 +80,10 @@ vyroky:
     proti „teroru pomocí ozbrojenců se samopaly“, ne kvůli Rusku. Pokud se vláda „v přiměřeném čase“ nevyjádří
     a neomluví, zvažuje velkou demonstraci 17. listopadu („ukradený svátek svobody“) s celostátní placenou
     kampaní. Právní rozbor chystá se Štefanem Harabinem.'
+  osoby:
+  - osoba: stefan-harabin
+    vztah: pozitivni
+    kontext: Chystá s ním právní rozbor stíhání za „Z“
   podtema: Trestání politického projevu
 - id: vrabel-2026-10-06-03
   typ: tvrzeni
@@ -49,6 +98,13 @@ vyroky:
     vztah s manželkou, kterou označuje za „pravděpodobně přestavěného chlapa“, považuje za „psychickou
     poruchu, diagnózu“. Ironizuje, že „deštník“ k nám ponorkami po Vltavě nedopraví. Výzvu „nepodepisovat
     dohodu o jaderných zbraních“ ze shromáždění 3. 10. podává 7. 10. na Úřad vlády a do Sněmovny.'
+  osoby:
+  - osoba: emmanuel-macron
+    vztah: negativni
+    kontext: „Emocionálně nestabilní“, „psychická porucha“, podvedl Rusko 2022, pracuje pro Rothschilda
+  - osoba: michala-ganovska
+    vztah: pozitivni
+    kontext: Zdroj informací o jaderném deštníku a ruském vnímání ČR
 - id: vrabel-2026-10-06-04
   typ: tvrzeni
   temata:
@@ -88,6 +144,10 @@ vyroky:
     a změnit Lisabonskou smlouvu. Kvalifikovanou většinou pak bude možné rozhodnout o „přesunu muslimů“
     do ČR, Polska, Maďarska a na Slovensko, protože pro EU už to nejsou státy, ale „regiony“. Babiše označuje
     za „EU patriota“ a připomíná, že Okamura přesvědčoval Srbsko ke vstupu do EU.'
+  osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: „Pravý vlastenec“ (ironicky), který přesvědčoval Srbsko ke vstupu do EU
   podtema: Česká suverenita
 - id: vrabel-2026-10-06-07
   typ: tvrzeni
@@ -102,4 +162,23 @@ vyroky:
   citace:
   - text: Myslím si, že to začne tam [v Pobaltí] a bude to pokračovat velmi podobně jako na Ukrajině [...]
       že ten konflikt se pomalu bude rozrůstat na celou Evropu, že bude vleklý.
+  osoby:
+  - osoba: sergej-lavrov
+    vztah: rozporuplny
+    kontext: Nevěří mu, že válka s Evropou bude rychlá a jaderná
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-10-06-08
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: válka Ruska s Evropou „na 99 %“ začne v Pobaltí, ČR v ní bude okamžitě a konflikt bude vleklý;
+    čeká nás „ekonomický držkopád“
+  text: Válka Ruska s Evropou podle něj „na 99 %“ bude. Začne v pobaltských zemích, ČR se do ní kvůli
+    článku 5 zapojí okamžitě a půjde o pomalu se rozšiřující vleklý konflikt raket a dronů, ne o okamžitou
+    jadernou válku. Ekonomicky Evropu kvůli konci petrodolaru čeká „držkopád“.
+  citace:
+  - text: Když se ta válka bude rozbíhat, a myslím si, že na 99 % bude, tak to začne v pobaltských zemích
+      [...] takže v té válce budeme okamžitě, protože se aktivuje článek 5.
+  predikce:
+    horizont: neurčeno
+    stav: ceka

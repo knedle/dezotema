@@ -26,4 +26,17 @@ vyroky:
   citace:
   - text: A proto vysílá jenom pro úzkou skupinku euroliberálních oveček, my ostatní jim to platíme, tuhle
       jich propagandu.
+  osoby:
+  - osoba: marek-wollner
+    vztah: negativni
+    kontext: Po odchodu z ČT označen za „neúspěšného" se „zkrachovalým projektíkem"
+  - osoba: zuzana-cerna
+    vztah: negativni
+    kontext: Po odchodu z ČT označena za „neúspěšnou", sledovanost „asi 20 lidí"
+  - osoba: tomas-paukner
+    vztah: pozitivni
+    kontext: Jmenován mezi novináři, jejichž investigativu by si Rajchl rád zaplatil v „nové" ČT
+  - osoba: pavel-strunz
+    vztah: pozitivni
+    kontext: Echo24, vysoká sledovanost — Rajchl by si rád zaplatil jím moderovanou debatu
   podtema: Nová alternativní média

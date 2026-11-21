@@ -8,6 +8,35 @@ zdroj:
   prepis: prepisy/done/2026-10-25_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
   poznamka: 49 min, živý přenos z oslav v Bělehradě po srbských volbách; bez sdílených videí.
+  osoby:
+  - osoba: vojislav-kostunica
+    vztah: pozitivni
+    kontext: „Náš přítel“, autor ústavní vojenské neutrality
+  - osoba: peter-magyar
+    vztah: negativni
+    kontext: Chce dostat Orbána do vězení
+  prehled:
+  - tema: Studentské hnutí vyhrálo srbské volby (52–53 %, Vučić přes 30 %)
+    text: „rozporuplný pocit“; hnutí ale „není proti srbský, ani pro ukrajinský, pro EU nebo NATO“, pokusy
+      EU studenty ovlivnit „nevzali“, což je odklon od tvrzení o barevné revoluci z 21. 10.
+    vyrok: vrabel-2026-10-25-06
+  - tema: Vojenská neutralita Srbska zůstane
+    text: ústavní většinu studenti mít nebudou, Srbsko se nepostaví na žádnou stranu → viz [Predikce](../predikce.md)
+  - tema: Vučić jako státník
+    text: lidé by mu měli „líbat ruce“; noví politici budou v OSN a EU „beněmínci“ jako Babiš s „vykulenýma
+      očima“ (opakuje).
+  - tema: Vláda se musí lidí bát (Srbsko vs. ČR)
+    text: Srbové dvakrát vynutili volby a vyhráli, ČR v roce 2022 „slušně protestovala“ a nevydržela (opakuje).
+  - tema: Covid v Srbsku
+    text: „všude na světě byli lidi v krvi…, jenom v Srbsku byli v krvi policajti“ (opakuje).
+  - tema: Jediná vlajka EU v Bělehradě visí na české ambasádě
+    text: vlajky EU, USA ani Ukrajiny „v Srbsku nemají co dělat“.
+  - tema: Orbán v opozici
+    text: doufá, že Vučić nedopadne jako Orbán, kterého Magyar „chce dostat do vězení“ (opakuje).
+  - tema: Skandování proti Vučićovi
+    text: paradox, že mu vyčítají „prodávání země“, ačkoli je podle Vrabela „velmi silně pronárodní“.
+  - tema: České mediální podání
+    text: přenos dělá, protože česká média „budou vyprávět příběhy, které chtějí“ (opakuje).
 vyroky:
 - id: vrabel-2026-10-25-06
   typ: tvrzeni
@@ -28,4 +57,21 @@ vyroky:
   - text: Na druhou stranu rozhodně tenhle studentský pokret není něco, co by bylo proti srbský, nebo
       pro ukrajinský, nebo nedej bože pro Evropskou unii, nebo nedej bože pro NATO. To vůbec nepřipadá
       v úvahu.
+  osoby:
+  - osoba: studentske-hnuti
+    vztah: rozporuplny
+    kontext: Pronárodní a mimo vliv EU, ale jako nová síla „nebezpečné“
   podtema: Česká suverenita
+- id: vrabel-2026-10-25-07
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: srbská vojenská neutralita zůstane, Srbsko nepůjde na žádnou stranu
+  text: Bez ohledu na vývoj studentského hnutí zůstane srbská vojenská neutralita a Srbsko se nepostaví
+    na žádnou stranu konfliktu Ruska a Ukrajiny.
+  citace:
+  - text: A i kdyby se stalo cokoliv se studentským pokretem, tak vojenská neutralita zůstane, to znamená
+      Srbsko v žádném případě nepůjde na žádnou stranu konfliktu mezi Ruskem a Ukrajinou.
+  predikce:
+    horizont: neurčeno
+    stav: ceka

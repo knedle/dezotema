@@ -7,6 +7,20 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1782270146299075
   prepis: prepisy/done/2026-09-01_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Větrníky/Green Deal — vláda poruší předvolební slib (66 turbín Zlínsko/Olomoucko)
+    text: → [Větrné elektrárny](../vetrniky.md)
+  - tema: Daň z nemovitosti pro vlastníky více nemovitostí — „salámová metoda"
+    text: → [Ceny energie](../ceny-energie.md)
+  - tema: Muniční iniciativa pokračuje „dokud bude Ukrajina potřebovat" (Zůna/SPD)
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: Právo veta v EU fakticky již zrušeno — 11 zemí žádá rozšíření hlasování kvalifikovanou většinou
+    text: → [Suverenita a EU](../suverenita-eu.md)
+  - tema: Erdogan/Turecko jako „pátá kolona" v Německu/Rakousku
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Nová obvinění Ruska bez důkazů (Halle, Jänschwalde, polská VB Electronics) — paralela s přípravou
+      2. sv. války
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
 vyroky:
 - id: vrabel-2026-09-01-01
   typ: tvrzeni
@@ -24,6 +38,11 @@ vyroky:
     o „superbohaté", ale i o běžné drobné investory. Předpovídá, že po zdanění majitelů více nemovitostí
     přijde postupně řada i na ty, kdo mají jen dva byty, a nakonec i na vlastníky jediného bytu/domu —
     s odkazem na dřívější Schillerové výrok, že podnikatelé „musí mít vatu" (finanční rezervu).'
+  osoby:
+  - osoba: alena-schillerova
+    vztah: negativni
+    kontext: Návrh zdanit vlastníky více nemovitostí označen za „salámovou metodu" prosazování daňové
+      agendy
   podtema: Elektřina — marže a ceny
 - id: vrabel-2026-09-01-02
   typ: tvrzeni
@@ -68,6 +87,11 @@ vyroky:
     obrannou dohodu („první muslimská jaderná aliance", sekretariát v Rijádu) rozvádí tezi o „páté koloně":
     pokud by došlo k širšímu konfliktu, Erdogan by podle něj mohl nasadit silnou tureckou komunitu v Německu
     a Rakousku k odzbrojení místní policie, což by dané země mohly mít problém ustát.'
+  osoby:
+  - osoba: recep-tayyip-erdogan
+    vztah: rozporuplny
+    kontext: Setkání s Putinem/Lukašenkem na ŠOS — popsán jako klíčový geopolitický hráč, který by mohl
+      nasadit tureckou „pátou kolonu" v Německu/Rakousku
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-09-01-05
   typ: tvrzeni
@@ -87,6 +111,11 @@ vyroky:
     — si dnes připomínáme) také nezačala „jeden den", ale byla roky připravována propagandou vytvářející
     nenávist k nepříteli (tehdy k Židům/Německu, dnes k Rusku) — a že třetí světová válka již podobným
     způsobem probíhá, jen to zatím není takto pojmenováno.'
+  osoby:
+  - osoba: daniel-kretinsky
+    vztah: negativni
+    kontext: Jeho firma LEAG/EPH provozuje elektrárnu Jänschwalde, u níž Německo bez důkazů obvinilo Rusko
+      ze sabotáže
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-09-01-06
   typ: tvrzeni

@@ -23,4 +23,9 @@ vyroky:
     jmenoval a omluvil se mu za dosavadní postup.
   citace:
   - text: Petře Pavleji, jmenujte Filipa Turka ministrem. [...] Je na vás, abyste napravil vaši chybu.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Nejmenoval Turka ministrem na základě nepotvrzeného obvinění; rozhodnutí ÚS v jeho prospěch
+      rychlejší než u běžných soudů
   podtema: Kauza Filip Turek — nejmenování ministrem a spor s Nerudovou

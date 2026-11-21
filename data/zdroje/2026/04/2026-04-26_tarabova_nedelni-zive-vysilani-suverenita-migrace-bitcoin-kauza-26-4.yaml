@@ -9,6 +9,11 @@ zdroj:
   rezim: standard
   delka: cca 30+ min (metadata vadná)
   poznamka: 'Zhlédnutí: 1 064'
+  osoby:
+  - osoba: eva-dekrova
+    vztah: negativni
+    kontext: Tarabová ji vyzývá k odchodu z politiky; obviňuje ji z trestného činu nadržování v Bitcoin
+      kauze (kryla Davida Uhlíře a nezveřejnila zprávu zahrnující Stanjuru)
 vyroky:
 - id: tarabova-2026-04-26-01
   typ: tvrzeni
@@ -45,4 +50,9 @@ vyroky:
     za cenu riskování životů (Rašín a Kramář byli Habsburky odsouzeni k trestu smrti). Pavel, Piráti a
     STAN se podle Tarabové snaží to, co bylo za 110 let vydobyto, „zašlapat do země a vrátit nás do nějakého
     většího evropského subteritoria, kde bychom nerozhodovali vůbec o ničem."
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Kolaborantský útok na svrchovanost ČR" — vyhlásil směřování do Spojených států evropských,
+      čímž by fakticky zanikla ČR
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

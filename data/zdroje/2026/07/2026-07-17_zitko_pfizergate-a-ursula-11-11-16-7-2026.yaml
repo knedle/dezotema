@@ -20,6 +20,11 @@ zdroj:
     beze změny (jen zdroj): Deep State/Central Casting reprízy, přistání na Měsíci/Kubrick/Area 51, volby
     2023 podvod, kauza Blažek/bitcoiny, Kirsch/CDC 150 mil., Cena za svobodu projevu (Čermák/Svoboda).
     Bez predikcí.'
+  osoby:
+  - osoba: albert-bourla
+    vztah: negativni
+    kontext: Ředitel Pfizeru opakovaně označen za „veterináře", u nějž prý všechna testovaná zvířata na
+      mRNA uhynula
 vyroky:
 - id: zitko-2026-07-17-01
   typ: tvrzeni
@@ -30,6 +35,11 @@ vyroky:
     Přebírá článek Romana Malého (odkaz na Dianu Weil), podle nějž je von der Leyen (rozená Albrecht) potomkem nacistické linie: dědeček Karl Albrecht měl být „kolegou Josefa Mengeleho" a psychologem blízkým Goebbelsovi, otec Ernst Albrecht (zemský premiér) prý rehabilitoval nacisty. Rodina je dle článku zastáncem eugeniky a „nadřazené rasy"; totéž připisuje i kancléři Merzovi. Klíčové obvinění: manžel Heiko von der Leyen je vědeckým ředitelem biotechnologické firmy **Orgenesis** (buněčná/genová terapie, mRNA) — měsíc po podpisu smlouvy Pfizer měl být do koncernu „katapultován" (odkaz na knihu dr. Günthera Franka *Zločin v režii státu*). Vše rámuje operací Paperclip (útěk nacistů do USA/Kanady/Jižní Ameriky, jejich vnuci dnes v EP). Uzavírá to jako „šachmat" kolem Pfizergate.
 
     ⚡ **Poznámka:** Genealogická a „eugenická" tvrzení o von der Leyenové jsou nepodložená konspirační narace šířená okrajovými zdroji.
+  osoby:
+  - osoba: ursula-von-der-leyen
+    vztah: negativni
+    kontext: „Pfizergate" — SMS objednávka vakcín u Bourly; líčena jako potomek nacistů (dědeček Albrecht
+      „kolega Mengeleho"), zastánkyně eugeniky; manžel Heiko ve firmě Orgenesis (mRNA)
   podtema: „Pfizergate" a rod von der Leyenových (Zítko, 16. 7. 2026)
 - id: zitko-2026-07-17-02
   typ: tvrzeni
@@ -102,3 +112,30 @@ vyroky:
     Zítko uvádí tvrzení, že ze zhruba 50 milionů muslimských imigrantů žijících v Evropě jich 40 milionů žije ze sociální pomoci. Odkazuje na zesnulého komentátora Petránka a jeho tezi, že Evropa páchá „trojským koněm migrace svoji sebevraždu".
 
     ⚡ **Poznámka:** Uváděná čísla nejsou doložena a neodpovídají dostupným statistikám.
+- id: zitko-2026-07-17-08
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: placení „hejtři" / pracovníci médií a farmafirem
+  text: přání aplikace nejsmrtelnější šarže vakcíny jmenované skupině (kritici/„hejtři"), navazuje na
+    starší návrh naočkovat „vládu, Babiše, příbuzné, děti, poslance, senátory" losovanými (nikoli placebo)
+    šaržemi
+  citace:
+  - text: doporučoval bych jim dostavit se na smluvené místo, já bych jim vybral šarži, která začíná na
+      E, 56 % mrtvol, nebo končící na 22Z [...] tam by se uvidělo to hrdinství
+  teror:
+    terc: placení „hejtři" / pracovníci médií a farmafirem
+    hranicni: false
+- id: zitko-2026-07-17-09
+  typ: stoch-teror
+  temata:
+  - digitalni-kontrola
+  nadpis: „covidoví vrazi, zločinci, pachatelé genocidy a sterilizace národa"
+  text: 'Terč: „covidoví vrazi, zločinci, pachatelé genocidy a sterilizace národa".'
+  citace:
+  - text: Schvaluje Čermákův výrok, že je třeba „vrahy a pachatele těchto nejtěžších zločinů vzít za držky
+      a naházet do řeky"; opakovaná výzva, aby „covidoví zločinci všichni stanuli před spravedlivým vojenským
+      tribunálem"
+  teror:
+    terc: „covidoví vrazi, zločinci, pachatelé genocidy a sterilizace národa"
+    hranicni: false

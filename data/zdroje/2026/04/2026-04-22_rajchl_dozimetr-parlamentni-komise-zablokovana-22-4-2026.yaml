@@ -26,4 +26,18 @@ vyroky:
   citace:
   - text: Pokud chcete měřit všem stejným metrem a tvrdíte, že do doby, než se vjasní pravost té nahrávky
       Pavla Matochy a Romana Bradáče — měřte sobě stejným metrem a suspendujte svůj poslanecký mandát.
+  osoby:
+  - osoba: pavel-matocha
+    vztah: neutralni
+    kontext: Člen Rady ČT; záznam jeho a Bradáče byl koalicí využit jako záminka k zablokování hlasování
+      o parlamentní komisi k Dozimetru
+  - osoba: roman-bradac
+    vztah: neutralni
+    kontext: Šéfredaktor ČT; záznam jeho a Matochy byl koalicí využit jako záminka k zablokování parlamentní
+      komise k Dozimetru
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: 'Zablokoval parlamentní komisi k Dozimetru: koalice hlasovala proti za záminkou nahrávky
+      Matochy/Bradáče; dvojí metr — Rakušan sám byl potvrzen v KryptoCalt Fremrovou výpovědí; Rajchl pohrozil
+      pozastavením mandátu'
   podtema: Kauza Dozimetr

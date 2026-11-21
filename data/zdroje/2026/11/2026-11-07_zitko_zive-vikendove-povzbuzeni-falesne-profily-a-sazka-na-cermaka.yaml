@@ -41,6 +41,28 @@ vyroky:
     %).'
   citace:
   - text: Kdy dva hologramy letadel sundaly 11. září tři baráky v New Yorku.
+  osoby:
+  - osoba: konstantin-stanek
+    vztah: negativni
+    kontext: Možný správce falešného profilu, „člen gengu“
+  - osoba: julian-assange
+    vztah: pozitivni
+    kontext: Chce odhalit „operativce z Obamovy éry“
+  - osoba: stephen-miller
+    vztah: pozitivni
+    kontext: „Bude kosit“ a odhalí volební podvod
+  - osoba: tucker-carlson
+    vztah: negativni
+    kontext: Obrátili se proti Trumpovi „jen kvůli Izraeli“
+  - osoba: thomas-massie
+    vztah: negativni
+    kontext: Obrátili se proti Trumpovi „jen kvůli Izraeli“
+  - osoba: candace-owensova
+    vztah: negativni
+    kontext: Obrátili se proti Trumpovi „jen kvůli Izraeli“
+  - osoba: marjorie-taylor-greeneova
+    vztah: negativni
+    kontext: Obrátili se proti Trumpovi „jen kvůli Izraeli“
 - id: zitko-2026-11-07-03
   typ: tvrzeni
   temata:
@@ -63,3 +85,29 @@ vyroky:
     o korýtka“; poplatek má být dobrovolný a „hnědokošiláči okolo Mináře“ ať si platí 20 000 Kč. Opakuje,
     že ČT dostala z USA 4,2 milionu dolarů (asi 88 mil. Kč) na propagaci vakcín.'
   podtema: Nová alternativní média
+- id: zitko-2026-11-07-05
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: JFK Jr. „co nevidět“ vystoupí na veřejnost, přichází „viditelných 20 %“ operace a „zlatý věk“
+  text: John F. Kennedy Jr. „co nevidět“ vystoupí na veřejnosti; začíná fáze, kdy bude vidět 20 % vojenské
+    operace, Stephen Miller odhalí „obrovský volební podvod“ z 3. 11. a Assangeovo odhalení „bude gradovat“;
+    nastane „zlatý věk“ (ne pro ty, kdo zůstanou v „Matrixu“).
+  citace:
+  - text: Teď jdeme do fáze, kde těch 20 % si určitě všimnete.
+  predikce:
+    horizont: „co nevidět“
+    stav: ceka
+- id: zitko-2026-11-07-06
+  typ: stoch-teror
+  temata:
+  - media-propaganda
+  nadpis: „židovští miliardáři“, „satanisti“; politici a celebrity; okolí Mikuláše Mináře
+  text: 'Terč: „židovští miliardáři“, „satanisti“; politici a celebrity; okolí Mikuláše Mináře.'
+  citace:
+  - text: 'Souhlasně čte: „Na čele nejsou demokrati, nejsou tam židovští miliardáři… nejsou tam satanisti,
+      který dřív řídili celou show“; o politicích „noháři, zloději, herci, tránsky, loutky a satanistické
+      rituály“; „hnědokošiláči okolo Mináře“ — hraniční (antisemitské rámování a dehumanizace bez výzvy)'
+  teror:
+    terc: „židovští miliardáři“, „satanisti“; politici a celebrity; okolí Mikuláše Mináře
+    hranicni: true

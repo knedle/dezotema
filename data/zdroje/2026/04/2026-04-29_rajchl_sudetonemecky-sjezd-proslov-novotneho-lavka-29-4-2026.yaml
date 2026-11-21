@@ -13,6 +13,11 @@ zdroj:
     zrušení dekretů), Siegfried Soglma (Hitlerjugend, Landsmannschaft do 1993, SS přihláška: rozbití ČSR),
     Vitykobund (web: Raubgut, Böhmen und Mähren, součást Germánie), KKK srovnání; výzva k sjednocení za
     jednoho kandidáta v 2028. Zhlédnutí: 88 811'
+  osoby:
+  - osoba: vaclav-pavlicek
+    vztah: pozitivni
+    kontext: Prof. ústavního práva, přítomen na debatě Novotného lávka; Rajchl říká, že z něj je vždy
+      nervózní, protože u něj dělal státnice
 vyroky:
 - id: rajchl-2026-04-29-01
   typ: tvrzeni
@@ -33,4 +38,32 @@ vyroky:
   citace:
   - text: Pořádat sjezd Sudetoněmeckého Landsmannschaftu v Brně je stejné, jako kdyby se pořádal sjezd
       Ku Klux Klanu v Bronxu s tím, že oni by si ty bílé kápy dali jenom do svého batohu.
+  osoby:
+  - osoba: danuse-nerudova
+    vztah: negativni
+    kontext: Kritizována v proslovu na Novotného lávce za historický revizionismus — tvrdila, že ČR osvobodili
+      Američané (padlo 11–40), nikoliv Sověti (přes 150 000) a Rumuni (přes 33 000)
+  - osoba: siegfried-soglma
+    vztah: neutralni
+    kontext: 'Zmiňován jako historický příklad: nejvyšší Hitlerjugend v protektorátu, pravá ruka K. H.
+      Franka, předseda Landsmannschaftu ještě v r. 1993; v přihlášce do SS uvedl „rozbití Československa"
+      jako nejvýznamnější počin'
+  - osoba: milos-zeman
+    vztah: pozitivni
+    kontext: Přítomen na debatě Novotného lávka; Rajchl ho označuje za vzor — „jednoho [prezidenta] už
+      tady máme, který prezidentem byl... bylo by to tisíckrát lepší než to, co máme na hradě"
   podtema: Podstata dekretů, odsun a smíření
+- id: rajchl-2026-04-29-02
+  typ: predikce
+  temata:
+  - benesovy-dekrety
+  nadpis: Prezidentské volby 2028 jako šance sjednotit opozici
+  text: Prezidentské volby v roce 2028 jsou první reálnou šancí sjednotit českou opozici za jediného kandidáta
+    a nahradit Petra Pavla, který realizuje politiku eroze suverenity (Benešovy dekrety, euro, EU superstat).
+    Výzva zazněla na debatě na Novotného lávce za přítomnosti Miloše Zemana a dalších.
+  citace:
+  - text: Ta první příležitost budou prezidentské volby v roce 2028... Postavme se za jednoho kandidáta
+      a pošleme na hrad někoho, kdo bude skutečným lídrem tohoto národa.
+  predikce:
+    horizont: prezidentské volby 2028
+    stav: ceka

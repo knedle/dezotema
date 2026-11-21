@@ -38,4 +38,8 @@ vyroky:
   citace:
   - text: A pokud chce pan Merz zablokovat přijetí toho rozpočtu Evropské unie, nechť tak učiní. Protože
       možná o to blíže budeme rozpadu téhleté totalitní organizace.
+  osoby:
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: „Brutální vydírání“ ČR blokací rozpočtu EU kvůli Ukrajině
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)

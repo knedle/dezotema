@@ -9,6 +9,45 @@ zdroj:
   rezim: vrabel
   poznamka: 17 min, monolog z Bělehradu reagující na Rajchlovu TK k novele trestního zákoníku; rehabilitace
     politicky persekvovaných a pozvánka na pochod 17. 11. se soutěží o plakáty; bez sdílených videí.
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Psychopat“ bez svědomí, „prodejnej“, „vždycky bude otáčet kabát“; nezmínil lidi, které sám
+      udal; „budeme ho tepat“, dokud stíhané neodškodní
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: S Rajchlem dlouhodobě „ničí vlasteneckou scénu“, vlastenectví „zobchodují“ za funkce
+  - osoba: zuzana-majerova
+    vztah: negativni
+    kontext: S Rajchlem dlouhodobě „ničí vlasteneckou scénu“, vlastenectví „zobchodují“ za funkce
+  - osoba: slavek-popelka
+    vztah: pozitivni
+    kontext: 'Politicky persekvovaní: Popelka má po vězení leukémii, Čermáka trest 5,5 roku „úplně zlomil“'
+  - osoba: tomas-cermak
+    vztah: pozitivni
+    kontext: 'Politicky persekvovaní: Popelka má po vězení leukémii, Čermáka trest 5,5 roku „úplně zlomil“'
+  prehled:
+  - tema: Soutěž o plakáty na pochod 17. 11.
+    text: první plakát už vznikl; ceny (medaile, diplomy, podepsané plakáty a finanční odměna) budou oznámeny;
+      „musíte se vy postavit za nás, protože jinak to budete zítra“.
+  - tema: Rajchlova TK k novele § 318a a § 405
+    text: ⚡ změna je „povinnost“, ne zásluha; Rajchl nezmínil lidi, které sám udal (Blahníková, Popelka,
+      Čermák, Volný); omluva, odškodnění a zrušení rozsudků za všech tří vlád, jinak „mají na rukou ty
+      tresty“; Rajchl „psychopat“ a „prodejnej“, Okamura s Majerovou „ničí vlasteneckou scénu“ → viz [DSA
+      a cenzura](../dsa-cenzura.md)
+  - tema: Vlastní a manželčina rehabilitace
+    text: zrušená insolvence po demonstracích 2022 a dluh manželky „politicky organizovaný zločin“; Rakušan
+      ji označil za bezpečnostní riziko; odsouzení za dotace byla náhrada za zavřené podniky
+    vyrok: vrabel-2026-10-21-02
+  - tema: Midterms a „úleva“
+    text: do amerických voleb minimálně tři týdny uvolnění, Trump bude říkat, co lidé chtějí slyšet, a
+      odrazí se to i v Evropě – dokladem je Rajchl (opakuje).
+  - tema: Boj i v případě války
+    text: první den v Bělehradě, chystá se do ČR; „i jestli bude válka“, je třeba bojovat a potom vybudovat
+      nový stát „na slušných pravidlech“.
+  - tema: Pochod 17. 11.
+    text: z Malostranského náměstí ve 13:00 na Klárov, bubeník ze Srbska, svíčky „bojovníkům proti nacismu
+      a fašismu“; cílem odškodnění stíhaných a záruka, že už nikdo nebude odsouzen.
 vyroky:
 - id: vrabel-2026-10-21-02
   typ: tvrzeni
@@ -24,4 +63,8 @@ vyroky:
     kolem 3 milionů Kč) nazývá „politicky organizovaný zločin“. Rehabilitaci chce i za zničené podniky
     (pět na Vltavě, dvě pizzerie a kavárna v Českých Budějovicích) a za odsouzení za dotační podvod, které
     podle něj byly kompenzace za Babišem zavřené podniky.'
+  osoby:
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: Označil jeho manželku za bezpečnostní riziko státu
   podtema: Kauza Bojana Vrabelová — politické zničení aktivisty přes rodinu

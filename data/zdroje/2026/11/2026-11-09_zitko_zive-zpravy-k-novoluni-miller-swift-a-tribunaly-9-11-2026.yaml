@@ -32,6 +32,13 @@ vyroky:
   citace:
   - text: Všichni aktéři musí skončit před vojenským tribunálem a zodpovídat se ze zločinů genocidy, masových
       vražd a sterilizace obyvatelstva.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Nevystoupili z WHO, mají skončit před vojenským tribunálem
+  - osoba: rajchl
+    vztah: neutralni
+    kontext: Připomenuto jeho desatero s vystoupením z WHO
   podtema: Slovenský poslanec Jaroslav Paška a selhání SÚKL (Zítko, 15. 9. 2026)
 - id: zitko-2026-11-09-02
   typ: tvrzeni
@@ -46,6 +53,13 @@ vyroky:
     odmítá jako „fízláckou provokaci“ (firma prý vyvíjela aplikaci pro telemedicínu). Zdenku Křešťákovou
     ze spolku „Společně jsme silnější“ řadí mezi „čarodějnice“, které mu bránily ve financování prezidentské
     kampaně. Soně Gagliardi navrhuje, ať mu Čermáka „přiveze“ k ověření totožnosti.'
+  osoby:
+  - osoba: patrik-tusl
+    vztah: negativni
+    kontext: Šíří „fízlácké materiály“, „zoufalství nezná mezí“
+  - osoba: zdenka-krestakova
+    vztah: negativni
+    kontext: „Čarodějnice“, bránila financování jeho kampaně
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-11-09-03
   typ: tvrzeni
@@ -65,6 +79,10 @@ vyroky:
   citace:
   - text: Stejně jako za druhé světové války, kdy jsme byli 6 let rozdělený, se zase Československo podle
       platného zákona číslo 11 z roku 1918 zase spojí.
+  osoby:
+  - osoba: cernohorsky
+    vztah: negativni
+    kontext: Zesměšňován jako uchazeč o prezidenta ČSR, šíří provokace
 - id: zitko-2026-11-09-04
   typ: tvrzeni
   temata:
@@ -96,3 +114,72 @@ vyroky:
     Svobodné Československo 2025) a že nahlásil falešné kanály sdílející jeho videa jako „krádež identity“
     ze strany tajných služeb.'
   podtema: ČT poplatky a omezování na sociálních sítích
+- id: zitko-2026-11-09-06
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: EBS „teď v listopadu“, bankovní kolaps bez internetu a mírový plán s obnovou ČSR a novými hranicemi
+    „co nevidět“
+  text: Systém EBS bude spuštěn „pravděpodobně teď v listopadu“ (podle výkonných příkazů 13848/13818)
+    a vysílání poběží ve třech osmihodinových smyčkách. Přijde kybernetický útok, bankovní kolaps a výpadek
+    internetu. „Co nevidět“ bude na stole mírový plán Trumpa, Putina a Si Ťin-pchinga, jehož součástí
+    bude obnova Československa podle zákona 11/1918 a nové hranice v Evropě.
+  citace:
+  - text: Emergency broadcast system bude pravděpodobně spouštěn teď v listopadu.
+  dalsi_zdroje:
+  - 2026-11-10_zitko_zive-klic-1789-q-jako-test-vedomi-a-17-listopad-10-11-2026
+  predikce:
+    horizont: listopad 2026 (EBS); „co nevidět“ (kolaps, mírový plán)
+    stav: ceka
+    vyhodnoceni:
+    - datum: 2026-11-10
+      text: Zítko dodává, že americký test nouzového varování 17. 11. může „přejít do ostřejší fáze“,
+        a „mírová smlouva se blíží“.
+- id: zitko-2026-11-09-07
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Tedros Adhanom Ghebreyesus (WHO)
+  text: 'Terč: Tedros Adhanom Ghebreyesus (WHO).'
+  citace:
+  - text: Tenhle úchyl, ten patří jednoznačně před vojenský tribunál.
+  osoby:
+  - osoba: tedros-adhanom-ghebreyesus
+    vztah: negativni
+    kontext: „Úchyl“, patří před vojenský tribunál
+  teror:
+    terc: Tedros Adhanom Ghebreyesus (WHO)
+    hranicni: false
+- id: zitko-2026-11-09-08
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Andrej Babiš, jeho vláda, ministr zdravotnictví Vojtěch
+  text: 'Terč: Andrej Babiš, jeho vláda, ministr zdravotnictví Vojtěch.'
+  citace:
+  - text: …odpovědnost korporace a jejich velení, to znamená Andrej Babiš, celá jeho vláda, ministři zdravotnictví,
+      teď je tam Vojtěch […] všichni aktéři musí skončit před vojenským tribunálem a zodpovídat se ze
+      zločinů genocidy, masových vražd a sterilizace obyvatelstva.
+  osoby:
+  - osoba: adam-vojtech
+    vztah: negativni
+    kontext: Nevystoupili z WHO, mají skončit před vojenským tribunálem
+  teror:
+    terc: Andrej Babiš, jeho vláda, ministr zdravotnictví Vojtěch
+    hranicni: false
+- id: zitko-2026-11-09-09
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Ursula von der Leyenová
+  text: 'Terč: Ursula von der Leyenová.'
+  citace:
+  - text: …to je ostatně potomek fašounů z druhé světové války […] Já si myslím, že armáda tam má pro
+      tyto případy i trest výjimečný.
+  osoby:
+  - osoba: ursula-von-der-leyenova
+    vztah: negativni
+    kontext: „Potomek fašounů“, „trest výjimečný“
+  teror:
+    terc: Ursula von der Leyenová
+    hranicni: false

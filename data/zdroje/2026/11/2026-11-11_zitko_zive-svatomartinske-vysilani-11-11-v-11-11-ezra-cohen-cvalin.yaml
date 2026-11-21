@@ -44,6 +44,10 @@ vyroky:
     tisíc věží, 78 milionů chytrých měřičů), což má lidem zlepšit spánek.'
   citace:
   - text: Možná i Petr Kellner je v ochraně svědků. Ale uvidíme, jaký překvapení to nakonec bude.
+  osoby:
+  - osoba: petr-kellner
+    vztah: neutralni
+    kontext: Možná v ochraně svědků, dilema Huawei vs. Ericsson
 - id: zitko-2026-11-11-03
   typ: tvrzeni
   temata:
@@ -59,6 +63,10 @@ vyroky:
     jsou podle něj „poloviční Čechoslováci“.'
   citace:
   - text: Jsme stále Československo a není tady vůbec řeči o tom, že by to mělo být nějaký znovu spojování.
+  osoby:
+  - osoba: petr-cvalin
+    vztah: pozitivni
+    kontext: Komentovaný článek o „ultimátu Berlína“
 - id: zitko-2026-11-11-04
   typ: tvrzeni
   temata:
@@ -83,3 +91,45 @@ vyroky:
     a na olympiádách (Barcelona 1992, Londýn 2012) a mlčení lidí bylo „karmickým souhlasem“.'
   citace:
   - text: Stephen Miller právě jmenoval osoby, které budou podrobeny vojenskému soudu za zradu.
+  osoby:
+  - osoba: barack-obama
+    vztah: negativni
+    kontext: „Dávno popravený“, bude s ním proces
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: S Trumpem jednotný proti deep state, „ples upírů skončil“
+- id: zitko-2026-11-11-05
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: EBS a karanténa 3–33 dní „brzo“, možná 17. 11.; QFS oficiálně 22. 11.
+  text: EBS se „může aktivovat brzo“, podle některých zdrojů 17. 11. k výročí „puče StB a KGB“. Následovat
+    má karanténa na 3–33 dní, během níž se přesune globální bohatství. QFS bude „možná“ oficiálně zapnut
+    22. 11. 2026.
+  citace:
+  - text: Některý predikujou 17. listopadu, že bychom to dostali jako dárek k výročí puče StB a KGB, nevím,
+      ale každopádně cítím… že je to blízko.
+  dalsi_zdroje:
+  - 2026-11-16_zitko_zive-pondelni-vysilani-16-11-2026
+  - 2026-11-17_zitko_zive-sametovy-podvod-17-11-2026
+  - 2026-11-18_zitko_zive-den-po-testu-ebs-v-usa-18-11-2026-21-21
+  predikce:
+    horizont: 17. 11. 2026 (EBS, s výhradou); 22. 11. 2026 (QFS)
+    stav: vyvraceno
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: (EBS 17. 11.) — test 17. 11. proběhl jen jako test, bez výpadku komunikace a karantény; QFS
+        22. 11. čeká
+      stav: vyvraceno
+    - datum: 2026-11-16
+      text: Den před termínem Zítko upřesňuje, že test EBS má proběhnout 17. 11. ve 14:20 východního času
+        (20:20 SEČ) a „mohlo by to být naostro“, s následnou „desetidenní zástavou komunikace“ ve vlnách.
+        Zároveň radí „neupínejte se na datumy“. QFS 22. 11. nezmiňuje.
+    - datum: 2026-11-17
+      text: V den testu Zítko opakuje, že test ve 20:20 SEČ „se může překulit a přetavit v ostrou fázi“,
+        „je tam šestihodinový okno“, a „možná se budou dít velký věci už dneska“. Připojuje i předpověď,
+        že „asi to brzo bouchne s tím agentem Šmídem, dojde k velkému odhalení“.
+    - datum: 2026-11-18
+      text: 'Den po testu Zítko tvrdí, že „byl to pouze test“, který „splnil svůj účel“: měl ukázat, které
+        rozhlasové a televizní stanice „spolupracují“. Námitku „nebyl blackout“ odmítá, výpadky karet
+        a internetu teď očekává bez data.'

@@ -8,6 +8,60 @@ zdroj:
   prepis: prepisy/done/2026-10-29_Ladislav-Vrabel_29-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: 1 h 13 min, zprávy čte Zuzana; bez sdílených videí.
+  osoby:
+  - osoba: sebastian-kurz
+    vztah: pozitivni
+    kontext: „Zbytky zdravého rozumu, antiglobalista“, byl vyštván
+  - osoba: peter-pellegrini
+    vztah: negativni
+    kontext: Má slíbenou kariéru v NATO
+  prehled:
+  - tema: EK schválila závěrečnou platbu 23 mld. z Národního plánu obnovy
+    text: peníze jdou do Agendy 2030, Green Dealu a digitalizace, ne na obnovu (opakuje)
+    vyrok: vrabel-2026-10-29-02
+  - tema: Babiš a Magyar chtějí peníze EU na rychlodráhu Praha–Budapešť
+    text: ČR musí „prosit maminku EU“, Srbsko s Čínou ji už má (opakuje).
+  - tema: Summit prezidentů V4 s von der Leyenovou
+    text: V4 je „trapná“, von der Leyenová jede „kontrolovat“ (opakuje).
+  - tema: Rakousko hrozí vetem rozpočtu EU
+    text: EU jako manželství s týraním, doporučuje „rozvod“; Stockerovi „nedává dlouhé trvání“ (opakuje).
+  - tema: Moskva sestřelila většinu z 613 dronů
+    text: modlí se, aby se válka nerozšířila do ČR.
+  - tema: Rutte, Kubilius a PURL; Ukrajina chce 70 mld. €
+    text: na summitu koncem listopadu se bude jednat o „sdíleném dluhu“, Babiš to „odmává“, na frontu
+      dojde pětina → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-29-02
+  - tema: „Národ sobě“ (Drobil)
+    text: heslo Národního divadla zneužité „satanisticky“ k vyvedení úspor na Ukrajinu (opakuje).
+  - tema: Česká muniční iniciativa
+    text: ČR jde „přes minové pole“ za ostatní, Rusko si ji „zapíše na desetiletí“ a dostane horší cenu
+      plynu
+    vyrok: vrabel-2026-10-29-04
+  - tema: Summit turkických států
+    text: „salám, Alenko“; brzy přijdou pracovníci z Kazachstánu a Kyrgyzstánu (opakuje).
+  - tema: 'Izrael: Netanjahu 53, opozice 48, arabské strany 19'
+    text: doufá ve vládu opozice, „Netanjahu neudělá vládu“ → viz [Predikce](../predikce.md)
+  - tema: Venezuela odmítla okamžité volby
+    text: „americká kolonie“, volby budou, až je „povolí Rubio a Trump“.
+  - tema: Zatčení Němců kvůli žhářskému útoku na sklad Starlinku
+    text: nechce se vyjadřovat.
+  - tema: Georgescovi prodloužena vazba
+    text: systém je „v totálním rozkladu“, „nefunguje právo“ (opakuje).
+  - tema: 'Ušakov: Evropané u stolu v Abú Zabí nebudou'
+    text: systém drží jen strach a propaganda, „nejhorší je Rajchl“, který udáváním zničil odpor (opakuje).
+  - tema: Lagardeová předčasně odchází z ECB
+    text: chystá se teplé místo, válka nebo krach kvůli společnému dluhu; oceňuje její odpor k zabavení
+      ruských aktiv
+    vyrok: vrabel-2026-10-29-03
+  - tema: Pavel udělil medaili youtuberovi
+    text: od „agenta Pávka“ by vyznamenání odmítl; Lorencová mu prý z nemocnice volala, že ji „chtějí
+      zabít“
+    vyrok: vrabel-2026-10-29-01
+  - tema: Rusko odpálilo z ponorky Bulavu
+    text: Rafaly s ASMP nic nezmůžou, Pavel plní „vlhké sny z roku 2015“ (opakuje).
+  - tema: 'Putin: válka Rusko–Evropa by neměla vítěze'
+    text: Rusko použije jaderné zbraně, až bude prohrávat („devět ku jedné“), válka je „na 99 %“ → viz
+      [Predikce](../predikce.md)
 vyroky:
 - id: vrabel-2026-10-29-01
   typ: tvrzeni
@@ -22,6 +76,10 @@ vyroky:
     před smrtí mu z nemocnice volala, že se ji někdo pokouší zabít. Telefonát má podle svých slov nahraný.
   citace:
   - text: Ona mi volala z nemocnice, dokonce mám nahraný ten telefonát, že ji se pokouší zabít.
+  osoby:
+  - osoba: jana-lorencova
+    vztah: pozitivni
+    kontext: Vrácení Řádu Bílého lva jako „morální kompas“; údajně jí šlo o život
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: vrabel-2026-10-29-02
   typ: tvrzeni
@@ -40,6 +98,10 @@ vyroky:
   citace:
   - text: Andrej Babiš pojede do Evropské unie na konci listopadu a už teď vám tady říkám, že předpokládám,
       že odmává.
+  osoby:
+  - osoba: pavel-drobil
+    vztah: negativni
+    kontext: „Národ sobě“ „satanisticky“ vyvádí úspory na Ukrajinu
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-10-29-03
   typ: tvrzeni
@@ -54,6 +116,10 @@ vyroky:
     možná tak Evropě zachránila „dva roky života“ před krachem.
   citace:
   - text: Někde má něco slíbeného, nebo se chystá něco v Evropě blbýho.
+  osoby:
+  - osoba: christine-lagardeova
+    vztah: rozporuplny
+    kontext: „Silná globalistka“, ale postavila se proti zabavení ruských aktiv
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-10-29-04
   typ: tvrzeni
@@ -71,3 +137,44 @@ vyroky:
   - text: Je jedna výjimka, kdy chodí před manželem, a to je, když jdou přes minový pole. A to je přesně
       ono, tohleto Česká republika jde vepředu přes minový pole. To je muniční iniciativa.
   podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-10-29-05
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: Babiš na listopadovém summitu „odmává“ společný dluh EU pro Ukrajinu
+  text: Na summitu EU koncem listopadu Babiš odsouhlasí společný dluh na financování Ukrajiny (70–77 mld.
+    eur).
+  citace:
+  - text: Už teď vám tady říkám, že předpokládám, že odmává.
+  predikce:
+    horizont: konec listopadu 2026
+    stav: ceka
+- id: vrabel-2026-10-29-06
+  typ: predikce
+  temata:
+  - petr-pavel
+  nadpis: Netanjahu nesestaví vládu
+  text: Po izraelských volbách (Netanjahu 53 mandátů, opozice 48, arabské strany 19) Netanjahu nedokáže
+    sestavit vládu.
+  citace:
+  - text: Myslím si, že vládu, že Netanyahu neudělá vládu.
+  predikce:
+    horizont: povolební jednání
+    stav: ceka
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: K 11. 11. vláda podle Al Jazeery sestavena nebyla a trvá patová situace; alternativou jsou
+        nové volby začátkem roku 2027. Výsledek zatím není znám.
+- id: vrabel-2026-10-29-07
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: Rusko použije jaderné zbraně, až bude prohrávat (9:1)
+  text: Rusko sáhne po jaderných zbraních, až začne prohrávat válku s Evropou, a okamžitě, kdyby je použila
+    Evropa; válka Evropy s Ruskem je „na 99 %“ (opakuje).
+  citace:
+  - text: Tak sázím devět ku jedné, že použijou jadernou zbraň. A kdyby náhodou Evropa použila nějakou
+      jadernou zbraň, tak ji použijou okamžitě.
+  predikce:
+    horizont: neurčeno
+    stav: ceka

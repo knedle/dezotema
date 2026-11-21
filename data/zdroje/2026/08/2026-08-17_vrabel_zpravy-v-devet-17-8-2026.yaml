@@ -7,6 +7,43 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1770966730580575
   prepis: prepisy/done/2026-08-17_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Íránsko-americké memorandum vypršelo bez efektu (boje nikdy nepřestaly)
+    text: nezpracováno
+  - tema: Trumpova nekonzistentní rétorika (Hormuz/Omán, zrušení cvičení s Jižní Koreou kvůli Kim Čong-unovi)
+    text: nezpracováno
+  - tema: EU chystá nejširší sankční balíček proti Rusku od začátku války (Kallas)
+    text: nezpracováno
+  - tema: Vlastní zkušenost s dosahem EU sankcí
+    text: odmítnutí natočit film s ruským kontaktem „Rybář" — nezpracováno
+  - tema: Pokuta 120 mil. eur pro X jako trest za zveřejnění cenzurních žádostí — Zuckerbergova „zadní
+      vrátka"
+    text: → [DSA a cenzura](../dsa-cenzura.md)
+  - tema: EU kybernetická pravidla (vyřazení čínských 5G dodavatelů);
+    text: EU kybernetická pravidla (vyřazení čínských 5G dodavatelů); AI monopolizace USA (Stargate) vs.
+      čínský open-source DeepSeek — nezpracováno
+  - tema: Ukrajina jako „testovací polygon" pro západní zbraně;
+    text: Ukrajina jako „testovací polygon" pro západní zbraně; britské drony Nightingale v Rusku; ukrajinský
+      dron DovBush T40 (2000 km) — nezpracováno
+  - tema: Satirická glosa k F-35/jadernému deštníku (Turek/SPD/Babiš/Pavel)
+    text: riziko ruské odvety — nezpracováno
+  - tema: NATO plán (Bild)
+    text: fáze konfliktu s Ruskem, autonomní zóna u Kaliningradu — nezpracováno
+  - tema: Lex Ukrajina 7 vs. Okamurova rétorika o „zrušení dočasné ochrany" — prázdné gesto
+    text: → [Migrace](../migrace.md)
+  - tema: AI datová centra
+    text: spotřeba vody/elektřiny, Ralsko na souši — nezpracováno
+  - tema: Energetika — Motoristé/Turek falešná výhra (procento větrné energie beze změny); ČR 4–4,5× dražší
+      energie než Srbsko
+    text: → [Větrné elektrárny](../vetrniky.md)
+  - tema: Rusko buduje dronové základny u hranic s Běloruskem (hrozba pro Polsko/ČR)
+    text: nezpracováno
+  - tema: Lotyšsko požaduje 7 mld. eur kompenzace od EU
+    text: nezpracováno
+  - tema: Čína–Bělorusko vojenské cvičení „Rychlý orel"
+    text: nezpracováno
+  - tema: Sikorského návrh „Evropské legie" s ukrajinskými veterány
+    text: pokrytectví k migraci — nezpracováno
 vyroky:
 - id: vrabel-2026-08-17-01
   typ: tvrzeni

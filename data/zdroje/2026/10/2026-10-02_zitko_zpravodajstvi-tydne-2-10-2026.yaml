@@ -9,6 +9,10 @@ zdroj:
   rezim: standard
   poznamka: Soubor nese datum stažení; vysíláno 2. 10. 2026. Velká část je předčítání cizích textů (Lička,
     Jílková, Avdičová, Wallace, Chambers).
+  osoby:
+  - osoba: denisa-smidova
+    vztah: negativni
+    kontext: „Dirigentská taktovka" frašky
 vyroky:
 - id: zitko-2026-10-02-01
   typ: tvrzeni
@@ -27,6 +31,10 @@ vyroky:
   citace:
   - text: Nenapadnul jsem ho, nezmlátil jsem ho, to udělá někdo jinej, až na to přijdou a dají si do souvislosti
       to, že jejich dítě, že rodič, prarodič, přítel, známej zemřel kvůli injekci… tak to udělají jiní.
+  osoby:
+  - osoba: jaroslav-flegr
+    vztah: negativni
+    kontext: „Zrůdička", „to udělá někdo jinej"
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 - id: zitko-2026-10-02-02
   typ: tvrzeni
@@ -70,3 +78,42 @@ vyroky:
     vojenské stanné právo bude soudit i covid zločince, obchod s dětmi a adrenochrom, a „v rámci vojenského
     práva je i trest smrti — legitimní trest". Mluví o „Rudém říjnu", zároveň však prohlašuje, že průběh
     „vojenské operace" zná „celosvětově deset lidí… mezi nimi nejsem já", a věštění „není jeho obor".'
+- id: zitko-2026-10-02-05
+  typ: predikce
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: bezpodmínečná kapitulace Ukrajiny a vojenské stanné právo s trestem smrti
+  text: Rudá armáda je „velmi blízko Kyjeva" a vše se „řítí k bezpodmínečné kapitulaci" Ukrajiny, po níž
+    o hranicích (včetně Československa) rozhodnou „vítězné mocnosti"; „až nastane čas", bude aktivováno
+    vojenské stanné právo, které bude soudit i covid zločince, včetně trestu smrti.
+  citace:
+  - text: Bude aktivováno, až nastane čas, viditelně vojenské stanné právo a v rámci vojenského práva
+      stanného je i trest smrti.
+  predikce:
+    horizont: „nezadržitelně se blíží" (neurčeno)
+    stav: ceka
+- id: zitko-2026-10-02-06
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Jaroslav Flegr
+  text: předpověď/legitimizace násilí jiných vůči jmenovanému + dehumanizace
+  citace:
+  - text: Nenapadnul jsem ho, nezmlátil jsem ho, to udělá někdo jinej, až na to přijdou [...] že jejich
+      dítě [...] zemřel kvůli injekci [...] tak to udělají jiní." + „zrůdička", „spolupachatel masových
+      vražd a genocidy národa
+  teror:
+    terc: Jaroslav Flegr
+    hranicni: false
+- id: zitko-2026-10-02-07
+  typ: stoch-teror
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: „covid zločinci" (Fauci, Gates aj.)
+  text: schvalování trestu smrti
+  citace:
+  - text: vojenské právo bude soudit i covid zločince [...] v rámci vojenského práva stanného je i trest
+      smrti. Legitimní trest.
+  teror:
+    terc: „covid zločinci" (Fauci, Gates aj.)
+    hranicni: false

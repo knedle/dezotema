@@ -9,6 +9,63 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 2 min, zprávy čte Zuzka; sdílené polské video G. Brauna nezpracováno; druhá půlhodina
     zrychlená, část zpráv bez komentáře.
+  osoby:
+  - osoba: michal-svatos
+    vztah: negativni
+    kontext: Ironicky „geniální vojenský analytik“, „čeká na placenou funkcičku“
+  - osoba: ivan-kratochvil
+    vztah: pozitivni
+    kontext: Chce ho pozvat na vojenskou analýzu
+  prehled:
+  - tema: Evropská komise podpořila Tuska ve sporu o polský ÚS
+    text: dělba moci je „základ demokracie“, teď soudy i policii ovládá parlament a Komise jako „nadřízený
+      orgán“ tuto „totalitu potvrdí“; Magyar udělal totéž ultimátem prezidentovi; Babiš se přidá k Tuskovi,
+      Poláci prohrají → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-02-03
+  - tema: Muž s nožem u polského ÚS
+    text: utekl „schovat se do policejní dodávky“, mohl to být „policejní provokatér“.
+  - tema: 'Tusk: opozice ničí demokracii s pomocí ruských botů'
+    text: „nejvíc ničí demokracii ten, kdo má demokracie plná ústa“.
+  - tema: Babiš jede za Tuskem
+    text: jsou „velcí kamarádi“, Babiš je kamarád i s Ruttem a „chce zapadnout“.
+  - tema: Braun vyzval bezpečnostní složky k věrnosti národu (sdílené video)
+    text: Braun „genius“ a „absolutní patriota“ (opakuje).
+  - tema: Polsko posiluje hranici s Kaliningradem „preventivně“
+    text: připomíná překročené „červené linie“; ve válce Ruska s Evropou „sázím devětku jedný“ na Rusko
+      → viz [Predikce](../predikce.md)
+  - tema: Koncepce armády do 2040, Babiš chce peníze i na zdravotnictví
+    text: Babiš „si zahrává“; volby 2025 byly o tom, aby se do Sněmovny nedostal nikdo pro vystoupení
+      z EU a NATO; Babiš a Pavel jsou „dva diktátoři“, protože zakázali referendum
+    vyrok: vrabel-2026-11-02-02
+  - tema: Primoco UAV a závod v Písku
+    text: drony létají na Rusko, „doufáme, že to většina lidí v Písku přežije“; ČR „obětní beránek“ (opakuje).
+  - tema: Belgický premiér De Wever nabídl demisi
+    text: skutečný důvod jsou podle něj zmrazená ruská aktiva v Euroclearu, ne rozpočet; Trump chce aktiva
+      „uschovat“, sankce jsou „nafouklá bublina“
+    vyrok: vrabel-2026-11-02-04
+  - tema: Bulharsko má první prezidentku, údajně proruskou
+    text: „nálepka“ proruskosti se dává každému, kdo popisuje realitu.
+  - tema: Státy Perského zálivu se bojí války s Íránem
+    text: „nejsem králův šašek“, konflikt potrvá „spíš roky“ (opakuje).
+  - tema: AI a propouštění programátorů
+    text: ztráta práce je „míň závažná“, horší je osamělost, AI partnerky a sexroboti — lidstvo se „může
+      samo vyhladit“; AI je větší nebezpečí než jaderné zbraně
+    vyrok: vrabel-2026-11-02-01
+  - tema: Nizozemsko kupuje bojová vozidla pěchoty
+    text: ironie, zda „bude stačit“ proti Kinžálům; Svatoš „čeká na placenou funkcičku“, Kratochvíla chce
+      pozvat na analýzu (opakuje).
+  - tema: Ruský megaradar u Kaliningradu
+    text: bez komentáře.
+  - tema: Frontex má sledovat sociální sítě
+    text: má chránit před „imigranty z Evropy“ v době války (opakuje).
+  - tema: Kanada a USA obnovily obchodní jednání
+    text: Trump před volbami ukazuje, že umí jednat.
+  - tema: USA navrhly obnovit ruský plyn do Evropy přes Ukrajinu
+    text: USA prodají ruský plyn „za navýšenou cenu“ (opakuje).
+  - tema: Trump bude vetovat zákony demokratů
+    text: „vyjádření do prázdnosti“.
+  - tema: Čínský občan odsouzen za špionáž
+    text: paragraf o „práci pro cizí moc“ chce „robot“ zrušit, vlastence soudí jen za „Z“ (opakuje).
 vyroky:
 - id: vrabel-2026-11-02-01
   typ: tvrzeni
@@ -24,6 +81,10 @@ vyroky:
     použijí, přesto za větší nebezpečí považuje AI; souhlasně cituje Harariho.'
   citace:
   - text: Pokud bych si musel vybrat jedno nebezpečí, který je větší, tak bych typnul na umělou inteligenci.
+  osoby:
+  - osoba: yuval-noah-harari
+    vztah: pozitivni
+    kontext: „Je ten člověk chytrej, že ví, o čem mluví“
   podtema: Náboženský a okultní výklad moci
 - id: vrabel-2026-11-02-02
   typ: tvrzeni
@@ -41,6 +102,14 @@ vyroky:
     kůži by „pár let dopředu“ být nechtěl.'
   citace:
   - text: Takže tyhle dva diktátoři se postavili vedle sebe na podporu Evropské unie a NATO.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: S Pavlem „dva diktátoři“, „si zahrává“, „chce zapadnout“; „nechtěl bych být v kůži Andreje
+      Babiše“
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: S Babišem „dva diktátoři“ kvůli zákazu referenda
   podtema: Politická kultura
 - id: vrabel-2026-11-02-03
   typ: tvrzeni
@@ -57,6 +126,16 @@ vyroky:
     Komise a Tuska.'
   citace:
   - text: No tak potom je tady Evropská komise, která tu totalitu potvrdí a to vám řekne, jak to bude.
+  osoby:
+  - osoba: donald-tusk
+    vztah: negativni
+    kontext: „Nejvíc ničí demokracii ten, kdo má demokracie plná ústa“
+  - osoba: peter-magyar
+    vztah: negativni
+    kontext: Ultimátum prezidentovi = „krok pryč od demokracie“
+  - osoba: grzegorz-braun
+    vztah: pozitivni
+    kontext: „Genius“, „absolutní patriota“
   podtema: Česká suverenita
 - id: vrabel-2026-11-02-04
   typ: tvrzeni
@@ -72,4 +151,45 @@ vyroky:
     Proto Trump navrhuje, aby aktiva „uschovaly“ USA a páku použily samy.
   citace:
   - text: A on pravděpodobně mám taký pocit, že nechce být ten premiér, který za tohle bude zodpovědný.
+  osoby:
+  - osoba: bart-de-wever
+    vztah: rozporuplny
+    kontext: Podporuje Ukrajinu, ale odmítl zabavit ruská aktiva — „to mu nemůže být zapomenuto“
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-11-02-05
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: Babiš se ve sporu o polský Ústavní soud postaví na stranu Evropské komise a Tuska
+  text: Babiš při návštěvě Varšavy podpoří Komisi a Tuska, ne prezidenta Nawrockého; Poláci boj o ÚS prohrají.
+  citace:
+  - text: Takže podle mojeho názoru Andrej Babiš se bude stavět na stranu Evropské komise a na stranu
+      Donalda Tuska.
+  predikce:
+    horizont: návštěva ve Varšavě 4. 11. 2026
+    stav: potvrzeno
+    horizont_do: 2026-11-04
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: (podle Vrabelova výkladu, nezávisle neověřeno) — Babiš ve Varšavě podle něj Tuska podpořil
+      stav: potvrzeno
+    - datum: 2026-11-04
+      text: 4. 11. Vrabel tvrdí, že Babiš ve Varšavě Tuska „jako správný globalista“ podpořil ([Ladislav
+        Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)); jde
+        o jeho výklad návštěvy.
+    - datum: 2026-11-20
+      text: Vrabel 4. a 14. 11. tvrdí, že Babiš podpořil Tuska „při státním převratu skrze Ústavní soud“.
+        Nezávislý zdroj k obsahu Babišova prohlášení nebyl nalezen.
+- id: vrabel-2026-11-02-06
+  typ: predikce
+  temata:
+  - politicky-system
+  nadpis: ve válce Ruska s Evropou by teď vyhrálo Rusko, „devět ku jedné“
+  text: Evropa nemá dost vojáků ani zbraní, Rusko je vyzbrojené a má válečné zkušenosti; při dalším překračování
+    „červených linií“ konflikt jednou přijde.
+  citace:
+  - text: tak v tuhle tu chvíli, kdyby došlo na konflikt mezi Ruskou federací a Evropou, tak sázím devětku
+      jedný na Ruskou federaci.
+  predikce:
+    horizont: neurčeno (podmíněné)
+    stav: ceka

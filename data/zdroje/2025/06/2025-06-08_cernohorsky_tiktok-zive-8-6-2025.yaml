@@ -7,6 +7,19 @@ zdroj:
   prepis: prepisy/done/2025-06-08_Jiří-Černohorský-Živě_včera-na-Tikyťoku-opět-nekorektně.txt
   rezim: standard
   delka: '2:18:50'
+  osoby:
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: Zdržel se hlasování o odsouzení adorace Yaroslava Hunky
+  - osoba: pavel-blazek
+    vztah: negativni
+    kontext: Označen za „bílého koně" s majetkem na Kajmanech, spojen s organizovaným zločinem
+  - osoba: marketa-pekarova-adamova
+    vztah: negativni
+    kontext: Příklad politika, který si zvýšil plat o 30 000 Kč, zatímco seniorům krátili důchody
+  - osoba: jaroslav-foldyna
+    vztah: pozitivni
+    kontext: Pochválen za návrh odsoudit adoraci Yaroslava Hunky v kanadském parlamentu
 vyroky:
 - id: cernohorsky-2025-06-08-01
   typ: tvrzeni
@@ -60,6 +73,13 @@ vyroky:
   citace:
   - text: To, co se odehrálo v 89., byl naplánovaný rozvrat Československa, a na tomhle naplánovaném rozvratu
       Československa se podílel už tehdy Václav Havel a Schwarzenberg.
+  osoby:
+  - osoba: vaclav-havel
+    vztah: negativni
+    kontext: Označen za člena „kolaborantské rodiny", spoluviníka řízeného rozvratu Československa
+  - osoba: karel-schwarzenberg
+    vztah: negativni
+    kontext: Označen za cizího státního příslušníka a spoluviníka rozvratu Československa v 89.
 - id: cernohorsky-2025-06-08-05
   typ: tvrzeni
   temata:
@@ -116,6 +136,17 @@ vyroky:
   citace:
   - text: Nech Katku Konečnou na pokoji. Neser se do ní, ničemu ti to nepomůže, ničemu to neprospěje a
       je to na hovno.
+  osoby:
+  - osoba: katerina-konecna
+    vztah: pozitivni
+    kontext: Brání ji před útoky za postoj k očkování, vyzývá Rajchla ať ji nechá na pokoji
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: Pragmaticky počítá s jeho vítězstvím ve volbách, spolupráci považuje za nevyhnutelnou přes
+      výhrady
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Kritizován za útoky na Konečnou, označen za pokrytce kvůli plánované spolupráci s Babišem
   dalsi_zdroje:
   - 2026-05-22_cernohorsky_fb-live-22-5-2026
   podtema: Volby
@@ -131,6 +162,10 @@ vyroky:
   citace:
   - text: Tady máte jasný důkaz toho, že je tato chamrať, fialovo-modrožlutá chamrať, fašistická, není
       o čem.
+  osoby:
+  - osoba: petr-fiala
+    vztah: negativni
+    kontext: Vláda označena za fašistickou, hlasoval proti odsouzení adorace nacistického kolaboranta
   podtema: Politická kultura
 - id: cernohorsky-2025-06-08-10
   typ: tvrzeni
@@ -144,4 +179,8 @@ vyroky:
   citace:
   - text: Kdybv Vladimír Vladimirovič Putin nebyl velkou osobností, která prostě je v určitém smyslu osvíceným
       diktátorem... Západ může za to, co je na Ukrajině. Ne Rusko.
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: Označen za „osvíceného diktátora" a „velkou osobnost", západ viní za válku místo Ruska
   podtema: Příčiny a odpovědnost za válku

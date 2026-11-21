@@ -9,6 +9,59 @@ zdroj:
   rezim: vrabel
   poznamka: 52 min (vysílání od 3:00), zprávy čte Zuzana; bez sdílených videí; na konci pozvánka na pochod
     17. 11. z Malostranského náměstí a soutěž o plakáty.
+  prehled:
+  - tema: 'Trump: Rusko se k Ukrajině chová zdrženlivě, Čína se drží stranou'
+    text: předvolební obrat, „uvolnění“ do voleb (opakuje); Trump by měl být v ČR odsouzen za popírání
+      válečných zločinů jako lidé se „Z“; pochod 17. 11. „za svobodu politického projevu Donalda Trumpa“
+    vyrok: vrabel-2026-10-20-03
+  - tema: 'Trump: Zelenského má ve vyjednávání nahradit někdo jiný'
+    text: lidé Zelenského nenávidí („fašista“, „vyfetovaný“), Trump říká, co chce většina
+    vyrok: vrabel-2026-10-20-07
+  - tema: 'Trump: Ukrajina chce uvěznit Julii Mendelovou'
+    text: Zelenskyj „bezcharakterní člověk a zbabělec“; Trump by mohl mluvit i o zatýkání za názor v ČR,
+      „otevřené okno“ → viz [Válka na Ukrajině](../valka-ukrajina-prubeh.md)
+    vyrok: vrabel-2026-10-20-03
+  - tema: 'Vance: Ukrajina není spojenec a nepatří do NATO'
+    text: „bomby“, ale otevřené dveře pro demokraty; Kallasová a von der Leyenová „pláčou do polštáře“,
+      Rajchl a Babiš „psychopati“; čeští politici také otočí, ale krátce → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-20-07
+  - tema: Turecké drony narušily řecký vzdušný prostor
+    text: kdyby šlo o Rusko, „už by byla válka“; Turecko si bere sféru vlivu jako USA, Rusko a Čína
+    vyrok: vrabel-2026-10-20-08
+  - tema: Zelenskyj a Witkoff v Oslu, Rubio připustil zpoždění dodávek
+    text: USA ani ČR nemají povinnost, „Ukrajinci si můžou za to… sami“, Istanbul 2022, „pomáháme jim
+      do hrobu“
+    vyrok: vrabel-2026-10-20-07
+  - tema: Ukrajinský dron explodoval v Litvě
+    text: Tusk „trapná komedie“, dvojí metr k ruským dronům, Sikorski „z praku“, Braunova Konfederace
+      „kamarádi“
+    vyrok: vrabel-2026-10-20-08
+  - tema: Bezpečnostní rada státu, koncepce výstavby armády do roku 2040
+    text: „to ani nemá cenu komentovat“.
+  - tema: NATO posílá hlídkové letouny a drony do Černého moře
+    text: „sirky“, vysílání vojsk k ruským hranicím je nebezpečné (opakuje)
+    vyrok: vrabel-2026-10-20-08
+  - tema: Cvičení vojáků „koalice ochotných“ v Polsku
+    text: vyslání vojsk NATO na Ukrajinu = začátek války mezi Ruskem a NATO
+    vyrok: vrabel-2026-10-20-08
+  - tema: Letenky zdraží až o 20 %
+    text: omezování pohybu, létat budou „papalášové“; cestujte, dokud můžete → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-20-02
+  - tema: Hegseth u Netanjahua
+    text: Hegseth „absolutní psychopat, absolutní zločinec“; Trump finančně zavázaný Chabadu, musí podporovat
+      „velký Izrael“
+    vyrok: vrabel-2026-10-20-01
+  - tema: 'Lvov: rok 2027 rokem UPA a Šuchevyče'
+    text: důsledek lží o ukrajinském nacismu, Zelenského oslavovali Turek, Zeman, Babiš i Rajchl
+    vyrok: vrabel-2026-10-20-07
+  - tema: 'Babiš: nová migrační vlna z Ukrajiny nehrozí'
+    text: „nástěnka největších lhářů“, Babiš lže; Ukrajinci kvůli zimě a ruskému postupu přijdou (opakuje
+      predikci z 18. 10.)
+    vyrok: vrabel-2026-10-20-06
+  - tema: 'USA: odměny až 30 tisíc dolarů za oznámení podvodů s federálními penězi'
+    text: jako Babišova EET a účtenkovka, motivace k udávání.
+  - tema: Evropská investiční banka financuje hraniční přechody s Ukrajinou
+    text: ironicky „parádní zpráva na závěr“.
 vyroky:
 - id: vrabel-2026-10-20-01
   typ: tvrzeni
@@ -23,6 +76,13 @@ vyroky:
     Rusy a Čínu a chce mír, ale Izrael si „nedovolí nepodpořit“, protože je „až moc zavázaný penězi“ ze
     sionistických kruhů, především od Chabad Lubavič, a od křesťansko-sionistických organizací, a proto
     „musí podporovat velký Izrael“.'
+  osoby:
+  - osoba: pete-hegseth
+    vztah: negativni
+    kontext: „Absolutní psychopat, absolutní zločinec“, „odporná bytost“
+  - osoba: benjamin-netanjahu
+    vztah: negativni
+    kontext: „Satanjahu“, Trump ho musí podporovat kvůli penězům Chabadu
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-10-20-02
   typ: tvrzeni
@@ -59,6 +119,18 @@ vyroky:
   citace:
   - text: Donald Trump by v České republice měl být odsouzený za popírání válečných zločinů a za schvalování
       válečných zločinů a popírání genocidy.
+  osoby:
+  - osoba: donald-trump
+    vztah: rozporuplny
+    kontext: Oceňuje jeho výroky, že Rusko se k Ukrajině chová zdrženlivě a že Zelenského má nahradit
+      někdo jiný; zároveň „otáčí kabáty“ před volbami a je finančně zavázán Chabadu
+  - osoba: julie-mendelova
+    vztah: pozitivni
+    kontext: Bývalá mluvčí „odkryla“ Zelenského „v celé jeho nahotě“
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Spolu s Babišem typ politiků-„psychopatů“ obdivujících rychlé otočení; jeho výklad písmene
+      Z přebírají soudy; oslavoval Zelenského
   podtema: Trestání politického projevu
 - id: vrabel-2026-10-20-06
   typ: tvrzeni
@@ -74,6 +146,14 @@ vyroky:
     zimě odejdou do Evropy, kde je čeká „teplo, sociální dávky, pohoda“; čím dál Rusové půjdou, tím víc
     budou Ukrajinci utíkat (navazuje na predikci z 18. 10., viz [Predikce](predikce.md)). Babiše podle
     něj „docela dobře rozstřelila“ Jana Bobošíková.'
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Tebe jednou pověsej na nástěnku největších lhářů“ — lže o migrační vlně z Ukrajiny; EET
+      a účtenkovka jako motivace k udávání
+  - osoba: jana-bobosikova
+    vztah: pozitivni
+    kontext: „Docela dobře rozstřelila“ Babiše
 - id: vrabel-2026-10-20-07
   typ: tvrzeni
   temata:
@@ -104,6 +184,26 @@ vyroky:
   - text: Ukrajinci si můžou za to, že jsou v konfliktu s Ruskou federací sami. To není náš problém, to
       je jejich problém.
   - text: To není tak, že my jim pomáháme. My jim pomáháme do hrobu.
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: „Fašista“, „nacista“, „neustále vyfetovaný“, „bezcharakterní člověk a zbabělec“
+  - osoba: j-d-vance
+    vztah: rozporuplny
+    kontext: Výroky, že Ukrajina není spojenec a nepatří do NATO, jsou „bomby“, ale nechává si otevřené
+      dveře
+  - osoba: kaja-kallasova
+    vztah: negativni
+    kontext: „Pláčou do polštáře“, že se k nim Amerika otočila zády
+  - osoba: ursula-von-der-leyenova
+    vztah: negativni
+    kontext: „Pláčou do polštáře“, že se k nim Amerika otočila zády
+  - osoba: milos-zeman
+    vztah: negativni
+    kontext: Udělil Zelenskému Řád Bílého lva, součást „lží“ o ukrajinském nacismu
+  - osoba: marco-rubio
+    vztah: neutralni
+    kontext: Přiznáním zpožděných dodávek si nechává „zadní vrátka“
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-10-20-08
   typ: tvrzeni
@@ -126,4 +226,47 @@ vyroky:
     francouzských, německých a polských vojáků v Polsku, jímž se „koalice ochotných“ připravuje na nasazení
     na Ukrajině po příměří, říká: „Vyslání vojsk NATO na Ukrajinu neznamená žádné bezpečnostní záruky
     mírové, ale znamená to začátek války mezi Ruskem a NATO. Tečka.“'
+  osoby:
+  - osoba: donald-tusk
+    vztah: negativni
+    kontext: Tuskův požadavek vysvětlení od Ukrajiny „trapná komedie“, Sikorski „z praku“; oba ve funkcích
+      „nějakým omylem“
+  - osoba: rados-aw-sikorski
+    vztah: negativni
+    kontext: Tuskův požadavek vysvětlení od Ukrajiny „trapná komedie“, Sikorski „z praku“; oba ve funkcích
+      „nějakým omylem“
+  - osoba: grzegorz-braun
+    vztah: pozitivni
+    kontext: Lidé z Konfederace Korony Polské jsou „naši kamarádi, kolegové“
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-10-20-09
+  typ: predikce
+  temata:
+  - digitalni-kontrola
+  nadpis: létání bude omezeno, letadly budou létat hlavně „papalášové“
+  text: V rámci omezování pohybu lidí se podle něj chystají obchodní „útoky“ proti letecké dopravě, takže
+    do budoucna budou létat hlavně „papalášové“, ne obyčejní lidé. Cestovat do zahraničí radí co nejdřív.
+  citace:
+  - text: Tak aby do budoucna letadly mohli lítat papalášové, ale aby obyčejní lidé tolik nelítali.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-10-20-10
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: čeští politici budou po vzoru Trumpa a Vance „otáčet“, ale jen krátce
+  text: Po vzoru Trumpa a Vance, kteří před volbami do Kongresu změnili rétoriku vůči Ukrajině, budou
+    „otáčet“ i čeští politici; potrvá to ale jen do konce americké předvolební kampaně, proto nebudou
+    „až zas tak moc odvážní“.
+  citace:
+  - text: Až teďko uvidíte politiky v České republice, tak uvidíte, jak taky dokážou otáčet. Ale ono to
+      nebude trvat dlouho, nebojte se.
+  predikce:
+    horizont: do amerických voleb do Kongresu (3. 11. 2026)
+    stav: ceka
+    horizont_do: 2026-11-03
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: 'Predikci nelze vyhodnotit: v přepisech ani zprávách nebylo nalezeno konkrétní „otáčení“ českých
+        politiků před 3. 11. ani jeho konec.'

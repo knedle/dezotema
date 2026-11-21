@@ -7,3 +7,20 @@ zdroj:
   url: https://m.facebook.com/watch/?v=2200447783859638&_rdr
   prepis: prepisy/done/2026-09-29_Československo-TV2_15K-views-56-reactions-Československo-TV2-vysílala.txt
   rezim: standard
+  osoby:
+  - osoba: marie-sisakova
+    vztah: negativni
+    kontext: „Bývalá zaměstnankyně policie", účetní spolku Černohorského, fotomontáž
+vyroky:
+- id: zitko-2026-09-29-01
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: Martin Turek (otčím Tomáše Čermáka, soukromá osoba)
+  text: 'hraniční: zveřejnění bydliště a výzva k neohlášeným návštěvám a obtěžování, bez výzvy k násilí'
+  citace:
+  - text: Kdokoliv z vás [...] můžete v nespecifikovanou dobu, bez ohlášení, bez pozvání [...] inkognito
+      vyrazit do Holíšova a monitorovat tam údajné bydliště" / „budeme obléhat Holíšov
+  teror:
+    terc: Martin Turek (otčím Tomáše Čermáka, soukromá osoba)
+    hranicni: true

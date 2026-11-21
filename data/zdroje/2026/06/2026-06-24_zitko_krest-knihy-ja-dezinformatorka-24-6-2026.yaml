@@ -26,3 +26,29 @@ zdroj:
     koblihy, superstar zpěvák ve zdravotnickém týmu, roušky za 777 Kč). Logistika (sv. Jan = výročí Zítkova
     zatčení 2 roky) nezpracována. Křest knihy „Já, dezinformátorka" v Doksech u Máchova jezera (Jana Peterková
     + kmotr Pavel Zítko)'
+  osoby:
+  - osoba: jana-peterkova
+    vztah: pozitivni
+    kontext: Autorka knihy „Já, dezinformátorka" — „byla mezi prvními, kdo po 12. 3. 2020 varoval", inspirace
+      pro Zítka; kmotrem knihy je Zítko
+  - osoba: michala-klarova
+    vztah: negativni
+    kontext: Redaktorka TV NOVA — Zítko jí napsal otevřený dopis (vynechal „vážená"), vyzval NOVU přiznat
+      „spravodajská selhání" v době covidu a referovat o křtu knihy
+  - osoba: kristyna-cirokova
+    vztah: negativni
+    kontext: Redaktorka Seznam Zprávy — dle Zítka debaty končí nálepkami „Putinova děvka / proruský kanál";
+      uvedena jako příklad „prestitutky"
+vyroky:
+- id: zitko-2026-06-24-01
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: členové vlády, parlamentu a jejich rodiny
+  text: explicitní přání nejsmrtelnější šarže vakcíny jmenované skupině osob
+  citace:
+  - text: Doporučil politikům [šarže], začínají na E, tam je 96 % úmrtnost, to bych preferoval zejména
+      pro členy vlády, parlamentu a jejich rodin
+  teror:
+    terc: členové vlády, parlamentu a jejich rodiny
+    hranicni: false

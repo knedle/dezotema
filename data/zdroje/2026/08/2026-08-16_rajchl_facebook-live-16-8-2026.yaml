@@ -43,6 +43,20 @@ vyroky:
     neziskovce placené rovněž z veřejných peněz. Závěr: kdyby ČT musela soutěžit o diváky jako komerční
     kanály, dostali by prostor tvůrci jako Petr Holec, Xaver, Radim Panenka, Markéta Dobijášová nebo Tomáš
     Paukner.'
+  osoby:
+  - osoba: vaclav-moravec
+    vztah: negativni
+    kontext: Selhal jako moderátor (sám ukončil debatu s Rajchlem), jeho kanál po odchodu z ČT nedosahuje
+      sledovanosti menších alternativních kanálů
+  - osoba: nora-fridrichova
+    vztah: negativni
+    kontext: Po odchodu z ČT vysílá podcasty na Hero Hero pro „pár stovek" diváků
+  - osoba: marek-volner
+    vztah: negativni
+    kontext: Píše pro Forum24 a „vymýšlí si jeden nesmysl za druhým"
+  - osoba: zuzana-cerna
+    vztah: negativni
+    kontext: Její samostatný mediální projekt po odchodu z ČT „zkrachoval"
   podtema: Česká televize a mainstreamová média
 - id: rajchl-2026-08-16-03
   typ: tvrzeni
@@ -57,6 +71,11 @@ vyroky:
     nesdělil SPZ vrtulníku — údajně utajovaná informace, která by Rusku pomohla vrtulník identifikovat
     a zacílit. Rajchl namítá, že to je nevěrohodná výmluva zakrývající skutečný důvod mlčení, protože
     Ondráček dříve ve stejném médiu bez obav zveřejnil polohu české drone-výrobní firmy i tvář její šéfky.'
+  osoby:
+  - osoba: martin-ondracek
+    vztah: negativni
+    kontext: Zakladatel sbírky Dárek pro Putina — výrok o radosti z „mrtvejch rusáků" označen za projev
+      psychopatie; Rajchl zvažuje trestní oznámení
   podtema: Dvojí metr v médiích
 - id: rajchl-2026-08-16-04
   typ: tvrzeni
@@ -101,3 +120,8 @@ vyroky:
     K euru dokládá na příkladu Itálie: Giorgia Meloniová by prý chtěla vůči Bruselu vystupovat razantněji,
     ale nemůže, protože bez vlastní měny je Itálie na Bruselu/Frankfurtu existenčně závislá — euro tak
     podle Rajchla brání členským zemím prosazovat vlastní zájmy.'
+  osoby:
+  - osoba: martin-dvorak
+    vztah: negativni
+    kontext: 'K Ceutě: obhajoval migraci jako právo na lepší život — označen za „sociálního inženýra horšího
+      než bolševici", opakována nálepka „pidiministr" za výrok o koruně jako „pidiměně"'

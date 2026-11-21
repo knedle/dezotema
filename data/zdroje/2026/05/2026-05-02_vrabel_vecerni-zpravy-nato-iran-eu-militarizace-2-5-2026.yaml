@@ -16,6 +16,33 @@ zdroj:
     25% cla na EU auta; Německo modernizuje Bremerhaven (1,35 mld EUR, vojenská logistika); EU ADDV —
     kamera v autech pro sledování řidiče od července 2026; 6G síť jako planetární sledovací organismus
     (AI real-time tracking); Kuwait zastavil vývoz ropy.'
+  prehled:
+  - tema: Sobotní večerní zprávy se Zuzkou. Klíčová témata
+    text: Zelenský-Fico telefonát (Fico podporuje vstup Ukrajiny do EU, Orbán blokáda pryč)
+  - tema: Babiš jmenoval Landovského vládním zmocněncem pro NATO
+    text: Babiš jmenoval Landovského vládním zmocněncem pro NATO („třetí NATO člověk ve vládě")
+  - tema: Kolby (USA)
+    text: Evropa musí převzít obranu a financování Ukrajiny
+  - tema: US stahuje 5 000 vojáků z Německa
+    text: US stahuje 5 000 vojáků z Německa
+  - tema: Írán 16 poškozených US zařízení (CNN potvrdila)
+    text: Írán 16 poškozených US zařízení (CNN potvrdila)
+  - tema: Amazon datová centra v SAE zasažena drony
+    text: Amazon datová centra v SAE zasažena drony
+  - tema: Hormuz
+    text: průtok klesl z 20M na 4M barelů/d (IEA)
+  - tema: Karel III v Kongresu
+    text: Karel III v Kongresu
+  - tema: Trump 25% cla na EU auta
+    text: Trump 25% cla na EU auta
+  - tema: Německo modernizuje Bremerhaven (1,35 mld EUR, vojenská
+    text: Německo modernizuje Bremerhaven (1,35 mld EUR, vojenská logistika)
+  - tema: EU ADDV
+    text: kamera v autech pro sledování řidiče od července 2026
+  - tema: 6G síť jako planetární sledovací organismus (AI real-time
+    text: 6G síť jako planetární sledovací organismus (AI real-time tracking)
+  - tema: Kuwait zastavil vývoz ropy.
+    text: Kuwait zastavil vývoz ropy.
 vyroky:
 - id: vrabel-2026-05-02-01
   typ: tvrzeni
@@ -54,6 +81,15 @@ vyroky:
     disponuje třemi osobami s přímou vazbou na NATO ve vrcholných funkcích: prezident Petr Pavel, ministr
     obrany a nový vládní zmocněnec. Vrabel to hodnotí jako potvrzení svého dřívějšího varování, aby vlastenci
     nevolili Babiše, protože spolupracuje s NATO a Evropskou unií.'
+  osoby:
+  - osoba: jakub-landovsky
+    vztah: negativni
+    kontext: Jmenován Babišem vládním zmocněncem pro NATO — „třetí NATO člověk ve vládě"; býv. velvyslanec
+      ČR při NATO, šéf SPEN institutu
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Jmenoval Landovského — „varoval jsem celý rok 2025 voliče, ať Babiše nevolí"; v prosinci
+      odmával 90 mld. EUR Ukrajině
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-05-02-04
   typ: tvrzeni
@@ -64,6 +100,11 @@ vyroky:
     Vrabel referuje (2. 5. 2026) o vystoupení Eldridge Kolbyho, náměstka amerického ministra obrany pro politiku, na zasedání kontaktní skupiny pro obranu Ukrajiny. Kolby v podstatě předal Evropě tři požadavky: (1) urychlit budování vlastních obranných kapacit, navyšovat výrobu munice a průmysl; (2) přejít k dlouhodobě udržitelnému modelu financování Ukrajiny (nynější pomoc šla z omezených amerických zásob); (3) zvýšit finanční příspěvky. USA zároveň stahují přibližně 5 000 vojáků z Německa (z nynějších 35 000) v horizontu 6–12 měsíců.
 
     Vrabel interpretuje tato opatření jako záměrnou strategii: USA opouštějí Evropu, aby ji donutily se vojensky sjednotit a vybudovat vlastní armádu (vznik „Spojených Evropských států"), přičemž zároveň požadují, aby Evropa zajistila průtok plynu Hormuzským průlivem.
+  osoby:
+  - osoba: elbridge-kolby
+    vztah: neutralni
+    kontext: 'Náměstek US ministra obrany: Evropa musí urychlit obranu, přebrat financování Ukrajiny;
+      USA stahuje 5000 vojáků z Německa'
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-05-02-05
   typ: tvrzeni
@@ -76,4 +117,8 @@ vyroky:
     Orbána (po volebním průlomu Petera Magyara) zmizel z EU poslední hráč ochotný vstup Ukrajiny brzdit.
     Jedinou relativní brzdou nyní zůstává Friedrich Merz, který odmítl „rychlé přistoupení" jako nerealistické
     — ale ani on není kategorickým odpůrcem.'
+  osoby:
+  - osoba: robert-fico
+    vztah: negativni
+    kontext: 'Potvrdil vstup Slovenska do EU-Zelenský platformy — Vrabel: poslední opona po Orbánovi padla'
   podtema: Zahraniční aktéři a precedenty

@@ -16,3 +16,7 @@ vyroky:
   text: '**6. 10.** — Černohorský s posměchem čte komentáře k brněnské petici „zapsat Havla mezi národní
     památky“ a souhlasí s tím, že Havel byl „opilec“ a „první polistopadový sluha, dosazený a řízený cizáky
     s úkolem odevzdat vše, co má hodnotu“ („bez debaty“).'
+  osoby:
+  - osoba: vaclav-havel
+    vztah: negativni
+    kontext: „Opilec“, „sluha dosazený cizáky“; zesměšňuje petici za národní památku

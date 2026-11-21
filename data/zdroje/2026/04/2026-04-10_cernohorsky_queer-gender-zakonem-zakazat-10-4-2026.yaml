@@ -7,6 +7,10 @@ zdroj:
   url: https://www.facebook.com/reel/2160065298114113
   prepis: prepisy/done/2026-04-10_Jiří-Černohorský-Živě_Queer-svinstvo-LGBT-ZÁKONEM-ZAKÁZAThttpsrumblec_3.txt
   rezim: standard
+  osoby:
+  - osoba: pirati-topici
+    vztah: negativni
+    kontext: Označeni za stranu podporující a financující queer gender ideologii
 vyroky:
 - id: cernohorsky-2026-04-10-01
   typ: tvrzeni
@@ -21,4 +25,8 @@ vyroky:
   - text: Tady tyhle z ty hovada, ty vole... aby si malý dítě mohlo vybrat svoje pohlaví, tak to jste
       se jako fakt definitivně zbláznili.
   - text: Naprosto jednoznačně stojím za Viktorem Orbánem tady v tomhle, a tohle je potřeba zakázat zákonem.
+  osoby:
+  - osoba: viktor-orban
+    vztah: pozitivni
+    kontext: Jednoznačně ho podporuje v zákazu LGBT a queer genderu zákonem
   podtema: Queer gender a LGBT

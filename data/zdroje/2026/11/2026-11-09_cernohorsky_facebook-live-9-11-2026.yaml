@@ -45,6 +45,16 @@ vyroky:
     na kolobrndách v růžových košilkách“). Za to podle něj mohou muži, tedy i Macinka.'
   citace:
   - text: Takže mužatky? I kdyby. Tak kdo za to teda může? […] No třeba právě ty, Macinko.
+  osoby:
+  - osoba: petr-macinka
+    vztah: rozporuplny
+    kontext: Vtipný, ale v otázce Ruska „pitomec“; výrok o „mužatkách“ „posral“
+  - osoba: boris-stastny
+    vztah: negativni
+    kontext: „Vymydlený“ rusofob
+  - osoba: filip-turek
+    vztah: rozporuplny
+    kontext: Dřív „sračky“ o Putinovi, teď se „uklidnil“
   podtema: Politická kultura
 - id: cernohorsky-2026-11-09-03
   typ: tvrzeni
@@ -63,6 +73,25 @@ vyroky:
     a pak „mám z toho chuť se na to vysrat“. K volbám ať lidé chodí, „ale beze mě“.'
   citace:
   - text: Víte, kdo mě porazí? Vy, vy mě porazíte. Tadle scéna mě porazí.
+  osoby:
+  - osoba: zitko
+    vztah: negativni
+    kontext: „Parazité“ a „zmrdi“, které scéna živí a podporuje
+  - osoba: bernardy
+    vztah: negativni
+    kontext: „Parazité“ a „zmrdi“, které scéna živí a podporuje
+  - osoba: vrabel
+    vztah: negativni
+    kontext: „Parazité“ a „zmrdi“, které scéna živí a podporuje
+  - osoba: miroslav-sladek
+    vztah: negativni
+    kontext: „Parazité“ a „zmrdi“, které scéna živí a podporuje
+  - osoba: tereza-vlasakova
+    vztah: pozitivni
+    kontext: Pomáhá jim proti „šikaně“
+  - osoba: iva-rosicka
+    vztah: pozitivni
+    kontext: Pomáhá jim proti „šikaně“
   podtema: USA — volební systém
 - id: cernohorsky-2026-11-09-04
   typ: tvrzeni
@@ -83,6 +112,16 @@ vyroky:
     a Rakušana uráží a pro Rakušana žádá vězení (viz [Stochastický teror](stochasticky-teror.md)).'
   citace:
   - text: Máte, je tady nějaká jiná možnost, byla nějaká jiná možnost než ten Andrej Babiš? Nebyla.
+  osoby:
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: „Vyserte se na rusofobii“, ale jiná možnost nebyla, vláda není jako Fialova
+  - osoba: petr-fiala
+    vztah: negativni
+    kontext: „Kretén“, „rozstřískat mu tu hubu“
+  - osoba: ales-juchelka
+    vztah: negativni
+    kontext: Neschopný ministr, okamžitě vyměnit
   podtema: Vlastní vládní program „kdybych byl Babišem" (Černohorský)
 - id: cernohorsky-2026-11-09-05
   typ: tvrzeni
@@ -113,6 +152,13 @@ vyroky:
     Galizien. Připomíná, že ho za podobné výroky v roce 2022 obvinil z popírání genocidy „vojenský komunistický
     prokurátor“ Igor Stříž, on ale věděl, co říká, „aby mě zavřít nemohli“. Zdůrazňuje, že válku nechce
     a nemá radost z „tří milionů“ mrtvých Ukrajinců.'
+  osoby:
+  - osoba: angela-merkelova
+    vztah: negativni
+    kontext: „Svině“, přiznala podvod s Minskem
+  - osoba: igor-striz
+    vztah: negativni
+    kontext: „Vojenský komunistický prokurátor“, obvinil ho z popírání genocidy
   podtema: Zahraniční aktéři a precedenty
 - id: cernohorsky-2026-11-09-07
   typ: tvrzeni
@@ -130,4 +176,67 @@ vyroky:
     Výroky viz [Stochastický teror](stochasticky-teror.md).
   citace:
   - text: Neskončí to. Co si kurva myslíte? Jo, skončí, tak maximálně třetí světovou válkou.
+  osoby:
+  - osoba: ursula-von-der-leyenova
+    vztah: negativni
+    kontext: Kvůli nim válka neskončí
+  - osoba: kaja-kallasova
+    vztah: negativni
+    kontext: Kvůli nim válka neskončí
+  - osoba: tomas-zdechovsky
+    vztah: negativni
+    kontext: Kvůli nim válka neskončí
   podtema: Zahraniční aktéři a precedenty
+- id: cernohorsky-2026-11-09-08
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: válka neskončí, dokud rozhodují von der Leyenová, Kallasová a Zdechovský; skončí „maximálně
+    třetí světovou válkou“
+  text: Válka na Ukrajině podle něj neskončí, dokud evropskou politiku určují von der Leyenová, Kallasová,
+    Zdechovský a další; skončí nanejvýš třetí světovou válkou.
+  citace:
+  - text: Neskončí to. Co si kurva myslíte? Jo, skončí, tak maximálně třetí světovou válkou.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: cernohorsky-2026-11-09-09
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Petr Fiala
+  text: 'Terč: Petr Fiala.'
+  citace:
+  - text: Slyšíte Fialu, vole, jak si otvírá rypák, jak on udělal všechno nejlíp a nejúžasněji. […] To
+      je prostě zleva, zprava a rozstřískat mu tu hubu kreténovi.
+  teror:
+    terc: Petr Fiala
+    hranicni: false
+- id: cernohorsky-2026-11-09-10
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Vít Rakušan
+  text: 'Terč: Vít Rakušan.'
+  citace:
+  - text: Rakušan, tato kunda skurvená, zamrdaná. […] Tenhle zmrd už dávno měl být v kriminále, vole.
+      […] Já se nedivím, že v té Číně se za korupci střílí.
+  osoby:
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: Vulgárně urážen, „měl být v kriminále“
+  teror:
+    terc: Vít Rakušan
+    hranicni: false
+- id: cernohorsky-2026-11-09-11
+  typ: stoch-teror
+  temata:
+  - valka-nato-rusko
+  nadpis: dárci sbírek „Dárek pro Putina“
+  text: dehumanizace skupiny bez výzvy k násilí
+  citace:
+  - text: Jeden člověk vedle druhýho, který jste jenom přispěli na ty zbraně, tak jste za mě obyčejný
+      skurvený kundy. […] bez empatie, bez srdce, bez rozumu, bez ničeho, vy jste si vysrali mozek z hlavy.
+  teror:
+    terc: dárci sbírek „Dárek pro Putina“
+    hranicni: true

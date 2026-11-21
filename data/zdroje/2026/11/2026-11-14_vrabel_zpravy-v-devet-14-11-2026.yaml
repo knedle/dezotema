@@ -10,6 +10,75 @@ zdroj:
   poznamka: 1 h 21 min, den po summitu v Dublinu (jeho výsledek nekomentoval), den před Letnou. 21 témat
     v denním přehledu, 7 s vlastním úhlem (⚡). Stochastický teror nezjištěn. Zpracováno podle podkladů
     pomocného agenta.
+  osoby:
+  - osoba: karel-havlicek
+    vztah: negativni
+    kontext: „Pitomci“, „herci“ jako Fiala
+  - osoba: karol-nawrocki
+    vztah: pozitivni
+    kontext: Vetoval zákon o digitálních službách
+  - osoba: calin-georgescu
+    vztah: pozitivni
+    kontext: „Lídři boje za svobodu“, oběti systému
+  - osoba: reiner-fuellmich
+    vztah: pozitivni
+    kontext: „Lídři boje za svobodu“, oběti systému
+  - osoba: russell-brand
+    vztah: pozitivni
+    kontext: „Lídři boje za svobodu“, oběti systému
+  prehled:
+  - tema: Protesty proti konferenci Svobodných ve Vysočanech (rudé a palestinské vlajky, antifa)
+    text: francouzský scénář, který se spojí s Letnou, „pravděpodobně řízený z CIA“ (opakuje).
+  - tema: Tusk kritizuje Nawrockého veto zákona o digitálních službách
+    text: nálepky „pedofilové, ruští trollové“ na kritiky cenzury jsou globalistická propaganda (opakuje).
+  - tema: 'Peskov: Rusko neurčuje složení evropského týmu'
+    text: Putin jen navrhl Schrödera.
+  - tema: Výpadek letecké dopravy v USA, Microsoft, mrazy ve Francii, propady trhů
+    text: „první příznaky pádu Západu“, „následuje velká válka“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-11-14-01
+  - tema: Devět států EU včetně ČR chce přísnější slučování rodin uprchlíků
+    text: „zbabělé, nehumánní“, má udržet Ukrajince na frontě
+    vyrok: vrabel-2026-11-14-02
+  - tema: Trump, Putin a Si 19. 11. v Šen-čenu
+    text: sféry vlivu, ne Ukrajina, USA Evropě nepomohou
+    vyrok: vrabel-2026-11-14-05
+  - tema: Demonstrace za Georgesca v Bukurešti
+    text: v ČR se za Fuellmicha, Branda a jeho manželku nikdo nepostaví, kdo nechrání bojovníky za svobodu,
+      o svobodu přijde.
+  - tema: Protesty ve Francii (106 tisíc lidí)
+    text: lidé musí bojovat, dokud svobodu mají.
+  - tema: Dánsko posílá Ukrajině 645 mil. eur
+    text: „genocida Ukrajinců“, 1,5–2,5 milionu obětí (opakuje).
+  - tema: Ruské požadavky na návrat NATO k roku 1997
+    text: jde o návrhy smluv z roku 2021, příměří by Ukrajinu jen nazbrojilo jako po Minsku (opakuje).
+  - tema: Babiš v Dublinu se Zelenským, Havlíček a letadla pro Ukrajinu
+    text: Babiš a Havlíček „herci“ jako Fiala, zdražování jde na Ukrajinu
+    vyrok: vrabel-2026-11-14-03
+  - tema: 'Zelenskyj: USA nabídly stažení z části Donbasu výměnou za NATO'
+    text: „další podvod“, existenční válka obou stran (opakuje).
+  - tema: 'Švédsko: EU financovala organizaci spojenou s Muslimským bratrstvem'
+    text: islám jako „systém dobývání“, Hitler se „inspiroval krutostí islámu“
+    vyrok: vrabel-2026-11-14-02
+  - tema: ČR nepozvána do Bergen Group
+    text: vlastní vina „onuce“, „nejpodřízenější role“
+    vyrok: vrabel-2026-11-14-04
+  - tema: Trump zvažuje neobnovit údery na Írán
+    text: konflikt potrvá roky.
+  - tema: Trump a Kuba
+    text: doufá v převrat CIA bez útoku.
+  - tema: Komentáře diváků (SPD, jednota vlastenců, referendum)
+    text: referendum Senátem neprojde, jen probudit 7 % lidí a změnit systém
+    vyrok: vrabel-2026-11-14-03
+  - tema: Jednání USA a Číny o clech
+    text: Trump „pilot bez motorů“, pád technologických akcií teprve přijde
+    vyrok: vrabel-2026-11-14-01
+  - tema: Poplatek za dešťovou vodu
+    text: daně jako „džungle“, stát bere 75 %, systém je „zločinný“
+    vyrok: vrabel-2026-11-14-03
+  - tema: 'Maďarsko: u Šestáka zabaveno 20 mil. USD'
+    text: „ti, kdo to umějí“, zůstávají nepotrestáni, menší zlo jako rakovina.
+  - tema: Epstein a Russell Brand
+    text: pravidla neplatí pro všechny stejně (opakuje).
 vyroky:
 - id: vrabel-2026-11-14-01
   typ: tvrzeni
@@ -54,6 +123,10 @@ vyroky:
     umějí“ (Babiš, Fiala, kampeličky), zůstávají nepotrestáni.'
   citace:
   - text: Ten systém je zločinej. Sám od sebe prostě v celý svý podstatě se všema těma hercema… je zločinej.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Pitomci“, „herci“ jako Fiala
   podtema: Politická kultura
 - id: vrabel-2026-11-14-04
   typ: tvrzeni
@@ -67,6 +140,10 @@ vyroky:
     půjdou záložáci“.'
   citace:
   - text: Prostě se stavíme do role úplně toho nejpodřízenějšího.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Slouží NATO“
   podtema: EU jako vojenská struktura
 - id: vrabel-2026-11-14-05
   typ: tvrzeni
@@ -81,4 +158,8 @@ vyroky:
   citace:
   - text: Evropa se může těšit na to, že Američani v případě, že by došlo k nějakému konfliktu, prostě
       na pomoc Evropě nepůjdou.
+  osoby:
+  - osoba: donald-trump
+    vztah: rozporuplny
+    kontext: „Pilot bez motorů“, ale nechce válku s Kubou
   podtema: Zahraniční aktéři a precedenty

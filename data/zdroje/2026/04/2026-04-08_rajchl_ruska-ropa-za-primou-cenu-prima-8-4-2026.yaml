@@ -9,6 +9,11 @@ zdroj:
   rezim: standard
   delka: '1:52'
   poznamka: 'Zhlédnutí: 79 018'
+  osoby:
+  - osoba: pavla-pivonka-vankova
+    vztah: negativni
+    kontext: Navrhovala jiné řešení energetické krize než Rajchl; Rajchl obhajuje cestu do Moskvy jako
+      jedinou racionální alternativu
 vyroky:
 - id: rajchl-2026-04-08-01
   typ: tvrzeni
@@ -23,6 +28,11 @@ vyroky:
   - text: Ne, jestli to Rusko prodá nebo neprodá, ale jestli to prodá nám nebo někomu jinému. Teď na tom
       profituje Čína, vydělává na tom miliardy dolarů a my se tady prostě tváříme, že tu ropu nedostáváme.
       Stejně ji dostáváme, stejně ji tady kupujeme, akorát přes řetězec překupníků.
+  osoby:
+  - osoba: bart-de-wever
+    vztah: pozitivni
+    kontext: Belgický premiér vyzval k normalizaci vztahů s Ruskem a návratu k levným surovinám — Rajchl
+      souhlasí
   dalsi_zdroje:
   - 2026-10-05_rajchl_debata-bez-ruske-ropy-a-plynu-se-evropa-neobejde-5-10-2026
   podtema: Rusko a energetická krize EU

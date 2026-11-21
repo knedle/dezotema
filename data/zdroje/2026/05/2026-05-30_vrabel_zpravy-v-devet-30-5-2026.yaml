@@ -11,6 +11,17 @@ zdroj:
   poznamka: 'Zprávy v devět. Témata: Putin říká válka se blíží ke konci; USA opět plně podporuje Ukrainu
     (Hegseth 56 mld. USD drony 2027); EU vyšetřuje ESN/AFD (2 mil. EUR dotace); Zelenský útočil na Armavir
     500 km od UA; NATO-EU-USA nová integrace pod globalistickým řízením.'
+  prehled:
+  - tema: Zprávy v devět. Témata
+    text: Putin říká válka se blíží ke konci
+  - tema: USA opět plně podporuje Ukrainu (Hegseth 56 mld. USD drony
+    text: USA opět plně podporuje Ukrainu (Hegseth 56 mld. USD drony 2027)
+  - tema: EU vyšetřuje ESN/AFD (2 mil. EUR dotace)
+    text: EU vyšetřuje ESN/AFD (2 mil. EUR dotace)
+  - tema: Zelenský útočil na Armavir 500 km od UA
+    text: Zelenský útočil na Armavir 500 km od UA
+  - tema: NATO-EU-USA nová integrace pod globalistickým řízením.
+    text: NATO-EU-USA nová integrace pod globalistickým řízením.
 vyroky:
 - id: vrabel-2026-05-30-01
   typ: tvrzeni
@@ -35,3 +46,16 @@ vyroky:
     že vlastenecká opozice v ČR odmítala spolupracovat s AFD a pomáhala likvidovat skutečnou suverenistickou
     opozici.'
   podtema: Zahraniční aktéři a precedenty
+- id: vladimir-putin-2026-05-30-01
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Rusko-Ukrajina konflikt se blíží ke konci (citováno Vrabel)
+  text: Putin v reakci na dotaz novinářů prohlásil, že může zodpovědně říct, že se speciální vojenská
+    operace blíží ke konci. Přesný datum odmítl uvést, protože je to boj a bylo by to nefér vůči vojákům.
+  citace:
+  - text: Může zodpovědně říct, že se blížíme k konci.
+  mluvci: vladimir-putin
+  predikce:
+    horizont: neurčeno — brzy
+    stav: ceka

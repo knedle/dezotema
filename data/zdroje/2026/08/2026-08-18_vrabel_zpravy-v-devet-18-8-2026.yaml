@@ -7,6 +7,40 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1450775803772283
   prepis: prepisy/done/2026-08-18_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Írán zvažuje prodloužení konfliktu s USA až do konce
+    text: Írán zvažuje prodloužení konfliktu s USA až do konce Trumpova mandátu (2029); vlastní glosa
+      o „loutkách" opozičníků — nezpracováno
+  - tema: Facebook/Instagram algoritmické politické zvýhodňování a vlastní návrh řešení (zákaz závislostních
+      mechanismů)
+    text: → [DSA a cenzura](../dsa-cenzura.md)
+  - tema: Ukrajina požaduje 600 mld. dolarů za škody na
+    text: Ukrajina požaduje 600 mld. dolarů za škody na infrastruktuře; Litva 7 mld. eur od EU — „udělali
+      jste si to sami" — nezpracováno
+  - tema: Vlastní teorie o cíli války/covidu — dystopie, depopulace (Huxley/Orwell), robotizace
+    text: → [Digitální kontrola](../digitalni-kontrola.md)
+  - tema: Fedorov a Filip Turek jako „psychopati"
+    text: eskalační analogie sebeobrany, riziko jaderné odvety — nezpracováno (stochastický teror extrahován
+      samostatně)
+  - tema: Tanker Skyros napaden v Černém moři
+    text: rozpor s Trumpovým zákazem útoků na CPC/kazašskou ropu — nezpracováno
+  - tema: Rusko obviňuje Británii z eskalace (britské drony);
+    text: Rusko obviňuje Británii z eskalace (britské drony); glorifikace Ruska jako velmoci vs. „Londonstán"
+      — nezpracováno
+  - tema: Jaderný deštník Francie/Británie do ČR/Polska
+    text: teorie odklonění fronty od západní Evropy — nezpracováno
+  - tema: Švédsko připravuje masové hroby pro válku; sarkastické
+    text: Švédsko připravuje masové hroby pro válku; sarkastické srovnání s nepřipraveností ČR — nezpracováno
+  - tema: 'Festival ukrajinské kultury 21. 8. v Praze (výročí 1968) + Lex Ukrajina 7: trvalý pobyt → občanství'
+    text: → [Migrace](../migrace.md)
+  - tema: '⚡ Konflikt: Vrabel obviňuje Rajchla z pokrytectví (ocenění od Rédové za svobodu slova, zákaz
+      ruských vlajek, sběr kompromitujících materiálů)'
+    text: → [DSA a cenzura](../dsa-cenzura.md)
+  - tema: Zrušená akce „jen pro černochy" v Berlíně — vlastní přiznaný posun k rasovému profilování kvůli
+      migraci
+    text: → [Migrace](../migrace.md)
+  - tema: Prodloužení životnosti jaderných reaktorů na 80 let (Temelín) — skeptický technický komentář
+    text: → [Ceny energií](../ceny-energie.md)
 vyroky:
 - id: vrabel-2026-08-18-01
   typ: tvrzeni
@@ -108,3 +142,16 @@ vyroky:
     Berlínské koupaliště zrušilo plánovanou akci vyhrazenou na několik hodin výhradně lidem afrického původu poté, co organizátoři čelili kritice a obavám o bezpečnost. Vrabel k tomu dodává osobní přiznání: ačkoli se dlouhodobě považuje za člověka bez rasových předsudků (zmiňuje černošského kamaráda, dřívější obdiv k multikulturní společnosti v pařížském metru v 90. letech), v posledních letech si všímá vlastního posunu — při pohledu na černocha v dnešní západní Evropě si automaticky spojuje vyšší pravděpodobnost, že jde o nedávného migranta z Afriky/Blízkého východu (přes Ceutu či Lampedusu) než o dlouhodobě usazeného Evropana, a reaguje obezřetně až se strachem. Tento posun explicitně připisuje migrační vlně a migračnímu paktu, ne rase samotné — s tím, že vládní tvrzení o „odmítnutí" migračního paktu je jen slovní gesto bez legislativního účinku (pakt podle něj v ČR nadále platí).
 
     ⚡ **Poznámka:** Formulace tohoto segmentu jsou v přepisu prezentovány jako sebeironický/„nejsem rasista, ale" komentář; zachyceno věcně bez dalšího hodnocení.
+- id: vrabel-2026-08-18-07
+  typ: stoch-teror
+  temata:
+  - digitalni-kontrola
+  nadpis: Michajlo Fedorov, Filip Turek
+  text: jmenovaní terči (Fedorov přirovnán k Turkovi jako „stejný psychopat") dehumanizováni opakovaným
+    označením za „blázny"/psychopaty + výzva k nucenému omezení svobody (odvoz „chocholouškem" do ústavu)
+  citace:
+  - text: Pošlete na ně chocholouška, chocholouška, ať je zavřou do bílého pláška a odvezou, protože jsou
+      blázni. [...] takový lidi je potřeba zastavit, protože jsou blázni. Protože nás všechny ohrožujou.
+  teror:
+    terc: Michajlo Fedorov, Filip Turek
+    hranicni: false

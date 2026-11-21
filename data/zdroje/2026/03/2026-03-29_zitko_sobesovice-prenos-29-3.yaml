@@ -17,6 +17,16 @@ vyroky:
     Virolog a soudní znalkyně Soňa Peková (vystupující na akci Pavel Zítko) popisuje, že obdržela vzorky vakcín (lahvičky) k analýze a opakovaně je nabízela k protokolárnímu přezkoumání — slovenským orgánům, Petru Kotlárovi i premiéru Ficovi. Nikdo zájem neprojevil. Vzorky zůstávají v její laboratoři v mrazáku. Peková z toho vyvozuje, že neexistuje žádná politická vůle odhalit případná pochybení.
 
     > „Tady není vůbec žádná snaha o odhalování zločinu za covidu-19 a každý, kdo se o to snaží, tak má být nakonec vlastně uvařen." — Soňa Peková, citována Pavel Zítko, [Soběšovice 2026-03-29](_zdroje.md#pavel-zítko--soběšovice-přenos-29-3)
+  osoby:
+  - osoba: pekova
+    vztah: pozitivni
+    kontext: Hlavní hostka akce, virolog a soudní znalkyně prezentující analýzy vakcín
+  - osoba: petr-kotlar
+    vztah: neutralni
+    kontext: Původně pozvaný host (omluvil se); odmítl převzít vzorky vakcín od Pekové
+  - osoba: robert-fico
+    vztah: neutralni
+    kontext: Odmítl vzorky vakcín nabízené Pekovou k přezkoumání
   mluvci: pekova
   podtema: Pokusy o vyšetřování
 - id: pekova-2026-03-29-02

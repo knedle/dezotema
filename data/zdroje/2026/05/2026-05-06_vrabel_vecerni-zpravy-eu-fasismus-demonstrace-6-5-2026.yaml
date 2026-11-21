@@ -15,6 +15,28 @@ zdroj:
     demonstraci v Brně — „Komanči"; Sudetoněmecký 8-odstavcová rezoluce = divadlo; EU fašizace; Predikce:
     2027 obrovská nespokojenost, 40% problém s jídlem; 6G = planetární sledovací systém; hnojiva blokována,
     30% deficit.'
+  prehled:
+  - tema: Soubor je uložen pod jménem Rajchla, ale mluvčí je Vrabel
+    text: 'Soubor je uložen pod jménem Rajchla, ale mluvčí je Vrabel (osloven jako „Láďo", zmiňuje „Česká
+      republika na prvním místě" jako vlastní hnutí). Večerní zprávy. Témata: EU Cyprus summit — 90 mld.
+      EUR pro Ukrainu, 60 % na zbraně'
+  - tema: česká zbrojní výroba (12× L-39 a L-410 do
+    text: česká zbrojní výroba (12× L-39 a L-410 do Kazachstánu/Ázerbájdžánu za ropu/uran)
+  - tema: Svobodní člen 2024
+    text: „kdybychom se dali dohromady, nevzali by nás do televize, sponzoři se to nelíbí" — patriotické
+      strany = zbabělce
+  - tema: SPD/KSČM zakázaly loga ČRNPM a Miroslava Sládka na demonstraci v Brně
+    text: „Komanči"
+  - tema: Sudetoněmecký 8-odstavcová rezoluce = divadlo
+    text: Sudetoněmecký 8-odstavcová rezoluce = divadlo
+  - tema: EU fašizace
+    text: EU fašizace
+  - tema: Predikce
+    text: 2027 obrovská nespokojenost, 40% problém s jídlem
+  - tema: 6G = planetární sledovací systém
+    text: 6G = planetární sledovací systém
+  - tema: hnojiva blokována, 30% deficit.
+    text: hnojiva blokována, 30% deficit.
 vyroky:
 - id: vrabel-2026-05-06-01
   typ: tvrzeni

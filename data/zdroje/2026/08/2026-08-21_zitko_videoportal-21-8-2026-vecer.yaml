@@ -7,6 +7,11 @@ zdroj:
   url: https://m.facebook.com/watch/?v=895716813296353&_rdr
   prepis: prepisy/done/2026-08-21_Československo-TV2_Videoportál_1.txt
   rezim: standard
+  osoby:
+  - osoba: jeremy-farrar
+    vztah: neutralni
+    kontext: Hlavní vědecký ředitel WHO — rezignoval po odhalení skrývání původu viru souvisejícím s doznáním
+      Davida Morense
 vyroky:
 - id: zitko-2026-08-21-02
   typ: tvrzeni
@@ -40,6 +45,11 @@ vyroky:
     Maďara, Petra Smejkala, Jana Sempera, Václava Hořejšího, Jaroslava Flégra, Romana Chlíbka, Rudolfa
     Tachezyho a Vašákovou. Připomíná vlastní ranou kritiku covidových opatření (blog z 21. 3. 2020, veřejné
     vystoupení v listopadu 2021 proti očkování zdravých dětí), kterou nikdy nelitoval.'
+  osoby:
+  - osoba: anthony-fauci
+    vztah: negativni
+    kontext: Dle citovaného textu Karla Janečka „zlosyn historického významu" srovnatelný s Mengelem,
+      poškodil důvěru ve vědu víc než kdokoli od 2. světové války
 - id: zitko-2026-08-21-06
   typ: tvrzeni
   temata:
@@ -54,4 +64,9 @@ vyroky:
     neprovedla rozbor stejných vzorků (těch 34 vzorků zůstává uloženo u Pekové v mrazáku). Zmiňuje také,
     že slovenský politik Marian Kotleba podal trestní oznámení na Mgr. Jana Pačese, PhD. — muže, který
     na Pekovou původně podal stížnost vydávaje se za soudního znalce, ač jím nikdy nebyl.'
+  osoby:
+  - osoba: marian-kotleba
+    vztah: pozitivni
+    kontext: Slovenský politik — podal trestní oznámení na Pačese, který se vydával za soudního znalce
+      při útoku na Pekovou
   podtema: Trestní stíhání kritiků covidu

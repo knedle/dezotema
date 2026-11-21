@@ -22,4 +22,11 @@ vyroky:
     s oponenty.'
   citace:
   - text: Mikuláš Minář je srap. On se té debaty bojí. On moc dobře ví, že by shořel jako suché listí.
+  osoby:
+  - osoba: mikulas-minar
+    vztah: negativni
+    kontext: Odmítl debatu s Rajchlem na Novinky.cz, označen za zbabělce
+  - osoba: ivo-horvat
+    vztah: neutralni
+    kontext: Novinář Novinky.cz, zprostředkoval nabídku debaty Rajchl vs. Minář
   podtema: Prezident a demokracie

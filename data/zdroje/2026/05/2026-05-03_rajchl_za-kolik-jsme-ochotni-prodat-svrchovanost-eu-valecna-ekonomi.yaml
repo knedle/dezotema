@@ -18,6 +18,11 @@ zdroj:
     veta 2025, USE 2026; Vlny.cz — nový investigativní web; Škopková: dokument o střelbě na FF UK 4. 5.;
     Sudetoněmecký sjezd + Wittico Bund web; Petr Pavel na summit NATO v Ankaře nepůjde; Ukrajinskí pracovníci:
     404k od 2022, 214k pracuje; Kiel Institute + NYT: 250 mld. Kč náklady ČR.'
+  osoby:
+  - osoba: hinek-beran
+    vztah: neutralni
+    kontext: Přednášející na semináři o uhelných dolech 4. 5. v PS (místnost 205, 10:00) — Rajchl pozvánku
+      šířil
 vyroky:
 - id: rajchl-2026-05-03-01
   typ: tvrzeni
@@ -68,6 +73,11 @@ vyroky:
     6. **Navrhoval vytvoření Spojených států evropských (2026)** — zánik suverenity ČR jako explicitní cíl.
 
     Rajchl shrnuje: Pavel systematicky pracuje na zániku suverenity ČR — od finančního systému (euro) přes rozhodovací pravomoci (veto) až po státnost (USE). Proto Rajchl oznámil, že nepůjde na summit NATO v Ankaře (na pozvání Babiše) — Pavel by tam přítomností podkopával diplomatické postavení Babiše a Macinky.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: 'Komplexní kritická bilance: ukradený notebook, Trump „odporný"/„poškodil NATO více než Putin",
+      pochvala Posselta 2023, návrh eura 2024, zrušení veta 2025, USE 2026 — systematická eroze suverenity'
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-05-03-04
   typ: tvrzeni
@@ -120,4 +130,13 @@ vyroky:
     - **Jana Černochová 2024:** za pouhých 1,5 měsíce schválila zálohy 80 miliard Kč za F-35 od Lockheed Martin — dle Rajchla bez řádné parlamentní debaty
 
     Rajchl z toho vyvozuje: investice do F-35 a Leopardů je primárně v zájmu zbrojařů, nikoliv obrany ČR. Skutečná obrana by vyžadovala jiné priority (odolnost infrastruktury, zásoby, autonomní schopnosti).
+  osoby:
+  - osoba: jiri-pospisil
+    vztah: negativni
+    kontext: Oponent v TV debatě (Spolu/TOP 09); obhajuje válečnou ekonomiku EU — Rajchl to označuje za
+      cestu k bankrotu nebo válce
+  - osoba: jana-cernochova
+    vztah: negativni
+    kontext: Za 1,5 měsíce 2024 schválila zálohy 80 mld. Kč za F-35 od Lockheed Martin bez řádné parlamentní
+      debaty
   podtema: NATO, zbrojení a militarizace ČR/Evropy

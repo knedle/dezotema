@@ -8,6 +8,11 @@ zdroj:
   prepis: prepisy/done/2026-03-12_Lenka-Tarabová_29K-views-848-reactions-CENA-POHONNÝCH-HMOT-STÁLE-ROST.txt
   rezim: standard
   delka: '4:03'
+  osoby:
+  - osoba: alena-schillerova
+    vztah: negativni
+    kontext: Kritizována za ujišťování o kontrolách cen pohonných hmot, které Tarabová považuje za prázdná
+      slova
 vyroky:
 - id: tarabova-2026-03-12-01
   typ: tvrzeni
@@ -30,6 +35,10 @@ vyroky:
     Tarabová poukazuje na nesoulad: cena ropy za barel klesá, ale ceny pohonných hmot v ČR přesto rostou. Odvolává se na vyjádření experta z pořadu 360° z motoristů (pan Krchnavský), který tento paradox veřejně potvrdil.
 
     > „Cena za barel klesá, což se samozřejmě neprojevuje na cenách pohonných hmot v České republice." — Lenka Tarabová cituje experta, [Cena pohonných hmot 2026-03-12](_zdroje.md#lenka-tarabová--cena-pohonných-hmot-stále-roste)
+  osoby:
+  - osoba: pan-krchnavsky
+    vztah: pozitivni
+    kontext: Citován jako důvěryhodný expert potvrzující nesoulad ceny barelu a cen na pumpách
   podtema: Pohonné hmoty
 - id: tarabova-2026-03-12-03
   typ: tvrzeni

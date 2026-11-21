@@ -26,4 +26,8 @@ vyroky:
   - text: Slušný novinář paní Trtinová nejdřív napíše třeba SMS-ku nebo zprávu, že by rád natočil rozhovor.
       Ale především slušný novinář upozorní na začátku toho rozhovoru svého partnera, že si hovor nahrává.
       Ani to jste neudělala.
+  osoby:
+  - osoba: daniela-drtinova
+    vztah: negativni
+    kontext: Zavolala bez předchozí zprávy a nahrávala bez upozornění; DVTV označena za „žumpu"
   podtema: Mainstream jako politický aktivismus

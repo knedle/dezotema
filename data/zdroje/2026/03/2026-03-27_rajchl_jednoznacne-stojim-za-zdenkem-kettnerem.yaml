@@ -26,4 +26,11 @@ vyroky:
       se omluvil. Tím to končí. Tečka šlus.
   - text: Pokud tady někdo šíří zlo, tak jsou to právě oni. Tomáš Halík, Mikuláš Minář a celá ta jejich
       partička.
+  osoby:
+  - osoba: zdenek-kettner
+    vztah: pozitivni
+    kontext: Obhajuje ho v kauze sdílení AI fotografie, odmítá jeho omluvu Halíkovi
+  - osoba: tomas-halik
+    vztah: negativni
+    kontext: Označen za jednoho ze dvou největších lhářů v ČR
   podtema: Kauza Zdeněk Kettner — AI fotografie

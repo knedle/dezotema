@@ -19,4 +19,8 @@ vyroky:
   text: 'Černohorský chválí poslance SPD Radima Fialu za jeho stručný projev v PS: „Vy bráníte Landsmannschaft
     místo těch, co umírali v koncentrácích." Výrok označuje za výstižný a přímý a Fialu hodnotí jako jednoho
     z mála poslanců, kteří tématu skutečně rozumí.'
+  osoby:
+  - osoba: radim-fiala
+    vztah: pozitivni
+    kontext: 'Poslanec SPD — pochválen za projev: „bráníte Landsmannschaft místo těch, co umírali v koncentrácích"'
   podtema: Parlament, politické a stranické reakce

@@ -22,6 +22,10 @@ vyroky:
     že Trump „nás zradil“, odmítá: Trump se stará o své občany, „a to by měl dělat každý politik“. Po
     4,5 roku sankcí má Rusko nejnižší zisky z ropy v historii, ale ČR naftu za 50 Kč: „vstřelili jsme
     si parádního vlastňáka, prohráváme 3:0 a útočíme na svou vlastní branku dál“.'
+  osoby:
+  - osoba: donald-trump
+    vztah: pozitivni
+    kontext: Nezradil Evropu, stará se o své občany; dobře, že „zlomil hůl“ nad Zelenským
   podtema: Rusko a energetická krize EU
 - id: rajchl-2026-10-18-02
   typ: tvrzeni
@@ -35,6 +39,19 @@ vyroky:
     V ČR cituje průzkum, podle něhož se 63 % obyvatel Mladé Boleslavi (22 % cizinců, v Praze třetina) necítí ve městě bezpečně kvůli cizincům, „samozřejmě“ převážně Ukrajincům. Připomíná výrok Víta Rakušana, že Ukrajinci jsou „slušnější než Češi“ a nezvyšují kriminalitu, a odkazuje na studii Institutu pro kriminologii a zkušenosti policistů s „ukrajinskými rvačkami“ s noži (viz [NCOZ studie, 5. 5.](#ncoz-studie-organizovaný-zločin-v-čr-ovládli-ukrajinci--rajchl-5-5-2026)). Že tito lidé dál volí strany bývalé pětikoalice, nazývá „téměř stockholmským syndromem“. Zelenského varování, že při pádu Ukrajiny přijde 20 milionů Ukrajinců, nebere vážně, ale tvrdí, že pětikoalice by je „znovu vítala“.
   citace:
   - text: Dnes je zapotřebí zcela vážně hovořit o remigraci. Zcela vážně.
+  osoby:
+  - osoba: emmanuel-macron
+    vztah: negativni
+    kontext: Nese odpovědnost za nepokoje ve Francii, měl by odejít
+  - osoba: ursula-von-der-leyenova
+    vztah: negativni
+    kontext: Spoluodpovědná za migrační krizi („mávali migračním paktem“), měla by odejít
+  - osoba: ulrich-siegmund
+    vztah: pozitivni
+    kontext: Výrok, že zbraně se budou hodit „kvůli migrantům“, je „nadčasový“
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: Tvrdil, že Ukrajinci jsou „slušnější než Češi“; nesmí vládnout „Rakušan a spol.“
 - id: rajchl-2026-10-18-03
   typ: tvrzeni
   temata:
@@ -72,6 +89,10 @@ vyroky:
   citace:
   - text: Ta flanelová košile je jenom maska. On se je snaží prezentovat jako člověk z lidu, ale ve skutečnosti
       je to prostě bolševický papaláš.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Bolševický papaláš“, „falešný do morku kostí“; při cizí úhradě letu má abdikovat
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-10-18-05
   typ: tvrzeni
@@ -83,6 +104,16 @@ vyroky:
     **18. 10.** — „Trump si vybral stranu, a není to Zelenský“: Zelenský podle Rajchla „kousal do ruky, která ho krmí“, a Trump nad ním „zlomil hůl“, „a je to dobře“. Konec války podle něj nastane jen odchodem Zelenského a zastavením „pumpování peněz“ jeho „korupčním kamarádíčkům“. Kromě nákupu ruské ropy a pozastavení sankcí (viz [Ceny energií](ceny-energie.md)) Trump s Muskem omezili Ukrajině Starlink, takže ukrajinská armáda „poslepla“. Důvodem je podle něj, že Trump nechce útoky na ruské rafinérie. Ukrajina podle něj prohrála, „což bylo jasné od počátku“. Boris Johnson jako „emisar“ zmařil mírovou dohodu, kterou navrhla ukrajinská strana a obě strany parafovaly, protože Evropa odmítla dát bezpečnostní záruky. Dva miliony mrtvých, stovky miliard a zničená Ukrajina jsou podle něj výsledkem „arogance a vyčuranosti“ evropských politiků, kteří vyměnili lidské životy za „zbrojařské kšefty“ a za strašení Ruskem ve volebních kampaních („ruské tanky na Smíchově“, Petr Fiala). Strach podle něj „vypíná lidem mozek“: Rusko by na obsazení Ukrajiny potřebovalo 6 milionů vojáků, ale má 1,5 milionu. Předpověď mírové dohody zpřesňuje: až padne Kramatorsk a Slovjansk, Rusko dostane zbytek Doněcké oblasti a vrátí část Charkovské (viz [predikce](predikce.md)). „Chcimíři“ podle něj navrhovali nejlepší řešení pro Ukrajinu, ne pro Rusko: „Vy jste tu Ukrajinu obětovali, vy máte na rukou takovou krev.“
 
     K Zelenského žádosti o dalších 70 mld. € k dubnové půjčce 90 mld. € připodobňuje jeho chování k narkomanovi, který si stále půjčuje „na jídlo a práci“ a vše „profetuje“. Zelenský podle něj peníze utratí za „luxusní vily, sportovní auta, zlaté záchody, zlaté bidety“. Babišovo prohlášení, že ČR nebude za půjčku ručit, je podle něj málo a ČR by se měla přidat k Maďarsku a Slovensku proti další půjčce, protože „krmit narkomana je cesta do pekel“. Zelenský s Timurem Mindičem podle něj rozkradli peníze na energetickou infrastrukturu („hyenismus naprosto nejtěžšího kalibru“) a „pokud někdo patří do Haagu, tak zcela jistě Zelenský na prvním místě“.
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Chová se jako „narkoman“ (další půjčka 70 mld. €), „patří do Haagu na prvním místě“
+  - osoba: boris-johnson
+    vztah: negativni
+    kontext: Zmařil mírovou dohodu parafovanou Ukrajinou i Ruskem
+  - osoba: petr-fiala
+    vztah: negativni
+    kontext: Strašení „ruskými tanky na Smíchově“ kvůli politickým bodům
   podtema: Vyjednávání a mír
 - id: rajchl-2026-10-18-06
   typ: tvrzeni
@@ -94,4 +125,32 @@ vyroky:
     **18. 10. — výsledky 2. kola:** Do Senátu neprošel ani jeden kandidát koalice. Fakticky to podle Rajchla znamená ztrátu jediného senátora ANO, ale to je „jenom chlácholení se“. První příčinou je, že se strany nedohodly na společných kandidátech: měsíce předtím navrhoval rozdělit 27 obvodů (18 ANO, 3–4 SPD, 3 Motoristé, po jednom Svobodní, PRO a Trikolóra). Voliči favoritů vyřazených v prvním kole pak do druhého nepřijdou. Totéž bude platit pro prezidentskou volbu. Opozice podle něj nepotřebuje program, stačí jí „zastavte Babiše, udržte Senát demokratický“, což je „oxymoron“. Všechny strany jsou demokratické, „kromě mafiánského hnutí STAN“. Pecková „ani žádný program nemá v hlavě“. Druhou příčinou je frustrace voličů z pomalého plnění slibů (Česká televize, zákon FARA). Rajchl uznává, že je „nejvyšší čas“ je splnit, ale dřívější řešení ČT by podle něj zablokovalo služební i stavební zákon a jednací řád. Ohlašuje návrh, „který napraví některé křivdy“, a představí ho na tiskové konferenci.
 
     Výtky má i k voličům: při účasti 21 % „můžeme si za to sami“. Výzvu podpořit Baránkovou a Daňhovou mnozí odmítli, a teď budou šest let nadávat, že Karel Řehka „bude chodit do televize a vyprávět, že je potřeba připravovat se na válku s Ruskem“. Ve druhém kole se volí „reálně menší zlo“ a postoj „mně je to jedno“ je „poraženecký“. Politik, který si drží „židličku“ místo spojení, je „sobec, který nemá v politice co dělat“. Jemu samému je jedno, kde bude na kandidátce, nesmí ale vládnout „Rakušan a spol.“. Kladně hodnotí, že ze Senátu vypadli Piráti („extremistická strana“; konfrontační politika Zdeňka Hřiba „neslaví úspěch“) a Martin Dvořák, „nejzbytečnější ministr na nejzbytečnějším ministerstvu“, který označil korunu za „pidiměnu“: „o každého chciválka v Senátu míň, o to lépe“.
+  osoby:
+  - osoba: karel-rehka
+    vztah: negativni
+    kontext: V Senátu bude hlásat přípravu na válku s Ruskem
+  - osoba: peckova
+    vztah: negativni
+    kontext: Senátorka, „žádný program nemá v hlavě“
+  - osoba: zdenek-hrib
+    vztah: negativni
+    kontext: Konfrontační politika bez programu, Piráti „extremistická strana“
+  - osoba: martin-dvorak
+    vztah: negativni
+    kontext: „Nejzbytečnější ministr“, „chciválek“, dobře, že neuspěl v Senátu
   podtema: Senátní kandidáti
+- id: rajchl-2026-10-18-07
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: 'po pádu Kramatorsku a Slovjansku mírová dohoda: Rusku zbytek Doněcké oblasti, Ukrajině kus
+    Charkovské'
+  text: 'Za pár měsíců padne Kramatorsk a Slovjansk a „přijde na stůl mírová dohoda“: Rusko dostane zbytek
+    Doněcké oblasti a vrátí část Charkovské oblasti, „o kterou nestojí“. Zpřesnění predikce z 11. 10.'
+  citace:
+  - text: Vzpomeňte si na mě za pár měsíců, až padne Kramatorsk a Slovjansk, tak přijde na stůl mírová
+      dohoda, že v podstatě Rusku se přiklepne zbytek Doněcké oblasti, Rusko vrátí kousek té Charkovské
+      oblasti, o kterou nestojí, a konečně bude mír.
+  predikce:
+    horizont: „za pár měsíců“
+    stav: ceka

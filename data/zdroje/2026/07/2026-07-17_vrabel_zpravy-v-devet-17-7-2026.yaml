@@ -21,6 +21,21 @@ zdroj:
     (11) Emisní povolenky po 2030 + kvalifikovaná většina — [suverenita-eu.md](suverenita-eu.md). (12)
     EU vs. MOV — ruští sportovci na OH 2028 — [suverenita-eu.md](suverenita-eu.md). Stoch. teror: 1 výrok
     (Trump — vězení a zabavení majetku i rodině). Bez predikcí.'
+  prehled:
+  - tema: Zpracováno 12 témat ("Zprávy v devět s komentářem")
+    text: '(1) Trump obviňuje Čínu z vměšování do voleb, USA prý 73× měnily vlády — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (2) Hormuzský průliv každý pátek: manipulace trhu s ropou — [ceny-energie.md](../ceny-energie.md).
+      (3) Polsko „mobilizace bez mobilizace" — [valka-nato-rusko.md](../valka-nato-rusko.md). (4) Recidivista
+      Cigoš, kritika shovívavosti justice — [politicky-system.md](../politicky-system.md). (5) Nizozemsko:
+      Iráčan osvobozen po usmrcení dívky — [migrace.md](../migrace.md). (6) Macinka v Izraeli „ČR nejbezpečnější
+      díky absenci muslimů" — Vrabel oponuje — [migrace.md](../migrace.md). (7) Srbsko a EU jen předstírají
+      zájem o vstup — [suverenita-eu.md](../suverenita-eu.md). (8) Řecko blokuje sankce + ruský AI-prank
+      na poradce Dokose — [valka-nato-rusko.md](../valka-nato-rusko.md). (9) ČR nepozvána do evropského
+      protiraketového štítu — [valka-nato-rusko.md](../valka-nato-rusko.md). (10) Zpráva EK o právním
+      státu (kritika ČR, pochvala Maďarska), „protektorát" — [suverenita-eu.md](../suverenita-eu.md).
+      (11) Emisní povolenky po 2030 + kvalifikovaná většina — [suverenita-eu.md](../suverenita-eu.md).
+      (12) EU vs. MOV — ruští sportovci na OH 2028 — [suverenita-eu.md](../suverenita-eu.md). Stoch. teror:
+      1 výrok (Trump — vězení a zabavení majetku i rodině). Bez predikcí.'
 vyroky:
 - id: vrabel-2026-07-17-01
   typ: tvrzeni
@@ -35,6 +50,11 @@ vyroky:
     lodí 15. 7., 8 lodí 16. 7. — a to jen čínské lodě plující iránskými výsostnými vodami dle obchodní
     dohody). Trump prý na manipulaci akciových trhů vydělává „stovky miliard"; Vrabel míní, že by za to
     měl „sedět" a měl by mu (i zčásti rodině) být zabaven majetek (viz [stochasticky-teror.md](stochasticky-teror.md)).'
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Obviňuje Čínu z vměšování do voleb („kdo to říká, ten to je"); prý manipuluje trh s ropou
+      přes Hormuz — měl by za to sedět a mít zabavený majetek i rodině (→ [stoch. teror](../stochasticky-teror.md))
   podtema: Manipulace trhu s ropou
 - id: vrabel-2026-07-17-02
   typ: tvrzeni
@@ -46,6 +66,11 @@ vyroky:
     a usmrtil 14letou dívku — soud dospěl k závěru, že si podle důkazů neuvědomil, že dívku srazil. Vrabel
     rozsudek uvádí jako příklad selhání justice vůči migrantům („jeden Jamal, který tam vůbec nemá co
     dělat, zabije holku a oni ho propustí") a předpovídá, že totéž čeká ČR kvůli migračnímu paktu.'
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: rozporuplny
+    kontext: Srbský prezident — dle Vrabela do EU nechce, jen „předstírá"; oceňuje, že nepodepsal protiruskou
+      deklaraci a má čínské hypersonické rakety
 - id: vrabel-2026-07-17-03
   typ: tvrzeni
   temata:
@@ -60,6 +85,14 @@ vyroky:
     provdaná imámem, žila prý se dvěma muži, poté se skrývala; pomohl jí Martin Konvička, jehož označuje
     za „hrdinu"). Uzavírá, že ČR nemá tolik přistěhovalců díky odporu „od roku 2015", ale za budoucí migranty
     viní právě Macinku, který ČR „zazdil" v migračním paktu. Navazuje na [Migrační pakt platí i pro ČR](#migrační-pakt-platí-i-pro-čr-británie-před-občanskou-válkou-islám-vs-křesťanství--vrabel-13-6-2026).'
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: Na fóru v Izraeli tvrdil, že ČR je nejbezpečnější díky absenci muslimů — Vrabel oponuje a
+      viní ho ze „zazdění" ČR v migračním paktu
+  - osoba: martin-konvicka
+    vztah: pozitivni
+    kontext: Označen za „hrdinu", který pomohl vyvést ženy z islámu (např. Pavlínu Bytařovou)
 - id: vrabel-2026-07-17-04
   typ: tvrzeni
   temata:
@@ -183,3 +216,16 @@ vyroky:
     Zdůrazňuje, že sám zapojení ČR do koalice ani výrobu zbraní neschvaluje. Navazuje na [francouzský
     „jaderný deštník" / koalici ochotných](#).'
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-07-17-13
+  typ: stoch-teror
+  temata:
+  - ceny-energie
+  nadpis: Donald Trump (a jeho rodina)
+  text: jmenovaný terč + výzva k trestu (vězení a zabavení majetku) rozšířená i na rodinu, v reakci na
+    údajnou manipulaci trhu s ropou přes Hormuzský průliv
+  citace:
+  - text: Jako za mě by za tohleto měli sedět [...] měl by mu být zabavený majetek a pravděpodobně částečně
+      jeho rodině, protože to je obrovský podvod.
+  teror:
+    terc: Donald Trump (a jeho rodina)
+    hranicni: false

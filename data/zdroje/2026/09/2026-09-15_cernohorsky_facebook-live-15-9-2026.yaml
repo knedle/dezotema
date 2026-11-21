@@ -7,6 +7,10 @@ zdroj:
   url: https://www.facebook.com/61553793793504/videos/963722203444833
   prepis: prepisy/done/2026-09-15_Jiří-Černohorský_Facebook-Live.txt
   rezim: standard
+  osoby:
+  - osoba: miroslav-sladek
+    vztah: negativni
+    kontext: Spolu s Vrábelem označen za „nejhoršího zmrda této scény" za totéž udání koalic
 vyroky:
 - id: cernohorsky-2026-09-15-01
   typ: tvrzeni
@@ -29,6 +33,11 @@ vyroky:
     čtyřem lidem, kterým jeho vlastní spolek pomoci nedokázal — což uvádí jako důvod, proč od Babiše nadále
     očekává, že podobně vyřeší i odškodnění lidí poškozených covidovou vakcinací (viz i obhajoba Babiše
     v kauze Čapí hnízdo, [kauzy.md](kauzy.md#agrofert-a-dotace-eu)).'
+  osoby:
+  - osoba: andrej-babis
+    vztah: pozitivni
+    kontext: Obhajován v kauze Čapí hnízdo (dotace vrácena, areál slouží veřejnosti); chválena charitativní
+      pomoc přes nadaci Agrofert; vyzýván ke zřízení odškodňovacího fondu za covid
   podtema: Volání po tribunálu
 - id: cernohorsky-2026-09-15-03
   typ: tvrzeni
@@ -84,6 +93,11 @@ vyroky:
     V tomto kontextu znovu ostře napadá Ladislava Vrábela a Miroslava Sládka („dva nejhorší zmrdi této scény") za to, že před volbami podali stížnosti proti údajně nedeklarovaným koalicím (SPD+Stačilo, KSČM+Stačilo a další) kvůli obcházení volebního zákona — koalice kandidující jako jediná strana potřebuje jen 5 % namísto 11 %. Tvrdí, že jediným motivem Vrábela a Sládka bylo získat přes 1,5 % hlasů coby vlastní volební uskupení a dosáhnout tak na státní příspěvek 10 mil. Kč za hlasy (případně až 40 mil. Kč při zisku nad 3 %) — ne skutečná obrana zákona.
   citace:
   - text: Vrábel se Sládkem jsou dva nejhorší zmrdi této scény.
+  osoby:
+  - osoba: vrabel
+    vztah: negativni
+    kontext: 'Nový řádek: spolu se Sládkem znovu napaden jako „nejhorší zmrd této scény" za udání koalic
+      SPD+Stačilo a KSČM+Stačilo kvůli státnímu příspěvku za hlasy'
   podtema: Volby
 - id: cernohorsky-2026-09-15-07
   typ: tvrzeni
@@ -102,6 +116,11 @@ vyroky:
     protože „nesplňuje tři body"; devatenáctileté dívce s mentální úrovní sedmiletého dítěte byl invalidní
     důchod snížen ze 4. na 2. stupeň. Samostatně čte příběh matky dvou autistických synů, kterou škola
     po její stížnosti na chování asistentky pedagoga opakovaně obviňovala, že si vymýšlí.'
+  osoby:
+  - osoba: petr-engel
+    vztah: negativni
+    kontext: Posudkový lékař (Plzeň) přezdívaný „Petr Mengele" za snižování invalidních důchodů — terč
+      stochastického teroru
   podtema: USA — volební systém
 - id: cernohorsky-2026-09-15-08
   typ: tvrzeni
@@ -157,3 +176,41 @@ vyroky:
     a nutné pro ukončení „krveprolití". Podporu Ukrajině vykresluje jako financování politiků, kteří si
     dle něj stavějí „zlaté hajzly" a jachty, zatímco jsou „hrobaři vlastního národa".
   podtema: Zahraniční aktéři a precedenty
+- id: cernohorsky-2026-09-15-12
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: migranti v Itálii (skupina)
+  text: pojmenovaný terč (migranti/Afričané v Itálii) kolektivně dehumanizován opakovaným zájmenem „to"
+    a obviněn z hromadné kriminality a násilí
+  citace:
+  - text: Jenom to vraždí, znásilňuje, dělá bordel, krade, jo. Sere to po ulicích. A spí to na stromě,
+      ty vole. Znásilňuje to mladý holky a podobně.
+  teror:
+    terc: migranti v Itálii (skupina)
+    hranicni: false
+- id: cernohorsky-2026-09-15-13
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Petr Engel (posudkový lékař, pracoviště Plzeň)
+  text: jmenovaný terč (skutečný posudkový lékař) opakovaně přezdíván jménem Josefa Mengeleho, nacistického
+    lékaře provádějícího vražedné pokusy na vězních Osvětimi
+  citace:
+  - text: Pan doktor Petr Mengele.
+  teror:
+    terc: Petr Engel (posudkový lékař, pracoviště Plzeň)
+    hranicni: false
+- id: cernohorsky-2026-09-15-14
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Fiala, Rakušan, Černochová, Lipavský, Stanjura, Blažek
+  text: bezprostředně navazuje na výzvu k okamžitému zbavení imunity a trestnímu stíhání jmenovaných politiků
+    za škody na státním rozpočtu
+  citace:
+  - text: A jakmile by to byla velká škoda, jdeš na CPZku, ty zmrdé, a jdeš do vazby. Vůbec bych se s
+      tím nesral. Za korupci v Číně střílej. Tečka. Hotovo.
+  teror:
+    terc: Fiala, Rakušan, Černochová, Lipavský, Stanjura, Blažek
+    hranicni: false

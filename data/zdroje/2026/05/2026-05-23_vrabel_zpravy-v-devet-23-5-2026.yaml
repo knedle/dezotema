@@ -15,6 +15,45 @@ zdroj:
     dronů na Starobělsk (studentská kolej, 18 mrtvých); F-35 jako jaderné nosiče B-61 — ČR vstupuje do
     Nuclear Sharing (6,25 mld. EUR, dodání 2031); Zelenský odmítá přidružené členství EU; Landovský —
     ČR hrozí, že nesplní 2% HDP pro NATO; Německo 5% HDP pro NATO; Francie-Německo-UK rakety 2000+ km.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: 'The Guardian: navrhoval sestřelování ruských letadel, odpojení internetu a bank — Vrabel:
+      „to je válka"'
+  - osoba: alexander-dobrind
+    vztah: negativni
+    kontext: 'Předseda CSU vedl Sudetoněmecký pochod smíření Brnem (~2000 účastníků) — Vrabel: Němcům
+      neodpustit'
+  - osoba: milos-vystrcil
+    vztah: negativni
+    kontext: 'Přítomen na sudetoněmeckém pochodu v Brně — Vrabel: kolaborace s německými revanšisty'
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: 'Odmítl přidružené členství EU bez hlasovacích práv — Vrabel: nepřijme nic menšího než plné
+      členství, eskalační postoj'
+  - osoba: pavel-landovsky
+    vztah: neutralni
+    kontext: Jako NATO komisař upozorňuje, že ČR hrozí nesplnění závazku 2% HDP pro NATO
+  prehled:
+  - tema: „Zprávy v devět s komentářem." Klíčová témata
+    text: Sudetoněmecký pochod smíření v Brně (~2000 účastníků, CSU Dobrind, Vystrčil)
+  - tema: Babiš-Explosia
+    text: 'den po zahájení francouzského vyšetřování Babiše nabídky na prodej státní zbrojovky Explosia
+      francouzům (predikce: bude prodána, prokuratura ztichne)'
+  - tema: Petr Pavel v The Guardian
+    text: navrhoval sestřelování ruských letadel, odpojení internetu a bank
+  - tema: útok dronů na Starobělsk (studentská kolej, 18 mrtvých)
+    text: útok dronů na Starobělsk (studentská kolej, 18 mrtvých)
+  - tema: F-35 jako jaderné nosiče B-61
+    text: ČR vstupuje do Nuclear Sharing (6,25 mld. EUR, dodání 2031)
+  - tema: Zelenský odmítá přidružené členství EU
+    text: Zelenský odmítá přidružené členství EU
+  - tema: Landovský
+    text: ČR hrozí, že nesplní 2% HDP pro NATO
+  - tema: Německo 5% HDP pro NATO
+    text: Německo 5% HDP pro NATO
+  - tema: Francie-Německo-UK rakety 2000+ km.
+    text: Francie-Německo-UK rakety 2000+ km.
 vyroky:
 - id: vrabel-2026-05-23-01
   typ: tvrzeni
@@ -40,4 +79,24 @@ vyroky:
   citace:
   - text: Myslím, že nás o ten podnik připraví a nebude problém s francouzskou prokuraturu, ale to je
       jenom můj tip.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Den po zahájení francouzského vyšetřování nabídl prodej Explosia francouzům; Vrabel čte jako
+      ústupkový vzorec — analogie s mizením EU-dotačních problémů Agrofertu
   podtema: Meeting Brno — 15 milionů na sudetoněmecké akce
+- id: vrabel-2026-05-23-03
+  typ: predikce
+  temata:
+  - kauzy
+  nadpis: Explosia bude prodána, francouzská prokuratura ztichne
+  text: Den po zahájení francouzského vyšetřování Babiše nabídl Babiš prodej státní zbrojovky Explosia
+    francouzům. Vrabel predikuje, že Explosia bude prodána a francouzská prokuratura svou aktivitu uklidní
+    — jako součást neformálního ústupkového vzorce (analogie s mizením EU-dotačních problémů Agrofertu
+    po jiných geopolitických ústupcích).
+  citace:
+  - text: Myslím, že nás o ten podnik připraví a nebude problém s francouzskou prokuraturu, ale to je
+      jenom můj tip.
+  predikce:
+    horizont: neurčeno (krátkodobé)
+    stav: ceka

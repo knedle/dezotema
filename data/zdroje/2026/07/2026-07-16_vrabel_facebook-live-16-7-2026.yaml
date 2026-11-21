@@ -19,6 +19,19 @@ zdroj:
     (9) Kauza Foldina — obvinění z domácího násilí, teze o mediálním lynči — [kauzy.md](kauzy.md). (10)
     Francie schválila eutanazii — [rodina-deti.md](rodina-deti.md). 3 výroky stochastického teroru (Zelenskyj/Fedorov/Syrskyj,
     Trump, novináři) — [stochasticky-teror.md](stochasticky-teror.md). Bez predikcí mimo AI/AGI update.'
+  prehled:
+  - tema: 'Zpracováno 10 témat ("Zprávy v devět s komentářem"): (1) Ukrajina'
+    text: nový premiér Korecký, odvolání Fedorova, EU překvapena — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (2) „Feudalismus" jako popis politického systému — [politicky-system.md](../politicky-system.md).
+      (3) Írán cílí na Trumpovy nemovitosti jako odvetu — [blizky-vychod.md](../blizky-vychod.md). (4)
+      Mačetový útok v Manchesteru, predikce šíření do ČR — [migrace.md](../migrace.md). (5) Demonstrace
+      v Bruselu proti migraci — [migrace.md](../migrace.md). (6) Centralizace zdravotnictví (Vojtěch)
+      — [covid-vakciny.md](../covid-vakciny.md). (7) Šanghajská AI dohoda + Trump zakázal model OpenAI,
+      AGI predikce — [ceny-energie.md](../ceny-energie.md), [predikce.md](../predikce.md). (8) EU povolila
+      Ukrajině čínské komponenty pro drony — [valka-nato-rusko.md](../valka-nato-rusko.md). (9) Kauza
+      Foldina — obvinění z domácího násilí, teze o mediálním lynči — [kauzy.md](../kauzy.md). (10) Francie
+      schválila eutanazii — [rodina-deti.md](../rodina-deti.md). 3 výroky stochastického teroru (Zelenskyj/Fedorov/Syrskyj,
+      Trump, novináři) — [stochasticky-teror.md](../stochasticky-teror.md). Bez predikcí mimo AI/AGI update.
 vyroky:
 - id: vrabel-2026-07-16-01
   typ: tvrzeni
@@ -37,6 +50,11 @@ vyroky:
     Zároveň seznam nemovitostí (roztroušených po SAE, Kataru, Ománu a Saúdské Arábii) používá jako důkaz
     své teze o „feudalismu" — zvolený státník si podle něj ponechává rozsáhlý soukromý byznys v regionu,
     který zároveň vojensky ovlivňuje.
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Srovnáván s Babišem jako oligarcha vlastnící soukromé nemovitosti po celém Blízkém východě;
+      kvůli úderu na Írán mu Vrabel přeje smrt oběšením (→ [stoch. teror](../stochasticky-teror.md))
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-07-16-02
   typ: tvrzeni
@@ -77,6 +95,11 @@ vyroky:
     možné, že voliči Vojtěcha po zkušenosti s covidem znovu zvolili do vlády. Přirovnává to k opakovanému
     vpouštění zloděje domů a dávání mu klíčů znovu a znovu navzdory opakované škodě; vyzývá diváky, ať
     napíšou, zda jim to připadá jako „nemoc" národa (amnézie, neschopnost spojit si souvislosti).'
+  osoby:
+  - osoba: adam-vojtech
+    vztah: negativni
+    kontext: Ministr zdravotnictví prosazující centralizaci nemocnic a porodnic — Vrabel připomíná jeho
+      covidové prosazování plošného očkování a kritizuje voliče za jeho opětovnou volbu
   podtema: Hantavirus
 - id: vrabel-2026-07-16-04
   typ: tvrzeni
@@ -97,6 +120,11 @@ vyroky:
     Rajchlem), ale odmítá se na jeho mediální likvidaci jakkoli podílet. V závěru navrhuje (výslovně jako
     fiktivní budoucí zákon, ne aktuální výzvu) trestní odpovědnost novinářů podílejících se na podobných
     kampaních — viz [stochasticky-teror.md](stochasticky-teror.md).'
+  osoby:
+  - osoba: jaroslav-foldina
+    vztah: rozporuplny
+    kontext: Poslanec SPD obviněný z domácího násilí — Vrabel ho brání jako oběť „mediálního lynče", přiznává
+      ale osobní neshodu s ním z roku 2023
   podtema: Kauza Foldina — obvinění z domácího násilí a Vrabelova teze o mediálním lynči
 - id: vrabel-2026-07-16-05
   typ: tvrzeni
@@ -156,6 +184,10 @@ vyroky:
     mu ji (pokud toho není fyzicky schopen) podá zdravotník, včetně zdravotní sestry. Vrabel komentář
     vede čistě sarkasticky — označuje to za „další úspěch satanistů" a ironicky srovnává Macronovo „plnění
     slibů" s Babišovým tvrzením o 83% plnění vládních slibů.
+  osoby:
+  - osoba: emmanuel-macron
+    vztah: negativni
+    kontext: 'Podepsal zákon o eutanazii ve Francii — Vrabel sarkasticky: „další úspěch satanistů"'
   podtema: Eutanazie
 - id: vrabel-2026-07-16-09
   typ: tvrzeni
@@ -186,3 +218,50 @@ vyroky:
     schválených výrobců. Vrabel to komentuje jako „smutnou výpověď" o stavu zbrojního průmyslu v Evropské
     unii, který si sám nedokáže zajistit potřebné komponenty.
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-07-16-11
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Volodymyr Zelenský, Michailo Fedorov, Oleksandr Syrskyj
+  text: jmenovaní terči (v souvislosti se smrtí dronového operátora ve sdíleném videu) odsouzeni k představě
+    věčného mučení v pekle
+  citace:
+  - text: Bohužel další člověk, o kterýho prostě planeta přišla. [...] i Fedorov, i Zelenský, který jsou
+      i sirský, který to má pod kontrolou, tohle jsou zodpovědní za tohle. A v pekle už. [...] Vaří se
+      hrnce s vodou, tam už se rovnou roztápí železní plotny a ty se tam budou nekonečně grillovat.
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Odvolal oblíbeného ministra obrany Fedorova, aby si udržel kontrolu — dehumanizován spolu
+      s Fedorovem a Syrským přáním pekelného utrpení (→ [stoch. teror](../stochasticky-teror.md))
+  teror:
+    terc: Volodymyr Zelenský, Michailo Fedorov, Oleksandr Syrskyj
+    hranicni: false
+- id: vrabel-2026-07-16-12
+  typ: stoch-teror
+  temata:
+  - blizky-vychod
+  nadpis: Donald Trump
+  text: v reakci na zabití přibližně 180 dívek ve škole při americkém úderu na Írán; jmenovaný terč, výzva
+    k okamžité popravě oběšením
+  citace:
+  - text: Za to by se měl smažit v pekle, za to by měl vyset. Okamžitě.
+  teror:
+    terc: Donald Trump
+    hranicni: false
+- id: vrabel-2026-07-16-13
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: novináři šířící „mediální lynč" (např. Reichelt, Harabová — jmenovaní v souvislosti s kauzou
+    Foldina)
+  text: kolektivní terč (novináři podílející se na politických „lynčích") + fantazie trestu smrti nebo
+    nuceného ponižujícího potrestání; formulováno jako hypotetický budoucí zákon, ne okamžitá výzva
+  citace:
+  - text: Ty novináři by měli jít ke zdi. [...] nezávislý soud by musel [...] odsoudit ty novináře k trestu
+      smrky [smrti] třeba. [...] kdybych to myslel vážně, tak bych jim dal prostě po patnácti letech v
+      oranžovém munduru zametat silnice
+  teror:
+    terc: novináři šířící „mediální lynč" (např. Reichelt, Harabová — jmenovaní v souvislosti s kauzou
+      Foldina)
+    hranicni: false

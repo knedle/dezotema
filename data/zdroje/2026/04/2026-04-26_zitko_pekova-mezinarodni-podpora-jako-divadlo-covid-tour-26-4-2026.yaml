@@ -12,6 +12,11 @@ zdroj:
     podat TZ na falešného znalce — hrozba vězení pro Pekovou; Rajchl (Reichl) slíbil pomoc a nepomohl;
     ministerstvo zdravotnictví — stejná skupina jako 2020; Peková chce kandidovat na „společenskou funkci".
     Zhlédnutí: 1 505'
+  osoby:
+  - osoba: jiri-turanek
+    vztah: pozitivni
+    kontext: Spoluautor sněmovního semináře o covidových datech; Peková jeho práci považuje za vědecky
+      závažnou
 vyroky:
 - id: zitko-2026-04-26-01
   typ: tvrzeni
@@ -22,6 +27,11 @@ vyroky:
     Peková popsala, jak byl politicky zneužit její posudek slovenských vakcín předaný Petru Kotlárovi. Státní zástupce obdržel posudek — a záhy se „zjevil" falešný soudní znalec, který jej zpochybnil. Kotlár odmítl podat trestní oznámení na tohoto falešného znalce. Tím hrozilo, že falešný posudek vstoupí do trestního spisu a anuluje Pekové práci. Anulace by pro ni znamenala obvinění ze záměrného lhaní jakožto soudní znalkyně — s hrozícím trestem odnětí svobody.
 
     Peková Kotlárovo odmítnutí hodnotí jako jednoznačnou zradu: „Ze Slovenska to byl chyba faleš jako hrom." Kotlár rovněž nikdy nevyjasnil, komu vakcíny, které mu Peková přinesla, nakonec předal.
+  osoby:
+  - osoba: petr-kotlar
+    vztah: negativni
+    kontext: 'Odmítl podat trestní oznámení na falešného znalce, čímž hrozilo trestní stíhání Pekové;
+      nikdy nevyjasnil, komu předal vakcíny; Peková: „chyba faleš jako hrom"'
   podtema: Pokusy o vyšetřování
 - id: pekova-2026-04-26-01
   typ: tvrzeni
@@ -39,5 +49,13 @@ vyroky:
     - Skupina zodpovědná za covidová opatření na ministerstvu zdravotnictví v roce 2020 je „znova" na svých místech.
 
     Peková přesto odmítá pesimismus: „Věci, které já dělám ve společenském prostoru, nedělám za zavřenýma dveřma. Když mi někdo něco slíbí, řeknu to, když to nesplní, řeknu to." Plánuje se ucházet o „společenskou funkci" a vyzývá ostatní, aby před vstupem do politiky vyřešili osobní nevyřešená témata (tzv. skříňkové kostry), aby je nikdo nedokázal vydírat ke změně postoje.
+  osoby:
+  - osoba: reiner-fullmich
+    vztah: neutralni
+    kontext: Považuje ho za klíčovou osobu mezinárodní COVID kauzy; aktivně ho podporuje korespondencí;
+      zároveň kritizuje, že okolní aktivita je „divadlo pro lidi"
+  - osoba: rajchl
+    vztah: negativni
+    kontext: Slíbil pomoc s prosazením COVID kauzy v parlamentu a nepomohl; „sliby nezarmoutíš"
   mluvci: pekova
   podtema: Pokusy o vyšetřování

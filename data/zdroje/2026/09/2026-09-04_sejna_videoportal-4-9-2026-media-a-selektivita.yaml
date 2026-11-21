@@ -19,4 +19,21 @@ vyroky:
     zda je dobře, že ho zastřelili, odpověděl, že „mohlo to přijít dřív"). Tvrdí, že média by podobný
     výrok normálně odsoudila jako škodící vlastní straně, ale protože nesedí k „chvilkařskému narativu",
     o něm raději nereferují — viz i samotný výrok zaznamenaný v [stochastickém teroru](stochasticky-teror.md).
+  osoby:
+  - osoba: vojtech-psenak
+    vztah: negativni
+    kontext: Označen za „odporného člověka" — dříve schválil vraždu politického aktivisty výrokem „mohlo
+      to přijít dřív"; kritika médií, že to neřeší
   podtema: Nová alternativní média
+- id: sejna-2026-09-04-03
+  typ: stoch-teror
+  temata:
+  - media-propaganda
+  nadpis: zastřelený politický aktivista
+  text: jmenovaný terč (konkrétní zastřelený aktivista), schválení jeho vraždy a vyjádření, že mohla přijít
+    dříve; citováno a odsouzeno Adamem Šejnou jako doklad medializace dvojího metru
+  citace:
+  - text: Naštěstí? Je podle vás dobře, že ho zastřelili? — Tak mohlo to přijít dřív.
+  teror:
+    terc: zastřelený politický aktivista
+    hranicni: false

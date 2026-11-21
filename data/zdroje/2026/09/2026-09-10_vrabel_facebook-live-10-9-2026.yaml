@@ -7,6 +7,38 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/4614582672155222
   prepis: prepisy/done/2026-09-10_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  prehled:
+  - tema: Trumpova "dividenda" 5000 $ voličům republikánů jako úplatek a rozklad demokracie
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Ratcliffe/Witkoff/Kushner — Bílý dům popřel zprávu Financial Times
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Trumpovo vysvětlení války "osobní nevraživostí" Putina a Zelenského jako rétorika pro primitivy
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Německo (Wadephul) chce data o ukrajinských uprchlících
+    text: → [Migrace](../migrace.md)
+  - tema: Westinghouse palivo v Temelíně — kritika "diverzifikace", výzva k odvolání ředitele ČEZ
+    text: → [Ceny energie](../ceny-energie.md)
+  - tema: V4 summit v Bratislavě — Tuskovo varování od CIA, Babišovo nadšení
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Dron u letadla Zelenského cestou na pohřeb norského krále Haralda V.
+    text: → [Válka na Ukrajině](../valka-ukrajina-prubeh.md)
+  - tema: Překvapení z komentářů na Facebooku — česká veřejnost méně proukrajinská, než se zdá
+    text: → [Ceny energie](../ceny-energie.md)
+  - tema: Německá policie zadržela "klimatického extremistu" (160 cílů) — signál občanské války v Evropě
+    text: → [Konspirační teorie](../konspirace.md), [Predikce](../predikce.md)
+  - tema: AfD Sasko-Anhaltsko — EU hrozí zmrazením dotací Německu
+    text: → [Suverenita a EU](../suverenita-eu.md)
+  - tema: Nový stavební zákon — rozšíření vyvlastňování ve prospěch soukromých investorů
+    text: → [Politický systém](../politicky-system.md)
+  - tema: Írán předán Radě bezpečnosti OSN — předvolební divadlo pro Trumpa
+    text: → [Blízký východ](../blizky-vychod.md)
+  - tema: ECB zvýšila úrokové sazby, spekulace o Lagardové jako budoucí ředitelce WEF
+    text: nezpracováno
+  - tema: Politici jako "marionetky" globalistických elit (Merz/BlackRock, Macron)
+    text: → [Válka na Ukrajině](../valka-ukrajina-prubeh.md)
+  - tema: Putin–Trump telefonát, možnost zastavení americké pomoci
+    text: Putin–Trump telefonát, možnost zastavení americké pomoci Ukrajině, Abú Dhabi jako místo jednání
+      — nezpracováno (opakování)
 vyroky:
 - id: vrabel-2026-09-10-01
   typ: tvrzeni
@@ -40,6 +72,11 @@ vyroky:
     jeho kritický názor, ale bojí se ho vyjádřit nahlas — což čte jako důkaz, že český národ ve skutečnosti
     chápe, co se děje, jen na mainstreamových platformách (Seznam, iDNES, Novinky, ČT) jsou takové komentáře
     systematicky blokovány.'
+  osoby:
+  - osoba: daniel-benes
+    vztah: negativni
+    kontext: Generální ředitel ČEZ — obhajuje zavedení amerického paliva Westinghouse do Temelína jako
+      „diverzifikaci"; Vrabel žádá jeho odvolání
   podtema: Manipulace trhu s ropou
 - id: vrabel-2026-09-10-03
   typ: tvrzeni
@@ -66,6 +103,11 @@ vyroky:
     Německý ministr zahraničí Johann Wadephul se podle Vrabela vyjádřil ve zprávách v tom smyslu, že se pokusí zajistit Ukrajině data o tom, kteří ukrajinští uprchlíci se nacházejí v Německu. Vrabel to čte jako signál, že podobně jako ukrajinské jednotky TCK a v poslední době i policie „loví" mobilizační věkové ročníky přímo na Ukrajině, totéž by se mohlo rozšířit i do Německa vůči tam žijícím Ukrajincům — což vnímá jako důkaz, že Ukrajině dochází vojáci a Evropa jí v hledání dalších pomáhá.
 
     ⚡ **Poznámka:** Přesné znění a kontext vyjádření Johanna Wadephula nelze z přepisu ověřit.
+  osoby:
+  - osoba: johann-wadephul
+    vztah: negativni
+    kontext: Německý ministr zahraničí — snaží se zajistit Ukrajině data o ukrajinských uprchlících v
+      Německu, možná pro účely mobilizace
 - id: vrabel-2026-09-10-05
   typ: tvrzeni
   temata:
@@ -82,6 +124,11 @@ vyroky:
     zametání ulic), nikoli vězení. Rozlišuje to od legitimních politických slibů (např. zvýšení důchodů)
     tím, že podmínka „volte nás a dostanete peníze" je bezprostřední úplatek, ne systémová změna prosazovaná
     v rámci volebního programu.
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: Slib „dividendy" 5000 $ voličům republikánů rámuje jako přímý volební úplatek a útok na demokracii;
+      navrhuje mu nucené práce
   podtema: USA — volební systém
 - id: vrabel-2026-09-10-06
   typ: tvrzeni
@@ -182,4 +229,28 @@ vyroky:
     „unijních poskoků" (Babiš, maďarský premiér Péter Magyar) plus Donalda Tuska („jeden z největších
     válečných štváčů") — jediným ještě „přijatelným" politikem v ní je dle něj slovenský premiér Robert
     Fico, o jehož politickém přežití ale pochybuje.'
+  osoby:
+  - osoba: donald-tusk
+    vztah: negativni
+    kontext: Na V4 summitu v Bratislavě cituje varování od CIA/Ratcliffa o „různých scénářích" — Vrabel
+      to považuje za prázdnou frázi ospravedlňující zbrojení; opět „jeden z největších válečných štváčů"
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-10-13
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: přicházející občanská válka v Evropě
+  text: 'V souvislosti se zatčením „klimatického extremisty" v Německu (plánujícího útoky na elektrickou
+    infrastrukturu) a rostoucími protesty po Evropě (Řecko, Španělsko, Británie, Irsko) Vrabel opakuje
+    předpověď, kterou mu měl před lety sdělit „nejchytřejší člověk na světě" a s níž se od té doby ztotožnil:
+    v Evropské unii dojde k občanské válce. Očekává, že podobné násilné incidenty (radikalizace kvůli
+    klimatické/migrační politice) budou čím dál častější, „možná každodenní", a povedou k rozsáhlejšímu
+    násilí na ulicích.'
+  citace:
+  - text: Já osobně říkám už dvacátým rokem, tak jak mi to říkal nejchytřejší člověk na světě, že v Evropské
+      unii, v Evropě bude občanská válka. [...] Myslím si, že jo. Že to dojde do občanské války.
+  dalsi_zdroje:
+  - 2026-10-05_vrabel_zpravy-v-devet-5-10-2026
+  predikce:
+    horizont: neurčeno (dlouhodobý trend, „už to začíná")
+    stav: ceka

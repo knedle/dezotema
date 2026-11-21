@@ -19,6 +19,10 @@ zdroj:
     před falešným profilem Pavla Cymbála na FB (osobní/logistika), opakovaná kritika hlasování o Hunkovi
     (již dříve zdokumentováno). Bez predikcí (mimo zmíněnou) a stoch. teroru nad rámec již zaznamenaného.
     Rekordní vedro + varování před falešným FB profilem + pokračování kauzy ÚS/Pavel + Polsko vs. Ukrajina'
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Pojmenování jednotky po UPA rozdmýchalo krizi s Polskem; označen za „nacistické prase"
 vyroky:
 - id: cernohorsky-2026-06-28-01
   typ: tvrzeni
@@ -58,6 +62,11 @@ vyroky:
   citace:
   - text: Nutnost spolupodpisu [...] kdyby chtěl prezident nějakou smlouvu sjednat osobně, jeho podpis
       nemá žádnou váhu bez spolupodpisu, tedy té kontrasignace.
+  osoby:
+  - osoba: petr-kolar
+    vztah: negativni
+    kontext: 'Nový řádek: skutečný důvod cesty do Ankary — lobbista domlouvající zbrojní kontrakty (Strnadova
+      zbrojovka +11 % akcie) bez kontroly vlády'
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: cernohorsky-2026-06-28-03
   typ: tvrzeni
@@ -78,3 +87,18 @@ vyroky:
   citace:
   - text: Ukrajincům z toho nebude moc dvakrát dobře [...] a zazvonil konec a Ukrajiny je konec.
   podtema: Stav Ukrajiny a mobilizace
+- id: cernohorsky-2026-06-28-04
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Krize Polsko–Ukrajina povede k rozpadu Ukrajiny
+  text: V souvislosti se zhoršujícími se vztahy mezi Polskem a Ukrajinou (kvůli pojmenování ukrajinské
+    jednotky po UPA) Černohorský předpovídá, že by se na hranici s Ukrajinou mohla objevit polská armáda,
+    a že celá situace může vyústit v rozpad/„konec" Ukrajiny. Pokud navíc Poláci začnou vyhošťovat ukrajinské
+    uprchlíky, očekává další migrační vlnu do ČR.
+  citace:
+  - text: Myslím si, že se objeví Polská armáda na hranicích Ukrajiny. [...] A zazvonil konec a Ukrajiny
+      je konec.
+  predikce:
+    horizont: neurčeno
+    stav: ceka

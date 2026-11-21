@@ -14,6 +14,31 @@ zdroj:
     Macinka Berlin 8. 5.; Medvedev: pre-emptivní útok na Evropu; Armenia NATO; Project Freedom zastaven
     (Saudská Arábie/Kuvajt); Trump strategie — ovládnout západní hemisféru, Bretton Woods; Rusko varuje
     diplomaty, Zelenský plánuje útok na Moskvu 9. 5.'
+  prehled:
+  - tema: 'Večerní zprávy. Témata: USA útočí na Írán'
+    text: Qešm + Bandar Abbas + Hormuz (3. fáze)
+  - tema: Izrael útočí na Libanon 12 mrtvých
+    text: Izrael útočí na Libanon 12 mrtvých
+  - tema: dluhová brzda prolamována pro NATO 5 %
+    text: dluhová brzda prolamována pro NATO 5 %
+  - tema: Merz/Blackrock
+    text: Německo jako vzor
+  - tema: Sudetenland sjezd = záměrná mlha
+    text: Sudetenland sjezd = záměrná mlha
+  - tema: Česko-německá deklarace 1997 = podvod (válečné reparace)
+    text: Česko-německá deklarace 1997 = podvod (válečné reparace)
+  - tema: Macinka Berlin 8. 5.
+    text: Macinka Berlin 8. 5.
+  - tema: Medvedev
+    text: pre-emptivní útok na Evropu
+  - tema: Armenia NATO
+    text: Armenia NATO
+  - tema: Project Freedom zastaven (Saudská Arábie/Kuvajt)
+    text: Project Freedom zastaven (Saudská Arábie/Kuvajt)
+  - tema: Trump strategie
+    text: ovládnout západní hemisféru, Bretton Woods
+  - tema: Rusko varuje diplomaty, Zelenský plánuje útok na Moskvu 9.
+    text: Rusko varuje diplomaty, Zelenský plánuje útok na Moskvu 9. 5.
 vyroky:
 - id: vrabel-2026-05-07-01
   typ: tvrzeni
@@ -57,6 +82,11 @@ vyroky:
   citace:
   - text: Pokud půjdou do války s Evropou, udělají to samé — udeří jako první, aby se válka odehrávala
       na území Evropy, ne na území Ruska.
+  osoby:
+  - osoba: dmitrij-medvedev
+    vztah: negativni
+    kontext: 'Doktrína preventivního úderu: při válce NATO–Rusko by Rusko udeřilo na evropská území jako
+      první; Vrabel to uvádí jako varování před eskalací'
 - id: vrabel-2026-05-07-05
   typ: tvrzeni
   temata:
@@ -79,3 +109,15 @@ vyroky:
     zemí kolem Ruska ze všech světových stran (Finsko, Polsko, Rumunsko, Arménie, Gruzie), aby mohl na
     Rusko útočit ze všech stran současně.
   podtema: Eskalace a hrozba rozšíření konfliktu
+- id: vrabel-2026-05-07-07
+  typ: predikce
+  temata:
+  - blizky-vychod
+  nadpis: 'Eskalace v Íránu: třetí fáze přeroste v regionální válku'
+  text: Vrabel označuje útoky USA na ostrovy Qešm a Bandar Abbas a na oblast Hormuzského průlivu za „třetí
+    fázi" konfliktu v Íránu, z níž hrozí přerůst v plnohodnotnou válku na Středním východě. Predikuje,
+    že uzavření Hormuzského průlivu způsobí globální ropnou krizi a navazující potravinovou krizi (kvůli
+    výpadku hnojiv závislých na fosilních palivech).
+  predikce:
+    horizont: v průběhu roku 2026
+    stav: ceka

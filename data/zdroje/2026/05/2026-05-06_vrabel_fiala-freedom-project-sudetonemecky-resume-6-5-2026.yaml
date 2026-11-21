@@ -14,6 +14,24 @@ zdroj:
     „Konec. To je to nejtvrdší"); Vrabel: Landsmannschaft musí být prohlášen za extremistickou organizaci
     a zakázán, jinak je vše jen divadlo; hnojiva: amoniak/močovina blokována → 30 % globální deficit;
     12× L-39 a L-410 z Aerovodochody do Kazachstánu/Ázerbájdžánu za ropu/uran.'
+  osoby:
+  - osoba: petr-fiala
+    vztah: negativni
+    kontext: Řekl opozici „jdi do první" — Vrabel to využil jako titulek videa
+  prehled:
+  - tema: Kratší video
+    text: 'titulek „Jdi do prv Fialo" (Fiala řekl opozici ať jde). Témata: Trump Freedom project — kompletní
+      3denní timeline'
+  - tema: plný text 8-odstavcové SPD rezoluce (vyzdvihuje 1997
+    text: 'plný text 8-odstavcové SPD rezoluce (vyzdvihuje 1997 deklaraci, oceňuje česko-německé vztahy…
+      „vyzývá Meeting Brno a Landsmannschaft aby upustili od sjezdu" — Vrabel: „Konec. To je to nejtvrdší")'
+  - tema: Vrabel
+    text: Landsmannschaft musí být prohlášen za extremistickou organizaci a zakázán, jinak je vše jen
+      divadlo
+  - tema: hnojiva
+    text: amoniak/močovina blokována → 30 % globální deficit
+  - tema: 12× L-39 a L-410 z Aerovodochody do
+    text: 12× L-39 a L-410 z Aerovodochody do Kazachstánu/Ázerbájdžánu za ropu/uran.
 vyroky:
 - id: vrabel-2026-05-06-02
   typ: tvrzeni

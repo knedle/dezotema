@@ -9,6 +9,139 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 36 min (vysílání od 3:00), monolog s dotazy z chatu; sdílená videa protestů ve Francii
     a Itálii ([34:00–36:41], zvuk zčásti zkomolený), krátké video Babiše a Fica v Novém Sadu.
+  osoby:
+  - osoba: jana-hruskova
+    vztah: negativni
+    kontext: Vyzývá lidi, aby nechodili na demonstrace
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Falešný vlastenec“, převzal a zničil protesty z roku 2022; s Petrem Vackem „identifikoval“
+      lidi se symbolem Z
+  - osoba: vladimira-vitova
+    vztah: pozitivni
+    kontext: Jediné veřejně známé osobnosti, které se postavily proti NATO
+  - osoba: miroslav-sladek
+    vztah: pozitivni
+    kontext: Jediné veřejně známé osobnosti, které se postavily proti NATO
+  - osoba: martin-koller
+    vztah: rozporuplny
+    kontext: „Hezky mluví“, ale na demonstrace nechodí, podle něj politika „příští dva roky nemá smysl“
+  - osoba: david-tesar
+    vztah: neutralni
+    kontext: Lidé, kteří „věci viděli jasně“, ale z hnutí „zmizeli“
+  - osoba: adam-hartos
+    vztah: neutralni
+    kontext: Lidé, kteří „věci viděli jasně“, ale z hnutí „zmizeli“
+  - osoba: petr-hajek
+    vztah: neutralni
+    kontext: Jediný, kdo o demonstraci 3. 10. mluvil, i když „dost negativně“
+  - osoba: vladimir-stepan
+    vztah: negativni
+    kontext: Starší pán, kterému „chybí některý neuronový spoje“ (výroky o vystoupení z EU)
+  - osoba: sergej-lavrov
+    vztah: pozitivni
+    kontext: Souhlasně cituje, že „se Evropa zbláznila“ a militarizuje se
+  - osoba: matthias-desmet
+    vztah: pozitivni
+    kontext: Jeho teorie formování mas vysvětluje fanatizaci společnosti
+  - osoba: pavel-fila
+    vztah: pozitivni
+    kontext: Místopředseda, společně plánují 17. listopad
+  - osoba: tomas-hrdlicka
+    vztah: pozitivni
+    kontext: Zatčeni „naprosto brutálním způsobem“ kvůli symbolu Z
+  - osoba: katerina-blahnikova
+    vztah: pozitivni
+    kontext: Zatčeni „naprosto brutálním způsobem“ kvůli symbolu Z
+  prehled:
+  - tema: Čtyři roky od rozhovoru s Bastlovou („Ptám se já“)
+    text: válka se „normalizovala“, lidé už víc chápou, proč Rusové na Ukrajinu přišli
+    vyrok: vrabel-2026-10-18-03
+  - tema: Infografika rozšiřování NATO
+    text: NATO napadá cizí země a obkličuje Rusko, Rusové „předsunuli“ útok na Ukrajinu; Evropu napadnout
+      nechtějí, ale „první ránu“ nevylučuje
+    vyrok: vrabel-2026-10-18-03
+  - tema: Pochod 17. listopadu
+    text: s Pavlem Fílou plánuje demonstraci a pochod na Klárov, ptá se diváků, zda to má smysl.
+  - tema: Demonstrace 3. 10. a trojvýzva „vymlčeny“
+    text: psala o nich jen RT International; „ex-vlastenecká scéna“ (Drulák, Svatoš, Zítko a Čermák, Hrušková)
+      mlčí a nikdo z ní se nedostal do Senátu
+    vyrok: vrabel-2026-10-18-04
+  - tema: 'Senátní volby: proč koalice neuspěla'
+    text: nesplněné sliby; za „zákaz“ referenda by si Pavel a Babiš zasloužili, „aby je národ hnal ulicama“
+      → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-18-04
+  - tema: Odvolatelnost politiků („indiánský kmen“)
+    text: opakuje požadavek soudního odvolání politika, který neplní program; zrádného náčelníka kmen
+      odvolá „ke kůlu“
+    vyrok: vrabel-2026-10-18-04
+  - tema: Lakmusový papírek vlastenectví
+    text: vlastenec musí chtít ven z EU a NATO; Babiš „EU patriot“ ani Okamura, který v Srbsku přesvědčoval
+      ke vstupu do EU, vlastenci nejsou
+    vyrok: vrabel-2026-10-18-02
+  - tema: Fico v Novém Sadu (video)
+    text: národ se spojil za prezidentem, který drží zemi neutrální.
+  - tema: SPD a ministerstvo obrany
+    text: Zůna „jede rozkazy od NATO“ stejně jako předchozí ministryně
+    vyrok: vrabel-2026-10-18-04
+  - tema: 'Babiš: „kdo u nás bude žít“'
+    text: Babiš není proti migraci (Filipínci, Indové, Ukrajinci), hranice lze zavřít jen po vystoupení
+      z EU
+    vyrok: vrabel-2026-10-18-01
+  - tema: Protesty ve Francii a Itálii (sdílená videa)
+    text: nejde o studenty, ale o „občanskou válku“, migranti kamenují policisty (opakuje).
+  - tema: Zatčení Hrdličky a Blahníkové kvůli písmenu Z
+    text: „nikdy jsme na tom nebyli tak hrozně“; Rajchl a Vacek lidi se Z „identifikovali“, pět lidí odsouzeno,
+      „udávání se znormalizovalo“.
+  - tema: Netečnost lidí, „země už není naše“
+    text: lidé se bojí cizinců a Ukrajinců (vražda v brněnské šalině, útočník s barvou)
+    vyrok: vrabel-2026-10-18-01
+  - tema: Trump a sankce
+    text: nezrušil protiruské sankce, jen Grahamův zákon; ⚡ „za dva roky demokrati vyhrajou“, „válka je
+      za dveřma“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-18-03
+  - tema: Babišova vláda horší než Fialova
+    text: dělá totéž, ale lže; na Ukrajinu prý posílá víc peněz i zbraní
+    vyrok: vrabel-2026-10-18-04
+  - tema: Desmet a formování totality
+    text: atomizovaní lidé se fanatizují „bojem“ proti Rusku (opakuje).
+  - tema: Kdo zmizel z hnutí
+    text: Tesař, Hartoš, Koller; 727 diváků je „zanedbatelná skupina“, republika jde „jako ovce“ na porážku.
+  - tema: Dronový útok na rafinerie u Petrohradu, fronty na polské hranici
+    text: Rusko bude muset válčit na území Evropy, k nám přijdou statisíce až miliony Ukrajinců → viz
+      [Migrace](../migrace.md), [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-18-03
+  - tema: Jaderná eskalace
+    text: porazit jadernou velmoc bez jaderné války nelze; Pavel a Babiš chtějí francouzské jaderné zbraně,
+      vzorem je neutrální Srbsko
+    vyrok: vrabel-2026-10-18-03
+  - tema: Dotaz z Chicaga (volby do Kongresu)
+    text: demokraté i republikáni jsou „lumpové“, řešením je jen změna systému
+    vyrok: vrabel-2026-10-18-04
+  - tema: Martin Koller
+    text: „hezky mluví“, ale na demonstrace nechodí.
+  - tema: Vystoupení z EU a „sankce“
+    text: jde jen o splátky jako u Brexitu, vystoupení je „ekonomicky výhodný“; bát se je třeba toho nevystoupit
+    vyrok: vrabel-2026-10-18-02
+  - tema: Islamizace západní Evropy
+    text: Francie a Británie se stanou „islámskými zeměmi“, ČR v EU čeká islamizace; Babiš od něj dostal
+      knihu o šaríi
+    vyrok: vrabel-2026-10-18-01
+  - tema: Štěpán a vystoupení z EU
+    text: Štěpánovi „chybí některý neuronový spoje“.
+  - tema: Právo veta
+    text: EU ho „za chviličku“ zruší, na vystoupení zbývá málo času
+    vyrok: vrabel-2026-10-18-02
+  - tema: Ukrajinizace (dotaz diváka)
+    text: Ukrajinci získají občanství, mají „blíž k ozbrojeným mafiím“ a budou chtít, aby Češi šli na
+      frontu; „Česko-Ukrajinsko“ → viz [Stochastický teror](../stochasticky-teror.md), [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-18-01
+  - tema: Symbol Z a ruská vlajka
+    text: sám symboly nenosí, Z je „blbý vůči těm Ukrajincům“, ale kdo ho nosí, má na to právo.
+  - tema: Společné vystoupení V4
+    text: V4 se nesjednotí (Poláci „absolutní nacisti“, Szijjártó „komplikovaný“, Fico „nebude dlouho“);
+      EU se rozpadne, nebo bude totalitní
+    vyrok: vrabel-2026-10-18-02
 vyroky:
 - id: vrabel-2026-10-18-01
   typ: tvrzeni
@@ -33,6 +166,18 @@ vyroky:
     přinesou zbraně z Ukrajiny a budou se cítit, že jim Češi dluží: „budou chtít, aby Češi šli sloužit
     na tu frontu“ (viz [Stochastický teror](stochasticky-teror.md), [Predikce](predikce.md)). Z Československa
     se tak podle něj stane „Česko-Ukrajinsko“.'
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „EU patriot“ není vlastenec; za „zákaz“ referenda a muniční iniciativu by ho lidé měli „hnát
+      ulicama“ (→ [stoch. teror](../stochasticky-teror.md)); jeho vláda je „mnohem horší“ než Fialova,
+      „lže“
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: V Srbsku přesvědčoval politiky ke vstupu do EU, „nejsou vlastenci“; SPD mluví „populisticky“
+  - osoba: patrik-korenar
+    vztah: neutralni
+    kontext: Bývalý kamarád a soused, předal Babišovi knihu o šaríi
 - id: vrabel-2026-10-18-02
   typ: tvrzeni
   temata:
@@ -50,6 +195,13 @@ vyroky:
     nacisti“, Szijjártó „velmi komplikovaný politik“ a Fica prý „nahradí nějaký evropští politici“. EU
     se podle něj rozpadne pod tlakem lidí na ulicích či občanskou válkou, nebo válkou s Ruskem, anebo
     do té doby bude „absolutně totalitním nástrojem“: „jediný, na co mi to nevypadá, je klid, mír, pohoda.“'
+  osoby:
+  - osoba: peter-szijjarto
+    vztah: rozporuplny
+    kontext: „Velmi komplikovaný politik“, ve společné vystoupení z EU nevěří
+  - osoba: robert-fico
+    vztah: rozporuplny
+    kontext: Podpořil Vučiće v Novém Sadu, ale z EU vystoupit nechce a „nebude tam dlouho“
   podtema: Česká suverenita
 - id: vrabel-2026-10-18-03
   typ: tvrzeni
@@ -73,6 +225,15 @@ vyroky:
     sankcí a bez zbraní pro Ukrajinu. Východní křídlo NATO a Vanceova slova o evropské odpovědnosti za
     bezpečnost vykládá tak, že na frontu půjdou nejdřív země Bukurešťské devítky, hlavně „úplně militarizované“
     Polsko, pak Češi, Slováci, Maďaři a další.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: S Babišem „zakázal“ referendum, „aby je národ hnal ulicama“ (→ [stoch. teror](../stochasticky-teror.md));
+      chce francouzské jaderné zbraně v ČR
+  - osoba: donald-trump
+    vztah: rozporuplny
+    kontext: Nezrušil protiruské sankce, jen Grahamův zákon; působí pozitivněji než demokraté, ale „taky
+      jsem to nečekal, že to bude takhle hrozný“
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-10-18-04
   typ: tvrzeni
@@ -94,4 +255,79 @@ vyroky:
     prý posílá víc peněz i zbraní). Divačce váhající mezi Karlem Řehkou a kandidátkou ANO ani divákovi
     z Chicaga před volbami do Kongresu USA neporadil: „každá rada drahá“, problémem je systém, demokraté
     i republikáni jsou „lumpové“.'
+  osoby:
+  - osoba: petr-drulak
+    vztah: negativni
+    kontext: „Falešná opozice“, „elitář prosystémový“, demonstraci 3. 10. ignoroval
+  - osoba: michal-svatos
+    vztah: negativni
+    kontext: Místo trojvýzvy řešil jeho „haciendu v Srbsku“
+  - osoba: zitko
+    vztah: negativni
+    kontext: Místo trojvýzvy řeší, zda je Čermák „falešnej“
+  - osoba: tomas-cermak
+    vztah: negativni
+    kontext: Místo trojvýzvy řeší, zda je Čermák „falešnej“
+  - osoba: jaromir-zuna
+    vztah: negativni
+    kontext: Ministerstvo obrany pod ním „jede rozkazy od NATO“ stejně jako za předchozí ministryně
+  - osoba: karel-rehka
+    vztah: negativni
+    kontext: Volit ho v senátních volbách je „nepřijatelný“
   podtema: Komunální volby
+- id: vrabel-2026-10-18-05
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: „za dva roky demokrati vyhrajou“ v USA; velká válka je „za dveřma“
+  text: Za dva roky (prezidentské volby 2028) v USA zvítězí demokraté, kteří jsou podle něj „úplně šílený
+    do války s Ruskem“. Evropa ale na ně nemusí čekat a do velké války s Ruskem může jít už dříve.
+  citace:
+  - text: Uvědomte si, že za dva roky demokrati vyhrajou ve Spojených státech.“ / „Mně to tak připadá,
+      že ta válka opravdu je za dveřma. Myslím, jako velká válka.
+  predikce:
+    horizont: prezidentské volby v USA 2028; válka neurčeno
+    stav: ceka
+- id: vrabel-2026-10-18-06
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: nová vlna statisíců až milionů Ukrajinců; budou chtít, aby Češi šli na frontu
+  text: Kvůli eskalaci války a zimě přijdou do ČR „párset tisíc, ne-li v milionech“ dalších Ukrajinců;
+    ukrajinská strana v příštích parlamentních volbách buď zvítězí, nebo bude druhá. Ukrajinci, kteří
+    „už mají odslouženo“, budou podle něj chtít, aby Češi šli sloužit na frontu (nejdřív půjdou země Bukurešťské
+    devítky).
+  citace:
+  - text: Prostě počtejte s tím, že teď se k nám dostane zase párset tisíc, ne-li v milionech Ukrajinců.
+      Ta země už vůbec nebude naše.
+  predikce:
+    horizont: nejbližší zima 2026/27; strana v příštích parlamentních volbách
+    stav: ceka
+- id: vrabel-2026-10-18-07
+  typ: stoch-teror
+  temata:
+  - volby-2026
+  nadpis: Andrej Babiš, Petr Pavel
+  text: výzva k veřejnému „trestu“ za odmítnutí referenda o EU/NATO a muniční iniciativu; v témž bloku
+    přirovnání ke kmeni, který zrádného náčelníka odvolá „ke kůlu“ a mladíci na něm trénují střelbu z
+    luku
+  citace:
+  - text: 'Už jenom za tohle by zasloužili prostě, aby je národ hnal ulicama.“ / „Prostě za tohle by opravdu
+      měli lidi hnát tyhle dva ulice. A to přes celou republiku tam a zpátky.“ / o Babišovi: „To je další
+      věc, za kterou by ho lidi měli hnát. Možná tunelama metra.'
+  teror:
+    terc: Andrej Babiš, Petr Pavel
+    hranicni: false
+- id: vrabel-2026-10-18-08
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: Ukrajinci v ČR
+  text: kolektivní kriminalizace skupiny, navazuje na „dynamit“ z 16. 10.; hraniční, bez výzvy k násilí
+  citace:
+  - text: Oni jsou víc temperamentní, řekněme, abych neříkal agresivní.“ / „Mají trošičku blíž k takovým
+      těm ozbrojeným mafím.“ / „Budou se sem dostávat zbraně z Ukrajiny… Budou se cítit, že my jsme jim
+      dlužní.
+  teror:
+    terc: Ukrajinci v ČR
+    hranicni: true

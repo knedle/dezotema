@@ -9,6 +9,54 @@ zdroj:
   rezim: vrabel
   poznamka: Chyba přepisu [03:27–10:37] (halucinace „Krásný večer všem") — ztracen úvod (pravděpodobně
     o drahé naftě).
+  prehled:
+  - tema: (Neúplné) Diverzifikace ropy od Ruska
+    text: jediný důvod je, že ruská nafta byla levná a „nebyl tam prostor pro korupci" (opakování).
+  - tema: EU ruší cla na arménské zboží
+    text: cílem je zapojit Arménii do války proti Rusku → zdroj doplněn ve [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Ukrajinská hraniční stanoviště; „vyjdu sotva z měsíce na měsíc"
+    text: ČR rozkrádána od roku 1989, politici slouží korporacím, EU a NATO (opakování).
+  - tema: Lavrov–Rubio v New Yorku
+    text: Rusové totéž říkají 4,5 roku.
+  - tema: 'Lapid: Izrael by pro Ukrajinu dělal víc'
+    text: dva konflikty propojené přes Izrael, mesiánská eschatologie, vliv na Kongres
+    vyrok: vrabel-2026-09-25-01
+  - tema: L-39NG Skyfox jako lovec dronů
+    text: 'ironie: „teď budeme dodávat ještě letadla".'
+  - tema: 'Jarosław: TVP spekuluje o ruské provokaci'
+    text: „pravidlo satanismu", „Rus" jako synonymum zločince
+    vyrok: vrabel-2026-09-25-05
+  - tema: 'Bytom: odstraněn sovětský obelisk'
+    text: bez Sovětů by Polsko nebylo.
+  - tema: 'Karlovy Vary: středisko IZS'
+    text: příprava na válku
+    vyrok: vrabel-2026-09-25-08
+  - tema: Finské a švédské stíhačky nad Finským zálivem
+    text: nic dramatického, Polsko je „dům plný dynamitu".
+  - tema: 'Rubio: cílem války s Íránem „racionální vláda"'
+    text: ironický scénář vyvraždění vedení USA → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-09-25-02
+  - tema: 'Pezeškján: Írán si válku nevybral'
+    text: USA vyměnily vládu v 78 případech
+    vyrok: vrabel-2026-09-25-02
+  - tema: Trump schválil Ukrajině licenci na Patrioty
+    text: Trump odměňuje neposlušného Zelenského
+    vyrok: vrabel-2026-09-25-11
+  - tema: 'Putin: jednání po volbách nebude'
+    text: útoky na rafinerie v den voleb jako snaha ovlivnit volby.
+  - tema: Stubb žádá Muska o Starlink
+    text: Stubb „jeden z největších fašistů v Evropě"
+    vyrok: vrabel-2026-09-25-11
+  - tema: 'Putin v Petrohradu: Rusko neplánuje útok na Evropu'
+    text: bez komentáře.
+  - tema: 'Německo: protesty proti povinné službě; Macinka a povinná vojna'
+    text: Češi „zlí a nepřející" Ukrajincům
+    vyrok: vrabel-2026-09-25-08
+  - tema: Migranti v Doveru; Tommy Robinson
+    text: rasistické glosy, šunkový sendvič, totéž čeká ČR
+    vyrok: vrabel-2026-09-25-05
+  - tema: 'Hormuz: z 60 plavidel jen 9'
+    text: bez komentáře.
 vyroky:
 - id: vrabel-2026-09-25-01
   typ: tvrzeni
@@ -36,6 +84,10 @@ vyroky:
     zahraničí (viz [Stochastický teror](stochasticky-teror.md)). K projevu Pezeškjána dodává, že USA od
     druhé světové války vyměnily vládu v 78 případech „jak na běžícím pásu" a malé země se musí spojit,
     aby vymáhaly právo.'
+  osoby:
+  - osoba: marco-rubio
+    vztah: negativni
+    kontext: „Racionální vláda" v Íránu = podle jeho logiky by nebylo terorismem vyvraždit vládu USA
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-09-25-05
   typ: tvrzeni
@@ -49,6 +101,10 @@ vyroky:
     děti ven. Uvádí případ spolupracovníka Tommyho Robinsona, který za šunkový sendvič položený u mešity
     skončil ve vězení, kde ho napadli migranti nožem. Totéž podle něj čeká ČR, pokud se bude volit „pro
     globalistické politiky, jako je Babiš, Macinka".'
+  osoby:
+  - osoba: tommy-robinson
+    vztah: pozitivni
+    kontext: Citován jako autorita k policii a migrantům
 - id: vrabel-2026-09-25-08
   typ: tvrzeni
   temata:
@@ -85,4 +141,46 @@ vyroky:
     licencí na výrobu střel Patriot, takže „vůbec nemá zájem", aby útoky ustaly. Továrnu by Rusové rozbombardovali;
     Ukrajina bude podle něj „za dva roky úplně někde jinde". Finského prezidenta Stubba, který žádá Muska
     o Starlink pro zásahy na ruském území, označuje za „jednoho z největších fašistů v Evropě".'
+  osoby:
+  - osoba: alexander-stubb
+    vztah: negativni
+    kontext: „Jeden z největších fašistů v Evropě"
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-25-13
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Ukrajina „za dva roky úplně někde jinde"; výroba Patriotů nevznikne
+  text: Ukrajina nestihne spustit výrobu střel Patriot (továrnu by Rusové zničili) a za dva roky bude
+    „úplně někde jinde" — Rusové nebudou další dva roky „chodit po Ukrajině s vojáky".
+  citace:
+  - text: Si myslím, že Ukrajina už bude úplně někde jinde za dva roky.
+  predikce:
+    horizont: do 9/2028
+    stav: ceka
+- id: vrabel-2026-09-25-14
+  typ: stoch-teror
+  temata:
+  - blizky-vychod
+  nadpis: vláda a Kongres USA (Marco Rubio)
+  text: ironický/hypotetický rámec (reductio ad absurdum Rubiovy logiky), ale konkrétní představa vyvraždění
+    vedení země
+  citace:
+  - text: udělali by třeba taky nějakou akci proti Spojeným státům [...] vzali by třeba celý kongres,
+      celou vládu. Ne, mohli by tam třeba udělali, jako to udělali Američani v Iránu, že by to rovnou
+      povraždili všechno. [...] To není žádný terorismus přece
+  teror:
+    terc: vláda a Kongres USA (Marco Rubio)
+    hranicni: false
+- id: vrabel-2026-09-25-15
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: černí migranti v Británii
+  text: rasová dehumanizace skupiny bez výzvy k násilí
+  citace:
+  - text: ty černí tam vyhrávají v obojím [...] i v té střelbě, protože tam neustále střílí někde nějaký
+      ty bílí" / „šikovní kluci [...] na olympiádu běh s taškou
+  teror:
+    terc: černí migranti v Británii
+    hranicni: false

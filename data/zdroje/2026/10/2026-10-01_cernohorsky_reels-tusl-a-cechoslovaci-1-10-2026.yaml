@@ -37,4 +37,48 @@ vyroky:
     jejímž dětem měl Tušl vyhrožovat zabitím. Dokládá vlastní sbírky: na tornádo na Moravě se vybralo
     „skoro 900 tisíc" (47 udání, vše doloženo policii, mimo pomoc šla jen nafta) a na povodně šlo podle
     něj „99,8 %" na pomoc.'
+  osoby:
+  - osoba: patrik-tusl
+    vztah: negativni
+    kontext: Pomluva, chystaná žaloba, fyzické výhrůžky
+  - osoba: monika-spoulova
+    vztah: pozitivni
+    kontext: Oběť Tušlových výhrůžek
   podtema: USA — volební systém
+- id: cernohorsky-2026-10-01-03
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Patrik Tušl
+  text: opakované fyzické výhrůžky (sám dodává „ale tohle neudělám")
+  citace:
+  - text: A kdyby to bylo jenom trochu možný, tak ti prostě rozmlátím rypák [...] Vyrazil bych ti ty poslední
+      zuby [...] chytit pod krkem, ty zmrde, a rozšlapat ti rypák [...] abys aspoň tři měsíce cucal žrádlo
+      brčkem.
+  teror:
+    terc: Patrik Tušl
+    hranicni: false
+- id: cernohorsky-2026-10-01-04
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Vít Rakušan
+  text: výzva/ochota k fyzickému napadení
+  citace:
+  - text: nějakýho zasranýho politika jako Rakušana. Tomu bych z chuti dal po tlamě a klidně si to půjdu
+      odsedět.
+  teror:
+    terc: Vít Rakušan
+    hranicni: false
+- id: cernohorsky-2026-10-01-05
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: „Čechoslováci" (suverénní občané), řidiči pod vlivem
+  text: skupinová dehumanizace
+  citace:
+  - text: 'vy debilové, protože vy nepatříte nikam jinam než do klece" / řidiči pod vlivem: „ať klidně
+      zdechnou [...] špatný maso musí pryč'
+  teror:
+    terc: „Čechoslováci" (suverénní občané), řidiči pod vlivem
+    hranicni: false

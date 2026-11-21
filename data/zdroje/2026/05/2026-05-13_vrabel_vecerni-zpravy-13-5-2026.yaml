@@ -13,6 +13,25 @@ zdroj:
     mediátorka EU–Rusko; BBC: 184 ruských tankerů v britských vodách bez zadržení; kolaps lotyšské vlády;
     Slovensko uzavřelo hranici s Ukrainou (800 ruských dronů na Užhorod); VW + Rafael (Izrael) obranné
     JV; Kevin Wershe nominován na šéfa Fedu.'
+  prehled:
+  - tema: Trump v Číně (1. návštěva od 2017, 3 dny)
+    text: Trump v Číně (1. návštěva od 2017, 3 dny)
+  - tema: MizarVision (čínská firma) publikuje fotky US základen
+    text: MizarVision (čínská firma) publikuje fotky US základen navzdory sankcím
+  - tema: Bukurešská devítka summit
+    text: Petr Pavel zastupoval ČR
+  - tema: Merkelová jako možná mediátorka EU–Rusko
+    text: Merkelová jako možná mediátorka EU–Rusko
+  - tema: BBC
+    text: 184 ruských tankerů v britských vodách bez zadržení
+  - tema: kolaps lotyšské vlády
+    text: kolaps lotyšské vlády
+  - tema: Slovensko uzavřelo hranici s Ukrainou (800 ruských dronů na
+    text: Slovensko uzavřelo hranici s Ukrainou (800 ruských dronů na Užhorod)
+  - tema: VW + Rafael (Izrael) obranné JV
+    text: VW + Rafael (Izrael) obranné JV
+  - tema: Kevin Wershe nominován na šéfa Fedu.
+    text: Kevin Wershe nominován na šéfa Fedu.
 vyroky:
 - id: vrabel-2026-05-13-02
   typ: tvrzeni
@@ -33,4 +52,13 @@ vyroky:
     **Kolaps lotyšské koaliční vlády** — ministr obrany rezignoval; Vrabel spekuluje: buď korupce při nákupu zbraní, nebo strach z válečné zodpovědnosti.
 
     **Slovensko krátce uzavřelo hranici s Ukrainou** (cca 2 hodiny, 15:00–17:00) v důsledku masivního ruského dronového útoku na Užhorod (800 dronů dle Ukrainy); zasaženo i Lvov. Vrabel: konflikt se přesouvá dál na západ; Slováci to chápou dříve, odtud mírové pochody od roku 2023.
+  osoby:
+  - osoba: petr-pavel
+    vztah: neutralni
+    kontext: Na Bukurešské devítce označil Rusko za největší hrozbu; Vrabel upozorňuje, že ČR tím přebírá
+      nové vojenské závazky nad rámec čl. 5 NATO
+  - osoba: angela-merkelova
+    vztah: negativni
+    kontext: 'Spekuluje se o roli mediátorky EU–Rusko; Vrabel odmítá: Merkelová zradila Rusko Minskými
+      dohodami — sloužily jen k přezbrojení Ukrainy, ne k míru'
   podtema: Zahraniční aktéři a precedenty

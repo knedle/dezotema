@@ -50,4 +50,11 @@ vyroky:
   text: '**7. 11. (Boldy)** — Konspirátor Boldy považuje domácí politiku („Babiš, Okamura“) za „stupidní
     věci“, se kterými lidé stejně nic nezmění, a protesty za poplatky ČT za „frašky“, které organizují
     neziskové organizace: „vyšleme blbečky do ulic a musí protestovat, chceme poplatky“.'
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Politika kolem nich jsou „stupidní věci“, se kterými lidé nic neudělají
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: Politika kolem nich jsou „stupidní věci“, se kterými lidé nic neudělají
   podtema: Česká televize a mainstreamová média

@@ -39,6 +39,15 @@ vyroky:
     dobytku značkovanému plackami.'
   citace:
   - text: Přestaňte se značkovat jako dobytek.
+  osoby:
+  - osoba: robin-cumpelik
+    vztah: negativni
+    kontext: Kritizován za veřejné napadení Kateřiny Konečné/Stačilo na brněnské demonstraci kvůli stranickým
+      tričkům
+  - osoba: katerina-konecna
+    vztah: pozitivni
+    kontext: Bráněna proti Čumpelíkově kritice — účast na politické demonstraci na Dominikánském náměstí
+      byla legitimní
   podtema: Sudetoněmecký sjezd v Brně 2026
 - id: cernohorsky-2026-06-26-02
   typ: tvrzeni
@@ -61,4 +70,42 @@ vyroky:
   citace:
   - text: Petr Pavel do žádné Ankary nepojede. [...] Tohle není o tom, že bych nerespektoval rozhodnutí
       ústavního soudu — to, co předvedl ústavní soud, je naprostá šaškárna.
+  osoby:
+  - osoba: petr-kolar
+    vztah: negativni
+    kontext: Označen za skutečného strůjce kauzy Ankara — lobbista domlouvající zbrojařské kšefty, obviněn
+      ze „zabíjení dalších a dalších lidí"; terč explicitní násilné fantazie
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Míň než hovno v trávě" — pouhá „loutka/marioneta" Petra Koláře; terč explicitní násilné
+      fantazie (vykopání, kopání až do Kyjeva)
+  - osoba: petr-macinka
+    vztah: pozitivni
+    kontext: „Velice inteligentní borec", ne hlupák — jeho ironické výroky („soudruh prezident") interpretovány
+      jako záměrné vyjádření zoufalství nad Pavlem
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
+- id: cernohorsky-2026-06-26-03
+  typ: stoch-teror
+  temata:
+  - petr-pavel
+  nadpis: Petr Pavel
+  text: pojmenovaný terč + explicitní násilná fantazie fyzického napadení a vyhnání
+  citace:
+  - text: Ty seš míň než hovno v trávě, kamaráde. [...] tak člověk by šel na hrad, vzal by toho Koláře,
+      vole, vykopal by ho z toho hradu [...] a tebe bych lapl za flígr, vole, a nakopal bych tě taky do
+      prdele a kopal bych tě, vole, až někam do toho třeba tvýho vysněnýho Kyjeva
+  teror:
+    terc: Petr Pavel
+    hranicni: false
+- id: cernohorsky-2026-06-26-04
+  typ: stoch-teror
+  temata:
+  - petr-pavel
+  nadpis: Petr Kolář
+  text: explicitní násilná fantazie fyzického vyhnání jmenovaného poradce; dále opakovaně „zmrd", „bastard
+    vyjebaný", obviněn ze „zabíjení dalších a dalších lidí" kvůli zbrojařským kšeftům
+  citace:
+  - text: vykopal by ho z toho hradu, kolpal by ho toho hajzla až do Bruselu
+  teror:
+    terc: Petr Kolář
+    hranicni: false

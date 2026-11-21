@@ -8,6 +8,22 @@ zdroj:
   prepis: prepisy/done/2026-10-25_Jindřich-Rajchl_Skutečným-ohrožením-na-demokracii-není-převedení-nákl.txt
   rezim: standard
   poznamka: 56 min, nedělní živé vysílání (Rajchl nachlazený); bez sdílených videí.
+  osoby:
+  - osoba: boris-johnson
+    vztah: negativni
+    kontext: Zmařil Istanbulskou dohodu
+  - osoba: rand-paul
+    vztah: pozitivni
+    kontext: 'Senátní slyšení Fauciho: narušení důvěry ve vědu a stát'
+  - osoba: matej-hlavaty
+    vztah: negativni
+    kontext: Ať se nevyjadřuje k ČT a stará se o rozpočet Tetína
+  - osoba: marian-jurecka
+    vztah: negativni
+    kontext: „Půl pravdy“ o Nizozemsku si „mylně vygoogloval“
+  - osoba: martina-bednarova
+    vztah: pozitivni
+    kontext: Odsouzena podle § 405, „extrémně líto“
 vyroky:
 - id: rajchl-2026-10-25-01
   typ: tvrzeni
@@ -26,6 +42,19 @@ vyroky:
   citace:
   - text: A i vy máte tu krev na rukou, přátelé. I vy. Protože kdybyste neumlčovali profesora Berana […]
       tak tady mohly dneska být tisíce lidí naživu.
+  osoby:
+  - osoba: jiri-beran
+    vztah: pozitivni
+    kontext: „Světově uznávaná kapacita“, média ho umlčela (Isoprinosin)
+  - osoba: luc-montagnier
+    vztah: pozitivni
+    kontext: Nobelista, podle něj virus vznikl v laboratoři
+  - osoba: jan-blatny
+    vztah: negativni
+    kontext: „Kdo se naočkuje, nenakazí se“ = lež a dezinformace
+  - osoba: jaroslav-flegr
+    vztah: negativni
+    kontext: „Blázen s toxoplasmózou“, „mrazáky v ulicích“ = dezinformace
   podtema: Původ a povaha pandemie
 - id: rajchl-2026-10-25-02
   typ: tvrzeni
@@ -38,6 +67,10 @@ vyroky:
     protože jde jen o jeho úpravu. Ostře kritizuje Nejvyšší soud za výklad, že úmysl pachatele je dán
     už vědomím odchylky „od většinového názoru demokratické společnosti“, protože podle něj „to už je
     zase ta strana a vláda“.'
+  osoby:
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: Tehdy vzkázal „žádné slitování“ s organizátory; lže o zrušení § 405
   podtema: Trestání politického projevu
 - id: rajchl-2026-10-25-03
   typ: tvrzeni
@@ -54,6 +87,13 @@ vyroky:
   citace:
   - text: Politické neziskovky jsou mor, zlo, cholera téhle společnosti a právě společně s médii drží
       ty opratě, ty lži.
+  osoby:
+  - osoba: jan-jakob
+    vztah: negativni
+    kontext: '„Moula“: služby ČT prý využívá i ten, kdo se nedívá'
+  - osoba: petr-fiala
+    vztah: negativni
+    kontext: Poplatky jako další daň, „koupil si přízeň redaktorů ČT“; „právo na korigované informace“
   podtema: Milion chvilek — struktura a financování
 - id: rajchl-2026-10-25-04
   typ: tvrzeni
@@ -91,6 +131,13 @@ vyroky:
   citace:
   - text: Moláček, kdyby byl za komunismu, tak vám garantuju, že udělal kariéru, protože slepě jednoznačně
       prosazuje jenom a pouze názor strany a vlády.
+  osoby:
+  - osoba: jana-skopkova
+    vztah: pozitivni
+    kontext: Autorka dokumentu „Rozpolceno“, „jedna z nejlepších žurnalistek“
+  - osoba: jan-molacek
+    vztah: negativni
+    kontext: „Největší cenzor“, „etalon úpadku ČT“, za komunismu by „udělal kariéru“
   podtema: Česká televize a mainstreamová média
 - id: rajchl-2026-10-25-06
   typ: tvrzeni
@@ -107,6 +154,16 @@ vyroky:
   citace:
   - text: Kdyby Michal Půr vstoupil do politiky, tak by byl dneska nejlepším předsedou ODS. Garantuju
       vám to.
+  osoby:
+  - osoba: lukas-vales
+    vztah: pozitivni
+    kontext: 'Moderátor ČT mu skákal do řeči: „tady jste na České“'
+  - osoba: michal-pur
+    vztah: pozitivni
+    kontext: Nejvzdělanější moderátor, profesionál, lepší předseda ODS než Kupka
+  - osoba: martin-kupka
+    vztah: negativni
+    kontext: „Teflonový panák“, s ním ODS skončí pod 5 %
   podtema: Česká televize a mainstreamová média
 - id: rajchl-2026-10-25-07
   typ: tvrzeni
@@ -123,6 +180,11 @@ vyroky:
   citace:
   - text: To je tak neuvěřitelná názorová otočka, že i to schválení invaze v roce 68 v tom jeho životopise
       z roku 1987 bledne.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: 'Kandidát na vyjednavače EU s Ruskem: „bezcharakterní korouhvička“, otočka o 180°, „vlastizrádce
+      je on“'
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-10-25-08
   typ: tvrzeni
@@ -146,6 +208,14 @@ vyroky:
   citace:
   - text: To je to skutečné ohrožení té demokracie. […] Ne to, že převedeme financování České televize
       pod státní rozpočet.
+  osoby:
+  - osoba: jaroslav-foldyna
+    vztah: pozitivni
+    kontext: Oběť slovního i fyzického útoku protestujících
+  - osoba: barbora-urbanova
+    vztah: negativni
+    kontext: „Občanská společnost chce diskutovat“ vs. odmítnutí jednat s jeho demonstranty, ať „sklidí,
+      co zasela“
   podtema: Politická kultura
 - id: rajchl-2026-10-25-09
   typ: tvrzeni
@@ -171,4 +241,53 @@ vyroky:
     a Zelenskyj je „král zlodějů“, jak podle něj nyní říkají i Elon Musk a starosta Kyjeva Vitalij Kličko.'
   citace:
   - text: Vy máte tu krev na rukou. Vy jste zodpovědní za to utrpení obyčejného ukrajinského lidu.
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: „Král zlodějů“ v Kyjevě, kde „všichni kradou“
+  - osoba: vitalij-klicko
+    vztah: neutralni
+    kontext: Cituje ho jako svědka Zelenského korupce
   podtema: Zahraniční aktéři a precedenty
+- id: rajchl-2026-10-25-11
+  typ: predikce
+  temata:
+  - covid-vakciny
+  nadpis: Pfizer zkrachuje, pokud prohraje jedinou žalobu amerických států
+  text: Pfizer čelí žalobám šesti amerických států za zatajování nežádoucích účinků vakcín. Pokud prohraje
+    byť jedinou, zkrachuje kvůli pokutám v desítkách miliard.
+  citace:
+  - text: A jestli prohraje jednu tu žalobu, tak zkrachuje, protože to budou desítky miliard, které jim
+      tam ten soud napálí jako pokutu.
+  predikce:
+    horizont: neurčeno (po rozhodnutí první ze žalob)
+    stav: ceka
+- id: rajchl-2026-10-25-12
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Kateřina Dudová (režisérka, účastnice protestu před Sněmovnou)
+  text: 'Terč: Kateřina Dudová (režisérka, účastnice protestu před Sněmovnou).'
+  citace:
+  - text: ta zneuznalá režizérka […] progresivistická, opilá neustále, opilá prostě zneuznaná ženská,
+      která nenatočila ještě nic, co by mělo jakoukoli uměleckou hodnotu“; připisuje jí dlažební kostku
+      v ruce
+  osoby:
+  - osoba: katerina-dudova
+    vztah: negativni
+    kontext: Připisuje jí dlažební kostku; „opilá, zneuznaná ženská“ živená z peněz ČT
+  teror:
+    terc: Kateřina Dudová (režisérka, účastnice protestu před Sněmovnou)
+    hranicni: false
+- id: rajchl-2026-10-25-13
+  typ: stoch-teror
+  temata:
+  - fara-neziskovky
+  nadpis: politické neziskovky (mediální gramotnost)
+  text: 'Terč: politické neziskovky (mediální gramotnost).'
+  citace:
+  - text: Vyhnat je karabáčem a bičem. […] Politické neziskovky jsou mor, zlo, cholera téhle společnosti
+      […] ze zahraničí placenými šmejdy
+  teror:
+    terc: politické neziskovky (mediální gramotnost)
+    hranicni: false

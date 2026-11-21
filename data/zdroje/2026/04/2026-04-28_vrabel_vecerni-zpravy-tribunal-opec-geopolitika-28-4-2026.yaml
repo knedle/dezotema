@@ -15,6 +15,31 @@ zdroj:
     v Donbasu/Záporoží/Chersonu září 2026; Německo: 2656 odmítnutí vojenské služby v Q1 2026 (více než
     za celý rok 2024); pokus o převrat v Mali; Füllmich nová obhajoba; Trump-Putin telefonát; jednání
     o Hormuz.'
+  prehled:
+  - tema: Večerní zprávy se Zuzkou. Klíčová témata
+    text: ČR 23. zemí v tribunálu pro ruské válečné zločiny (Dubrovník, Trojmoří summit, Babiš)
+  - tema: SAE opouští OPEC a OPEC+
+    text: SAE opouští OPEC a OPEC+
+  - tema: estonský prezident
+    text: válka mohla skončit 2022
+  - tema: Merz
+    text: Ukraina nevstoupí do EU 2027–2028 bez územních ústupků
+  - tema: Trump Merzovi
+    text: starej se o Německo, ne o Írán
+  - tema: Pentagon odblokoval posledních 400 mil. USD pro Ukrainu
+    text: Pentagon odblokoval posledních 400 mil. USD pro Ukrainu (2027 žádné další)
+  - tema: Putin
+    text: volby v Donbasu/Záporoží/Chersonu září 2026
+  - tema: Německo
+    text: 2656 odmítnutí vojenské služby v Q1 2026 (více než za celý rok 2024)
+  - tema: pokus o převrat v Mali
+    text: pokus o převrat v Mali
+  - tema: Füllmich nová obhajoba
+    text: Füllmich nová obhajoba
+  - tema: Trump-Putin telefonát
+    text: Trump-Putin telefonát
+  - tema: jednání o Hormuz.
+    text: jednání o Hormuz.
 vyroky:
 - id: vrabel-2026-04-28-01
   typ: tvrzeni
@@ -25,6 +50,11 @@ vyroky:
     Vrabel ve vysílání z 28. dubna 2026 komentuje zprávu, že Česká republika se přidala k mezinárodní iniciativě Rady Evropy za vznik zvláštního tribunálu pro zločiny ruské agrese vůči Ukrajině — jako 23. stát. Podpis proběhl na okraj summitu Trojmoří v Dubrovníku (28.–29. 4. 2026). Vrabel přičítá rozhodnutí přímo Andreji Babišovi: „Babiš musel schválit. Nikdo jiný ČR na Radě Evropy nezastupuje."
 
     Vrabel tuto zprávu glosuje jako ironii: voliči chtěli změnu, Babiš ji přinesl — ale ve směru větší vojensko-politické integrace s EU a Ukrajinou, nikoliv méně. Výrok „to je ta strašná změna, co jsme chtěli ve volbách" je sarkastický.
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: 'Podepsal přistoupení ČR k mezinárodnímu tribunálu pro ruské válečné zločiny — Vrabel: „Výborně,
+      to je ta strašná změna" (sarkazmus)'
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-04-28-02
   typ: tvrzeni

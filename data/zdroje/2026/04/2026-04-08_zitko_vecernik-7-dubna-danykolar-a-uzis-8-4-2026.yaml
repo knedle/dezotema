@@ -8,6 +8,11 @@ zdroj:
   prepis: prepisy/done/2026-04-08_Československo-TV2_Videoportál.txt
   rezim: standard
   delka: '1:25:17'
+  osoby:
+  - osoba: roman-kovarik
+    vztah: pozitivni
+    kontext: Statistik, jehož analýza dat ÚZIS prokazuje (dle Zítka) propad porodnosti výhradně u vakcinovaných
+      žen na vzorku 1,3M
 vyroky:
 - id: zitko-2026-04-08-01
   typ: tvrzeni
@@ -22,4 +27,9 @@ vyroky:
   - text: Čistě náhodná podobnost, že všichni ti, kteří říkali pravdu o škodlivosti vakcinace, o škodlivosti
       COVID-19 a varovali lidi, byli nějakým způsobem umlčováni tím, že byli omezeni na svobodě pod jakoukoliv
       záminkou.
+  osoby:
+  - osoba: daniel-bombic
+    vztah: pozitivni
+    kontext: Slovenský influencer, 11 měsíců v protiústavní vazbě za verbální trestný čin; Zítko případ
+      srovnává se svým vlastním
   podtema: Danykolár (Daniel Bombic) — propuštění ze slovenské vazby

@@ -9,6 +9,47 @@ zdroj:
   rezim: vrabel
   poznamka: 45 min, monolog z procházky po Subotici (Srbsko); potlačování dosahu na Facebooku, Srbsko
     jako vzor, kritika Rajchla a Svatoše; bez sdílených videí.
+  osoby:
+  - osoba: michal-svatos
+    vztah: negativni
+    kontext: Nepřišel na demonstraci proti jadernému vyzbrojení, u Petra Hájka šíří „podvraťácké lži“
+      (hacienda v Srbsku), aby získal funkci v SPD či PRO
+  - osoba: petr-hajek
+    vztah: negativni
+    kontext: Z „Klausovy rodiny“ jako Macinka, proto se staví proti Vrabelovi
+  - osoba: dr-vitova
+    vztah: pozitivni
+    kontext: Jediní, kdo na „zaprodané“ vlastenecké scéně zůstali „rovní“
+  - osoba: miroslav-sladek
+    vztah: pozitivni
+    kontext: Jediní, kdo na „zaprodané“ vlastenecké scéně zůstali „rovní“
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Odmítá sankce proti Rusku i zbraně pro Ukrajinu, „pracuje jen pro Srby“ — vzor pro ČR
+  prehled:
+  - tema: Facebook potlačuje dosah (25 diváků z 34 tisíc sledujících)
+    text: sociální sítě dělají každému „média na míru“, jsou silnější než televize; přes Palantir a Stargate
+      cílí politiku a nadhánějí „schopné politiky“; stojí i za studentskými protesty v Evropě; odpovědní
+      by měli jít „do vězení na 20–30 let“ → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-23-03
+  - tema: Plán „ČR na 1. místě“ a Srbsko jako vzor
+    text: ruský plyn na dlouhodobé kontrakty, potravinová a léková soběstačnost, vojenská neutralita;
+      v Srbsku „pohoda“, nikdo se nebojí války, Vučić se nepoddá; jediná šance je „utéct“ z globalismu
+      (opakuje).
+  - tema: Zprávy od Čechů v Subotici
+    text: na Ostravsku končí hutě a doly, firmy přecházejí na válečnou výrobu (Strnad), přibývá Ukrajinců;
+      „ukrajinizaci“ si lidé „udělali sami“ ukrajinskými vlajkami.
+  - tema: SPD jako falešná opozice
+    text: v Karviné „nemá jedno křeslo“, SPD už 13 let „legitimizuje vlády“, hlasy voličů se tak „spláchnou
+      do WC“ (opakuje).
+  - tema: Totalita a „zaprodaná“ vlastenecká scéna
+    text: prý ho ničí ekonomicky, mediálně i tajnými službami, Eric Best mu v roce 2022 řekl, že ho „nahradí
+      jiný člověk“; zůstali jen Vítová a Sládek; Michal Svatoš u Petra Hájka šíří „podvraťácké lži“, aby
+      dostal funkci; Rajchl je „robot“, který ho kopíruje, otočil Václavák proti Rusku a udával lidi za
+      „Z“, Vacek „absolutní globalista“ (opakuje).
+  - tema: 1 % vlastní 99 % bohatství
+    text: elity jsou „satanisti“, kteří chtějí přes transhumanismus nesmrtelnost; Rusko se drží jako poslední,
+      Čína je přetechnizovaná; obává se, zda bude za rok či dva ve městech jídlo (opakuje).
 vyroky:
 - id: vrabel-2026-10-23-03
   typ: tvrzeni
@@ -30,4 +71,21 @@ vyroky:
     nelze prorazit, a jako jedinou cestu vidí přivádět lidi na pravidelné Zprávy v devět.'
   citace:
   - text: Ten Facebook prostě každému udělá na míru ty jeho média. A my to nevíme, jak to udělají.
+  osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Robot“, který ho kopíruje slovo od slova, otočil Václavák proti Rusku a udával lidi za „Z“;
+      novela § 405 „pičovina“
   podtema: Česká televize a mainstreamová média
+- id: vrabel-2026-10-23-11
+  typ: stoch-teror
+  temata:
+  - media-propaganda
+  nadpis: lidé z Facebooku, kteří omezují dosah (cenzura)
+  text: výzva k tvrdému trestu pro vymezenou skupinu; hraniční (zákonný trest, ne násilí)
+  citace:
+  - text: To, co dělá sociální sítě Facebook, za to by všichni ty lidi, kteří tohle dělaj, měli jít na
+      vězení minimálně na 20–30 let. Protože tím úplně ničí to nejzákladnější ve společnosti.
+  teror:
+    terc: lidé z Facebooku, kteří omezují dosah (cenzura)
+    hranicni: true

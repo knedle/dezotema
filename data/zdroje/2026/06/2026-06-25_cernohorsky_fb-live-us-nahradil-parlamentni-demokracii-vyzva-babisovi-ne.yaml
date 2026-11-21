@@ -40,6 +40,19 @@ vyroky:
     v „dezolátním stavu". Připomíná, že předseda ÚS Josef Baxa vstoupil do KSČ v roce 1988.'
   citace:
   - text: Ústavní soud nemá právo nahrazovat parlamentní demokracii a vykládat něco, co vláda má dělat.
+  osoby:
+  - osoba: andrej-babis
+    vztah: rozporuplny
+    kontext: Vyzývá ho nerespektovat rozhodnutí ÚS jako „lepší variantu"; zároveň chválen jako jediný
+      premiér po letech, co snížil schodek rozpočtu
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Šašek", „imbecil", „kašpar na kolobrndě" — kompetenční žaloba k ÚS kvůli Ankaře hodnocena
+      jako trapné, dětinské chování
+  - osoba: jana-cernochova
+    vztah: negativni
+    kontext: Ministryně obrany — tričko „fuck off Putin", nekompetentní doporučení firmy; armáda ČR v
+      „dezolátním stavu" kvůli jejímu odzbrojování
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: cernohorsky-2026-06-25-02
   typ: tvrzeni
@@ -54,4 +67,58 @@ vyroky:
   citace:
   - text: Nikdy jste nemohli nikoho nazvat naprostým idiotem. A Fiala — tupej, blbej idiot, a obklopil
       se víceméně tím samým.
+  osoby:
+  - osoba: jan-lipavsky
+    vztah: negativni
+    kontext: Ministr zahraničí — příklad „nekompetence" vlády Fialy (výrok o Nutelle v Německu)
+  - osoba: petr-hladik
+    vztah: negativni
+    kontext: Ministr životního prostředí — výrok „ČR se otepluje 2× rychleji než kdekoliv na světě" hodnocen
+      jako nesmysl
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: „Ten by měl lozit kanálama" — dehumanizující urážka v kontextu jeho kritiky vlády Babiše
   podtema: Politická kultura
+- id: cernohorsky-2026-06-25-03
+  typ: predikce
+  temata:
+  - petr-pavel
+  nadpis: „Novodobý Pinočet na Hradě" při eskalaci sporu ÚS vs. Babiš
+  text: Podmíněná úvaha — pokud by Andrej Babiš odmítl respektovat rozhodnutí Ústavního soudu (akreditace
+    Pavla na summit NATO) a spor by se vyhrotil, mohlo by to dle Černohorského vyústit až v „novodobého
+    Pinočeta na Hradě" nebo v nasazení cizí armády (Bundeswehr / jednotky EU) na českém území. Sám ale
+    odhaduje nízkou pravděpodobnost, protože český národ „nepůjde do ulic" a armáda ČR je kvůli předchozí
+    vládní politice v „dezolátním stavu".
+  citace:
+  - text: Pokud by se to vyhrotilo, tak to může dojít k tomu, že budeme mít novodobýho Pinočeta na Hradě.
+  predikce:
+    horizont: neurčeno (podmíněno eskalací sporu ÚS vs. vláda)
+    stav: ceka
+- id: cernohorsky-2026-06-25-04
+  typ: stoch-teror
+  temata:
+  - petr-pavel
+  nadpis: Josef Baxa (předseda ÚS)
+  text: grafická sexuální dehumanizace jmenovaného předsedy Ústavního soudu
+  citace:
+  - text: Baxa a spol doslova a dopísmene dělají felaci Petru Pavlovi a zřejmě mu polykají i semeno. [...]
+      Baxa nastavil svůj anál, doslova do písmene.
+  osoby:
+  - osoba: josef-baxa
+    vztah: negativni
+    kontext: Předseda ÚS — grafická sexuální dehumanizace („felace Petru Pavlovi"); připomíná jeho vstup
+      do KSČ v roce 1988
+  teror:
+    terc: Josef Baxa (předseda ÚS)
+    hranicni: false
+- id: cernohorsky-2026-06-25-05
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Vít Rakušan
+  text: dehumanizující přirovnání jmenovaného politika ke kanalizačnímu tvoru
+  citace:
+  - text: ten borec, kterej by měl lozit kanálama, kterej by měl opustit [politiku]
+  teror:
+    terc: Vít Rakušan
+    hranicni: false

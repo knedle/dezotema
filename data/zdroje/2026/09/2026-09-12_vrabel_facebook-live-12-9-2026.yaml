@@ -7,6 +7,44 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1094141019804902
   prepis: prepisy/done/2026-09-12_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  osoby:
+  - osoba: aleksandr-lukasenko
+    vztah: neutralni
+    kontext: Běloruský prezident — oznámil rozsáhlé vojenské prověrky a mobilizační připravenost s heslem
+      „připravujeme se na válku, aby k ní nedošlo"
+  prehled:
+  - tema: AI existenciální riziko — Húsíové zneužili Claude k vývoji raket
+    text: → [Konspirační teorie](../konspirace.md)
+  - tema: Dronový útok na saúdský ropovod Východ–Západ
+    text: → [Blízký východ](../blizky-vychod.md)
+  - tema: Húsíové tvrdí, že ukončili kampaň a ovládli Bab al-Mandab
+    text: → [Blízký východ](../blizky-vychod.md)
+  - tema: Bělorusko — rozsáhlé vojenské prověrky a mobilizační připravenost
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Příprava na válku — scénář atentátu jako spouštěče
+    text: → [Konspirační teorie](../konspirace.md)
+  - tema: EU neplní cíle odklonu od ruského plynu/ropy
+    text: → [Ceny energie](../ceny-energie.md)
+  - tema: USA restartují jadernou elektrárnu Palisades
+    text: → [Ceny energie](../ceny-energie.md)
+  - tema: Kritika "elit" a jejich platů (ministryně Šilerová)
+    text: → [Kauzy](../kauzy.md)
+  - tema: 'Peskov: žádné setkání Putin–Zelenskyj na G20 v Miami neplánováno'
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Německo se připojuje k použití zmrazených ruských aktiv (200 mld.) pro Ukrajinu
+    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: BRICS summit v Dillí — společná deklarace přes rozkol Írán–SAE
+    text: → [Konspirační teorie](../konspirace.md)
+  - tema: Trump v Irsku — kritika Evropy, podpora sjednocení Irska
+    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Referendum britské vesnice Pennington o odtržení od Spojeného království
+    text: → [Migrace](../migrace.md)
+  - tema: Manželka Madura žádá o domácí vězení ze zdravotních důvodů
+    text: → [Blízký východ](../blizky-vychod.md)
+  - tema: Protesty na Slovensku proti izraelské ambasádě
+    text: → [Blízký východ](../blizky-vychod.md)
+  - tema: Zelenskyj mění velení na Donbasu — Bilecký se vrací k Azovu
+    text: → [Válka na Ukrajině](../valka-ukrajina-prubeh.md)
 vyroky:
 - id: vrabel-2026-09-12-01
   typ: tvrzeni
@@ -45,6 +83,11 @@ vyroky:
     je vůbec „normální", aby prezident a „prezidentová" suverénní země seděli v americkém vězení — navazuje
     na svou dřívější tezi, že cílem USA je ovládnout venezuelskou ropu prostřednictvím dosazené loutkové
     vlády, a obrací otázku viny: „kdo je tady zločinec — Madurovi, nebo Trump?"'
+  osoby:
+  - osoba: nicolas-maduro
+    vztah: rozporuplny
+    kontext: Bývalý venezuelský prezident vězněný v USA — Vrabel se ptá, kdo je skutečný „zločinec", on
+      nebo Trump
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-09-12-04
   typ: tvrzeni
@@ -97,6 +140,11 @@ vyroky:
     „elit" a občanů. Popisuje mocenský systém jako rozdělený na "vládnoucí" třídu a "obyčejné lidi", přičemž
     mnozí politici (jmenuje Tomia Okamuru) se do vládnoucí třídy protlačují bez ohledu na dřívější vlastenecké
     sliby — motivem je jen udržet si moc, bohatství a výhody funkce.'
+  osoby:
+  - osoba: alena-silerova
+    vztah: negativni
+    kontext: Ministryně financí — odhadovaný měsíční příjem ¾ milionu Kč plus lobbyistické peníze bokem,
+      příklad propasti mezi „elitami" a občany
   podtema: Kauza Ladislav Vrabel — dotační podvod
 - id: vrabel-2026-09-12-08
   typ: tvrzeni
@@ -173,6 +221,11 @@ vyroky:
     který zároveň zůstává v čele 3. armádního sboru. Vrabel si ironicky povšiml, že Bilecký byl podle
     dřívějších zpráv „před dvěma týdny" hlášen jako mrtvý, a nyní se přesto vrací do velení — komentuje
     to jako „scifi" nesrovnalost v narativu.'
+  osoby:
+  - osoba: andrij-bilecky
+    vztah: rozporuplny
+    kontext: Velitel Azovu — dle Vrabela dříve hlášen jako mrtvý, nyní se vrací do velení nového seskupení
+      „Střed" na Donbasu
   podtema: Vyjednávání a mír
 - id: vrabel-2026-09-12-13
   typ: tvrzeni

@@ -111,3 +111,2811 @@ osoby:
   popis: Čínský prezident (zmiňovaná osoba).
   sledovany: false
   vlastni_stranka: false
+- slug: vk
+  jmeno: VK
+  popis: šéfredaktor Aeronet News
+  sledovany: false
+  vlastni_stranka: false
+- slug: vladimir-putin
+  jmeno: Vladimir Putin
+  sledovany: false
+  vlastni_stranka: false
+- slug: jean-luc-melenchon
+  jmeno: Jean-Luc Mélenchon
+  sledovany: false
+  vlastni_stranka: false
+- slug: valerij-zaluzny
+  jmeno: Valerij Zalužný
+  sledovany: false
+  vlastni_stranka: false
+- slug: jeronim-tejc
+  jmeno: Jeroním Tejc
+  sledovany: false
+  vlastni_stranka: false
+- slug: donald-trump
+  jmeno: Donald Trump
+  sledovany: false
+  vlastni_stranka: false
+- slug: aleister-crowley
+  jmeno: Aleister Crowley
+  sledovany: false
+  vlastni_stranka: false
+- slug: jim-carrey
+  jmeno: Jim Carrey
+  sledovany: false
+  vlastni_stranka: false
+- slug: rothschildove
+  jmeno: Rothschildové
+  sledovany: false
+  vlastni_stranka: false
+- slug: bill-gates
+  jmeno: Bill Gates
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-pavel
+  jmeno: Petr Pavel
+  sledovany: false
+  vlastni_stranka: false
+- slug: amy-eskridge
+  jmeno: Amy Eskridge
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-macinka
+  jmeno: Petr Macinka
+  sledovany: false
+  vlastni_stranka: false
+- slug: jana-cernochova
+  jmeno: Jana Černochová
+  sledovany: false
+  vlastni_stranka: false
+- slug: filip-turek
+  jmeno: Filip Turek
+  sledovany: false
+  vlastni_stranka: false
+- slug: lionel-messi
+  jmeno: Lionel Messi
+  sledovany: false
+  vlastni_stranka: false
+- slug: david-icke
+  jmeno: David Icke
+  sledovany: false
+  vlastni_stranka: false
+- slug: peter-thiel
+  jmeno: Peter Thiel
+  sledovany: false
+  vlastni_stranka: false
+- slug: elon-musk
+  jmeno: Elon Musk
+  sledovany: false
+  vlastni_stranka: false
+- slug: jared-kushner
+  jmeno: Jared Kushner
+  sledovany: false
+  vlastni_stranka: false
+- slug: kaja-kallas
+  jmeno: Kaja Kallas
+  sledovany: false
+  vlastni_stranka: false
+- slug: klaus-schwab
+  jmeno: Klaus Schwab
+  sledovany: false
+  vlastni_stranka: false
+- slug: andrej-babis
+  jmeno: Andrej Babiš
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomio-okamura
+  jmeno: Tomio Okamura
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-fiala
+  jmeno: Petr Fiala
+  sledovany: false
+  vlastni_stranka: false
+- slug: vit-rakusan
+  jmeno: Vít Rakušan
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-blazek
+  jmeno: Pavel Blažek
+  sledovany: false
+  vlastni_stranka: false
+- slug: vaclav-havel
+  jmeno: Václav Havel
+  sledovany: false
+  vlastni_stranka: false
+- slug: karel-schwarzenberg
+  jmeno: Karel Schwarzenberg
+  sledovany: false
+  vlastni_stranka: false
+- slug: katerina-konecna
+  jmeno: Kateřina Konečná
+  sledovany: false
+  vlastni_stranka: false
+- slug: marketa-pekarova-adamova
+  jmeno: Markéta Pekarová Adamová
+  sledovany: false
+  vlastni_stranka: false
+- slug: jaroslav-foldyna
+  jmeno: Jaroslav Foldyna
+  sledovany: false
+  vlastni_stranka: false
+- slug: eduard-benes
+  jmeno: Eduard Beneš
+  sledovany: false
+  vlastni_stranka: false
+- slug: ludek-kovanda
+  jmeno: Luděk Kovanda
+  sledovany: false
+  vlastni_stranka: false
+- slug: daniel-herrmann
+  jmeno: Daniel Herrmann
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-kolar
+  jmeno: Petr Kolář
+  sledovany: false
+  vlastni_stranka: false
+- slug: milos-zeman
+  jmeno: Miloš Zeman
+  sledovany: false
+  vlastni_stranka: false
+- slug: franta-kubasek
+  jmeno: Franta Kubásek
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-sovjak
+  jmeno: Jan Sovjak
+  sledovany: false
+  vlastni_stranka: false
+- slug: benjamin-netanyahu
+  jmeno: Benjamin Netanyahu
+  sledovany: false
+  vlastni_stranka: false
+- slug: boris-johnson
+  jmeno: Boris Johnson
+  sledovany: false
+  vlastni_stranka: false
+- slug: simon-panek
+  jmeno: Šimon Pánek
+  sledovany: false
+  vlastni_stranka: false
+- slug: mikulas-minar
+  jmeno: Mikuláš Minář
+  sledovany: false
+  vlastni_stranka: false
+- slug: jakub-janda
+  jmeno: Jakub Janda
+  sledovany: false
+  vlastni_stranka: false
+- slug: roman-maca
+  jmeno: Roman Máca
+  sledovany: false
+  vlastni_stranka: false
+- slug: vaclav-moravec
+  jmeno: Václav Moravec
+  sledovany: false
+  vlastni_stranka: false
+- slug: bernd-posselt
+  jmeno: Bernd Posselt
+  sledovany: false
+  vlastni_stranka: false
+- slug: viktor-orban
+  jmeno: Viktor Orbán
+  sledovany: false
+  vlastni_stranka: false
+- slug: volodymyr-zelensky
+  jmeno: Volodymyr Zelenský
+  sledovany: false
+  vlastni_stranka: false
+- slug: pirati-topici
+  jmeno: Piráti/Topiči
+  sledovany: false
+  vlastni_stranka: false
+- slug: jirina-babusikova
+  jmeno: Jiřina Babušíková
+  sledovany: false
+  vlastni_stranka: false
+- slug: ondrej-kolar
+  jmeno: Ondřej Kolář
+  sledovany: false
+  vlastni_stranka: false
+- slug: anna-brilka
+  jmeno: Anna Brilka
+  sledovany: false
+  vlastni_stranka: false
+- slug: radim-fiala
+  jmeno: Radim Fiala
+  sledovany: false
+  vlastni_stranka: false
+- slug: milos-vystrcil
+  jmeno: Miloš Vystrčil
+  sledovany: false
+  vlastni_stranka: false
+- slug: antonin-baudys
+  jmeno: Antonín Baudyš
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-weigl
+  jmeno: Jiří Weigl
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomas-cermak
+  jmeno: Tomáš Čermák
+  sledovany: false
+  vlastni_stranka: false
+- slug: martin-dvorak
+  jmeno: Martin Dvořák
+  sledovany: false
+  vlastni_stranka: false
+- slug: helena-langsadlova
+  jmeno: Helena Langšádlová
+  sledovany: false
+  vlastni_stranka: false
+- slug: michal-svatos
+  jmeno: Michal Svatoš
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-jozefovic-hejatko
+  jmeno: Pavel Jozefovič Hejátko
+  sledovany: false
+  vlastni_stranka: false
+- slug: ondrej-sladek
+  jmeno: Ondřej Sládek
+  sledovany: false
+  vlastni_stranka: false
+- slug: klara-samkova
+  jmeno: Klára Samková
+  sledovany: false
+  vlastni_stranka: false
+- slug: marketa-vankova
+  jmeno: Markéta Vaňková
+  sledovany: false
+  vlastni_stranka: false
+- slug: ales-juchelka
+  jmeno: Aleš Juchelka
+  sledovany: false
+  vlastni_stranka: false
+- slug: martin-riha
+  jmeno: Martin Říha
+  sledovany: false
+  vlastni_stranka: false
+- slug: ponert
+  jmeno: Ponert
+  sledovany: false
+  vlastni_stranka: false
+- slug: daniel-herman
+  jmeno: Daniel Herman
+  sledovany: false
+  vlastni_stranka: false
+- slug: tibor-gaspar
+  jmeno: Tibor Gašpar
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavlinka-albrechtova
+  jmeno: Pavlínka Albrechtová
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-bartos
+  jmeno: Pavel Bartoš
+  sledovany: false
+  vlastni_stranka: false
+- slug: ursula-von-der-leyen
+  jmeno: Ursula von der Leyen
+  sledovany: false
+  vlastni_stranka: false
+- slug: josef-baxa
+  jmeno: Josef Baxa
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-lipavsky
+  jmeno: Jan Lipavský
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-hladik
+  jmeno: Petr Hladík
+  sledovany: false
+  vlastni_stranka: false
+- slug: robin-cumpelik
+  jmeno: Robin Čumpelík
+  sledovany: false
+  vlastni_stranka: false
+- slug: volodymyr-zelenskyj
+  jmeno: Volodymyr Zelenskyj
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-grolich
+  jmeno: Jan Grolich
+  sledovany: false
+  vlastni_stranka: false
+- slug: oliver-zipse
+  jmeno: Oliver Zipse
+  sledovany: false
+  vlastni_stranka: false
+- slug: dan-novak
+  jmeno: Dan Novák
+  sledovany: false
+  vlastni_stranka: false
+- slug: katerina-urbanova
+  jmeno: Kateřina Urbanová
+  sledovany: false
+  vlastni_stranka: false
+- slug: zbynek-stanjura
+  jmeno: Zbyněk Stanjura
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-skopecek
+  jmeno: Jan Skopeček
+  sledovany: false
+  vlastni_stranka: false
+- slug: miroslav-sladek
+  jmeno: Miroslav Sládek
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-engel
+  jmeno: Petr Engel
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-drahos
+  jmeno: Jiří Drahoš
+  sledovany: false
+  vlastni_stranka: false
+- slug: robert-fico
+  jmeno: Robert Fico
+  sledovany: false
+  vlastni_stranka: false
+- slug: marian-jurecka
+  jmeno: Marian Jurečka
+  sledovany: false
+  vlastni_stranka: false
+- slug: karel-havlicek
+  jmeno: Karel Havlíček
+  sledovany: false
+  vlastni_stranka: false
+- slug: tusl
+  jmeno: Tušl
+  sledovany: false
+  vlastni_stranka: false
+- slug: zdenek-hrib
+  jmeno: Zdeněk Hřib
+  sledovany: false
+  vlastni_stranka: false
+- slug: kaja-kallasova
+  jmeno: Kaja Kallasová
+  sledovany: false
+  vlastni_stranka: false
+- slug: ursula-von-der-leyenova
+  jmeno: Ursula von der Leyenová
+  sledovany: false
+  vlastni_stranka: false
+- slug: danuse-nerudova
+  jmeno: Danuše Nerudová
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomas-zdechovsky
+  jmeno: Tomáš Zdechovský
+  sledovany: false
+  vlastni_stranka: false
+- slug: ludek-niedermayer
+  jmeno: Luděk Niedermayer
+  sledovany: false
+  vlastni_stranka: false
+- slug: lubomir-blaha
+  jmeno: Lubomír Blaha
+  sledovany: false
+  vlastni_stranka: false
+- slug: boris-stastny
+  jmeno: Boris Šťastný
+  sledovany: false
+  vlastni_stranka: false
+- slug: kellnerovi
+  jmeno: Kellnerovi
+  popis: PPF
+  sledovany: false
+  vlastni_stranka: false
+- slug: google
+  jmeno: Google
+  sledovany: false
+  vlastni_stranka: false
+- slug: microsoft
+  jmeno: Microsoft
+  sledovany: false
+  vlastni_stranka: false
+- slug: petrkova
+  jmeno: Petrková
+  sledovany: false
+  vlastni_stranka: false
+- slug: milos-kominek
+  jmeno: Miloš Komínek
+  sledovany: false
+  vlastni_stranka: false
+- slug: cestmir-strakaty
+  jmeno: Čestmír Strakatý
+  sledovany: false
+  vlastni_stranka: false
+- slug: sergej-lavrov
+  jmeno: Sergej Lavrov
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomas-lukavec
+  jmeno: Tomáš Lukavec
+  sledovany: false
+  vlastni_stranka: false
+- slug: tereza-vlasakova
+  jmeno: Tereza Vlasáková
+  sledovany: false
+  vlastni_stranka: false
+- slug: mirek-sevcik
+  jmeno: Mirek Ševčík
+  sledovany: false
+  vlastni_stranka: false
+- slug: sebelova
+  jmeno: Šebelová
+  popis: STAN
+  sledovany: false
+  vlastni_stranka: false
+- slug: pospisil
+  jmeno: Pospíšil
+  sledovany: false
+  vlastni_stranka: false
+- slug: petra-redova
+  jmeno: Petra Rédová
+  sledovany: false
+  vlastni_stranka: false
+- slug: anthony-fauci
+  jmeno: Anthony Fauci
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-krejci
+  jmeno: Pavel Krejčí
+  sledovany: false
+  vlastni_stranka: false
+- slug: renata-bernardy
+  jmeno: Renata Bernardy
+  sledovany: false
+  vlastni_stranka: false
+- slug: patrik-tusl
+  jmeno: Patrik Tušl
+  sledovany: false
+  vlastni_stranka: false
+- slug: monika-spoulova
+  jmeno: Monika Špoulová
+  sledovany: false
+  vlastni_stranka: false
+- slug: varhanova
+  jmeno: „Varhanová"
+  sledovany: false
+  vlastni_stranka: false
+- slug: vlasak-a-varhan
+  jmeno: Vlasák a Varhan
+  popis: bývalí partneři Vlasákové
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-vacek
+  jmeno: Petr Vacek
+  sledovany: false
+  vlastni_stranka: false
+- slug: jakub-jasek
+  jmeno: Jakub Jašek
+  sledovany: false
+  vlastni_stranka: false
+- slug: bernardy
+  jmeno: Bernardy
+  sledovany: false
+  vlastni_stranka: false
+- slug: dan-novas
+  jmeno: Dan Novas
+  sledovany: false
+  vlastni_stranka: false
+- slug: zdenek-vidra
+  jmeno: Zdeněk Vidra
+  sledovany: false
+  vlastni_stranka: false
+- slug: sonia-galligardy
+  jmeno: Sonia Galligardy
+  sledovany: false
+  vlastni_stranka: false
+- slug: eva-decroix
+  jmeno: Eva Decroix
+  sledovany: false
+  vlastni_stranka: false
+- slug: josef-skala
+  jmeno: Josef Skála
+  sledovany: false
+  vlastni_stranka: false
+- slug: jana-peterkova
+  jmeno: Jana Peterková
+  sledovany: false
+  vlastni_stranka: false
+- slug: libor-maly
+  jmeno: Libor Malý
+  sledovany: false
+  vlastni_stranka: false
+- slug: adriana
+  jmeno: Adriana
+  popis: kandidátka na prezidentku
+  sledovany: false
+  vlastni_stranka: false
+- slug: jaroslava-sebelova
+  jmeno: Jaroslava Šebelová
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-hynek
+  jmeno: Jiří Hynek
+  sledovany: false
+  vlastni_stranka: false
+- slug: fridrichova
+  jmeno: Fridrichová
+  popis: ČT
+  sledovany: false
+  vlastni_stranka: false
+- slug: spd
+  jmeno: SPD
+  sledovany: false
+  vlastni_stranka: false
+- slug: zdenek-chytra
+  jmeno: Zdeněk Chytra
+  sledovany: false
+  vlastni_stranka: false
+- slug: stefan-bartos
+  jmeno: Štefan Bartoš
+  sledovany: false
+  vlastni_stranka: false
+- slug: david-skarda
+  jmeno: David Škarda
+  sledovany: false
+  vlastni_stranka: false
+- slug: iva-rosicka
+  jmeno: Iva Rosická
+  sledovany: false
+  vlastni_stranka: false
+- slug: kamil-vlasak
+  jmeno: Kamil Vlasák
+  sledovany: false
+  vlastni_stranka: false
+- slug: linhartova
+  jmeno: Linhartová
+  popis: třídní učitelka
+  sledovany: false
+  vlastni_stranka: false
+- slug: angela-merkelova
+  jmeno: Angela Merkelová
+  sledovany: false
+  vlastni_stranka: false
+- slug: igor-striz
+  jmeno: Igor Stříž
+  sledovany: false
+  vlastni_stranka: false
+- slug: eva-pavlova
+  jmeno: Eva Pavlová
+  sledovany: false
+  vlastni_stranka: false
+- slug: grolich
+  jmeno: Grolich
+  popis: senátor
+  sledovany: false
+  vlastni_stranka: false
+- slug: milan-mazurek
+  jmeno: Milan Mazurek
+  sledovany: false
+  vlastni_stranka: false
+- slug: oldrich-kaiser
+  jmeno: Oldřich Kaiser
+  sledovany: false
+  vlastni_stranka: false
+- slug: vyskocil
+  jmeno: Vyskočil
+  sledovany: false
+  vlastni_stranka: false
+- slug: vasut
+  jmeno: Vašut
+  sledovany: false
+  vlastni_stranka: false
+- slug: vaclav-sinagl
+  jmeno: Václav Šinágl
+  sledovany: false
+  vlastni_stranka: false
+- slug: radek-vondracek
+  jmeno: Radek Vondráček
+  sledovany: false
+  vlastni_stranka: false
+- slug: martin-kuba
+  jmeno: Martin Kuba
+  sledovany: false
+  vlastni_stranka: false
+- slug: kupka
+  jmeno: Kupka
+  sledovany: false
+  vlastni_stranka: false
+- slug: cernochova
+  jmeno: Černochová
+  sledovany: false
+  vlastni_stranka: false
+- slug: decroix
+  jmeno: Decroix
+  sledovany: false
+  vlastni_stranka: false
+- slug: stanjura
+  jmeno: Stanjura
+  sledovany: false
+  vlastni_stranka: false
+- slug: fiala
+  jmeno: Fiala
+  sledovany: false
+  vlastni_stranka: false
+- slug: policista-bily
+  jmeno: Policista Bílý
+  sledovany: false
+  vlastni_stranka: false
+- slug: herec-trojan
+  jmeno: Herec Trojan
+  sledovany: false
+  vlastni_stranka: false
+- slug: reiner-fullmich
+  jmeno: Reiner Füllmich
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-kotlar
+  jmeno: Petr Kotlár
+  sledovany: false
+  vlastni_stranka: false
+- slug: oliver-angino
+  jmeno: Oliver Angino
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-turanek
+  jmeno: Jiří Turánek
+  sledovany: false
+  vlastni_stranka: false
+- slug: zdenek-kettner
+  jmeno: Zdeněk Kettner
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomas-halik
+  jmeno: Tomáš Halík
+  sledovany: false
+  vlastni_stranka: false
+- slug: sasa-uhlova
+  jmeno: Saša Uhlová
+  sledovany: false
+  vlastni_stranka: false
+- slug: natalia-vachatova
+  jmeno: Natália Vachatová
+  sledovany: false
+  vlastni_stranka: false
+- slug: katerina-stojanova
+  jmeno: Kateřina Stojanová
+  sledovany: false
+  vlastni_stranka: false
+- slug: marketa-sichtarova
+  jmeno: Markéta Šichtařová
+  sledovany: false
+  vlastni_stranka: false
+- slug: ivo-horvat
+  jmeno: Ivo Horvát
+  sledovany: false
+  vlastni_stranka: false
+- slug: vojtech-psenak
+  jmeno: Vojtěch Pšenák
+  sledovany: false
+  vlastni_stranka: false
+- slug: jakub-hedia
+  jmeno: Jakub Hedia
+  sledovany: false
+  vlastni_stranka: false
+- slug: libor-vondracek
+  jmeno: Libor Vondráček
+  sledovany: false
+  vlastni_stranka: false
+- slug: daniela-drtinova
+  jmeno: Daniela Drtinová
+  sledovany: false
+  vlastni_stranka: false
+- slug: adam-coubal
+  jmeno: Adam Coubal
+  sledovany: false
+  vlastni_stranka: false
+- slug: martina-bednarova
+  jmeno: Martina Bednářová
+  sledovany: false
+  vlastni_stranka: false
+- slug: nora-friedrichova
+  jmeno: Nora Friedrichová
+  sledovany: false
+  vlastni_stranka: false
+- slug: bart-de-wever
+  jmeno: Bart De Wever
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavla-pivonka-vankova
+  jmeno: Pavla Pivoňka-Vaňková
+  sledovany: false
+  vlastni_stranka: false
+- slug: jd-vance
+  jmeno: JD Vance
+  sledovany: false
+  vlastni_stranka: false
+- slug: peter-magyar
+  jmeno: Peter Magyar
+  sledovany: false
+  vlastni_stranka: false
+- slug: zdenek-sarapatka
+  jmeno: Zdeněk Šarapatka
+  sledovany: false
+  vlastni_stranka: false
+- slug: artur-ostry
+  jmeno: Artur Ostrý
+  sledovany: false
+  vlastni_stranka: false
+- slug: alena-silerova
+  jmeno: Alena Šilerová
+  sledovany: false
+  vlastni_stranka: false
+- slug: david-uhlir
+  jmeno: David Uhlíř
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-matocha
+  jmeno: Pavel Matocha
+  sledovany: false
+  vlastni_stranka: false
+- slug: roman-bradac
+  jmeno: Roman Bradáč
+  sledovany: false
+  vlastni_stranka: false
+- slug: martin-kupka
+  jmeno: Martin Kupka
+  sledovany: false
+  vlastni_stranka: false
+- slug: jakub-abel
+  jmeno: Jakub Abel
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomas-garrigue-masaryk
+  jmeno: Tomáš Garrigue Masaryk
+  sledovany: false
+  vlastni_stranka: false
+- slug: siegfried-soglma
+  jmeno: Siegfried Soglma
+  sledovany: false
+  vlastni_stranka: false
+- slug: vaclav-pavlicek
+  jmeno: Václav Pavlíček
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-pospisil
+  jmeno: Jiří Pospíšil
+  sledovany: false
+  vlastni_stranka: false
+- slug: hinek-beran
+  jmeno: Hinek Beran
+  sledovany: false
+  vlastni_stranka: false
+- slug: radomir-danhel
+  jmeno: Radomír Daňhel
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomas-jirikovsky
+  jmeno: Tomáš Jiříkovský
+  sledovany: false
+  vlastni_stranka: false
+- slug: jaromir-tejc
+  jmeno: Jaromír Tejc
+  sledovany: false
+  vlastni_stranka: false
+- slug: zuzana-cerna
+  jmeno: Zuzana Černá
+  sledovany: false
+  vlastni_stranka: false
+- slug: adela-urbanova
+  jmeno: Adéla Urbanová
+  sledovany: false
+  vlastni_stranka: false
+- slug: natalie-vachatova
+  jmeno: Natálie Vachatová
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomas-elner
+  jmeno: Tomáš Elner
+  sledovany: false
+  vlastni_stranka: false
+- slug: ivan-novesky
+  jmeno: Ivan Noveský
+  sledovany: false
+  vlastni_stranka: false
+- slug: hynek-beran
+  jmeno: Hynek Beran
+  sledovany: false
+  vlastni_stranka: false
+- slug: demetrashvili
+  jmeno: Demetrashvili
+  sledovany: false
+  vlastni_stranka: false
+- slug: kaja-kalas
+  jmeno: Kaja Kalas
+  sledovany: false
+  vlastni_stranka: false
+- slug: gerhard-schroder
+  jmeno: Gerhard Schröder
+  sledovany: false
+  vlastni_stranka: false
+- slug: marek-zenisek
+  jmeno: Marek Zeníšek
+  sledovany: false
+  vlastni_stranka: false
+- slug: matej-ondrej-havel
+  jmeno: Matěj Ondřej Havel
+  sledovany: false
+  vlastni_stranka: false
+- slug: mark-rutte
+  jmeno: Mark Rutte
+  sledovany: false
+  vlastni_stranka: false
+- slug: marketa-dobijasova
+  jmeno: Markéta Dobijášová
+  sledovany: false
+  vlastni_stranka: false
+- slug: boris-ruge
+  jmeno: Boris Ruge
+  sledovany: false
+  vlastni_stranka: false
+- slug: pete-hegseth
+  jmeno: Pete Hegseth
+  sledovany: false
+  vlastni_stranka: false
+- slug: andrzej-nawrocki
+  jmeno: Andrzej Nawrocki
+  sledovany: false
+  vlastni_stranka: false
+- slug: karol-nawrocki
+  jmeno: Karol Nawrocki
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomas-paukner
+  jmeno: Tomáš Paukner
+  sledovany: false
+  vlastni_stranka: false
+- slug: jana-zveretek-hamplova
+  jmeno: Jana Zvěřetek-Hamplová
+  sledovany: false
+  vlastni_stranka: false
+- slug: marek-wollner
+  jmeno: Marek Wollner
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-strunz
+  jmeno: Pavel Štrunz
+  sledovany: false
+  vlastni_stranka: false
+- slug: vaclav-laska
+  jmeno: Václav Láska
+  sledovany: false
+  vlastni_stranka: false
+- slug: jakub-zenisek
+  jmeno: Jakub Ženíšek
+  sledovany: false
+  vlastni_stranka: false
+- slug: jaromir-nohavica
+  jmeno: Jaromír Nohavica
+  sledovany: false
+  vlastni_stranka: false
+- slug: ivana-tykac
+  jmeno: Ivana Tykač
+  sledovany: false
+  vlastni_stranka: false
+- slug: krejcova
+  jmeno: Krejčová
+  popis: mluvčí STAN
+  sledovany: false
+  vlastni_stranka: false
+- slug: ales-michal
+  jmeno: Aleš Michal
+  sledovany: false
+  vlastni_stranka: false
+- slug: samuel-volpe
+  jmeno: Samuel Volpe
+  sledovany: false
+  vlastni_stranka: false
+- slug: nora-fridrichova
+  jmeno: Nora Fridrichová
+  sledovany: false
+  vlastni_stranka: false
+- slug: marek-volner
+  jmeno: Marek Volner
+  sledovany: false
+  vlastni_stranka: false
+- slug: martin-ondracek
+  jmeno: Martin Ondráček
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-berger
+  jmeno: Jiří Berger
+  sledovany: false
+  vlastni_stranka: false
+- slug: john-ratcliffe
+  jmeno: John Ratcliffe
+  sledovany: false
+  vlastni_stranka: false
+- slug: andrzej-duda
+  jmeno: Andrzej Duda
+  sledovany: false
+  vlastni_stranka: false
+- slug: javier-milei
+  jmeno: Javier Milei
+  sledovany: false
+  vlastni_stranka: false
+- slug: victoria-nulandova
+  jmeno: Victoria Nulandová
+  sledovany: false
+  vlastni_stranka: false
+- slug: timur-mindic
+  jmeno: Timur Mindič
+  sledovany: false
+  vlastni_stranka: false
+- slug: tony-blair
+  jmeno: Tony Blair
+  sledovany: false
+  vlastni_stranka: false
+- slug: milan-loprais
+  jmeno: Milan Loprais
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-skalicky
+  jmeno: Jan Skalický
+  sledovany: false
+  vlastni_stranka: false
+- slug: mudr-sorna
+  jmeno: MUDr. Šorna
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-papjanovsky
+  jmeno: Jan Papjanovský
+  sledovany: false
+  vlastni_stranka: false
+- slug: matej
+  jmeno: Matěj
+  popis: starosta Tetína
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-novotny
+  jmeno: Pavel Novotný
+  sledovany: false
+  vlastni_stranka: false
+- slug: zdenek-rip
+  jmeno: Zdeněk Řip
+  sledovany: false
+  vlastni_stranka: false
+- slug: matej-hlavaty
+  jmeno: Matěj Hlavatý
+  sledovany: false
+  vlastni_stranka: false
+- slug: terezie-tomankova
+  jmeno: Terezie Tománková
+  sledovany: false
+  vlastni_stranka: false
+- slug: larry-silverstein
+  jmeno: Larry Silverstein
+  sledovany: false
+  vlastni_stranka: false
+- slug: ulrich-sigmund
+  jmeno: Ulrich Sigmund
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-jakob
+  jmeno: Jan Jakob
+  sledovany: false
+  vlastni_stranka: false
+- slug: lukas-valasek
+  jmeno: Lukáš Valášek
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-krutilek
+  jmeno: Jan Krutílek
+  sledovany: false
+  vlastni_stranka: false
+- slug: dwight-d-eisenhower
+  jmeno: Dwight D. Eisenhower
+  sledovany: false
+  vlastni_stranka: false
+- slug: samuel-slovak
+  jmeno: Samuel Slovák
+  sledovany: false
+  vlastni_stranka: false
+- slug: afd
+  jmeno: AfD
+  sledovany: false
+  vlastni_stranka: false
+- slug: marine-le-penova
+  jmeno: Marine Le Penová
+  sledovany: false
+  vlastni_stranka: false
+- slug: gabriela-svarovska
+  jmeno: Gabriela Svárovská
+  sledovany: false
+  vlastni_stranka: false
+- slug: martin-gara
+  jmeno: Martin Gara
+  sledovany: false
+  vlastni_stranka: false
+- slug: lucie-barankova
+  jmeno: Lucie Baránková
+  sledovany: false
+  vlastni_stranka: false
+- slug: barbora-danhova
+  jmeno: Barbora Daňhová
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-farsky
+  jmeno: Jan Farský
+  sledovany: false
+  vlastni_stranka: false
+- slug: stan
+  jmeno: STAN
+  sledovany: false
+  vlastni_stranka: false
+- slug: christian-wulff
+  jmeno: Christian Wulff
+  sledovany: false
+  vlastni_stranka: false
+- slug: stanislav-gross
+  jmeno: Stanislav Gross
+  sledovany: false
+  vlastni_stranka: false
+- slug: karolina-brodnickova
+  jmeno: Karolína Brodníčková
+  popis: Novinky.cz
+  sledovany: false
+  vlastni_stranka: false
+- slug: seznam-zpravy-novinky
+  jmeno: Seznam Zprávy / Novinky
+  sledovany: false
+  vlastni_stranka: false
+- slug: emmanuel-macron
+  jmeno: Emmanuel Macron
+  sledovany: false
+  vlastni_stranka: false
+- slug: ulrich-siegmund
+  jmeno: Ulrich Siegmund
+  sledovany: false
+  vlastni_stranka: false
+- slug: karel-rehka
+  jmeno: Karel Řehka
+  sledovany: false
+  vlastni_stranka: false
+- slug: peckova
+  jmeno: Pecková
+  sledovany: false
+  vlastni_stranka: false
+- slug: vladimir-kapal
+  jmeno: Vladimír Kapal
+  sledovany: false
+  vlastni_stranka: false
+- slug: radim-panenka
+  jmeno: Radim Panenka
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-molacek
+  jmeno: Jan Moláček
+  sledovany: false
+  vlastni_stranka: false
+- slug: david-morens
+  jmeno: David Morens
+  sledovany: false
+  vlastni_stranka: false
+- slug: vitalij-klicko
+  jmeno: Vitalij Kličko
+  sledovany: false
+  vlastni_stranka: false
+- slug: jana-skopkova
+  jmeno: Jana Škopková
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-beran
+  jmeno: Jiří Beran
+  sledovany: false
+  vlastni_stranka: false
+- slug: luc-montagnier
+  jmeno: Luc Montagnier
+  sledovany: false
+  vlastni_stranka: false
+- slug: rand-paul
+  jmeno: Rand Paul
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-blatny
+  jmeno: Jan Blatný
+  sledovany: false
+  vlastni_stranka: false
+- slug: jaroslav-flegr
+  jmeno: Jaroslav Flegr
+  sledovany: false
+  vlastni_stranka: false
+- slug: katerina-dudova
+  jmeno: Kateřina Dudová
+  sledovany: false
+  vlastni_stranka: false
+- slug: barbora-urbanova
+  jmeno: Barbora Urbanová
+  sledovany: false
+  vlastni_stranka: false
+- slug: lukas-vales
+  jmeno: Lukáš Valeš
+  sledovany: false
+  vlastni_stranka: false
+- slug: michal-pur
+  jmeno: Michal Půr
+  sledovany: false
+  vlastni_stranka: false
+- slug: talir
+  jmeno: Talíř
+  popis: poslanec
+  sledovany: false
+  vlastni_stranka: false
+- slug: roman-prymula
+  jmeno: Roman Prymula
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-hrebejk
+  jmeno: Jan Hřebejk
+  sledovany: false
+  vlastni_stranka: false
+- slug: milan-kundera
+  jmeno: Milan Kundera
+  sledovany: false
+  vlastni_stranka: false
+- slug: bara-starkova
+  jmeno: Bára Stárková
+  sledovany: false
+  vlastni_stranka: false
+- slug: donald-tusk
+  jmeno: Donald Tusk
+  sledovany: false
+  vlastni_stranka: false
+- slug: jaros-aw-kaczynski
+  jmeno: Jarosław Kaczyński
+  sledovany: false
+  vlastni_stranka: false
+- slug: george-soros
+  jmeno: George Soros
+  sledovany: false
+  vlastni_stranka: false
+- slug: alexander-soros
+  jmeno: Alexander Soros
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-barta
+  jmeno: Jan Barta
+  sledovany: false
+  vlastni_stranka: false
+- slug: klara-laurencikova
+  jmeno: Klára Laurenčíková
+  sledovany: false
+  vlastni_stranka: false
+- slug: jindrich-sidlo
+  jmeno: Jindřich Šídlo
+  sledovany: false
+  vlastni_stranka: false
+- slug: matous-svoboda
+  jmeno: Matouš Svoboda
+  sledovany: false
+  vlastni_stranka: false
+- slug: friedrich-merz
+  jmeno: Friedrich Merz
+  sledovany: false
+  vlastni_stranka: false
+- slug: joe-biden
+  jmeno: Joe Biden
+  sledovany: false
+  vlastni_stranka: false
+- slug: jakub-hedija
+  jmeno: Jakub Hedija
+  popis: ODS
+  sledovany: false
+  vlastni_stranka: false
+- slug: oto-klempir
+  jmeno: Oto Klempíř
+  sledovany: false
+  vlastni_stranka: false
+- slug: barbora-starkova
+  jmeno: Barbora Stárková
+  sledovany: false
+  vlastni_stranka: false
+- slug: otakar-foltyn
+  jmeno: Otakar Foltýn
+  sledovany: false
+  vlastni_stranka: false
+- slug: david-matasek
+  jmeno: David Matásek
+  sledovany: false
+  vlastni_stranka: false
+- slug: opozice
+  jmeno: Opozice
+  popis: ODS, STAN, Piráti
+  sledovany: false
+  vlastni_stranka: false
+- slug: michael-mcgrath
+  jmeno: Michael McGrath
+  sledovany: false
+  vlastni_stranka: false
+- slug: robert-neruda
+  jmeno: Robert Neruda
+  sledovany: false
+  vlastni_stranka: false
+- slug: lubomir-zaoralek
+  jmeno: Lubomír Zaorálek
+  sledovany: false
+  vlastni_stranka: false
+- slug: david-arachamija
+  jmeno: David Arachamija
+  sledovany: false
+  vlastni_stranka: false
+- slug: naftali-bennett
+  jmeno: Naftali Bennett
+  sledovany: false
+  vlastni_stranka: false
+- slug: daniel-kretinsky
+  jmeno: Daniel Křetínský
+  sledovany: false
+  vlastni_stranka: false
+- slug: karel-tykac
+  jmeno: Karel Tykač
+  sledovany: false
+  vlastni_stranka: false
+- slug: renata-kellnerova
+  jmeno: Renáta Kellnerová
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-sokol
+  jmeno: Petr Sokol
+  popis: ODS
+  sledovany: false
+  vlastni_stranka: false
+- slug: bara-stepankova
+  jmeno: Bára Štěpánková
+  sledovany: false
+  vlastni_stranka: false
+- slug: daniel-cortus
+  jmeno: Daniel Cortus
+  sledovany: false
+  vlastni_stranka: false
+- slug: alena-schillerova
+  jmeno: Alena Schillerová
+  sledovany: false
+  vlastni_stranka: false
+- slug: pan-krchnavsky
+  jmeno: pan Krchnavský
+  sledovany: false
+  vlastni_stranka: false
+- slug: adam-vojtech
+  jmeno: Adam Vojtěch
+  sledovany: false
+  vlastni_stranka: false
+- slug: vlastimil-valek
+  jmeno: Vlastimil Válek
+  sledovany: false
+  vlastni_stranka: false
+- slug: ladislav-jakl
+  jmeno: Ladislav Jakl
+  sledovany: false
+  vlastni_stranka: false
+- slug: eva-dekrova
+  jmeno: Eva Dekrová
+  sledovany: false
+  vlastni_stranka: false
+- slug: penelope-cimprichova
+  jmeno: Penelope Cimprichová
+  sledovany: false
+  vlastni_stranka: false
+- slug: mikulas-macinka
+  jmeno: Mikuláš Macinka
+  sledovany: false
+  vlastni_stranka: false
+- slug: marek-vasut
+  jmeno: Marek Vašut
+  sledovany: false
+  vlastni_stranka: false
+- slug: martin-puta
+  jmeno: Martin Půta
+  sledovany: false
+  vlastni_stranka: false
+- slug: lukas-hajek
+  jmeno: Lukáš Hájek
+  sledovany: false
+  vlastni_stranka: false
+- slug: tibor-batthyany-gen
+  jmeno: Tibor Batthyány / GEN
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-kral
+  jmeno: Petr Král
+  popis: starosta Mimoně
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-korc
+  jmeno: Petr Korč
+  sledovany: false
+  vlastni_stranka: false
+- slug: scott-ritter
+  jmeno: Scott Ritter
+  sledovany: false
+  vlastni_stranka: false
+- slug: christine-lagarde
+  jmeno: Christine Lagarde
+  sledovany: false
+  vlastni_stranka: false
+- slug: aleksandar-vucic
+  jmeno: Aleksandar Vučić
+  sledovany: false
+  vlastni_stranka: false
+- slug: vladimir-stepan
+  jmeno: Vladimír Štěpán
+  sledovany: false
+  vlastni_stranka: false
+- slug: jeffrey-sachs
+  jmeno: Jeffrey Sachs
+  sledovany: false
+  vlastni_stranka: false
+- slug: jakub-landovsky
+  jmeno: Jakub Landovský
+  sledovany: false
+  vlastni_stranka: false
+- slug: elbridge-kolby
+  jmeno: Elbridge Kolby
+  sledovany: false
+  vlastni_stranka: false
+- slug: ilham-aliyev
+  jmeno: Ilham Aliyev
+  sledovany: false
+  vlastni_stranka: false
+- slug: martin-havlicek
+  jmeno: Martin Havlíček
+  sledovany: false
+  vlastni_stranka: false
+- slug: matthias-desmet
+  jmeno: Matthias Desmet
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-macinka
+  jmeno: Jan Macinka
+  sledovany: false
+  vlastni_stranka: false
+- slug: ondrej-dostal
+  jmeno: Ondřej Dostál
+  sledovany: false
+  vlastni_stranka: false
+- slug: daniela-kovarova
+  jmeno: Daniela Kovářová
+  sledovany: false
+  vlastni_stranka: false
+- slug: herbert-kalinak
+  jmeno: Herbert Kalinák
+  sledovany: false
+  vlastni_stranka: false
+- slug: alexander-stubb
+  jmeno: Alexander Stubb
+  sledovany: false
+  vlastni_stranka: false
+- slug: dmitrij-medvedev
+  jmeno: Dmitrij Medvedev
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-wagefuhr
+  jmeno: Jan Wageführ
+  sledovany: false
+  vlastni_stranka: false
+- slug: daniel-prokop
+  jmeno: Daniel Prokop
+  sledovany: false
+  vlastni_stranka: false
+- slug: marco-rubio
+  jmeno: Marco Rubio
+  sledovany: false
+  vlastni_stranka: false
+- slug: boris-pistorius
+  jmeno: Boris Pistorius
+  sledovany: false
+  vlastni_stranka: false
+- slug: mendelova
+  jmeno: Mendelová
+  sledovany: false
+  vlastni_stranka: false
+- slug: jose-manuel-albares
+  jmeno: José Manuel Albares
+  sledovany: false
+  vlastni_stranka: false
+- slug: keir-starmer
+  jmeno: Keir Starmer
+  sledovany: false
+  vlastni_stranka: false
+- slug: tulsi-gabbard
+  jmeno: Tulsi Gabbard
+  sledovany: false
+  vlastni_stranka: false
+- slug: josef-nerusil
+  jmeno: Josef Nerušil
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-novak
+  jmeno: Pavel Novák
+  sledovany: false
+  vlastni_stranka: false
+- slug: tommy-robinson
+  jmeno: Tommy Robinson
+  sledovany: false
+  vlastni_stranka: false
+- slug: valdis-dombrovskis
+  jmeno: Valdis Dombrovskis
+  sledovany: false
+  vlastni_stranka: false
+- slug: olena-zelenska
+  jmeno: Olena Zelenská
+  sledovany: false
+  vlastni_stranka: false
+- slug: vladimir-sladek
+  jmeno: Vladimír Sládek
+  sledovany: false
+  vlastni_stranka: false
+- slug: wolf-messing
+  jmeno: Wolf Messing
+  sledovany: false
+  vlastni_stranka: false
+- slug: gideon-saar
+  jmeno: Gideon Saar
+  sledovany: false
+  vlastni_stranka: false
+- slug: marie-zacharova
+  jmeno: Marie Zacharova
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomas-hrdlicka
+  jmeno: Tomáš Hrdlička
+  sledovany: false
+  vlastni_stranka: false
+- slug: johansson
+  jmeno: Johansson
+  popis: EU
+  sledovany: false
+  vlastni_stranka: false
+- slug: michal-strnad
+  jmeno: Michal Strnad
+  sledovany: false
+  vlastni_stranka: false
+- slug: gabrielius-landsbergis
+  jmeno: Gabrielius Landsbergis
+  sledovany: false
+  vlastni_stranka: false
+- slug: alexandr-lukasenko
+  jmeno: Alexandr Lukašenko
+  sledovany: false
+  vlastni_stranka: false
+- slug: jeff-bezos
+  jmeno: Jeff Bezos
+  sledovany: false
+  vlastni_stranka: false
+- slug: mark-zuckerberg
+  jmeno: Mark Zuckerberg
+  sledovany: false
+  vlastni_stranka: false
+- slug: alexander-dobrind
+  jmeno: Alexander Dobrind
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-landovsky
+  jmeno: Pavel Landovský
+  sledovany: false
+  vlastni_stranka: false
+- slug: markus-soder
+  jmeno: Markus Söder
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-kolar
+  jmeno: Pavel Kolář
+  sledovany: false
+  vlastni_stranka: false
+- slug: radko-hokovsky
+  jmeno: Radko Hokovský
+  sledovany: false
+  vlastni_stranka: false
+- slug: karel-janecek
+  jmeno: Karel Janeček
+  sledovany: false
+  vlastni_stranka: false
+- slug: enrico-letta
+  jmeno: Enrico Letta
+  sledovany: false
+  vlastni_stranka: false
+- slug: rumen-radev
+  jmeno: Rumen Radev
+  sledovany: false
+  vlastni_stranka: false
+- slug: ivan-bartos
+  jmeno: Ivan Bartoš
+  sledovany: false
+  vlastni_stranka: false
+- slug: kyrylo-budanov
+  jmeno: Kyrylo Budanov
+  sledovany: false
+  vlastni_stranka: false
+- slug: itamar-ben-gvir
+  jmeno: Itamar Ben-Gvir
+  sledovany: false
+  vlastni_stranka: false
+- slug: petra-alexova-polakova
+  jmeno: Petra Alexová Poláková
+  sledovany: false
+  vlastni_stranka: false
+- slug: marija-zacharovova
+  jmeno: Marija Zacharovová
+  sledovany: false
+  vlastni_stranka: false
+- slug: william-polter
+  jmeno: William Polter
+  sledovany: false
+  vlastni_stranka: false
+- slug: kirill-dmitrijev
+  jmeno: Kirill Dmitrijev
+  sledovany: false
+  vlastni_stranka: false
+- slug: anton-siluanov
+  jmeno: Anton Siluanov
+  sledovany: false
+  vlastni_stranka: false
+- slug: johann-wadephul
+  jmeno: Johann Wadephul
+  sledovany: false
+  vlastni_stranka: false
+- slug: vikram-digwa
+  jmeno: Vikram Digwa
+  sledovany: false
+  vlastni_stranka: false
+- slug: nigel-farage
+  jmeno: Nigel Farage
+  sledovany: false
+  vlastni_stranka: false
+- slug: milorad-dodik
+  jmeno: Milorad Dodik
+  sledovany: false
+  vlastni_stranka: false
+- slug: ivanka-trump
+  jmeno: Ivanka Trump
+  sledovany: false
+  vlastni_stranka: false
+- slug: grzegorz-braun
+  jmeno: Grzegorz Braun
+  sledovany: false
+  vlastni_stranka: false
+- slug: ned-rothschild
+  jmeno: Ned Rothschild
+  sledovany: false
+  vlastni_stranka: false
+- slug: daniel-landa
+  jmeno: Daniel Landa
+  sledovany: false
+  vlastni_stranka: false
+- slug: ivan-kratochvil
+  jmeno: Ivan Kratochvíl
+  sledovany: false
+  vlastni_stranka: false
+- slug: erik-trump
+  jmeno: Erik Trump
+  sledovany: false
+  vlastni_stranka: false
+- slug: marek-kuba
+  jmeno: Marek Kuba
+  sledovany: false
+  vlastni_stranka: false
+- slug: liz-truss
+  jmeno: Liz Truss
+  sledovany: false
+  vlastni_stranka: false
+- slug: antonio-costa
+  jmeno: Antonio Costa
+  sledovany: false
+  vlastni_stranka: false
+- slug: larry-johnson
+  jmeno: Larry Johnson
+  sledovany: false
+  vlastni_stranka: false
+- slug: jana-lorencova
+  jmeno: Jana Lorencová
+  sledovany: false
+  vlastni_stranka: false
+- slug: vaclav-klaus
+  jmeno: Václav Klaus
+  sledovany: false
+  vlastni_stranka: false
+- slug: lindsey-graham
+  jmeno: Lindsey Graham
+  sledovany: false
+  vlastni_stranka: false
+- slug: ahmed-al-saraa
+  jmeno: Ahmed al-Šaraa
+  sledovany: false
+  vlastni_stranka: false
+- slug: vlasta-kovarova
+  jmeno: Vlasta Kovářová
+  sledovany: false
+  vlastni_stranka: false
+- slug: j-d-vance
+  jmeno: J. D. Vance
+  sledovany: false
+  vlastni_stranka: false
+- slug: tucker-carlson
+  jmeno: Tucker Carlson
+  sledovany: false
+  vlastni_stranka: false
+- slug: nicolas-maduro
+  jmeno: Nicolás Maduro
+  sledovany: false
+  vlastni_stranka: false
+- slug: dariusz-matecki
+  jmeno: Dariusz Matecki
+  sledovany: false
+  vlastni_stranka: false
+- slug: alice-weidelova
+  jmeno: Alice Weidelová
+  sledovany: false
+  vlastni_stranka: false
+- slug: jaromir-zuna
+  jmeno: Jaromír Zuna
+  sledovany: false
+  vlastni_stranka: false
+- slug: krzysztof-to-winski
+  jmeno: Krzysztof Tołwiński
+  sledovany: false
+  vlastni_stranka: false
+- slug: vladimir-solovjov
+  jmeno: Vladimir Solovjov
+  sledovany: false
+  vlastni_stranka: false
+- slug: kirilo-budanov
+  jmeno: Kirilo Budanov
+  sledovany: false
+  vlastni_stranka: false
+- slug: ratko-mladic
+  jmeno: Ratko Mladić
+  sledovany: false
+  vlastni_stranka: false
+- slug: recep-tayyip-erdogan
+  jmeno: Recep Tayyip Erdoğan
+  sledovany: false
+  vlastni_stranka: false
+- slug: valerij-zaluznyj
+  jmeno: Valerij Zalužnyj
+  sledovany: false
+  vlastni_stranka: false
+- slug: sahra-wagenknechtova
+  jmeno: Sahra Wagenknechtová
+  sledovany: false
+  vlastni_stranka: false
+- slug: peter-szijjarto
+  jmeno: Péter Szijjártó
+  sledovany: false
+  vlastni_stranka: false
+- slug: jaroslav-foldina
+  jmeno: Jaroslav Foldina
+  sledovany: false
+  vlastni_stranka: false
+- slug: martin-konvicka
+  jmeno: Martin Konvička
+  sledovany: false
+  vlastni_stranka: false
+- slug: robert-malone
+  jmeno: Robert Malone
+  sledovany: false
+  vlastni_stranka: false
+- slug: andy-burnham
+  jmeno: Andy Burnham
+  sledovany: false
+  vlastni_stranka: false
+- slug: achmed-zakajev
+  jmeno: Achmed Zakajev
+  sledovany: false
+  vlastni_stranka: false
+- slug: stefan-bartok
+  jmeno: Štefan Bartók
+  sledovany: false
+  vlastni_stranka: false
+- slug: michaela-pirkova
+  jmeno: Michaela Pírková
+  sledovany: false
+  vlastni_stranka: false
+- slug: michal-koudelka
+  jmeno: Michal Koudelka
+  sledovany: false
+  vlastni_stranka: false
+- slug: michailo-drapatyj
+  jmeno: Michailo Drapatyj
+  sledovany: false
+  vlastni_stranka: false
+- slug: benjamin-netanjahu
+  jmeno: Benjamin Netanjahu
+  sledovany: false
+  vlastni_stranka: false
+- slug: andrij-bilecky
+  jmeno: Andrij Bilecký
+  sledovany: false
+  vlastni_stranka: false
+- slug: stefan-harabin
+  jmeno: Štefan Harabin
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-tykac
+  jmeno: Pavel Tykač
+  sledovany: false
+  vlastni_stranka: false
+- slug: andras-baka
+  jmeno: András Baka
+  sledovany: false
+  vlastni_stranka: false
+- slug: marek-novak
+  jmeno: Marek Novák
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-bystron
+  jmeno: Petr Bystroň
+  sledovany: false
+  vlastni_stranka: false
+- slug: catherine-austin-fitts
+  jmeno: Catherine Austin Fitts
+  sledovany: false
+  vlastni_stranka: false
+- slug: conor-kennedy
+  jmeno: Conor Kennedy
+  sledovany: false
+  vlastni_stranka: false
+- slug: erik-best
+  jmeno: Erik Best
+  sledovany: false
+  vlastni_stranka: false
+- slug: stanislav-novotny
+  jmeno: Stanislav Novotný
+  sledovany: false
+  vlastni_stranka: false
+- slug: zarko-jovanovic
+  jmeno: Žarko Jovanović
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-havel
+  jmeno: Jiří Havel
+  sledovany: false
+  vlastni_stranka: false
+- slug: ministr-obrany-izraele
+  jmeno: ministr obrany Izraele
+  sledovany: false
+  vlastni_stranka: false
+- slug: keith-kellogg
+  jmeno: Keith Kellogg
+  sledovany: false
+  vlastni_stranka: false
+- slug: david-rockefeller
+  jmeno: David Rockefeller
+  sledovany: false
+  vlastni_stranka: false
+- slug: david-konecky
+  jmeno: David Konecký
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-hajek
+  jmeno: Petr Hájek
+  sledovany: false
+  vlastni_stranka: false
+- slug: korina-rybarova
+  jmeno: Korina Rybářová
+  sledovany: false
+  vlastni_stranka: false
+- slug: ivan-david
+  jmeno: Ivan David
+  sledovany: false
+  vlastni_stranka: false
+- slug: zuzana-majerova
+  jmeno: Zuzana Majerová
+  sledovany: false
+  vlastni_stranka: false
+- slug: richard-stepan
+  jmeno: Richard Štěpán
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-drobil
+  jmeno: Pavel Drobil
+  sledovany: false
+  vlastni_stranka: false
+- slug: alex-karp
+  jmeno: Alex Karp
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-robejsek
+  jmeno: Petr Robejšek
+  sledovany: false
+  vlastni_stranka: false
+- slug: vasyl-zvaric
+  jmeno: Vasyl Zvarič
+  sledovany: false
+  vlastni_stranka: false
+- slug: marta-kos
+  jmeno: Marta Kos
+  sledovany: false
+  vlastni_stranka: false
+- slug: radko-mladic
+  jmeno: Radko Mladić
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-bubenicek
+  jmeno: Petr Bubeníček
+  sledovany: false
+  vlastni_stranka: false
+- slug: petro-porosenko
+  jmeno: Petro Porošenko
+  sledovany: false
+  vlastni_stranka: false
+- slug: edi-rama
+  jmeno: Edi Rama
+  sledovany: false
+  vlastni_stranka: false
+- slug: daniel-benes
+  jmeno: Daniel Beneš
+  sledovany: false
+  vlastni_stranka: false
+- slug: wesley-clark
+  jmeno: Wesley Clark
+  sledovany: false
+  vlastni_stranka: false
+- slug: mark-carney
+  jmeno: Mark Carney
+  sledovany: false
+  vlastni_stranka: false
+- slug: aleksandr-lukasenko
+  jmeno: Aleksandr Lukašenko
+  sledovany: false
+  vlastni_stranka: false
+- slug: josef-mengele
+  jmeno: Josef Mengele
+  sledovany: false
+  vlastni_stranka: false
+- slug: julie-mendelova
+  jmeno: Julie Mendelová
+  sledovany: false
+  vlastni_stranka: false
+- slug: rados-aw-sikorski
+  jmeno: Radosław Sikorski
+  sledovany: false
+  vlastni_stranka: false
+- slug: hasim-taci
+  jmeno: Hašim Tači
+  sledovany: false
+  vlastni_stranka: false
+- slug: masud-pezeskjan
+  jmeno: Masúd Pezeškján
+  sledovany: false
+  vlastni_stranka: false
+- slug: nikita-chruscov
+  jmeno: Nikita Chruščov
+  sledovany: false
+  vlastni_stranka: false
+- slug: peter-pellegrini
+  jmeno: Peter Pellegrini
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-bures
+  jmeno: Petr Bureš
+  sledovany: false
+  vlastni_stranka: false
+- slug: jana-hruskova
+  jmeno: Jana Hrušková
+  sledovany: false
+  vlastni_stranka: false
+- slug: papez-lev-xiv-katolicka-cirkev
+  jmeno: Papež Lev XIV. / katolická církev
+  sledovany: false
+  vlastni_stranka: false
+- slug: katerina-blahnikova
+  jmeno: Kateřina Blahníková
+  sledovany: false
+  vlastni_stranka: false
+- slug: ales-svoboda
+  jmeno: Aleš Svoboda
+  sledovany: false
+  vlastni_stranka: false
+- slug: heiko-schoning
+  jmeno: Heiko Schöning
+  sledovany: false
+  vlastni_stranka: false
+- slug: ana-brnabic
+  jmeno: Ana Brnabić
+  sledovany: false
+  vlastni_stranka: false
+- slug: emir-kusturica
+  jmeno: Emir Kusturica
+  sledovany: false
+  vlastni_stranka: false
+- slug: josef-kupcik
+  jmeno: Josef Kupčík
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-drulak
+  jmeno: Petr Drulák
+  sledovany: false
+  vlastni_stranka: false
+- slug: savo-minic-milorad-dodik
+  jmeno: Savo Minić / Milorad Dodik
+  sledovany: false
+  vlastni_stranka: false
+- slug: michala-ganovska
+  jmeno: Michala Gánovská
+  sledovany: false
+  vlastni_stranka: false
+- slug: robert-kalinak
+  jmeno: Robert Kaliňák
+  sledovany: false
+  vlastni_stranka: false
+- slug: dan-j-rgensen
+  jmeno: Dan Jørgensen
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-hubacek
+  jmeno: Pavel Hubáček
+  sledovany: false
+  vlastni_stranka: false
+- slug: michail-zvincuk
+  jmeno: Michail Zvinčuk
+  popis: Rybar
+  sledovany: false
+  vlastni_stranka: false
+- slug: susan-dell
+  jmeno: Susan Dell
+  sledovany: false
+  vlastni_stranka: false
+- slug: mattias-desmet
+  jmeno: Mattias Desmet
+  sledovany: false
+  vlastni_stranka: false
+- slug: alexus-grynkewich
+  jmeno: Alexus Grynkewich
+  sledovany: false
+  vlastni_stranka: false
+- slug: ken-mccallum
+  jmeno: Ken McCallum
+  sledovany: false
+  vlastni_stranka: false
+- slug: mette-frederiksenova
+  jmeno: Mette Frederiksenová
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-paroubek
+  jmeno: Jiří Paroubek
+  sledovany: false
+  vlastni_stranka: false
+- slug: katka-rovna
+  jmeno: Katka Rovná
+  sledovany: false
+  vlastni_stranka: false
+- slug: slavek-popelka
+  jmeno: Slávek Popelka
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-zybko
+  jmeno: Pavel Zýbko
+  sledovany: false
+  vlastni_stranka: false
+- slug: oleksij-makejev
+  jmeno: Oleksij Makejev
+  sledovany: false
+  vlastni_stranka: false
+- slug: bsw
+  jmeno: BSW
+  sledovany: false
+  vlastni_stranka: false
+- slug: reiner-fuellmich
+  jmeno: Reiner Fuellmich
+  sledovany: false
+  vlastni_stranka: false
+- slug: lukas-hassig
+  jmeno: Lukas Hässig
+  sledovany: false
+  vlastni_stranka: false
+- slug: vladimira-vitova
+  jmeno: Vladimíra Vítová
+  sledovany: false
+  vlastni_stranka: false
+- slug: martin-koller
+  jmeno: Martin Koller
+  sledovany: false
+  vlastni_stranka: false
+- slug: david-tesar
+  jmeno: David Tesař
+  sledovany: false
+  vlastni_stranka: false
+- slug: adam-hartos
+  jmeno: Adam Hartoš
+  sledovany: false
+  vlastni_stranka: false
+- slug: patrik-korenar
+  jmeno: Patrik Kořenář
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-fila
+  jmeno: Pavel Fíla
+  sledovany: false
+  vlastni_stranka: false
+- slug: vit-barta
+  jmeno: Vít Bárta
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-necas
+  jmeno: Petr Nečas
+  sledovany: false
+  vlastni_stranka: false
+- slug: david-rath
+  jmeno: David Rath
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomas-kopecny
+  jmeno: Tomáš Kopečný
+  sledovany: false
+  vlastni_stranka: false
+- slug: henry-kissinger
+  jmeno: Henry Kissinger
+  sledovany: false
+  vlastni_stranka: false
+- slug: jana-bobosikova
+  jmeno: Jana Bobošíková
+  sledovany: false
+  vlastni_stranka: false
+- slug: steve-witkoff
+  jmeno: Steve Witkoff
+  sledovany: false
+  vlastni_stranka: false
+- slug: veronika-cerna
+  jmeno: Veronika Černá
+  sledovany: false
+  vlastni_stranka: false
+- slug: lubos-volny
+  jmeno: Luboš Volný
+  sledovany: false
+  vlastni_stranka: false
+- slug: katka-blahnikova
+  jmeno: Katka Blahníková
+  sledovany: false
+  vlastni_stranka: false
+- slug: melania-trumpova
+  jmeno: Melania Trumpová
+  sledovany: false
+  vlastni_stranka: false
+- slug: giorgia-meloniova
+  jmeno: Giorgia Meloniová
+  sledovany: false
+  vlastni_stranka: false
+- slug: dr-vitova
+  jmeno: dr. Vítová
+  sledovany: false
+  vlastni_stranka: false
+- slug: patryk-jaki
+  jmeno: Patryk Jaki
+  sledovany: false
+  vlastni_stranka: false
+- slug: ivanka-trumpova
+  jmeno: Ivanka Trumpová
+  sledovany: false
+  vlastni_stranka: false
+- slug: anton-klobuckin
+  jmeno: Anton Klobučkin
+  sledovany: false
+  vlastni_stranka: false
+- slug: studentske-hnuti
+  jmeno: Studentské hnutí
+  popis: Srbsko
+  sledovany: false
+  vlastni_stranka: false
+- slug: vojislav-kostunica
+  jmeno: Vojislav Koštunica
+  sledovany: false
+  vlastni_stranka: false
+- slug: clovek-v-tisni
+  jmeno: Člověk v tísni
+  sledovany: false
+  vlastni_stranka: false
+- slug: lula-da-silva
+  jmeno: Lula da Silva
+  sledovany: false
+  vlastni_stranka: false
+- slug: jair-bolsonaro
+  jmeno: Jair Bolsonaro
+  sledovany: false
+  vlastni_stranka: false
+- slug: flavio-bolsonaro
+  jmeno: Flávio Bolsonaro
+  sledovany: false
+  vlastni_stranka: false
+- slug: russell-brand
+  jmeno: Russell Brand
+  sledovany: false
+  vlastni_stranka: false
+- slug: ryan-williams
+  jmeno: Ryan Williams
+  sledovany: false
+  vlastni_stranka: false
+- slug: jana-kovarova
+  jmeno: Jana Kovářová
+  popis: senátorka
+  sledovany: false
+  vlastni_stranka: false
+- slug: christine-lagardeova
+  jmeno: Christine Lagardeová
+  sledovany: false
+  vlastni_stranka: false
+- slug: sebastian-kurz
+  jmeno: Sebastian Kurz
+  sledovany: false
+  vlastni_stranka: false
+- slug: ilija-srdzanovic
+  jmeno: Ilija Srdžanović
+  sledovany: false
+  vlastni_stranka: false
+- slug: roman-fritz
+  jmeno: Roman Fritz
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-ovcacek
+  jmeno: Jiří Ovčáček
+  sledovany: false
+  vlastni_stranka: false
+- slug: padmasambhava
+  jmeno: Padmasambhava
+  popis: Guru Rinpočhe
+  sledovany: false
+  vlastni_stranka: false
+- slug: yuval-noah-harari
+  jmeno: Yuval Noah Harari
+  sledovany: false
+  vlastni_stranka: false
+- slug: julia-mendelova
+  jmeno: Julia Mendelová
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomas-taraba
+  jmeno: Tomáš Taraba
+  sledovany: false
+  vlastni_stranka: false
+- slug: marketa-gregorova
+  jmeno: Markéta Gregorová
+  sledovany: false
+  vlastni_stranka: false
+- slug: valerija-molodova
+  jmeno: Valerija Molodova
+  sledovany: false
+  vlastni_stranka: false
+- slug: andrew-bridgen
+  jmeno: Andrew Bridgen
+  sledovany: false
+  vlastni_stranka: false
+- slug: chrystia-freelandova
+  jmeno: Chrystia Freelandová
+  sledovany: false
+  vlastni_stranka: false
+- slug: justin-trudeau
+  jmeno: Justin Trudeau
+  sledovany: false
+  vlastni_stranka: false
+- slug: andrij-sybiha
+  jmeno: Andrij Sybiha
+  sledovany: false
+  vlastni_stranka: false
+- slug: trikolora
+  jmeno: Trikolora
+  sledovany: false
+  vlastni_stranka: false
+- slug: svobodni
+  jmeno: Svobodní
+  sledovany: false
+  vlastni_stranka: false
+- slug: motoriste
+  jmeno: Motoristé
+  sledovany: false
+  vlastni_stranka: false
+- slug: catherine-austin-fittsova
+  jmeno: Catherine Austin Fittsová
+  sledovany: false
+  vlastni_stranka: false
+- slug: pirati
+  jmeno: Piráti
+  sledovany: false
+  vlastni_stranka: false
+- slug: aleksandar-vulin
+  jmeno: Aleksandar Vulin
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-janecek
+  jmeno: Jiří Janeček
+  sledovany: false
+  vlastni_stranka: false
+- slug: lenka-bradacova
+  jmeno: Lenka Bradáčová
+  sledovany: false
+  vlastni_stranka: false
+- slug: kim-iversenova
+  jmeno: Kim Iversenová
+  sledovany: false
+  vlastni_stranka: false
+- slug: major-kolar
+  jmeno: Major Kolář
+  sledovany: false
+  vlastni_stranka: false
+- slug: studentstvo-studenti-famu
+  jmeno: Studentstvo / studenti FAMU
+  sledovany: false
+  vlastni_stranka: false
+- slug: matyas-svoboda-michal-chladek
+  jmeno: Matyáš Svoboda / Michal Chládek
+  sledovany: false
+  vlastni_stranka: false
+- slug: alexej-drobinin
+  jmeno: Alexej Drobinin
+  sledovany: false
+  vlastni_stranka: false
+- slug: julian-reichelt
+  jmeno: Julian Reichelt
+  sledovany: false
+  vlastni_stranka: false
+- slug: ivan-trojan
+  jmeno: Ivan Trojan
+  sledovany: false
+  vlastni_stranka: false
+- slug: calin-georgescu
+  jmeno: Călin Georgescu
+  sledovany: false
+  vlastni_stranka: false
+- slug: dalibor-dedek
+  jmeno: Dalibor Dědek
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavek
+  jmeno: Pávek
+  sledovany: false
+  vlastni_stranka: false
+- slug: bures
+  jmeno: Bureš
+  sledovany: false
+  vlastni_stranka: false
+- slug: ludvik-zifcak
+  jmeno: Ludvík Zifčák
+  popis: Šmíd
+  sledovany: false
+  vlastni_stranka: false
+- slug: bojana-vrabelova
+  jmeno: Bojana Vrabelová
+  sledovany: false
+  vlastni_stranka: false
+- slug: chay-bowes
+  jmeno: Chay Bowes
+  sledovany: false
+  vlastni_stranka: false
+- slug: radovan-dluhy
+  jmeno: Radovan Dluhý
+  sledovany: false
+  vlastni_stranka: false
+- slug: prorok-mohamed
+  jmeno: Prorok Mohamed
+  sledovany: false
+  vlastni_stranka: false
+- slug: glenn-diesen
+  jmeno: Glenn Diesen
+  sledovany: false
+  vlastni_stranka: false
+- slug: marian-kotleba
+  jmeno: Marian Kotleba
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-hlavka
+  jmeno: Pavel Hlávka
+  sledovany: false
+  vlastni_stranka: false
+- slug: jaroslav-henzl
+  jmeno: Jaroslav Henzl
+  sledovany: false
+  vlastni_stranka: false
+- slug: alain-berset
+  jmeno: Alain Berset
+  sledovany: false
+  vlastni_stranka: false
+- slug: milan-kubek
+  jmeno: Milan Kubek
+  sledovany: false
+  vlastni_stranka: false
+- slug: daniel-bombic
+  jmeno: Daniel Bombic
+  popis: Danykolár
+  sledovany: false
+  vlastni_stranka: false
+- slug: roman-kovarik
+  jmeno: Roman Kovařík
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-strasky
+  jmeno: Jan Stráský
+  sledovany: false
+  vlastni_stranka: false
+- slug: peterson-pierre
+  jmeno: Peterson Pierre
+  sledovany: false
+  vlastni_stranka: false
+- slug: barbara-o-neill
+  jmeno: Barbara O'Neill
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-zaloudik
+  jmeno: Jan Žaloudík
+  sledovany: false
+  vlastni_stranka: false
+- slug: albert-bourla
+  jmeno: Albert Bourla
+  sledovany: false
+  vlastni_stranka: false
+- slug: helmut-sterz
+  jmeno: Helmut Sterz
+  sledovany: false
+  vlastni_stranka: false
+- slug: ute-kruger
+  jmeno: Ute Kruger
+  sledovany: false
+  vlastni_stranka: false
+- slug: barry-young
+  jmeno: Barry Young
+  sledovany: false
+  vlastni_stranka: false
+- slug: michala-jilkova
+  jmeno: Michala Jílková
+  sledovany: false
+  vlastni_stranka: false
+- slug: hinek-chudarek
+  jmeno: Hinek Chudárek
+  sledovany: false
+  vlastni_stranka: false
+- slug: jan-smrs
+  jmeno: Jan Smrš
+  sledovany: false
+  vlastni_stranka: false
+- slug: daniela-rajfova
+  jmeno: Daniela Rajfová
+  sledovany: false
+  vlastni_stranka: false
+- slug: ondrej-havlik
+  jmeno: Ondřej Havlík
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-tejc
+  jmeno: Jiří Tejc
+  sledovany: false
+  vlastni_stranka: false
+- slug: martin-stransky
+  jmeno: Martin Stránský
+  sledovany: false
+  vlastni_stranka: false
+- slug: martin-nejedly
+  jmeno: Martin Nejedlý
+  sledovany: false
+  vlastni_stranka: false
+- slug: lubomir-slosar
+  jmeno: Ľubomír Šlosár
+  sledovany: false
+  vlastni_stranka: false
+- slug: marian-kotlar
+  jmeno: Marian Kotlár
+  sledovany: false
+  vlastni_stranka: false
+- slug: andrej-belousov
+  jmeno: Andrej Bělousov
+  sledovany: false
+  vlastni_stranka: false
+- slug: iva-dvorakova
+  jmeno: Iva Dvořáková
+  sledovany: false
+  vlastni_stranka: false
+- slug: antonin-zapotocky
+  jmeno: Antonín Zápotocký
+  sledovany: false
+  vlastni_stranka: false
+- slug: barack-obama
+  jmeno: Barack Obama
+  sledovany: false
+  vlastni_stranka: false
+- slug: igor-matovic
+  jmeno: Igor Matovič
+  sledovany: false
+  vlastni_stranka: false
+- slug: milan-friedrich
+  jmeno: Milan Friedrich
+  sledovany: false
+  vlastni_stranka: false
+- slug: vladimir-meciar
+  jmeno: Vladimír Mečiar
+  sledovany: false
+  vlastni_stranka: false
+- slug: hynek-chudarek
+  jmeno: Hynek Chudárek
+  sledovany: false
+  vlastni_stranka: false
+- slug: dolores-cannon
+  jmeno: Dolores Cannon
+  sledovany: false
+  vlastni_stranka: false
+- slug: valerij-pjakin
+  jmeno: Valerij Pjakin
+  sledovany: false
+  vlastni_stranka: false
+- slug: michala-klarova
+  jmeno: Michala Klárová
+  sledovany: false
+  vlastni_stranka: false
+- slug: kristyna-cirokova
+  jmeno: Kristýna Ciroková
+  sledovany: false
+  vlastni_stranka: false
+- slug: cyril-svoboda
+  jmeno: Cyril Svoboda
+  sledovany: false
+  vlastni_stranka: false
+- slug: rene-balaz
+  jmeno: René Baláž
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-svec
+  jmeno: Petr Švec
+  sledovany: false
+  vlastni_stranka: false
+- slug: jana-katarina-benke
+  jmeno: Jana Katarína Benke
+  sledovany: false
+  vlastni_stranka: false
+- slug: ladislav-kamenicky
+  jmeno: Ladislav Kamenický
+  sledovany: false
+  vlastni_stranka: false
+- slug: psenak
+  jmeno: „Pšenák"
+  sledovany: false
+  vlastni_stranka: false
+- slug: oganesian
+  jmeno: Oganesian
+  sledovany: false
+  vlastni_stranka: false
+- slug: blujova
+  jmeno: „Blujová"
+  sledovany: false
+  vlastni_stranka: false
+- slug: david-werner
+  jmeno: David Werner
+  sledovany: false
+  vlastni_stranka: false
+- slug: kimberly-overton
+  jmeno: Kimberly Overton
+  sledovany: false
+  vlastni_stranka: false
+- slug: mazanek
+  jmeno: Mazánek
+  sledovany: false
+  vlastni_stranka: false
+- slug: radim-dragoun
+  jmeno: Radim Dragoun
+  sledovany: false
+  vlastni_stranka: false
+- slug: marine-le-pen
+  jmeno: Marine Le Pen
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomas-salaj
+  jmeno: Tomáš Salaj
+  sledovany: false
+  vlastni_stranka: false
+- slug: jeremy-farrar
+  jmeno: Jeremy Farrar
+  sledovany: false
+  vlastni_stranka: false
+- slug: marek-stonis
+  jmeno: Marek Stoniš
+  sledovany: false
+  vlastni_stranka: false
+- slug: martina-kocijanova
+  jmeno: Martina Kocijánová
+  sledovany: false
+  vlastni_stranka: false
+- slug: irena-storova
+  jmeno: Irena Storová
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-lnenicka
+  jmeno: Jiří Lněnička
+  popis: soudce
+  sledovany: false
+  vlastni_stranka: false
+- slug: trump
+  jmeno: Trump
+  sledovany: false
+  vlastni_stranka: false
+- slug: bin-salman
+  jmeno: bin Salmán
+  sledovany: false
+  vlastni_stranka: false
+- slug: modi
+  jmeno: Módí
+  sledovany: false
+  vlastni_stranka: false
+- slug: klaus
+  jmeno: Klaus
+  sledovany: false
+  vlastni_stranka: false
+- slug: meciar
+  jmeno: Mečiar
+  sledovany: false
+  vlastni_stranka: false
+- slug: havel
+  jmeno: Havel
+  sledovany: false
+  vlastni_stranka: false
+- slug: norbert-naxera
+  jmeno: Norbert Naxera
+  sledovany: false
+  vlastni_stranka: false
+- slug: tom-hanks
+  jmeno: Tom Hanks
+  sledovany: false
+  vlastni_stranka: false
+- slug: martin-turek
+  jmeno: Martin Turek
+  sledovany: false
+  vlastni_stranka: false
+- slug: marie-sisakova
+  jmeno: Marie Šišáková
+  sledovany: false
+  vlastni_stranka: false
+- slug: denisa-smidova
+  jmeno: Denisa Šmídová
+  popis: soudkyně
+  sledovany: false
+  vlastni_stranka: false
+- slug: bob-acer
+  jmeno: Bob Acer
+  sledovany: false
+  vlastni_stranka: false
+- slug: michal-pijak
+  jmeno: Michal Piják
+  sledovany: false
+  vlastni_stranka: false
+- slug: dan-vavra
+  jmeno: Dan Vávra
+  sledovany: false
+  vlastni_stranka: false
+- slug: naxera
+  jmeno: Naxera
+  popis: advokát
+  sledovany: false
+  vlastni_stranka: false
+- slug: ivan-masaryk
+  jmeno: Ivan Masaryk
+  sledovany: false
+  vlastni_stranka: false
+- slug: jiri-cernota
+  jmeno: Jiří Černota
+  popis: BEWIT
+  sledovany: false
+  vlastni_stranka: false
+- slug: vaclav-rada
+  jmeno: Václav Rada
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-varhanik
+  jmeno: Petr Varhaník
+  sledovany: false
+  vlastni_stranka: false
+- slug: peter-stassen
+  jmeno: Peter Stassen
+  sledovany: false
+  vlastni_stranka: false
+- slug: iva-millerova
+  jmeno: Iva Millerová
+  sledovany: false
+  vlastni_stranka: false
+- slug: marcela-maruskova
+  jmeno: Marcela Marušková
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel-rychetsky
+  jmeno: Pavel Rychetský
+  sledovany: false
+  vlastni_stranka: false
+- slug: patrik-svoboda
+  jmeno: Patrik Svoboda
+  sledovany: false
+  vlastni_stranka: false
+- slug: bartkovsky
+  jmeno: Bartkovský
+  popis: Reflex
+  sledovany: false
+  vlastni_stranka: false
+- slug: josef-tosovsky
+  jmeno: Josef Tošovský
+  sledovany: false
+  vlastni_stranka: false
+- slug: karel-kryl
+  jmeno: Karel Kryl
+  sledovany: false
+  vlastni_stranka: false
+- slug: roman-cechmanek
+  jmeno: Roman Čechmánek
+  sledovany: false
+  vlastni_stranka: false
+- slug: melissa-moore
+  jmeno: Melissa Moore
+  sledovany: false
+  vlastni_stranka: false
+- slug: alexander-dubcek
+  jmeno: Alexander Dubček
+  sledovany: false
+  vlastni_stranka: false
+- slug: konstantin-stanek
+  jmeno: Konstantin Stanek
+  sledovany: false
+  vlastni_stranka: false
+- slug: julian-assange
+  jmeno: Julian Assange
+  sledovany: false
+  vlastni_stranka: false
+- slug: stephen-miller
+  jmeno: Stephen Miller
+  sledovany: false
+  vlastni_stranka: false
+- slug: thomas-massie
+  jmeno: Thomas Massie
+  sledovany: false
+  vlastni_stranka: false
+- slug: candace-owensova
+  jmeno: Candace Owensová
+  sledovany: false
+  vlastni_stranka: false
+- slug: marjorie-taylor-greeneova
+  jmeno: Marjorie Taylor Greeneová
+  sledovany: false
+  vlastni_stranka: false
+- slug: susie-wiles
+  jmeno: Susie Wiles
+  sledovany: false
+  vlastni_stranka: false
+- slug: tedros-adhanom-ghebreyesus
+  jmeno: Tedros Adhanom Ghebreyesus
+  sledovany: false
+  vlastni_stranka: false
+- slug: zdenka-krestakova
+  jmeno: Zdenka Křešťáková
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-cvalin
+  jmeno: Petr Cvalín
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-kellner
+  jmeno: Petr Kellner
+  sledovany: false
+  vlastni_stranka: false
+- slug: matka-tomase-cermaka
+  jmeno: Matka Tomáše Čermáka
+  sledovany: false
+  vlastni_stranka: false
+- slug: vaclav-horejsi
+  jmeno: Václav Hořejší
+  sledovany: false
+  vlastni_stranka: false
+- slug: paul-mccartney
+  jmeno: Paul McCartney
+  sledovany: false
+  vlastni_stranka: false
+- slug: george-w-bush
+  jmeno: George W. Bush
+  sledovany: false
+  vlastni_stranka: false
+- slug: donald-rumsfeld
+  jmeno: Donald Rumsfeld
+  sledovany: false
+  vlastni_stranka: false
+- slug: dick-cheney
+  jmeno: Dick Cheney
+  sledovany: false
+  vlastni_stranka: false
+- slug: robert-f-kennedy-jr
+  jmeno: Robert F. Kennedy Jr.
+  sledovany: false
+  vlastni_stranka: false
+- slug: katerina-vasakova
+  jmeno: Kateřina Vašáková
+  sledovany: false
+  vlastni_stranka: false
+- slug: daniela-kolarova
+  jmeno: Daniela Kolářová
+  sledovany: false
+  vlastni_stranka: false
+- slug: barack-a-michelle-obamovi
+  jmeno: Barack a Michelle Obamovi
+  sledovany: false
+  vlastni_stranka: false
+- slug: suchomel
+  jmeno: Suchomel
+  sledovany: false
+  vlastni_stranka: false
+- slug: sas-z-trencina
+  jmeno: „Sas z Trenčína“
+  sledovany: false
+  vlastni_stranka: false
+- slug: christine-andersson
+  jmeno: Christine Andersson
+  sledovany: false
+  vlastni_stranka: false
+- slug: kevin-mckernan
+  jmeno: Kevin McKernan
+  sledovany: false
+  vlastni_stranka: false
+- slug: angus-dalgleish
+  jmeno: Angus Dalgleish
+  sledovany: false
+  vlastni_stranka: false
+- slug: john-f-kennedy-jr
+  jmeno: John F. Kennedy Jr.
+  sledovany: false
+  vlastni_stranka: false
+- slug: alois-lorenz
+  jmeno: Alois Lorenz
+  sledovany: false
+  vlastni_stranka: false
+- slug: drahomira-drazska
+  jmeno: Drahomíra Dražská
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-uhl
+  jmeno: Petr Uhl
+  sledovany: false
+  vlastni_stranka: false
+- slug: honza-dedek
+  jmeno: Honza Dědek
+  sledovany: false
+  vlastni_stranka: false
+- slug: eva-farna
+  jmeno: Eva Farná
+  sledovany: false
+  vlastni_stranka: false
+- slug: mirai-navratil
+  jmeno: Mirai Navrátil
+  sledovany: false
+  vlastni_stranka: false
+- slug: tomas-langasek
+  jmeno: Tomáš Langášek
+  sledovany: false
+  vlastni_stranka: false
+- slug: livia-klausova
+  jmeno: Livia Klausová
+  sledovany: false
+  vlastni_stranka: false
+- slug: jana-wolfova
+  jmeno: Jana Wolfová
+  sledovany: false
+  vlastni_stranka: false
+- slug: valtr-komarek
+  jmeno: Valtr Komárek
+  sledovany: false
+  vlastni_stranka: false
+- slug: sukl
+  jmeno: SÚKL
+  sledovany: false
+  vlastni_stranka: false
+- slug: babis
+  jmeno: Babiš
+  sledovany: false
+  vlastni_stranka: false
+- slug: pavel
+  jmeno: Pavel
+  sledovany: false
+  vlastni_stranka: false
+- slug: okamura
+  jmeno: Okamura
+  sledovany: false
+  vlastni_stranka: false
+- slug: stanley-kubrick
+  jmeno: Stanley Kubrick
+  sledovany: false
+  vlastni_stranka: false

@@ -9,6 +9,13 @@ zdroj:
   rezim: standard
   delka: '2:21'
   poznamka: 'Zhlédnutí: 58 282'
+  osoby:
+  - osoba: libor-vondracek
+    vztah: neutralni
+    kontext: Spoluautor návrhu zákona FARA; Rajchl opravuje mediální zkratku, že zákon psal s Vachatovou
+  - osoba: radek-vondracek
+    vztah: neutralni
+    kontext: Spoluautor návrhu zákona FARA
 vyroky:
 - id: rajchl-2026-03-29-01
   typ: tvrzeni

@@ -22,4 +22,12 @@ vyroky:
     a podle Šejny o něm šíří nepravdivá tvrzení. Šejna z toho vyvozuje obecnější vzorec chování: obě osobnosti
     podle něj urážejí každého, kdo s nimi odmítne debatovat, a zároveň svůj politický aktivismus schovávají
     za novinářskou/odbornou profesi.'
+  osoby:
+  - osoba: nora-fridrichova
+    vztah: negativni
+    kontext: Urazila Šejnu po odmítnutí pozvání do jejího podcastu
+  - osoba: daniel-cortus
+    vztah: negativni
+    kontext: „Klimatomluva" — veřejně napadá Filipa Turka za odmítnutí rozhovoru, aktivismus schovaný
+      za profesi
   podtema: Nová alternativní média

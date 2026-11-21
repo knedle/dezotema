@@ -25,4 +25,11 @@ vyroky:
   - text: Posílání kapacit srbských nezávislých médií v informování o výzvách zelené transformace. [...]
       Produkce chilly v Zambii. Rodinné kurníky v Salvádoru. [...] A k tomu samozřejmě přehlídka politických
       neziskovek progresivistického směru, které tunelují peníze od rána do večera.
+  osoby:
+  - osoba: jan-lipavsky
+    vztah: negativni
+    kontext: Označen za diletanta, hrdého na financování kurníků v Salvadoru z českých daní
+  - osoba: petr-macinka
+    vztah: neutralni
+    kontext: Přišel na zahraniční výbor prezentovat zahraniční pomoc; Rajchl ho nevytýká
   podtema: Zahraniční politika

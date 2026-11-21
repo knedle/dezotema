@@ -16,6 +16,45 @@ zdroj:
     Hunka SS Galicia — ovace v kanadském parlamentu; Palantir = Thiel (napojení na britský fašismus, sponsor
     JD Vance); Trumpovi synové: wolfram v Kazachstánu; US-Írán 60denní lhůta — Trump ji obešel; migrační
     pakt ČR — vládní odmítnutí bez formálního opt-outu; vstup Ukrajiny do EU (Vrabel: kategoricky ne).'
+  osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: Stal se předsedou parlamentu, ale musel k tomu slevit ze všech svých zásad — příklad „zbabělé
+      politiky" napojené na sponzory
+  - osoba: katerina-konecna
+    vztah: negativni
+    kontext: Opisána jako zbabělá politička — osobně Vrabelovi přiznala, že „sponzoři jim nedovolí být
+      na demonstraci s Vrabelem", jinak by přišli o mediální přístup
+  - osoba: friedrich-merz
+    vztah: neutralni
+    kontext: 'Citován: chce půlmilionovou armádu v Německu (militarizace); odmítl rychlé přistoupení Ukrajiny
+      do EU jako „nerealistické"; navrhuje summity EU pro Zelenského bez hlasovacích práv'
+  prehled:
+  - tema: Večerní zprávy 1. máje se Zuzkou. Klíčová témata
+    text: prvomájový průvod Praha (Antifa, SPD, PRO, KSČM)
+  - tema: Vrabel
+    text: Ukrajina = fašistický stát z definice (Zelenský jako kult vůdce, Bandera, zakázaná opozice,
+      militarismus)
+  - tema: Vrabel neplánuje demonstrace (online vzdělávání)
+    text: Vrabel neplánuje demonstrace (online vzdělávání)
+  - tema: predikce
+    text: 40 % světa bez dostatku jídla 2027 (Hormuz → fosílie → amoniak → hnojiva)
+  - tema: ČR jako zbrojní výrobna (WWII analogie)
+    text: ČR jako zbrojní výrobna (WWII analogie)
+  - tema: Operation Oluja 1995 (Chorvatsko
+    text: 200 tisíc Srbů vyhnáno, 283 mrtvých, dodnes nikdo nepotrestán)
+  - tema: Hunka SS Galicia
+    text: ovace v kanadském parlamentu
+  - tema: Palantir = Thiel (napojení na britský fašismus, sponsor JD
+    text: Palantir = Thiel (napojení na britský fašismus, sponsor JD Vance)
+  - tema: Trumpovi synové
+    text: wolfram v Kazachstánu
+  - tema: US-Írán 60denní lhůta
+    text: Trump ji obešel
+  - tema: migrační pakt ČR
+    text: vládní odmítnutí bez formálního opt-outu
+  - tema: vstup Ukrajiny do EU (Vrabel
+    text: kategoricky ne).
 vyroky:
 - id: vrabel-2026-05-01-01
   typ: tvrzeni
@@ -28,6 +67,11 @@ vyroky:
     Vrabel identifikuje ideologický základ: technokracie — hnutí vzniklé v USA počátkem 20. století, prosazující vládu odborných elit místo demokratické volby. Dědeček Elona Muska byl jedním z hlavních propagátorů; Musk dnes pokračuje přes AI. Thiel, Musk a Vance jsou dle Vrabela jádrem plánovaného přechodu od demokracie k „digitálnímu feudalismu": státní moc splývá se soukromým kapitálem, zákonodárnou roli přebírají nezvolení oligarchové (Trump dává státní peníze politickým spojencům, záležitosti řeší zeť Kushner nebo Witkoff).
 
     V květnu 2026 nato admiral Pěr Vandír doporučil rychle nasadit Palantir v EU — Vrabel to čte jako potvrzení, že Česká republika jako americká kolonie dostane Palantir přes Andreje Babiše.
+  osoby:
+  - osoba: peter-thiel
+    vztah: negativni
+    kontext: Označen za největšího sponzora JD Vance; Palantir (Thielova firma) prý vede vnuk zakladatele
+      britské fašistické strany
   dalsi_zdroje:
   - 2026-05-25_vrabel_zpravy-v-devet-25-5-2026
   - 2026-10-23_vrabel_zpravy-v-devet-23-10-2026
@@ -73,6 +117,15 @@ vyroky:
   - text: Ten režim na Ukrajině — fašismus je radikální, radikální je naprosto ten režim na Ukrajině.
       Autoritářská — Zelenský tam v podstatě působí jako diktátor, dokonce už ani nezvolený. [...] Jinak
       to je naprosto fašistický režim z definice a z toho, co se tam děje.
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: '„Kult vůdce" — Zelenský jako definice fašistického diktátora: pořád ve vojenské uniformě,
+      zakázal opozici, mandate vypršel'
+  - osoba: milos-zeman
+    vztah: negativni
+    kontext: Výrok „Rusové mají agresi v krvi" = nacismus (rasová charakteristika národa); zklamání —
+      Vrabel ho dříve obhajoval, pak ocenil Zelenského řádem Bílého lva
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-05-01-06
   typ: tvrzeni
@@ -109,3 +162,19 @@ vyroky:
   - text: Ta operace trvala tři dny. Dodneška se slaví. Dodneška nikdo nebyl potrestán. Dokonce na ty
       oslavy jezdí běžně prostě západ.
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-05-01-09
+  typ: predikce
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Globální nedostatek jídla a nespokojenost v roce 2027
+  text: 'V roce 2027 se naplno projeví globální potravinová krize — přibližně 40 % světové populace bude
+    mít nedostatek jídla. Vrabel zároveň predikuje „obrovskou nespokojenost po celém světě." Mechanismus:
+    uzavření Hormuzského průlivu → výpadek těžby fosilních paliv → nedostatek amoniaku a močoviny (průmyslová
+    hnojiva) → chybí 30 % hnojiv světové produkce → nižší úrody 2026–2027; zároveň zdražení pohonných
+    hmot zvyšuje vstupní náklady zemědělců. Vrabel radí pěstovat si vlastní zeleninu a pořídit zásoby
+    v sklenicích.'
+  dalsi_zdroje:
+  - 2026-05-06_vrabel_vecerni-zpravy-eu-fasismus-demonstrace-6-5-2026
+  predikce:
+    horizont: '2027'
+    stav: ceka

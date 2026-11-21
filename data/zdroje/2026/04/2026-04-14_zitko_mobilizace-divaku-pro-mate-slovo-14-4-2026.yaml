@@ -9,3 +9,16 @@ zdroj:
   rezim: standard
   delka: '55:10'
   poznamka: 'Zhlédnutí: 462'
+  osoby:
+  - osoba: barry-young
+    vztah: pozitivni
+    kontext: 'Zaměstnanec NZ ministerstva zdravotnictví uvězněn za zveřejnění dat o smrtnosti vakcín;
+      nejhorší šarže: 21,38 % zemřelých; Zítko jeho data použil jako argument pro pozvání do Máte slovo'
+  - osoba: michala-jilkova
+    vztah: neutralni
+    kontext: Moderátorka pořadu Máte slovo; Zítko se zaregistroval do diskuse a vyzval diváky, aby ji
+      kontaktovali s žádostí o jeho pozvání
+  - osoba: hinek-chudarek
+    vztah: negativni
+    kontext: Ředitel ČT; Zítko ho označuje za zodpovědného za jednostrannost a vyzývá diváky, aby mu psali
+      přes info@ct.cz

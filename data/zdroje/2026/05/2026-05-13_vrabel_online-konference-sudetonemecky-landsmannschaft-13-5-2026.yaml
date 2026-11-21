@@ -13,6 +13,14 @@ zdroj:
     Suchopár. Suchopár: sjezd financován Bavorskem 850 000 EUR; Novák slíbil jednat s MV o prohlášení
     za extremistickou organizaci; demonstrace 24. 5. Dominikánské náměstí Brno. Přepis zkrácen (1269 z
     3198 řádků).'
+  prehled:
+  - tema: Panelová diskuze o sjezdu Sudetoněmeckého Landsmannschaftu v Brně. Hosté
+    text: 'Josef Nerušil (SPD), Pavel Novák (ANO), Jan Sedláček (Národní demokracie), Marek Adam (KSČM/Klub
+      Českého pohraničí), Miroslav Suchopár. Suchopár: sjezd financován Bavorskem 850 000 EUR'
+  - tema: Novák slíbil jednat s MV o prohlášení za extremistickou
+    text: Novák slíbil jednat s MV o prohlášení za extremistickou organizaci
+  - tema: demonstrace 24. 5. Dominikánské náměstí Brno. Přepis
+    text: demonstrace 24. 5. Dominikánské náměstí Brno. Přepis zkrácen (1269 z 3198 řádků).
 vyroky:
 - id: vrabel-2026-05-13-01
   typ: tvrzeni
@@ -42,4 +50,17 @@ vyroky:
   citace:
   - text: Nejsme schopni ho [Landsmannschaft] zakázat, ale musíme na MV a vládu, aby ho minimálně zařadili
       na seznam extremistů. A poté k zákazu jejich aktivit.
+  osoby:
+  - osoba: josef-nerusil
+    vztah: neutralni
+    kontext: Poslanec SPD; dvakrát navrhl brněnskému magistrátu usnesení o zrušení sjezdu Landsmannschaftu
+      — bez úspěchu; přítomen na Vrabelově panelové diskuzi
+  - osoba: pavel-novak
+    vztah: neutralni
+    kontext: Poslanec ANO; slíbil veřejně projednat s ministrem vnitra prohlášení Landsmannschaftu za
+      extremistickou organizaci
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: O sjezdu Landsmannschaftu řekl „není to pro mě téma" — Suchopár i Vrabel to označili za skandální
+      lhostejnost
   podtema: Parlament, politické a stranické reakce

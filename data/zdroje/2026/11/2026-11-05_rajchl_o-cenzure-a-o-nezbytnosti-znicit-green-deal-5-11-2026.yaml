@@ -23,6 +23,19 @@ vyroky:
     zprostil obžaloby. Úpravu § 405 považuje za odstranění „největšího kladiva na čarodějnice“.'
   citace:
   - text: Ten paragraf je natolik extenzivně vykládatelný, že tam můžete obvinit téměř každého.
+  osoby:
+  - osoba: josef-skala
+    vztah: pozitivni
+    kontext: Odsouzeni za debatu o Katyni — „nejhorší kauza“ cenzury
+  - osoba: vladimir-kapal
+    vztah: pozitivni
+    kontext: Odsouzeni za debatu o Katyni — „nejhorší kauza“ cenzury
+  - osoba: martina-bednarova
+    vztah: pozitivni
+    kontext: Jeho klienti stíhaní „za naprostý nesmysl“
+  - osoba: radim-panenka
+    vztah: pozitivni
+    kontext: Jeho klienti stíhaní „za naprostý nesmysl“
   podtema: Trestání politického projevu
 - id: rajchl-2026-11-05-03
   typ: tvrzeni

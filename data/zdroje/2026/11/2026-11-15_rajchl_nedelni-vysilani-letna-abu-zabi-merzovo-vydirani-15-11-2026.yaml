@@ -11,6 +11,10 @@ zdroj:
     Zpracováno všech 10 témat a 3 predikce. Hraniční výroky („naházet do antonu“ demonstranty blokující
     Mazurka, „zmanipulované ovce“ z Letné) jsou výzvou k policejnímu zásahu bez dehumanizace, resp. nálepkou
     bez výzvy, proto nejsou ve stochastickém teroru.
+  osoby:
+  - osoba: lubomir-zaoralek
+    vztah: neutralni
+    kontext: Zdroj tvrzení o Rakušanově „dohodě“ s ČT
 vyroky:
 - id: rajchl-2026-11-15-01
   typ: tvrzeni
@@ -39,6 +43,14 @@ vyroky:
   citace:
   - text: Mám jim říct, vážení přátelé, protože se na Letné sešlo 100 tisíc zmanipulovaných ovcí, tak
       já teď kašlu na vás, na tři miliony lidí, kteří jste nám dali hlas?
+  osoby:
+  - osoba: mikulas-minar
+    vztah: negativni
+    kontext: „Cirkus“, prodává čepice a mikiny, „zdefraudoval“ 7 mil., platí ho stejní lidé jako STAN
+      a Pavla
+  - osoba: jindrich-sidlo
+    vztah: negativni
+    kontext: Útočí na něj, protože Rajchl ohrožuje STAN vyšetřováním Dozimetru
   podtema: Milion chvilek — struktura a financování
 - id: rajchl-2026-11-15-03
   typ: tvrzeni
@@ -62,6 +74,22 @@ vyroky:
     něj povinnost vůči voličům ANO, SPD i PRO.'
   citace:
   - text: Oni si tu Českou televizi šli půl roku před volbami koupit. Koupit její přízeň.
+  osoby:
+  - osoba: michael-mcgrath
+    vztah: pozitivni
+    kontext: Podle něj potvrdil soulad změny financování ČT s právem EU
+  - osoba: milan-mazurek
+    vztah: pozitivni
+    kontext: „Argumentačně smetl“ Nerudovou v EP; nevpuštěn na konferenci
+  - osoba: danuse-nerudova
+    vztah: negativni
+    kontext: „Fňukala“ v EP; manžel vymáhá exekuce za poplatky
+  - osoba: robert-neruda
+    vztah: negativni
+    kontext: „Fňukala“ v EP; manžel vymáhá exekuce za poplatky
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: Údajně sliboval ČT poplatky za mlčení o FF UK
   podtema: Česká televize a mainstreamová média
 - id: rajchl-2026-11-15-04
   typ: tvrzeni
@@ -95,6 +123,17 @@ vyroky:
   citace:
   - text: České peníze patří do českých rukou a já odmítám, abychom s nimi nakládali podle toho, co si
       soudruh Merz v Berlíně usmyslí.
+  osoby:
+  - osoba: daniel-kretinsky
+    vztah: pozitivni
+    kontext: Potvrdil, že odstřižení od ruského plynu byla „totální hloupost“; partner pro plán rozvoje
+      ČR
+  - osoba: karel-tykac
+    vztah: pozitivni
+    kontext: Partneři pro plán rozvoje ČR
+  - osoba: renata-kellnerova
+    vztah: pozitivni
+    kontext: Partneři pro plán rozvoje ČR
   podtema: Ekonomický program PRO
 - id: rajchl-2026-11-15-06
   typ: tvrzeni
@@ -121,6 +160,13 @@ vyroky:
   - text: Pokud to udělá, tak to bude fakticky konec Evropské unie. Zablokujte ten rozpočet a zrušte ten
       cirkus. Udělejte to, pane Merzi.
   - text: Tohle je přece stokrát horší. Tady nejde, prosím vás pěkně, o nějaký mír.
+  osoby:
+  - osoba: friedrich-merz
+    vztah: negativni
+    kontext: „Soudruh Merz“, „feudál z Berlína“ vydírající ČR
+  - osoba: petr-sokol
+    vztah: negativni
+    kontext: Hájil placení Ukrajině, „reálně mu přeskočilo“
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: rajchl-2026-11-15-07
   typ: tvrzeni
@@ -145,6 +191,16 @@ vyroky:
   citace:
   - text: Já myslím, že by u toho stolu měli sedět lidé, kteří od začátku říkali pojďme jednat. A proto
       si myslím, že za Evropu by měl být vyslán Robert Fico.
+  osoby:
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: Měl by vyjednávat mír za Evropu
+  - osoba: jan-lipavsky
+    vztah: negativni
+    kontext: „Dětinské výkřiky“ („dovolená na Krymu“)
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Obrat k jednání s Ruskem; „finanční stabilizace Ukrajiny“
   podtema: Vyjednávání a mír
 - id: rajchl-2026-11-15-08
   typ: tvrzeni
@@ -164,4 +220,56 @@ vyroky:
     hlupáci“).'
   citace:
   - text: Byl to Západ, který bohužel přerušil ta jednání, který zmařil možnost dosažení míru v Istanbulu.
+  osoby:
+  - osoba: david-arachamija
+    vztah: neutralni
+    kontext: Citováni jako svědci, že Západ zmařil mír v Istanbulu
+  - osoba: naftali-bennett
+    vztah: neutralni
+    kontext: Citováni jako svědci, že Západ zmařil mír v Istanbulu
+  - osoba: boris-johnson
+    vztah: negativni
+    kontext: Zablokoval istanbulskou dohodu
   podtema: Zahraniční aktéři a precedenty
+- id: rajchl-2026-11-15-09
+  typ: predikce
+  temata:
+  - valka-nato-rusko
+  nadpis: Rusko bude požadovat zbytek Doněcké oblasti (silou, nebo dohodou), neutralitu Ukrajiny, denacifikaci
+    a volby
+  text: 'V mírových jednáních Rusko podle něj postaví tyto podmínky: buď si zbytek Doněcké oblasti vezme
+    silou, nebo mu ho Ukrajina vydá dohodou; Ukrajina se zaváže k neutralitě, „denacifikaci“ a uspořádání
+    voleb.'
+  citace:
+  - text: Ukrajina se zaváže k tomu, že bude neutrální a Ukrajina se zaváže k denacifikaci a k uspořádání
+      voleb. To budou ruské požadavky. Teď a tady vám to říkám.
+  predikce:
+    horizont: neurčeno (probíhající jednání po Abú Zabí)
+    stav: ceka
+- id: rajchl-2026-11-15-10
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Evropa se nepoučí, válka bude stát další statisíce životů, než Rusko dobude Kramatorsk, Slovjansk
+    a celou Doněckou oblast
+  text: Válka podle něj „pravděpodobně“ bude pokračovat, dokud Rusko nedobude Kramatorsk, Slovjansk a
+    zbytek Doněcké oblasti. Bude to stát další statisíce životů a Evropa mezitím finančně i vojensky „vykrvácí“.
+  citace:
+  - text: Že to bohužel bude stát další statisíce lidských životů, než si vezmou ten Kramatorsk a Slovjansk
+      a dobijí celý ten zbytek té doněcké oblasti. A než Evropa definitivně finančně a vojensky vykrvácí.
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: rajchl-2026-11-15-11
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: Merz bude placení ukrajinského deficitu požadovat znovu každý rok
+  text: Pokud ČR teď ustoupí, Německo přijde se stejným požadavkem „za rok, za dva roky, za tři roky“
+    a ČR bude každý rok platit 60–70 miliard korun na ukrajinský deficit.
+  citace:
+  - text: Co myslíte, že bude za rok? Přijdou znova. S tím samým přijde ten Merz. Za dva roky, za tři
+      roky.
+  predikce:
+    horizont: rozpočtové roky 2027–2029
+    stav: ceka

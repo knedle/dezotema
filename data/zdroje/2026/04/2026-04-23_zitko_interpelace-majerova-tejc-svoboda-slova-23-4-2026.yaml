@@ -41,6 +41,15 @@ vyroky:
     Zítko Tejcovu odpověď hodnotí skepticky: podle něj za sto dní nové vlády nebylo zrušeno jediné sporné rozhodnutí a jde jen o „sliby, keci a nic".
 
     > „Tato vláda se hlásí ke svobodě slova." — Jeroním Tejc (ministr spravedlnosti), citováno Zítkem, [ČsTV2 — Interpelace, 23. 4. 2026](_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
+  osoby:
+  - osoba: jeronim-tejc
+    vztah: negativni
+    kontext: 'Ministr spravedlnosti slíbil změnu trestního zákoníku do konce dubna 2026; Zítko: vláda
+      je 100+ dní ve funkci a nezrušila jediný sporný COVID rozsudek — „sliby, keci a nic"'
+  - osoba: zuzana-majerova
+    vztah: pozitivni
+    kontext: Předsedkyně Trikolory interpelovala Tejce ve věci covidových rozsudků — Zítko oceňuje, že
+      se nestranila a šla dál než jen Bednářová
   podtema: 'COVID rozsudky: odsouzení za varování'
 - id: zitko-2026-04-23-03
   typ: tvrzeni
@@ -54,3 +63,27 @@ vyroky:
   dalsi_zdroje:
   - 2026-04-24_zitko_pozvanka-na-covid-tour-svojetice-24-4-2026
   podtema: 'COVID rozsudky: odsouzení za varování'
+- id: jeronim-tejc-2026-04-23-01
+  typ: predikce
+  temata:
+  - dsa-cenzura
+  nadpis: Změna trestního zákoníku v oblasti svobody slova do konce dubna 2026
+  text: Ministr spravedlnosti Jeroním Tejc v reakci na interpelaci Zuzany Majerové avizoval, že vláda
+    připravuje změnu trestního zákoníku, která zúží okruh trestných činů postihujících výroky, a návrh
+    zveřejní „možná už konec tohoto měsíce" (tj. do konce dubna 2026).
+  citace:
+  - text: My skutečně plánujeme změny... navrhujeme, aby v oblasti trestního práva se zůžil počet oblastí,
+      za které by mohl být daný člověk ve chvíli, kdy se vyjadřuje, postižen. Myslím si, že to bude možná
+      už konec tohoto měsíce.
+  mluvci: jeronim-tejc
+  predikce:
+    horizont: konec dubna 2026
+    stav: vyvraceno
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: (nízká jistota) — změna trestního zákoníku v oblasti svobody slova do konce dubna předložena
+        nebyla
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Trestní novela ministerstva spravedlnosti byla podle ČTK (19. 2. 2026) plánována na srpen
+        a týká se jiných oblastí. Dokladem je absence zpráv.

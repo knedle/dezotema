@@ -9,6 +9,10 @@ zdroj:
   rezim: standard
   poznamka: 14 min; soubor datován 11. 10., natočeno při zahájení akce 10. 10. Mluví Pavel Zítko, od [~11:00]
     přednáška „Boba" o ČSR, přepis nesrozumitelný.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Náš vojtý agent“; na fotce má prý „nataženou masku“ — možný dvojník jako u Čermáka
 vyroky:
 - id: zitko-2026-10-10-01
   typ: tvrzeni
@@ -41,3 +45,17 @@ vyroky:
     „překvapení“) blíží; „už to dokonce bylo i v nějakém seriálu“. Na otázku, kdy to bude, odpovídá, že
     „to ví asi deset lidí na světě“ a on mezi nimi není, proto sleduje ty, kdo to vědí, i když nevystupují
     v televizi a působí jako „naprostá menšina“. Opakuje i dvojníka prezidenta USA (původní „byl popravený“).'
+- id: zitko-2026-10-10-05
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: blíží se blackout nebo jiné „překvapení“
+  text: Brzy (možná už cestou domů ze setkání) má přijít blackout nebo jiné „překvapení“; přesné datum
+    prý zná jen asi deset lidí na světě.
+  citace:
+  - text: Uvidíme, jestli cestou domů nám neudělají blackout nebo nějaký překvápko, protože už se to blíží.
+  dalsi_zdroje:
+  - 2026-10-10_zitko_prvni-dil-akce-setkani-cechoslovaku-bob-acer-a-pavel-zitko-c
+  predikce:
+    horizont: neurčeno („blíží se“)
+    stav: ceka

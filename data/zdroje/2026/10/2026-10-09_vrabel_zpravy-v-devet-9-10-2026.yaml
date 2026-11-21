@@ -7,6 +7,57 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/3700422560107347
   prepis: prepisy/done/2026-10-09_Ladislav-Vrabel_9-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
+  osoby:
+  - osoba: pavel-hubacek
+    vztah: negativni
+    kontext: Jeho rodina je spojena s tryskáčem, kterým Pavel letěl („sponzor“)
+  - osoba: lukas-valasek
+    vztah: negativni
+    kontext: „Jeden z nejhorších českých novinářů, který likviduje lidi“
+  - osoba: vk
+    vztah: pozitivni
+    kontext: Shoda, že změna systému přijde až po válce
+  prehled:
+  - tema: Pavel z Maroka na volby soukromým tryskáčem
+    text: „radši bych mu dal karabáčem“, úplatek „globalistické mafie“, „generál NATO pro válku“ → viz
+      [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-09-07
+  - tema: 'Účetní dvůr: dluh EU až 1 bilion €'
+    text: 'EU je řízena „shora“. Politici jsou buď „blázni, nebo zkorumpovaní“ a pravda je to druhé: „globalistická
+      hra“ na světový stát, „možná s vládou umělé inteligence“.'
+  - tema: Sankce USA proti ICC
+    text: Chabad nedovolí stíhat Netanjahua
+    vyrok: vrabel-2026-10-09-01
+  - tema: Nobelova cena míru pro Pillayovou, ne pro Trumpa
+    text: „kolik holčiček ještě musí vyvraždit, aby ji dostal“.
+  - tema: Trump vs. Fed (Lisa Cook)
+    text: „mediální hra před volbami“, USA „bojují o finanční přežití“.
+  - tema: Zadržení Zvinčuka (Rybar) v Černé Hoře
+    text: chtěl s ním natáčet, odmítl kvůli sankcím; vydání Ukrajině by byla „poprava“
+    vyrok: vrabel-2026-10-09-06
+  - tema: Britské varování před nedostatkem plynu
+    text: v lednu plyn nebude, „pořiďte si kamna a domek“ → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-09-02
+  - tema: Ukrajina otevírá další přístupové klastry
+    text: EU je „jeden velký korupční projekt“, v ČR i EU „žijeme v totalitě“.
+  - tema: Ukrajinská mobilizace (Washington Post, videa)
+    text: „co to je za dobytek“, „měli jsme se připojit k Rusku“ → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-09-08
+  - tema: 24 tisíc policistů v polských školách
+    text: nesypou dětem něco do vody, neovládá je AI přes TikTok?
+    vyrok: vrabel-2026-10-09-04
+  - tema: Francouzské studentské protesty (3. týden)
+    text: „studenti jsou vždy zneužiti globalisty“
+    vyrok: vrabel-2026-10-09-04
+  - tema: Protesty proti škrtům v Bruselu
+    text: lidé „nemají co jíst“, Evropu čeká „občanská válka“ (prý to říká 20 let). Migrační pakt nelze
+      odmítnout, jen vystoupit z EU.
+  - tema: 'Rubio: USA nikdy neporušily suverenitu'
+    text: „satanisti“, Rusko má „oporu v Chartě OSN“, „plot okolo USA“
+    vyrok: vrabel-2026-10-09-05
+  - tema: Dovětek (VK, Rajchl, „ovce“)
+    text: změna systému až po válce, voliči „běží na porážku“
+    vyrok: vrabel-2026-10-09-03
 vyroky:
 - id: vrabel-2026-10-09-01
   typ: tvrzeni
@@ -19,6 +70,10 @@ vyroky:
     z rukou“ zatykačem na Netanjahua. To si podle něj Chabad Lubavič, který chrání „svého hlavního koně“,
     nemohl nechat líbit, a „musel zaklepat u Trumpa“, aby soud zrušil. Silná pozice islámských zemí v
     OSN je podle něj důsledkem petrodolaru, který islámským zemím od roku 1972 dal peníze a „hodně dětí“.'
+  osoby:
+  - osoba: marco-rubio
+    vztah: negativni
+    kontext: „Satanisti, všechno otáčí“
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-10-09-02
   typ: tvrzeni
@@ -89,6 +144,10 @@ vyroky:
     vstupu do EU, stejně jako „Rumuni za bombardování Jugoslávie dostali vstup do EU“. Lukáše Valáška
     (Aktuálně.cz), který dřív „naháněl“ lidi z Rybaru v Praze, označuje za „jednoho z nejhorších českých
     novinářů, který likviduje lidi“.
+  osoby:
+  - osoba: michail-zvincuk
+    vztah: pozitivni
+    kontext: „Vysoce postavený člověk“, jeho zadržení je skandál
   podtema: Nová alternativní média
 - id: vrabel-2026-10-09-07
   typ: tvrzeni
@@ -104,6 +163,10 @@ vyroky:
     o smrti „100 000 lidí“, a nechává to na Pavlovi. Připomíná Kolářovu radu Američanům z WikiLeaks, ať
     o brdské základně mluví jako o radaru. Stejně se podle něj dnes „jaderným deštníkem“ maskují útočné
     jaderné zbraně. O Babišovi tvrdí, že po revoluci „dostal 550 milionů“ od otce, šéfa komunistů v Bratislavě.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Tryskáč jako úplatek, „radši bych mu dal karabáčem“, „generál NATO pro válku“
   dalsi_zdroje:
   - 2026-10-22_vrabel_zpravy-v-devet-22-10-2026
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
@@ -121,3 +184,50 @@ vyroky:
     připojit k Rusku a ten nacistický režim odstranit“. ČR to neudělala, protože vlády „pracují pro globalistickou
     mafii, která chce Rusko rozbít“.'
   podtema: Stav Ukrajiny a mobilizace
+- id: vrabel-2026-10-09-09
+  typ: predikce
+  temata:
+  - ceny-energie
+  nadpis: v lednu nebude v Evropě dost plynu, do tří týdnů přijde doporučení topit na max. 21 °C; změna
+    systému až po válce
+  text: Do tří týdnů vlády přijdou přinejmenším s doporučením omezit vytápění na 21 °C. Překvapilo by
+    ho, kdyby v lednu byl v Evropě dostatek plynu pro průmysl i domácnosti. Změna politického systému
+    podle něj „pravděpodobně nebude do té doby, než si projdeme válkou“.
+  citace:
+  - text: Kdyby ještě v lednu byl plyn v celé Evropě, tak bych byl velmi překvapený.
+  predikce:
+    horizont: cca konec října 2026 (doporučení 21 °C); leden 2027 (plyn)
+    stav: vyvraceno
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: (doporučení 21 °C do konce října) — vládní doporučení nebylo nalezeno; část o nedostatku plynu
+        v lednu čeká
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: K 17. 11. jsou podle Vrabela zásobníky plněny ze 70 % a vláda zvažuje zastropování cen.
+- id: vrabel-2026-10-09-10
+  typ: stoch-teror
+  temata:
+  - petr-pavel
+  nadpis: Petr Pavel
+  text: 'Terč: Petr Pavel.'
+  citace:
+  - text: No tak co k tomu říct, tak prezident si létá tryskáčem, nevím, radši bych mu dal karabáčem.“
+      Jmenovaný terč + přání fyzického trestu (bičování), pronesené jako rýmovačka v kontextu obvinění
+      z korupce
+  teror:
+    terc: Petr Pavel
+    hranicni: false
+- id: vrabel-2026-10-09-11
+  typ: stoch-teror
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: ukrajinští náboráři / Ukrajinci
+  text: 'Terč: ukrajinští náboráři / Ukrajinci.'
+  citace:
+  - text: Co to je prostě za dobytek? [...] Až se tohle jednou bude probírat [...] uvidí to a odplivnou
+      si, co je Ukrajina dnešní.“ Skupinová dehumanizace („dobytek“, převzaté „chovají se jako zvířata“)
+      v kontextu videí násilné mobilizace
+  teror:
+    terc: ukrajinští náboráři / Ukrajinci
+    hranicni: false

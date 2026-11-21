@@ -8,6 +8,60 @@ zdroj:
   prepis: prepisy/done/2026-10-13_Ladislav-Vrabel_13-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: 1 h, zprávy čte Zuzana. Úsek [04:33–05:32] (úvodní zpráva) v přepisu chybí.
+  prehled:
+  - tema: ČR vynechána z válečného plánování, Zůna a Pavel pod americkým velením
+    text: „o nás bez nás“ jako v roce 1938, ministerstvo obrany je „podružené ministerstvo USA“
+    vyrok: vrabel-2026-10-13-03
+  - tema: Grynkewichova strategie „3B“
+    text: „klidně můžeme jít do války, máme strategii vítězství“
+    vyrok: vrabel-2026-10-13-03
+  - tema: Čtyřbodový mírový plán USA a Evropy
+    text: šance 0 %, po třech týdnech atentát a konflikt → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-13-02
+  - tema: Uzavřené letiště v Norimberku (Eurofightery, dron)
+    text: stíhačky a drony nad letišti „mají plašit lidi“. Odbočka ke Korfu a padesátinám.
+  - tema: 'Trump: Putin a Zelenskyj se nenávidí'
+    text: „argument pro malé děti“, válka skončí jen ústupem Západu, nebo dobytím Ukrajiny
+    vyrok: vrabel-2026-10-13-02
+  - tema: Falešný poplach o únosu letadla v Německu
+    text: stíhačky mají lidi zvyknout a „prodávat příběh“ o ruském útoku
+    vyrok: vrabel-2026-10-13-03
+  - tema: MI5 a Koudelka o ruských hybridních útocích
+    text: tajné služby by zrušil, „největší lumpové“, „šílená válečná propaganda“
+    vyrok: vrabel-2026-10-13-04
+  - tema: Španělský král v Ceutě, protesty v celé Evropě
+    text: „začátek občanské války“, ČR se má „zabednit“
+    vyrok: vrabel-2026-10-13-01
+  - tema: Dětské sňatky v Bádensku-Württembersku
+    text: za 5–7 let „běžný standard“ v ČR → viz [Predikce](../predikce.md)
+    vyrok: vrabel-2026-10-13-01
+  - tema: 'Frederiksenová: deportace kriminálníků'
+    text: problém neřeší, „západní Evropa je hotová“, je potřeba vystoupit z EU a zavřít hranice
+    vyrok: vrabel-2026-10-13-01
+  - tema: Britští kazatelé ospravedlňují bití manželek
+    text: „islám je mafie… strašný pro ženy“ (Jan Muslim) → viz [Stochastický teror](../stochasticky-teror.md)
+    vyrok: vrabel-2026-10-13-01
+  - tema: Rakouský dluh 439 mld. €
+    text: jsme ve „fázi drancování, poslední fázi před válkou“. Radí investovat do zlata a nemovitostí.
+  - tema: Masové protesty ve Francii a Belgii
+    text: může propuknout „muslimský džihad v Evropě“. V Británii se „zavírají desetitisíce lidí za příspěvky“,
+      „brutál se k nám blíží“.
+  - tema: Rada EU v Lucemburku
+    text: „15. a 16. října bychom měli zpozornět.“
+  - tema: Maďarsko ustoupilo Ukrajině
+    text: do Evropy se „pošle 50 milionů Ukrajinců“, nejvíc do ČR.
+  - tema: Drony zasáhly lodě u Bulharska
+    text: „pravděpodobně to ani Rusko nebylo“
+    vyrok: vrabel-2026-10-13-04
+  - tema: 'Syrskyj: fronta stabilizovaná'
+    text: ironicky „možná zítra uslyšíme, že Ukrajinci dobývají Moskvu“.
+  - tema: Ukrajinská raketa FP-7, česká střela pro Ukrajinu
+    text: ukrajinská raketa je pochopitelná, ale „že my vyrábíme ty zbraně, to je špatně“
+    vyrok: vrabel-2026-10-13-02
+  - tema: Porucha vládního Airbusu (Bednárik)
+    text: na drony peníze jsou, letadlo je rozbité.
+  - tema: Závěr, pozvánka na 17. 11.
+    text: policie „krade lidi z davu se zbraněmi“, hrozí, že se lidé budou bát otevřít pusu.
 vyroky:
 - id: vrabel-2026-10-13-01
   typ: tvrzeni
@@ -30,6 +84,10 @@ vyroky:
     podle něj „taková jako mafie, která drží pospolu… ale islám je strašný pro ženy“ (viz [Stochastický
     teror](stochasticky-teror.md)). Ženy v ČR by „měly křičet, že chtějí vyměnit vládu… vystoupit z EU
     a uzavřít hranice“.'
+  osoby:
+  - osoba: mette-frederiksenova
+    vztah: rozporuplny
+    kontext: „Hezké řeči“, ale deportace problém neřeší
 - id: vrabel-2026-10-13-02
   typ: tvrzeni
   temata:
@@ -61,6 +119,13 @@ vyroky:
     můžeme jít do války proti Rusku, protože prostě máme strategii vítězství“. Stíhačky nad letišti (Norimberk,
     falešný poplach o únosu v Německu) podle něj jen „děsí lidi“: mají si zvyknout a uvěřit, že „Rusko
     se chystá napadnout Evropu a že je potřeba víc peněz na zbraně“.'
+  osoby:
+  - osoba: jaromir-zuna
+    vztah: negativni
+    kontext: „Spadá přímo pod americké velení“, jezdí pro příkazy
+  - osoba: alexus-grynkewich
+    vztah: negativni
+    kontext: Strategie „3B“ jako naivní plán na porážku Ruska
   podtema: EU jako vojenská struktura
 - id: vrabel-2026-10-13-04
   typ: tvrzeni
@@ -76,4 +141,60 @@ vyroky:
     Řeči o stupňování útoků bez důkazu prvního útoku jsou podle něj „šílená válečná propaganda“. Útoky
     dronů na lodě u Bulharska podle něj „pravděpodobně ani Rusko nebylo“: média to tak podávají, „aby
     lidem pořád dávali do hlavy, že Rusko na nás útočí“.'
+  osoby:
+  - osoba: michal-koudelka
+    vztah: negativni
+    kontext: Tajné služby „největší lumpové“, zpráva o „kultivování vztahu“ podle něj lživá
+  - osoba: ken-mccallum
+    vztah: negativni
+    kontext: „Šílená válečná propaganda“ o stupňování ruských útoků
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-10-13-05
+  typ: predikce
+  temata:
+  - migrace
+  nadpis: za 5–7 let budou v ČR sňatky 11–12letých dívek „běžný standard“
+  text: V důsledku migračního paktu (od ledna 2027) budou do 5–7 let v ČR „stovky“ sňatků 11–12letých
+    dívek běžné.
+  citace:
+  - text: Předpokládám, dejte tomu 5–7 let a stovky nějakých manželství malých holčiček 11–12letých v
+      České republice, bude normální jako běžný standard.
+  predikce:
+    horizont: 2031–2033
+    stav: ceka
+- id: vrabel-2026-10-13-06
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: mírový plán USA a Evropy má 0 % šanci; po třech týdnech naděje atentát a konflikt
+  text: Čtyřbodový mírový plán USA a Evropy neprojde; po zhruba třech týdnech „naděje“ přijde atentát
+    na důležitou osobu a spuštění konfliktu.
+  citace:
+  - text: Můj odhad toho, že by tenhle mírový plán prošel, je 0 %. Tentokrát 0 %. […] Uvidíte tři týdny.
+      Budeme žít v naději, že mírový plán uspěje. […] A pak očekávám nějaký atentát na nějakou důležitou
+      osobu. A pak očekávám, že se spustí konflikt.
+  predikce:
+    horizont: cca 3 týdny (do začátku listopadu 2026)
+    stav: castecne
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: mírový plán neprošel (potvrzeno), atentát a „spuštění konfliktu“ do začátku listopadu nenastaly
+        (vyvráceno)
+      stav: castecne
+    - datum: 2026-11-20
+      text: Abú Zabí přineslo jen výměnu zajatců. Vrabel 13. 11. scénář atentátu přesunul na dobu „po
+        velkých mírových jednáních“.
+- id: vrabel-2026-10-13-07
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: muslimové / islám; migranti tmavší pleti
+  text: plošná dehumanizace a kriminalizace skupiny, bez výzvy k násilí
+  citace:
+  - text: islám… to je taková jako mafie, která drží pospolu… Ale islám je strašný pro ženy“ / „ta záležitost
+      toho, jak jsou ty lidi zvyklí žít, že jsou zvyklí mlátit ženy… To je naprostá zvrácenost“ / „Předpokládám,
+      že když mají monokl pod okama, tak si vezmou tu burku“ / deportují se jen ti, kdo nejsou „o dva
+      odstíny tmavší barvy pleti, než je tamhle ten kousek dřeva
+  teror:
+    terc: muslimové / islám; migranti tmavší pleti
+    hranicni: false

@@ -19,6 +19,13 @@ vyroky:
     **15. 10.** — Vysílání TV Šalingrad (Renata Bernardy) s „údajným" Čermákem na Zítkově „selském rozumu a kognitivním myšlení nezměnilo vůbec nic". On a Kačenka ho jako jediní z veřejnosti viděli naživo, zatímco Bernardy ho tři roky neviděla. Diváky vybízí: „vyražte do Holíšova a mrkněte se na něj". Zpochybňuje svědectví bývalého starosty Řepojišť Pavla Novotného, „dvou falešných policejních profilů" i Šišákové. Za zvláštní považuje, že Bernardy i Černohorský shodně tvrdí, že pravý je profil „Politický vězeň Čermák"; Bernardy prý ví, kdo stojí za profilem „Tomáš Kvatro Čermák 2026", a má tedy „nějaké zpravodajské informace". Jako jediný férový důkaz požaduje konfrontaci naživo u stolu, při níž by se diváci, Zítko i Hradil mohli ptát na detaily, které znají „jen my dva". Odkazuje na Bidenova dvojníka a dodává: „Já už jsem třeba viděl dvacet prezidentů Trumpů, možná ještě víc prezidentů Putinů… už šestý rok se nacházíme v informační válce."
 
     Spory v hnutí přirovnává k fanouškům znepřátelených fotbalových klubů, kteří by měli „kopat za národní tým". Za útoky na sebe hledá motiv: „můžou za tím být peníze, může za tím být korupce, může za tím být třeba vydírání, což je ovládací mechanismus našich politiků". Celé to podle něj „zavání odváděním pozornosti od podstatně důležitějších věcí".
+  osoby:
+  - osoba: renata-bernardy
+    vztah: negativni
+    kontext: Vysílala s „údajným“ Čermákem; má prý „zpravodajské informace“ o falešném profilu
+  - osoba: cernohorsky
+    vztah: negativni
+    kontext: „Zvláštní“, že s Bernardy shodně tvrdí, že profil „Politický vězeň Čermák“ je pravý
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-10-15-02
   typ: tvrzeni
@@ -34,3 +41,7 @@ vyroky:
     prezident, poslanci byli jen kooptováni a volby proběhly až v roce 1996, Havel „křivě přísahal" třikrát
     (29. 12. 1989, 5. 7. 1990, 2. 2. 1993) a rozdělení proběhlo bez referenda (ústavní zákon 327/1991),
     takže lid byl „okraden".'
+  osoby:
+  - osoba: vaclav-klaus
+    vztah: negativni
+    kontext: Kandidoval 1992 do FS, ne do ČNR — s Mečiarem „roztrhl“ ČSR podvodem

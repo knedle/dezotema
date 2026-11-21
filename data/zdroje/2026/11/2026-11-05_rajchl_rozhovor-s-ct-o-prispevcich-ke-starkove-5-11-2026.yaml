@@ -9,6 +9,10 @@ zdroj:
   rezim: standard
   poznamka: 9 min, rozhovor s reportérem ČT; výhrůžky citované Rajchlem (Hedija) nejsou jeho výroky, proto
     nejsou ve stochastickém teroru.
+  osoby:
+  - osoba: matej-ondrej-havel
+    vztah: negativni
+    kontext: Označil Vachatovou za „obdivovatelku ruských teroristů“ — lež a podněcování nenávisti
 vyroky:
 - id: rajchl-2026-11-05-02
   typ: tvrzeni
@@ -27,4 +31,11 @@ vyroky:
   citace:
   - text: Ukažte mi, co je na něm nepravdivého, nebo jestli je tam jakákoliv vulgarita, jestli je tam
       výzva k nějaké nenávisti, k nějakému násilí.
+  osoby:
+  - osoba: vaclav-laska
+    vztah: negativni
+    kontext: Den po atentátu na Fica ho označil za „pacienta z Moskvy“, komora to neřešila
+  - osoba: jakub-hedija
+    vztah: negativni
+    kontext: Napsal „na každou svini se vaří voda… adresu známe“
   podtema: Dvojí metr v médiích

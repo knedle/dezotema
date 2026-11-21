@@ -8,6 +8,22 @@ zdroj:
   prepis: prepisy/done/2026-10-31_Ladislav-Vrabel_Snaha-o-ústavní-puč-v-Polsku-na-1530-h-se-domlouvám-n.txt
   rezim: vrabel
   poznamka: 10 min 29 s, monolog před rozhovorem s Romanem Fritzem.
+  osoby:
+  - osoba: jaromir-zuna
+    vztah: negativni
+    kontext: „Drží linii NATO“
+  prehled:
+  - tema: Ústavní puč v Polsku
+    text: spor začal rozsudkem polského ÚS z roku 2021 proti nadřazenosti evropských soudů; Tuskova vláda
+      se „za pomoci ozbrojené policie“ pokusila o puč, jde o „první velmi silný zásah do existence EU“,
+      který může skončit jejím rozpadem
+    vyrok: vrabel-2026-10-31-04
+  - tema: Ústavní soud jako nejvyšší orgán (nepřiznané koalice)
+    text: rozhodnutí ponechat nepřiznané koalice „má nějakou logiku“, koalice ale zákon vědomě porušily
+      (opakuje).
+  - tema: Prezident jako vrchní velitel
+    text: ČR už má „generála NATO a válečného štváče“, Babiš sjednotil Strakovku s Hradem, Zůna „drží
+      linii NATO“ (opakuje).
 vyroky:
 - id: vrabel-2026-10-31-04
   typ: tvrzeni
@@ -24,6 +40,13 @@ vyroky:
   citace:
   - text: Proto Evropská unie použila svoje nejtvrdší metody a skrze Donalda Tuska se pokusili o ústavní
       puč za pomoci ozbrojené policie.
+  osoby:
+  - osoba: donald-tusk
+    vztah: negativni
+    kontext: „Největší válečný štváč v Polsku“, nástroj Bruselu k puči
+  - osoba: karol-nawrocki
+    vztah: pozitivni
+    kontext: „Konzervativnější a příčetnější“ než Tusk
   dalsi_zdroje:
   - 2026-10-31_vrabel_vecerni-zpravy-31-10-2026
   podtema: Česká suverenita

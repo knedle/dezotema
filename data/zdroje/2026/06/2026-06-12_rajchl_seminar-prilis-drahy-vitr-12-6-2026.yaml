@@ -13,6 +13,10 @@ zdroj:
     (Trump/USA, Španělsko blackout, Francie moratorium + soud Montpellier); řešení jádro 4. generace +
     fúze + energetický mix, „elektřina je ropa příštích 30 let". Úvodní projev Rajchla na sněmovním semináři
     „Příliš drahý vítr – co vše se skrývá za projekty VTE a FVE"
+  osoby:
+  - osoba: jana-zveretek-hamplova
+    vztah: neutralni
+    kontext: Odpoledne na semináři měla radit, jak se administrativně bránit akceleračním zónám
 vyroky:
 - id: rajchl-2026-06-12-01
   typ: tvrzeni
@@ -46,6 +50,13 @@ vyroky:
     > „Je to stejné jako vstupovat do KSČ v říjnu 1989. Úplně stejné." — Jindřich Rajchl o současné podpoře větrníků, [zdroj](_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026)
   citace:
   - text: Ideologie vás vždycky stojí peníze. Vždycky.
+  osoby:
+  - osoba: ivan-novesky
+    vztah: neutralni
+    kontext: Přejímá jeho termín „občasné zdroje" (místo „obnovitelné") pro vítr a slunce
+  - osoba: rajchl
+    vztah: pozitivni
+    kontext: Na svém kanálu sdílela jeho projev proti větrníkům (seminář „Příliš drahý vítr")
   podtema: Větrné akcelerační zóny v ČR (2026)
 - id: rajchl-2026-06-12-04
   typ: tvrzeni
@@ -60,4 +71,22 @@ vyroky:
     - **Francie:** parlament uvalil moratorium na nové onshore větrné elektrárny (staví se jen offshore). Soud v Montpellier nařídil rozmontovat celý park 9 turbín kvůli masivnímu úhynu ptáků včetně vzácného orla skalního a udělil pokutě 200 tisíc eur provozovateli.
 
     Rajchl: „Tohle je dnes stav v Evropě a my se do toho ženeme."
+  osoby:
+  - osoba: donald-trump
+    vztah: pozitivni
+    kontext: Citován jako vzor — „velmi tvrdě" bojuje proti větrníkům, v USA se žádné nové nestaví
   podtema: Zahraniční zkušenosti
+- id: rajchl-2026-06-12-05
+  typ: predikce
+  temata:
+  - ceny-energie
+  nadpis: „Elektřina je ropa příštích 30 let", ČR zchudne na dovozce
+  text: Rajchl předpovídá, že ČR se z druhého největšího vývozce elektřiny v Evropě „brzy" stane dovozcem.
+    Zároveň tvrdí, že při investici do jádra a fúze může země v příštích 30 letech získat levnou stabilní
+    elektřinu a „zbohatnout jak Katar", protože elektřina bude komoditou srovnatelnou s ropou.
+  citace:
+  - text: Můžeme mít elektřinu v příštích třiceti letech zbohatnout jak Katar. Elektřina je jednoznačně
+      ropou příštích třiceti let.
+  predikce:
+    horizont: „brzy" (dovoz) / 30 let (hodnota elektřiny)
+    stav: ceka

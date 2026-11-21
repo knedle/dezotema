@@ -14,6 +14,26 @@ zdroj:
     ekonomika, možné testování NATO v Pobaltí; Druzhba severní větev zastavena od 1. 5. (tranzitní zóna
     Bryansk ostřelována); EU zmrazuje eurofundy pro Slovensko; Zalužný: syna přiměje přísahat na dobytí
     zpět obsazených území.'
+  osoby:
+  - osoba: jana-cernochova
+    vztah: negativni
+    kontext: Macinka (ministr obrany) podepsal přistoupení ČR k bunker koalici pro Ukrainu bez veřejné
+      debaty
+  prehled:
+  - tema: Noční zprávy (kratší). Klíčová témata
+    text: petice ČR na prvním místě za zákaz Landsmannschaftu
+  - tema: Macinka podepsal přistoupení ČR k „bunker koalici" pro
+    text: Macinka podepsal přistoupení ČR k „bunker koalici" pro Ukrainu
+  - tema: návrh zákona o referendu
+    text: 300 000 podpisů, EU/NATO exit výslovně vyloučen
+  - tema: Petr Pavel
+    text: Rusko má 1,5 mil. vycvičených vojáků, militarizovaná ekonomika, možné testování NATO v Pobaltí
+  - tema: Druzhba severní větev zastavena od 1. 5. (tranzitní zóna
+    text: Druzhba severní větev zastavena od 1. 5. (tranzitní zóna Bryansk ostřelována)
+  - tema: EU zmrazuje eurofundy pro Slovensko
+    text: EU zmrazuje eurofundy pro Slovensko
+  - tema: Zalužný
+    text: syna přiměje přísahat na dobytí zpět obsazených území.
 vyroky:
 - id: vrabel-2026-04-29-01
   typ: tvrzeni
@@ -47,4 +67,27 @@ vyroky:
     Vrabel ve vysílání 29. dubna komentuje návrh zákona o referendu, který vláda připravuje. Upozorňuje na klíčový detail: zákon vyžaduje 300 000 podpisů pro vypsání referenda, ale zároveň výslovně vylučuje, aby referendum mohlo proběhnout o vystoupení z EU nebo z NATO. Vrabel to hodnotí jako referendu bez obsahu: „O čem tedy bude, je to prázdná skořápka."
 
     Zároveň komentuje, že Macinka podepsal přistoupení ČR k „bunker koalici" pro Ukrajinu — Petr Pavel obhajoval nutnost chránit civilní infrastrukturu Ukrajiny a budovat kryty pro civilisty. Vrabel: to jsou další závazky, které Česká republika přijímá bez veřejné diskuze.
+  osoby:
+  - osoba: petr-pavel
+    vztah: neutralni
+    kontext: Rusko má 1,5 mil. vycvičených vojáků, militarizovaná ekonomika, hrozba testování NATO v Pobaltí;
+      podpořil ČR v tribunálu
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: valerij-zaluzny-2026-04-29-01
+  typ: predikce
+  temata:
+  - suverenita-eu
+  nadpis: Potomci budou bojovat za znovu-dobytí obsazených území
+  text: Exvelitel ukrajinských ozbrojených sil Valerij Zalužný prohlásil, že přiměje syna složit přísahu,
+    že po něm dobyde zpět území nyní obsazená Ruskem. Vrabel toto cituje jako indikátor, že část Ukrainy
+    realisticky počítá s tím, že obsazená území se nevrátí v krátkodobém horizontu — a válka přejde do
+    generační perspektivy.
+  osoby:
+  - osoba: valerij-zaluzny
+    vztah: neutralni
+    kontext: 'Přiměje syna přísahat, že dobyde zpět obsazená území — Vrabel: signál generačního konfliktu,
+      ne rychlého míru'
+  mluvci: valerij-zaluzny
+  predikce:
+    horizont: generační (neurčeno)
+    stav: ceka

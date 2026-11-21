@@ -16,6 +16,29 @@ zdroj:
     mld Kč) na zbrojení/D11 (Babiš); Írán memorandum 14. 6. (Hormuz otevřen 19. 6., poplatky vs. Macron,
     Netanjahu „hrozný pro Izrael" + řídí USA dle Carlsona); klášter v Kyjevě = ukr. Patriot. Zprávy v
     devět s komentářem (moderátorka Zuzka)
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: 'Ve Washingtonu prosazoval pro Kubu „český model transformace 90s" (s Klausovou přednáškou
+      v Miami) — Vrabel: to znamená devastaci/rozkradení jako v ČR'
+  prehled:
+  - tema: Protesty napříč Evropou (Polsko banderismus, Albánie
+    text: Ivanka/Kushner zabrali pláž+ostrov, statisíce za odstoupení premiéra, „Irská revoluční armáda",
+      G7 Ženeva, migrace) vs. „uspaná" ČR (hádka vláda/prezident, Čermák vězněn)
+  - tema: Nové Česko (Marek Kuba) jako uměle vyrobená strana (Kantar,
+    text: Nové Česko (Marek Kuba) jako uměle vyrobená strana (Kantar, Battery Box/ČEZ)
+  - tema: HPV očkování (Vojtěch + Konečná, 90 % proočkovanost)
+    text: HPV očkování (Vojtěch + Konečná, 90 % proočkovanost)
+  - tema: Kuba a „český model transformace 90s" (Macinka/Klaus Miami)
+    text: Kuba a „český model transformace 90s" (Macinka/Klaus Miami) = devastace/zadlužení, Jugoslávie/Srbsko
+      sankce
+  - tema: půjčka SAFE 2,06 mld € (50,3 mld Kč) na zbrojení/D11 (Babiš)
+    text: půjčka SAFE 2,06 mld € (50,3 mld Kč) na zbrojení/D11 (Babiš)
+  - tema: Írán memorandum 14. 6. (Hormuz otevřen 19. 6., poplatky vs.
+    text: Írán memorandum 14. 6. (Hormuz otevřen 19. 6., poplatky vs. Macron, Netanjahu „hrozný pro Izrael"
+      + řídí USA dle Carlsona)
+  - tema: klášter v Kyjevě = ukr. Patriot.
+    text: klášter v Kyjevě = ukr. Patriot.
 vyroky:
 - id: vrabel-2026-06-15-01
   typ: tvrzeni
@@ -46,6 +69,15 @@ vyroky:
     Ke zprávě, že USA (Rubio) zvažují pro Kubu „český model transformace z 90. let" a české MZV chystá k tématu přednášku Václava Klause na University of Miami, Vrabel varuje, že Kubánce čeká totéž co ČR: rozprodej a ztráta státního majetku, předlužení (ČR dnes míří k 350mld. schodku a bilionovým dluhům), likvidace malých a středních podnikatelů ve prospěch nadnárodních korporací (daňové prázdniny, pozemky/infrastruktura zdarma, zisky odváděné přes fakturace do daňových rájů). Sliby „platů jako na Západě" a „rovné startovní čáry" se podle něj nenaplnily. Jako paralelu uvádí Jugoslávii/Srbsko: prosperující země zničená sankcemi Západu (hyperinflace, lidé vybírající jídlo z popelnic) — bída Kuby tedy není dána „přestárlým vedením", ale 60 lety amerických sankcí.
 
     Zároveň ČR pod Babišem získala z evropského nástroje **SAFE** půjčku **2,06 mld € (50,3 mld Kč)** na vojenské vybavení a dostavbu dálnice D11. Vrabel ironicky „gratuluje" k dalšímu zadlužení — „bezpečí" (SAFE) ve skutečnosti slouží vyzbrojení EU a budování dálnic pro přesun tanků Leopard.
+  osoby:
+  - osoba: marek-kuba
+    vztah: negativni
+    kontext: Strana „Nové Česko" (v průzkumu Kantar) = uměle vyrobená; Kuba (ex-min. průmyslu, firma Battery
+      Box se zakázkami od ČEZ, nosil ukr. trojzubec) nikdy nebyl vlastenec
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Gratulace" za další zadlužení — sjednal půjčku SAFE 2,06 mld € (50,3 mld Kč) na zbrojení
+      a dálnici D11
   podtema: Energetika a Rusko
 - id: vrabel-2026-06-15-03
   typ: tvrzeni
@@ -60,6 +92,10 @@ vyroky:
     co vymýtí rakovinu". Uvádí, že prosazení této strategie v ČR je z velké části zásluha Kateřiny Konečné,
     která si očkovací strategie (vč. HPV) vzala v Europarlamentu za osobní téma — kvůli čemuž s ní měl
     Vrabel „potyčku".
+  osoby:
+  - osoba: adam-vojtech
+    vztah: negativni
+    kontext: Prosazuje 90% proočkovanost proti HPV (jako v covidu); Vrabel varuje před nežádoucími účinky
   podtema: Hantavirus
 - id: vrabel-2026-06-15-04
   typ: tvrzeni

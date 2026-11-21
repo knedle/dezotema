@@ -27,4 +27,13 @@ vyroky:
   citace:
   - text: Pokud by Volodymyr Zelenský dnes nechtěl držet zuby nehty u moci a inkasovat další miliardy
       od Evropské unie, tak už by ten mír tady dávno byl.
+  osoby:
+  - osoba: andrej-babis
+    vztah: pozitivni
+    kontext: Trump telefonoval jemu, nikoliv Pavlovi — Rajchl to čte jako důkaz bližších a kvalitnějších
+      vztahů ČR s USA
+  - osoba: volodymyr-zelensky
+    vztah: negativni
+    kontext: Drží se „zuby nehty u moci" a inkasuje miliardy od EU — kdyby nechtěl, „mír by tu dávno byl";
+      jeden ze dvou aktérů (vedle Bruselu) udržujících válku
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

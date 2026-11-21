@@ -60,3 +60,30 @@ vyroky:
   - text: Nějaké euro? Ty vole, jděte s tím do prdele! [...] Prezident České republiky? Ne, tohle je zaprodanec,
       kolaborant a velezrádce.
   podtema: Česká suverenita
+- id: cernohorsky-2026-07-03-05
+  typ: stoch-teror
+  temata:
+  - suverenita-eu
+  nadpis: Petr Pavel
+  text: pojmenovaný terč + explicitní schválení popravy formou historické analogie; dále „kdyby to šlo,
+    tak fakticky člověk by k tobě nejradši přišel a dal ti takovou porypáku, že by ses z toho zpamatovával
+    hodně těžko"
+  citace:
+  - text: Za doby Československa [...] takovéhle jednání [...] bys byl odsouzen za velezradu, byl bys
+      odsouzen trestu smrti a byl bys pověšenej.
+  teror:
+    terc: Petr Pavel
+    hranicni: false
+- id: cernohorsky-2026-07-03-06
+  typ: stoch-teror
+  temata:
+  - petr-pavel
+  nadpis: Monika Babišová (bývalá manželka Andreje Babiše)
+  text: pojmenovaný terč + explicitní přání vraždy střelnou zbraní; výrok Černohorský citoval a šířil
+    svému publiku jako příklad pokrytectví „lepšolidí"
+  citace:
+  - text: Jediný, co je špatně na tom, že Monika dostala kulku v obálce, je to, že jí nedostala mezi oči
+      rovnou z hlavně.
+  teror:
+    terc: Monika Babišová (bývalá manželka Andreje Babiše)
+    hranicni: false

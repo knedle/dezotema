@@ -31,6 +31,11 @@ vyroky:
     podání ruky s Babišem — „jedna ruka, všechny loutky") a spojuje to se svým dřívějším výkladem [Trump
     = Abaddon](konspirace.md#trump-jako-démonická-entita--moon-child). Souběžně tvrdí, že jakmile začal
     opět vysílat, Facebook mu blokuje nahrávání videí a z Izraele ho někdo „špehuje" (upozornění antiviru).
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: „Loutka" (ruka s Babišem), otevírá „brány pekelné" proti Íránu; jako „včelař" má likvidovat
+      obyčejné lidi (odkaz na Abaddon)
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: boldy-2026-07-19-02
   typ: tvrzeni
@@ -52,6 +57,10 @@ vyroky:
     narativu — označuje to za „totalitní režim" a „korporátní darwinismus" (buď sdílíš mainstream a jsi
     volný, nebo sdílíš „pravdu" a jdeš „za katr"). Navazuje na jeho tezi o cenzuře Facebooku a mazání
     videí (viz [YouTube smazal přes milion videí](dsa-cenzura.md#youtube-smazal-přes-milion-videí-o-vakcínách-umlčovaní-vědci-boldy-17-7-2026)).
+  osoby:
+  - osoba: david-icke
+    vztah: pozitivni
+    kontext: Zákaz jeho vstupu do ~30 zemí označen za umlčování nepohodlné postavy
   podtema: Trestání politického projevu
 - id: boldy-2026-07-19-04
   typ: tvrzeni
@@ -79,6 +88,10 @@ vyroky:
     technologii (trojhranné jádro), díky níž jej umělá inteligence dálkově ovládá a mění směr; VAR je
     jen klam, protože rozhoduje stejně rozhodčí. Uvádí i Bellinghama (číslo 10, desátý gól). Navazuje
     na [dvojníky a okultismus](#dvojníci-a-klony-politiků-a-celebrit).
+  osoby:
+  - osoba: lionel-messi
+    vztah: negativni
+    kontext: Řadí ho k „Baphometu"; MS ve fotbale dle Boldyho zmanipulované okultismem/numerologií
   podtema: Náboženský a okultní výklad moci
 - id: boldy-2026-07-19-06
   typ: tvrzeni

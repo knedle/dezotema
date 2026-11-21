@@ -22,6 +22,22 @@ zdroj:
     (14) EU akční plán elektrifikace — [ceny-energie.md](ceny-energie.md). (15) EU pravidla pro děti online
     + chat control/digitální ID — [digitalni-kontrola.md](digitalni-kontrola.md). Bez predikcí a stoch.
     teroru.'
+  prehled:
+  - tema: Zpracováno 15 témat ("Zprávy v devět s komentářem")
+    text: '(1) Ukrajinské útoky na Moskvu (8 mrtvých) jako zlomová eskalace — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (2) Rekordní státní dluh ČR (342 tis./obyvatel) — rozprodej republiky — [suverenita-eu.md](../suverenita-eu.md).
+      (3) ČR podporuje čečenskou exilovou vládu (Ičkerie) — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (4) Zelenský otevírá archivy k Volyni (smír s Polskem) — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (5) Vučič + British Steel — „konec volného trhu" — [suverenita-eu.md](../suverenita-eu.md). (6)
+      EU–Ukrajina drony/„sladění standardů", válku vede EU — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (7) Odvolání Syrského + Bundestag o Fedorovovi — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (8) Írán/USA údery + cestovní varování — [blizky-vychod.md](../blizky-vychod.md). (9) Robert Malone:
+      WEF napojené na CIA — [konspirace.md](../konspirace.md). (10) Nawrocki odmítl partnerství — Vrabel
+      k LGBT — [rodina-deti.md](../rodina-deti.md). (11) Francie stáhla zlaté rezervy z Fedu — [ceny-energie.md](../ceny-energie.md).
+      (12+13) Burnham v UK a odstoupení prezidenta v Maďarsku (výměna lídrů bez voleb) — [politicky-system.md](../politicky-system.md).
+      (14) EU akční plán elektrifikace — [ceny-energie.md](../ceny-energie.md). (15) EU pravidla pro děti
+      online + chat control/digitální ID — [digitalni-kontrola.md](../digitalni-kontrola.md). Bez predikcí
+      a stoch. teroru.'
 vyroky:
 - id: vrabel-2026-07-18-01
   typ: tvrzeni
@@ -88,6 +104,10 @@ vyroky:
     absurditu, že vynálezce technologie je označen za dezinformátora těmi, kdo „to vědí líp" — von der
     Leyen, Babiš). Navazuje na tezi o [USA/CIA měnících vlády 73×](valka-nato-rusko.md#trump-obviňuje-čínu-z-vměšování-do-voleb--kdo-to-říká-ten-to-je-vrabel-17-7-2026)
     (dnes prý otevřeně: Venezuela, Írán).'
+  osoby:
+  - osoba: robert-malone
+    vztah: pozitivni
+    kontext: „Otec mRNA" umlčený jako dezinformátor; Vrabel přebírá jeho tvrzení o napojení WEF na CIA
   podtema: Náboženský a okultní výklad moci
 - id: vrabel-2026-07-18-06
   typ: tvrzeni
@@ -102,6 +122,15 @@ vyroky:
     označil za „loutku Fideszu" a vyzval k odstoupení — Vrabel to ironizuje jako „demokracii po maďarsku"
     (prezident se zvoleným mandátem na 5 let odvolán, protože se novému premiérovi „nelíbil"), kterou
     EU přesto vítá; Magyar si prý dosadí vlastní loutku.'
+  osoby:
+  - osoba: andy-burnham
+    vztah: negativni
+    kontext: Nový premiér UK zvolený bez celostátních voleb — ironicky „Palšunka", prý bude stejný jako
+      Starmer
+  - osoba: peter-magyar
+    vztah: negativni
+    kontext: Nový maďarský premiér — donutil prezidenta Šujoka odstoupit, aby si dosadil „vlastní loutku"
+      („demokracie po maďarsku")
   podtema: Kritika soudnictví
 - id: vrabel-2026-07-18-07
   typ: tvrzeni
@@ -144,6 +173,11 @@ vyroky:
     ocelárny British Steel (dříve čínská Jingye Group) z důvodu „národní bezpečnosti", proti němuž se
     ohradil Peking — obchodní zájmy se dnes prý neprosazují trhem, ale „násilím", clny, sankcemi a válkami;
     svět je „na divokém západě" a dělí se na dva tábory. Rozšiřuje dřívější [Srbsko jako model suverenity](#).
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Označen za „nejlepšího politika na světě"; Vrabel by řídil ČR stejně (zásoby, armáda, „konec
+      volného trhu")
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-07-18-10
   typ: tvrzeni

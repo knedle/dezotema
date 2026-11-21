@@ -8,6 +8,32 @@ zdroj:
   prepis: prepisy/done/2026-10-03_Ladislav-Vrabel_3-10-2026-Večerní-zprávy-s-komentářem.txt
   rezim: vrabel
   poznamka: Vysíláno z pražského hotelu po shromáždění 3. 10.; bez obrazových podkladů.
+  prehled:
+  - tema: 'Shromáždění „Člověk na prvním místě": tři výzvy'
+    text: víc lidí než u Stačilo!; žádné jaderné zbraně, vyjednavač míru, stop zbraním na Ukrajinu
+    vyrok: vrabel-2026-10-03-07
+  - tema: Zatčení Katky Blahníkové za „Z"
+    text: odsouzení do 15 dnů; „režim zatýká za názor"
+    vyrok: vrabel-2026-10-03-05
+  - tema: G7 uvolní 100 mil. barelů z rezerv
+    text: „úlitba Trumpovi", uzavření Hormuzu „schválně"
+    vyrok: vrabel-2026-10-03-01
+  - tema: Ebola v Kongu; příští pandemie
+    text: 'Schöning: střevní mikroflóra; Vojtěch a „trest smrti"'
+    vyrok: vrabel-2026-10-03-02
+  - tema: Volby v Lotyšsku, Eurofightery nad městy
+    text: výsledek předem jasný — „protiruská vláda, jinak by se volby opakovaly jako v Rumunsku".
+  - tema: Záplavy ve Španělsku
+    text: ovlivňování počasí „elektromagnetickými stroji" (opakování).
+  - tema: KLDR testovala ICBM
+    text: „to nejsou Slovani".
+  - tema: 'Zelenskyj: ruské útoky na školy a nemocnice'
+    text: „věřím nula procent", relativizace Buči
+    vyrok: vrabel-2026-10-03-09
+  - tema: Rusko vyzvalo diplomaty k opuštění Kyjeva
+    text: ironie o „položení života za Macinku".
+  - tema: Česká univerzita simuluje nálety F-35A
+    text: podle kamarádky zakázka „vládních struktur" — příprava útočných operací.
 vyroky:
 - id: vrabel-2026-10-03-01
   typ: tvrzeni
@@ -33,6 +59,13 @@ vyroky:
     Gatesův výrok „ne jestli, ale kdy". Připomíná, že Adam Vojtěch označil za „čest" převoz amerického
     pacienta s podezřením na ebolu, a ptá se, jaký trest by měl dostat člověk, který do země dovezl někoho
     s nemocí, „která může vyhubit Českou republiku" — „kde by měl být ten trest smrti".
+  osoby:
+  - osoba: adam-vojtech
+    vztah: negativni
+    kontext: Převoz pacienta s podezřením na ebolu jako „čest" — sugesce trestu smrti
+  - osoba: heiko-schoning
+    vztah: pozitivni
+    kontext: „Kamarád", varuje před pandemií střevní mikroflóry
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 - id: vrabel-2026-10-03-05
   typ: tvrzeni
@@ -81,3 +114,36 @@ vyroky:
     mrtvol z kamionu. Případný útok KLDR na ČR by podle něj byl děsivý — „to nejsou Slovani, ty s námi
     nebudou soucítit vůbec".'
   podtema: Vyjednávání a mír
+- id: vrabel-2026-10-03-10
+  typ: predikce
+  temata:
+  - ceny-energie
+  nadpis: Katka Blahníková bude do 15 dnů odsouzena na půl roku podmíněně; po vyčerpání rezerv ropa ještě
+    zdraží
+  text: Zatčená účastnice shromáždění bude do 15 dnů odsouzena samosoudcem k šesti měsícům podmíněně na
+    rok a půl; po uvolnění strategických rezerv G7 a amerických volbách cena ropy vzroste „ještě víc".
+  citace:
+  - text: My samozřejmě odhadujeme, že dostane půl roku vězení s rokem a půl podmínkou.
+  predikce:
+    horizont: do ~18. 10. 2026; zima 2026/27
+    stav: vyvraceno
+    horizont_do: 2026-10-18
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: (rozsudek do 15 dnů) — rozsudek do ~18. 10. nepadl; část o zdražení ropy v zimě čeká
+      stav: vyvraceno
+    - datum: 2026-11-20
+      text: Vrabel ještě 9. 11. říká, že čeká, „kdy dostane rozsudek“.
+- id: vrabel-2026-10-03-11
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  nadpis: Adam Vojtěch
+  text: návodná sugesce trestu smrti pro jmenovaného exministra
+  citace:
+  - text: Víte, někdy si prostě člověk říká, jo, kde by měl být ten trest smrti [...] jaký trest byste
+      dali člověku, který domluví, že do vaší země dovezou člověka, který [...] může mít smrtelnou nemoc,
+      která může vyhubit Českou republiku [...] Jaký trest by měl dostat?
+  teror:
+    terc: Adam Vojtěch
+    hranicni: false

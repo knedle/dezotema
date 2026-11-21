@@ -12,6 +12,21 @@ zdroj:
     luhansský internát 21 obětí; SdL sjezd skončil — Posselt střídavě CZ/DE, Norymberk 2027; Söder = ponížení
     ČR; Macinka: veto EU sankcí Izrael; Palantír + PayPal mafie + digitální feudalismus; biolaboratoře
     Pentagonu na Ukrajině (Prozorov + Gabbard 40/120 labs); Srbsko v Číně — 95 % nevstoupí do EU.'
+  prehled:
+  - tema: Zprávy v devět. Klíčová témata
+    text: Rusko zahajuje systematické útoky na Kyjev (Lavrov–Rubio), luhansský internát 21 obětí
+  - tema: SdL sjezd skončil
+    text: Posselt střídavě CZ/DE, Norymberk 2027
+  - tema: Söder = ponížení ČR
+    text: Söder = ponížení ČR
+  - tema: Macinka
+    text: veto EU sankcí Izrael
+  - tema: Palantír + PayPal mafie + digitální feudalismus
+    text: Palantír + PayPal mafie + digitální feudalismus
+  - tema: biolaboratoře Pentagonu na Ukrajině (Prozorov + Gabbard
+    text: biolaboratoře Pentagonu na Ukrajině (Prozorov + Gabbard 40/120 labs)
+  - tema: Srbsko v Číně
+    text: 95 % nevstoupí do EU.
 vyroky:
 - id: vrabel-2026-05-25-01
   typ: tvrzeni
@@ -22,6 +37,14 @@ vyroky:
     Po čtyřech dnech skončil sjezd Sudetoněmeckého Landsmannschaftu. Posselt pro bavorskou stanici BR prohlásil, že sjezdy by se mohly střídavě konat v Německu a v ČR — „v řadě českých měst projevili zájem." Příští rok (2027) se sjezd uskuteční pravděpodobně v Norimberku. Bavorský premiér Söder po sjezdu prohlásil, že ČR a Bavorsko jsou „sousední země, které budou rozvíjet spolupráci" — Vrabel to hodnotí jako diplomatické ponížení: prezident ČR přijal regionálního politika na úrovni státního zástupce.
 
     Vrabel vyzývá k podpisu petice za prohlášení SdL extremistickou organizací (www.cr1.cz) — stačí 10 000 podpisů, aby se věcí muselo zabývat PS. Na demonstraci byl napaden 75letý doktor Sládek vlastenci, kteří přišli Zemana poslouchat.
+  osoby:
+  - osoba: bernd-posselt
+    vztah: negativni
+    kontext: 'Po sjezdu v Brně prohlásil střídavé sjezdy CZ/DE — Vrabel: otevřela se Pandořina skříňka'
+  - osoba: markus-soder
+    vztah: negativni
+    kontext: 'Po sjezdu prohlásil ČR a Bavorsko za „sousední země rozvíjející spolupráci" — Vrabel: diplomatické
+      ponížení ČR na úroveň spolkové země'
   podtema: Sudetoněmecký sjezd v Brně 2026
 - id: vrabel-2026-05-25-02
   typ: tvrzeni
@@ -32,6 +55,11 @@ vyroky:
     Izraeli a bude jednoznačně stát na jeho straně. To přichází v době, kdy EU není v otázce Izraele jednotná
     a část členských zemí kritizuje vojenské akce IDF v Gaze a Libanonu. Vrabel: „krev je bohužel i na
     našich rukou."'
+  osoby:
+  - osoba: petr-macinka
+    vztah: negativni
+    kontext: 'Vydal prohlášení: ČR bude vetovat EU sankce proti Izraeli, stojí jednoznačně na jeho straně
+      i při válečných zločinech'
 - id: vrabel-2026-05-25-03
   typ: tvrzeni
   temata:

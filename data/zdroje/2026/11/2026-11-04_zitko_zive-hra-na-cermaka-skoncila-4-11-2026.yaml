@@ -53,3 +53,58 @@ vyroky:
   citace:
   - text: Čichání k psímu hovnu má stejnou vypovídací hodnotu jako zpravodajské relace.
   podtema: Nová alternativní média
+- id: zitko-2026-11-04-04
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: „velké odhalení“ 5. listopadu podle filmu V jako vendeta
+  text: Film V jako vendeta podle něj „směřuje k velkému odhalení na pátého listopadu“; výsledek amerických
+    voleb bude zvrácen „dřív než za 45 dní“ a přijde globální stanné právo. Skutečný Tomáš Čermák se objeví
+    z ochrany svědků.
+  citace:
+  - text: 5. listopad je zejtra, takže uvidíme.
+  dalsi_zdroje:
+  - 2026-11-07_zitko_zive-vikendove-povzbuzeni-falesne-profily-a-sazka-na-cermaka
+  - 2026-11-17_zitko_zive-sametovy-podvod-17-11-2026
+  predikce:
+    horizont: 5. 11. 2026 (odhalení); do 45 dní (volby)
+    stav: vyvraceno
+    horizont_do: 2026-11-05
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: (část „5. 11.“) — ve vysílání z 5. 11. žádné odhalení nepřišlo, jen nový výklad voleb jako
+        „pasti“; zbytek viz predikce z 5. 11.
+      stav: vyvraceno
+    - datum: 2026-11-07
+      text: Zítko už 5. 11. za odhalení nevydává; uvádí jen, že Trumpův tým zveřejnil video „V jako vendeta“,
+        a odhalení znovu slibuje („brzy i v našich kinech“).
+    - datum: 2026-11-17
+      text: Datum „5. listopadu“ Zítko nově přepočítává podle juliánského kalendáře na 18. 11. („zítra
+        je 5. listopadu podle V jako vendeta juliánského kalendáře“), na den schůzky v Šen-čenu.
+- id: zitko-2026-11-04-05
+  typ: stoch-teror
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: soudci, právníci, lékaři a policisté; „Deep State“ a „zrádci“
+  text: 'Terč: soudci, právníci, lékaři a policisté; „Deep State“ a „zrádci“.'
+  citace:
+  - text: 'O vězení „Alligator Alcatraz“: „budou tam všichni, kdo spáchali zločiny proti lidem a lidskosti,
+      včetně soudců, právníků, lékařů a policistů… v případě útěku… ty krokodýly se postarají o to, že
+      ten útěk nebude v žádném případě úspěšný“; „aktéři Deep State dávno, dávno popraveni“ a „je potřeba,
+      aby se odkopali zrádci i na těch nižších úrovních“'
+  teror:
+    terc: soudci, právníci, lékaři a policisté; „Deep State“ a „zrádci“
+    hranicni: false
+- id: zitko-2026-11-04-06
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: Patrik Tušl, Patrik Svoboda, Renata Bernardy aj.
+  text: hraniční
+  citace:
+  - text: Tu smečku tušlů, Svoboda Morpheus, Bernardy… a další Amazonky… odkopání těchto entit“; Bernardy
+      „zaplacená jako svině“, „zrůdná lištice“; „hodně jste přestřelili a bumerangovým efektem koupíte
+      zpátky
+  teror:
+    terc: Patrik Tušl, Patrik Svoboda, Renata Bernardy aj.
+    hranicni: true

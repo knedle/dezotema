@@ -50,6 +50,14 @@ vyroky:
   - text: Orbán vydírá Evropskou unii nebo Fico vydírá Evropskou unii? Ne, oni hájí svoje národní zájmy
       a je velmi dobře, nebo bude velmi dobře, když se k ním připojíme a budeme ty národní zájmy naše
       hájit.
+  osoby:
+  - osoba: viktor-orban
+    vztah: rozporuplny
+    kontext: Jmenován v kontextu V4 strategie jako lídr obhajující národní zájmy vůči EU; Rajchl ho nezatracuje
+      ani plně nechválí
+  - osoba: robert-fico
+    vztah: neutralni
+    kontext: Zmiňován jako součást V4 bloku bránícího se EU mandátům
   dalsi_zdroje:
   - 2026-04-04_rajchl_projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026
   - 2026-04-12_rajchl_budapest-fidesz-volebni-noc-12-4-2026

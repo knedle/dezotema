@@ -16,6 +16,38 @@ zdroj:
     konfliktu v Íránu; NATO přechod od odstrašení k řeči o použití jaderných zbraní; Sarmat/Satan-2 parametry
     (16 hlavic, 2000km rozptyl, 18 Mach); vojenské cvičení NATO na Slovensku/Maďarsku; dočasná ochrana
     pro Ukraince — ČR není první bezpečná země, ale nelze je posílat Zelenskému.'
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Podpořil nápad generála Pavla a přivezení F-35 jako jaderných nosičů B-61 + „výborný nápad"
+      pro jaderný deštník — ČR se stane cílem Ruska
+  - osoba: michal-strnad
+    vztah: negativni
+    kontext: Jako nejbohatší Čech díky výrobě zbraní (Czechoslovak Group) — příklad toho, kdo profituje
+      z válečné ekonomiky
+  prehled:
+  - tema: Středa večerní zprávy s Zuzkou. Témata
+    text: Německo 10 mld. EUR civilní obrana (kryty, 110k polních lůžek, sirény, aplikace) — příprava
+      na válku na vlastním území
+  - tema: Landsmannschaft
+    text: Reichlův zákon o shromážděních jako špatný přístup, MV odpovědělo správně, jedině extremistická
+      organizace funguje
+  - tema: Ebola v Bulovce
+    text: americký lékař, USA platil soukromý let
+  - tema: česko-izraelský obchodní fórum (Macinka + Saar)
+    text: česko-izraelský obchodní fórum (Macinka + Saar)
+  - tema: Putin-Xi
+    text: podpis dokumentu podporující ruské pojetí konfliktu
+  - tema: Senát USA 50:47 pro ukončení konfliktu v Íránu
+    text: Senát USA 50:47 pro ukončení konfliktu v Íránu
+  - tema: NATO přechod od odstrašení k řeči o použití jaderných zbraní
+    text: NATO přechod od odstrašení k řeči o použití jaderných zbraní
+  - tema: Sarmat/Satan-2 parametry (16 hlavic, 2000km rozptyl, 18
+    text: Sarmat/Satan-2 parametry (16 hlavic, 2000km rozptyl, 18 Mach)
+  - tema: vojenské cvičení NATO na Slovensku/Maďarsku
+    text: vojenské cvičení NATO na Slovensku/Maďarsku
+  - tema: dočasná ochrana pro Ukraince
+    text: ČR není první bezpečná země, ale nelze je posílat Zelenskému.
 vyroky:
 - id: vrabel-2026-05-20-01
   typ: tvrzeni
@@ -41,6 +73,11 @@ vyroky:
     Vrabel popisuje raketu Sarmat (přezdívanou Satan 2), nově zařazenou do ruské armády: 16 menších nebo 10 velkých hlavic, rozptyl až 2 000 km (pokrývá Německo–Polsko–ČR), rychlost ~18 Mach, celou dobu manévruje, vypouští falešné cíle, nelze ji sestřelit. Říká: jaderná válka by měla devastující efekt pro všechny zúčastněné.
   citace:
   - text: Přesunuli jsme se k mluvení o používání jaderných zbraní.
+  osoby:
+  - osoba: mark-rutte
+    vztah: negativni
+    kontext: Prohlášení o „devastujících" následcích pro Rusko pokud použije jaderné zbraně — Vrabel čte
+      jako eskalaci rétoriky od odstrašení k použití
 - id: vrabel-2026-05-20-03
   typ: tvrzeni
   temata:
@@ -56,6 +93,11 @@ vyroky:
     - **Dvojí odmítnutí:** Vrabel odmítá jak současný stav (plný status v ČR), tak deportace zpět na Ukrajinu — posílat muže Zelenskému rovná se posílání na frontu.
   citace:
   - text: Nemůžeme je přece posílat Zelenskému fašistovi, aby je rovnou posílal na smrt na frontu.
+  osoby:
+  - osoba: johansson
+    vztah: neutralni
+    kontext: 'Speciální velvyslankyně EU na Ukraině — citována: „není logické, aby muži kteří nemohou
+      legálně opustit Ukrajinu, automaticky dostali ochranu v EU"'
 - id: vrabel-2026-05-20-04
   typ: tvrzeni
   temata:

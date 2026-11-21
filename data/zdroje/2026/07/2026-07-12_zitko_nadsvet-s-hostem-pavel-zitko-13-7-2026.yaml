@@ -28,6 +28,11 @@ vyroky:
     nenakazíte". Kritizuje, že se v ČR poškozeným covid vakcínou nedaří domoci se odškodnění, na rozdíl
     třeba od Indie, kde je u nežádoucích účinků na oficiálním seznamu automaticky uznávána souvislost
     s očkováním.'
+  osoby:
+  - osoba: jana-katarina-benke
+    vztah: pozitivni
+    kontext: Moderátorka pořadu Nadsvět, hostitelka rozhovoru — sdílí vlastní svědectví o poškození covid
+      vakcínou
   podtema: 'Rakovina: nárůst, diagnostika a alternativní výklad příčin (Tarabová, 8. 7. 2026)'
 - id: zitko-2026-07-12-02
   typ: tvrzeni
@@ -40,6 +45,11 @@ vyroky:
     že Deep State si podobné „loutky" (jmenuje i Ukrajinu a Venezuelu jako země, kde lidé žili pod hranicí
     chudoby) vytváří z chudých poměrů a financuje se přes obchod s dětmi a adrenochromem — z těchto zdrojů
     měla být podle něj financována i CIA.'
+  osoby:
+  - osoba: nicolas-maduro
+    vztah: rozporuplny
+    kontext: Dle Zítka dvojník — skutečný Maduro byl bývalý řidič autobusu dosazený drogovými kartely
+      jako „kasička" Deep State
   podtema: Okultismus
 - id: zitko-2026-07-12-03
   typ: tvrzeni
@@ -67,4 +77,12 @@ vyroky:
     aktivistu René Baláže a podplukovníka armády Petra Švece, o nichž tvrdí, že jsou mrtví a byli „odstraněni",
     protože na rozdíl od něj neměli „to štěstí". Řadí je k obecnější tezi, že kdokoliv nepohodlný pro
     systém (zmiňuje i domnělou smrt kritika Billa Gatese) může být takto umlčen.
+  osoby:
+  - osoba: rene-balaz
+    vztah: pozitivni
+    kontext: Slovenský aktivista — dle Zítka zavražděn/odstraněn za nepohodlnost (energetickou zbraní
+      nebo chemickou cestou)
+  - osoba: petr-svec
+    vztah: pozitivni
+    kontext: Podplukovník armády — dle Zítka zavražděn/odstraněn za nepohodlnost
   podtema: Politická perzekuce

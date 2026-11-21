@@ -19,6 +19,34 @@ zdroj:
     elektřiny, Německo přesun vojsk přes ČR, Hamas odzbrojení, Slovensko vodohospodářství SAE, OpenAI
     singularita, Sýrie diplomat/Bashar Asad. Predikce: eskalace konfliktu mimo Ukrajinu — [predikce.md](predikce.md).
     Bez stoch. teroru.'
+  prehled:
+  - tema: Ceuta/migrační pakt — von der Leyenová, Kalergiho plán, Rotterham
+    text: rozšíření tématu, nové ilustrace a biografický kontext → [Migrace a islamizace](../migrace.md)
+  - tema: Egypt zatažen do konfliktu Írán–USA (útok na přístav Damietta)
+    text: další země zatažená do eskalace → [Blízký východ](../blizky-vychod.md)
+  - tema: Další tranže 3,47 mld. EUR pro Ukrajinu (drony, rakety, Grypeny)
+    text: „EU nemá vlastní peníze" → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: Rusko zasáhlo americkou továrnu Terminal Autonomy v Kyjevě
+    text: rámuje jako válku Západu skrze Ukrajinu proti Rusku, predikuje eskalaci mimo Ukrajinu → [Válka
+      na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md), [Predikce](../predikce.md)
+  - tema: Čechoslovak Group
+    text: nové centrum na výrobu dronových komponent ve středočeském kraji
+  - tema: Kapacitní mechanismus a zdražování elektřiny
+    text: korupční bateriové projekty
+  - tema: Německo plánuje přesun 800 000 vojáků a 200 000 vozidel
+    text: Německo plánuje přesun 800 000 vojáků a 200 000 vozidel přes ČR bez ohledu na zemské vlády AFD
+  - tema: Hamas
+    text: oznámil ochotu odzbrojit se ve prospěch nového orgánu pro správu Gazy
+  - tema: Slovensko
+    text: kritika zapojení investora ze SAE do vodohospodářství (Fico/Takáč)
+  - tema: OpenAI/Sam Altman
+    text: tvrzení o dosažení „singularity" umělé inteligence
+  - tema: 'Bilecký (Azov): nacismus vs. nacionalismus'
+    text: — rozvádí vlastní definici nacismu → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Sýrie
+    text: nový diplomat obviněný z terorismu, kritika americké praxe výměny vlád
+  - tema: Noční zákaz vycházení v Rotterdamu — 15minutová města
+    text: spojuje s agendou 2030 → [Digitální kontrola](../digitalni-kontrola.md)
 vyroky:
 - id: vrabel-2026-07-31-01
   typ: tvrzeni
@@ -79,6 +107,11 @@ vyroky:
     pro „legální cesty" pro migranty z Afriky jako důkaz dlouhodobého plánu EU. Uzavírá, že jediným řešením
     zůstává vystoupení z EU. Navazuje na jeho opakovanou tezi o Kalergiho plánu a na [Migrační pakt vynutí
     přerozdělení (Videoportál, 31. 7.)](#migrační-pakt-vynutí-přerozdělení-do-zemí-kde-ještě-nejsou--polsko-čr-slovensko-maďarsko-vrabel-31-7-2026).'
+  osoby:
+  - osoba: ursula-von-der-leyenova
+    vztah: negativni
+    kontext: 'Citát „nepustíme nikoho, kdo nerespektuje pravidla" k Ceutě — Vrabel: prázdné „chlazení
+      davu" bez reálného obsahu'
 - id: vrabel-2026-07-31-06
   typ: tvrzeni
   temata:
@@ -97,6 +130,11 @@ vyroky:
     i hodnocení generála Drapatého. Připomíná, že UPA jako „nacionalistická" organizace vznikla už kolem
     roku 1920, tedy dřív, než Hitler ovládl Německo, takže vazba na nacismus nemusí být formálně administrativní,
     ale ideologická.'
+  osoby:
+  - osoba: andrij-bilecky
+    vztah: rozporuplny
+    kontext: Zakladatel praporu Azov odmítající označení „nacista" — Vrabel s obhajobou symboliky souhlasí,
+      ale trvá na tom, že Azov je nacistický kvůli potlačování Rusů
   podtema: Vyjednávání a mír
 - id: vrabel-2026-07-31-07
   typ: tvrzeni
@@ -126,3 +164,14 @@ vyroky:
     přeměňuje na rakety a drony používané k útokům na Ruskou federaci, které ale platí evropští daňoví
     poplatníci.
   podtema: EU jako vojenská struktura
+- id: vrabel-2026-07-31-09
+  typ: predikce
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: konflikt kolem amerických zájmů na Ukrajině brzy eskaluje mimo Ukrajinu
+  text: K ruskému útoku na kyjevský závod americké firmy Terminal Autonomy (výroba útočných dronů) Vrabel
+    předpovídá, že ruské údery na americké/západní zájmy zůstanou zatím jen na území Ukrajiny, ale že
+    to „nebude trvat až zas tak dlouho", než konflikt eskaluje i mimo Ukrajinu.
+  predikce:
+    horizont: neurčeno (blízká budoucnost)
+    stav: ceka

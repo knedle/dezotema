@@ -24,4 +24,11 @@ vyroky:
   citace:
   - text: Zkuste se chovat trošičku jako politik. [...] Zkuste nejnižší úroveň, na kterou jste se mohla
       snížit. Gratuluju.
+  osoby:
+  - osoba: filip-turek
+    vztah: pozitivni
+    kontext: Obhajován za rozhodnutí nežalovat Pavla; má být jmenován ministrem
+  - osoba: danuse-nerudova
+    vztah: negativni
+    kontext: Kritizována za výrok o Turkovi jako „nulu"; označena za snížení se na nejnižší úroveň
   podtema: Kauza Filip Turek — nejmenování ministrem a spor s Nerudovou

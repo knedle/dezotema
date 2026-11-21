@@ -12,6 +12,74 @@ zdroj:
     Predikce z 9. 11. („17. listopadu se bude dít něco vážného“) vyhodnocena jako ❌. Stochastický teror
     nezjištěn (hraniční: obvinění Rakušana a Koudelky z „organizovaného zločinu“). Zpracováno podle podkladů
     pomocného agenta, citace ověřeny v přepisu.'
+  osoby:
+  - osoba: pavek
+    vztah: negativni
+    kontext: „Agenti“, kteří zapalují svíčky na Národní
+  - osoba: bures
+    vztah: negativni
+    kontext: „Agenti“, kteří zapalují svíčky na Národní
+  - osoba: ludvik-zifcak
+    vztah: negativni
+    kontext: „Agent StB“
+  - osoba: bojana-vrabelova
+    vztah: pozitivni
+    kontext: Nevinná oběť exekuce 2,5 mil. Kč
+  - osoba: si-tin-pching
+    vztah: pozitivni
+    kontext: Technologická „budoucnost“
+  prehled:
+  - tema: 17. listopad na Národní
+    text: oslavy jsou „trapnost na trapnost“, rok 1989 byl operace tajných služeb, slavit má smysl jen
+      rok 1939
+    vyrok: vrabel-2026-11-10-02
+  - tema: „Zvláštní svobody“ po 37 letech
+    text: ironický výčet od schvalování válečných zločinů USA po zatýkání za písmeno Z, „lež vyhrála nad
+      pravdou“
+    vyrok: vrabel-2026-11-10-02
+  - tema: Srážka vlaků u Prahy
+    text: 46 zraněných, jen sarkastický komentář.
+  - tema: Japonsko a Korea zvedají stíhačky
+    text: „kdo jiný je v tomhle světě agresor?“ (ironie).
+  - tema: Srbsko — ustavující schůze parlamentu
+    text: studenti hlásí Kosovo jako srbské a žádné sankce Rusku, Vučić je „opravdu šikovný“, „vypadá
+      to v Srbsku velmi dobře“.
+  - tema: Výpadek sítě NSA, bankomaty v USA, propad akcií
+    text: „z největší pravděpodobnosti“ uměle vyvolaná krize kvůli digitální měně
+    vyrok: vrabel-2026-11-14-01
+  - tema: Írán zvažuje útoky na Trumpovy lidi
+    text: druhé, tvrdší kolo války USA s Íránem, zlom kolem 19.–20.
+    vyrok: vrabel-2026-11-17-01
+  - tema: Polský deficit 7,1 % HDP
+    text: Polsku pomáhá vlastní měna, „první zkrachuje Francie“ (opakuje, viz [Predikce](../predikce.md)).
+  - tema: Francouzská tajná mise Volia na Ukrajině
+    text: Rusko a Francie jsou „prakticky ve válce“, média to zamlčela
+    vyrok: vrabel-2026-11-11-05
+  - tema: Zásobníky plynu na 70 %
+    text: důchodci mrznou „i v Čechách“, stát, který to neřeší, „nedělá svoji práci“
+    vyrok: vrabel-2026-11-10-01
+  - tema: Witkoff a Kushner v Berlíně, EU nepozvána, 22. balíček sankcí
+    text: Evropa vyloučená z jednání
+    vyrok: vrabel-2026-11-17-06
+  - tema: Nová půjčka Ukrajině 45 mld. eur
+    text: projde kvalifikovanou většinou, ručení „úplně stejné jako před rokem“
+    vyrok: vrabel-2026-11-17-06
+  - tema: Zelenskyj chce Patrioty od spojenců
+    text: ať nechá Evropě pár raket; Rusko má zásoby dronů na roky (opakuje).
+  - tema: Britské sankce proti izraelským osadníkům
+    text: Macinka by je v ČR vetoval, Babiš byl včera u Netanjahua.
+  - tema: 'Trump: jednání blízko dohodě'
+    text: Američané vědí, že válka je prohraná, Trumpovi „se 90 %“ slibů nesplní
+    vyrok: vrabel-2026-11-14-05
+  - tema: Ministři obrany EU
+    text: „99 % aktivity EU je Ukrajina“, „Brusel je Kyjev 2“
+    vyrok: vrabel-2026-11-17-06
+  - tema: Putin v Šen-čenu
+    text: Čína je budoucnost, USA a Evropa „sto let za opicema“
+    vyrok: vrabel-2026-11-14-05
+  - tema: Sbírka na odkup Bojaniny pohledávky
+    text: 2,5 mil. Kč, „organizovaný zločin“ policie, soudu, správce, Rakušana a Koudelky
+    vyrok: vrabel-2026-11-17-03
 vyroky:
 - id: vrabel-2026-11-17-01
   typ: tvrzeni
@@ -28,6 +96,13 @@ vyroky:
   citace:
   - text: Jsem docela si skoro až jistý, bych řekl, že ta válka bude pokračovat druhým kolem, že to druhé
       kolo bude trošku tvrdší ze strany Spojených států.
+  osoby:
+  - osoba: donald-trump
+    vztah: negativni
+    kontext: „90 % toho, co řekne, se nestane“; tvrdší druhé kolo války s Íránem
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: „Opravdu šikovný politik“
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-11-17-02
   typ: tvrzeni
@@ -62,6 +137,16 @@ vyroky:
   citace:
   - text: Organizovaný zločin, kterýho se dopouští policie, soud a insolvenční správce, plus ministr vnitra
       Rakušan, který v tom asistoval.
+  osoby:
+  - osoba: vit-rakusan
+    vztah: negativni
+    kontext: Podle něj součást „organizovaného zločinu“ proti Bojaně
+  - osoba: michal-koudelka
+    vztah: negativni
+    kontext: Podle něj součást „organizovaného zločinu“ proti Bojaně
+  - osoba: libor-vondracek
+    vztah: negativni
+    kontext: Sněmovna se kauzou Bojany nezabývala, „přestal brát telefony“
   podtema: Kauza Bojana Vrabelová — politické zničení aktivisty přes rodinu
 - id: vrabel-2026-11-17-04
   typ: tvrzeni
@@ -113,6 +198,10 @@ vyroky:
   citace:
   - text: 99 % veškerý aktivity Evropské unie spočívá v tom, že řeší Ukrajinu. To prostě, to je Kyjev
       2. Brusel je Kyjev 2 dneska.
+  osoby:
+  - osoba: robert-fico
+    vztah: pozitivni
+    kontext: Jediný, kdo chce blokovat půjčku 45 mld. eur
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-11-17-07
   typ: tvrzeni
@@ -142,3 +231,24 @@ vyroky:
   citace:
   - text: Zatím mám takový pocit, že skóre jeho je 90 % z toho, co řekne, že se stane, se nestane.
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-11-17-09
+  typ: predikce
+  temata:
+  - blizky-vychod
+  nadpis: druhé, „tvrdší“ kolo války USA s Íránem; půjčka 45 mld. eur projde kvalifikovanou většinou;
+    první zkrachuje Francie
+  text: Válka USA s Íránem bude podle Vrabela pokračovat druhým, tvrdším kolem, zlom má nastat „někde
+    mezi 19. až 20.“ (bez jaderných zbraní). Nová půjčka Ukrajině 45 mld. eur na rok 2027 bude schválena
+    kvalifikovanou většinou navzdory Ficovi. „První stát, který zkrachuje v Evropě, bude Francie.“
+  citace:
+  - text: Jsem docela si skoro až jistý, bych řekl, že ta válka bude pokračovat druhým kolem.
+  dalsi_zdroje:
+  - 2026-11-18_vrabel_zpravy-v-devet-18-11-2026
+  predikce:
+    horizont: 'zlom v Íránu kolem 19.–20. 11. 2026 (nejasné); půjčka: jednání od 18. 11. 2026; Francie:
+      neurčeno'
+    stav: ceka
+    horizont_do: 2026-11-20
+    vyhodnoceni:
+    - datum: 2026-11-18
+      text: Termín upřesňuje na „mezi 19. a 20. až někdy 7. příštího měsíce“, tedy 19./20. 11. až 7. 12.

@@ -17,6 +17,11 @@ vyroky:
   text: '**31. 8.** — Černohorský opakuje totéž propojení (veto, Lichtensteinové, Landsmannschaft/Posselt)
     beze změny a rámuje ho jako „velezradu" — doprovázeno extrémní rétorikou vůči Pavlovi i poradci Petru
     Kolářovi včetně opakované výzvy k obnovení trestu smrti (→ [stochastický teror](stochasticky-teror.md)).'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Opakovaná kritika (veto, Lichtensteinové, Landsmannschaft) rámovaná jako „velezrada"; extrémní
+      rétorika včetně obnovené výzvy k trestu smrti (→ [stoch. teror](../stochasticky-teror.md))
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: cernohorsky-2026-08-31-02
   typ: tvrzeni
@@ -47,6 +52,10 @@ vyroky:
     cca 94 mil. Kč. Kritizuje zejména souběh poslaneckého mandátu s členstvím v dozorčích radách jako
     střet zájmů, který by měl být okamžitě zakázán — srovnává se staršími případy vícenásobných funkcí
     (Michal/Ivan Hašek za ČSSD, poslanec Hrnčíř za SPD).'
+  osoby:
+  - osoba: jan-skopecek
+    vztah: negativni
+    kontext: Vedlejší příjem 5 174 087 Kč za rok 2025 ze souběhu více funkcí — kritizován jako střet zájmů
   podtema: USA — volební systém
 - id: cernohorsky-2026-08-31-04
   typ: tvrzeni
@@ -78,4 +87,39 @@ vyroky:
     jen přiznal „udělali jsme chybu" bez skutečné nápravy (žádá zřízení odškodňovacího fondu). Obviňuje
     část svého publika z pokrytectví — kdyby cokoliv podobného udělal politik, kterého nemají rádi, okamžitě
     by ho odsoudili, ale u „svých" oblíbenců totéž mlčky přecházejí.
+  osoby:
+  - osoba: robin-cumpelik
+    vztah: pozitivni
+    kontext: Chválen za video kritizující proměnu vlasteneckého setkání v Příčovech na pouhou přehlídku
+      politiků
   podtema: USA — volební systém
+- id: cernohorsky-2026-08-31-06
+  typ: stoch-teror
+  temata:
+  - petr-pavel
+  nadpis: Petr Pavel
+  text: přímé oslovení jmenovaného prezidenta, dehumanizace jako „vřed" k vypálení + explicitní výzva
+    k obnovení trestu smrti a popravě oběšením za „velezradu" (vzdání se práva veta, jednání s Lichtensteiny,
+    záštita nad Sudetoněmeckým Landsmannschaftem)
+  citace:
+  - text: Petře Pavle, ty agente jeden, estebáku hnusnej odpornej, ty seš vřed [...] a jako takovej vřed
+      prostě patříš zničit, patříš vypálit, vole, jako každej jinej vřed prostě z toho lidskýho organizmu.
+  teror:
+    terc: Petr Pavel
+    hranicni: false
+- id: cernohorsky-2026-08-31-07
+  typ: stoch-teror
+  temata:
+  - petr-pavel
+  nadpis: Petr Kolář (poradce prezidenta)
+  text: jmenovaný terč, sexualizovaná dehumanizace + výzva k popravě oběšením
+  citace:
+  - text: kolář to je prostě fena vyjebaná, která patří na tu šibenici taky.
+  osoby:
+  - osoba: petr-kolar
+    vztah: negativni
+    kontext: Sexualizovaná dehumanizace + výzva k popravě oběšením v souvislosti s Pavlovou zahraniční
+      politikou (→ [stoch. teror](../stochasticky-teror.md))
+  teror:
+    terc: Petr Kolář (poradce prezidenta)
+    hranicni: false

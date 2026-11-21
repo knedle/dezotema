@@ -23,6 +23,10 @@ vyroky:
     peníze neziskovkám na imigraci, LGBT a Ukrajince.
   citace:
   - text: Nemohou být financovány ze zahraničí. Že je to trestný čin. Tečka.
+  osoby:
+  - osoba: sebelova
+    vztah: negativni
+    kontext: „Prosazuje eutanazii pro nezletilé"
   podtema: Milion chvilek — struktura a financování
 - id: cernohorsky-2026-09-05-02
   typ: tvrzeni
@@ -48,6 +52,16 @@ vyroky:
     jsou podle něj proti celostátnímu referendu.'
   citace:
   - text: Vážně si myslíte, že vám něco patří? Ne. Nepatří vám vůbec nic. Ani děti nepatří.
+  osoby:
+  - osoba: tomio-okamura
+    vztah: pozitivni
+    kontext: „Přestal se bát" — stopka penězům neziskovkám; vydání kvůli plakátu = dvojí metr
+  - osoba: mirek-sevcik
+    vztah: pozitivni
+    kontext: „Nesere se" s opozicí
+  - osoba: pospisil
+    vztah: negativni
+    kontext: Trestní oznámení na Okamuru; homofobní urážky
   podtema: Politická kultura
 - id: cernohorsky-2026-09-05-04
   typ: tvrzeni
@@ -71,3 +85,72 @@ vyroky:
     hobby horsing) a LGBT („nešukaj") i očkování těhotných, které označuje za „biologickou zbraň" a „zločin
     proti lidskosti" Babišovy vlády; Bělobrádek prý řekl, že demografickou křivku nahradí migranti.'
   podtema: Eutanazie
+- id: cernohorsky-2026-09-05-06
+  typ: predikce
+  temata:
+  - rodina-deti
+  nadpis: „vymíráme a vymřeme" do 60–80 let
+  text: Kvůli nízké porodnosti Češi, Moravané a Slezané „vymřou" — za 60 až 80 let.
+  citace:
+  - text: Takže my vymíráme… vymíráme a vymřeme. Konec. Tečka.
+  predikce:
+    horizont: 2086–2106
+    stav: ceka
+- id: cernohorsky-2026-09-05-07
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Zdeněk Hřib
+  text: výzva k fyzickému napadení + trestu
+  citace:
+  - text: Ty vole, jdi do hajzlu, ty zmrde pirátskej. Rozkopa ti rypák" / „Tohle hovado má sedět v kriminále
+      [...] já bych ho rozjebal na kousky, toho hajzla
+  teror:
+    terc: Zdeněk Hřib
+    hranicni: false
+- id: cernohorsky-2026-09-05-08
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: Vít Rakušan
+  text: dehumanizace + výzva k trestu
+  citace:
+  - text: Toho Stumbanfuhrera, gestapáka SS [...] Místo, aby Rakušan měl elektrický obojek na krku, aby
+      měl koule u nohy, aby kurva šel dodolu
+  teror:
+    terc: Vít Rakušan
+    hranicni: false
+- id: cernohorsky-2026-09-05-09
+  typ: stoch-teror
+  temata:
+  - fara-neziskovky
+  nadpis: Šebelová (poslankyně STAN)
+  text: fantazie fyzického napadení
+  citace:
+  - text: chytnout jí za ten límec a vyrazit, vyrazit z ní dveře [...] tahle baletka odporná, hnusná
+  teror:
+    terc: Šebelová (poslankyně STAN)
+    hranicni: false
+- id: cernohorsky-2026-09-05-10
+  typ: stoch-teror
+  temata:
+  - rodina-deti
+  nadpis: LGBT lidé, „furries"
+  text: skupinová dehumanizace bez výzvy
+  citace:
+  - text: psychopatů, vymydlených psychoušů", „tyhle teplouše", „buzici
+  teror:
+    terc: LGBT lidé, „furries"
+    hranicni: false
+- id: cernohorsky-2026-09-05-11
+  typ: stoch-teror
+  temata:
+  - politicky-system
+  nadpis: „Tasmánský čert" (pseudonymní uživatel FB)
+  text: výhrůžka anonymní soukromé osobě
+  citace:
+  - text: Tomu hajzlovi bych rozmlátil nejradši rypák, aby už mohl susat žrádlo jenom brčkem [...] Budu
+      ti vyhrožovat, ty hajzle.
+  teror:
+    terc: „Tasmánský čert" (pseudonymní uživatel FB)
+    hranicni: false

@@ -12,6 +12,11 @@ zdroj:
     válka „fakticky rozhodnutá"; diplomatická cesta jako jediný záchrana. Petr Pavel: nazval Trumpa „odpudivá
     lidská bytost" + „poškodil NATO více než Putin" → nemůže zastupovat ČR na NATO summitu. Zhlédnutí:
     129 872'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: 'Nazval Trumpa „odpudivá lidská bytost" a „poškodil NATO více než Putin" → Rajchl: taková
+      slova diskvalifikují presidenta zastupovat ČR na summitu NATO'
 vyroky:
 - id: rajchl-2026-05-12-01
   typ: tvrzeni
@@ -23,4 +28,8 @@ vyroky:
     V krátkém střihu z debaty s Demetrashvilim Rajchl shrnuje svou pozici k válce na Ukraině: čtyři roky zasílání zbraní a finančních prostředků přinesly jen „zlaté bidety v Kyjevě" — korupci a neefektivitu, nikoliv vítězství. Válka je dle jeho názoru „fakticky rozhodnutá" a diplomatická cesta je jedinou možností, jak dosáhnout míru.
 
     Navazuje kritikou prezidenta Petra Pavla: ten označil Trumpa za „odpudivou lidskou bytost" a prohlásil, že „poškodil NATO více než Putin." Rajchl hodnotí, že takový politik nemůže zastupovat ČR na summitu NATO — protože komunikace s druhými stranami jednání vyžaduje důvěryhodnost, nikoliv urážky.
+  osoby:
+  - osoba: demetrashvili
+    vztah: neutralni
+    kontext: Oponent v debatě o válce na Ukraině; Rajchl mu oponuje v pohledu na diplomatické řešení
   podtema: Ekonomický program PRO

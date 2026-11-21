@@ -25,4 +25,11 @@ vyroky:
     jako výměny vlády](#letna-vymena-vlady-vrabel-15-11-2026).'
   citace:
   - text: Takže co chystají na vládu Andreje Babiše? Tanky? Válku? Takovážně?
+  osoby:
+  - osoba: petr-korc
+    vztah: negativni
+    kontext: Jeho komentář „Hitler taky vyhrál volby“ vykládá jako náznak, že opozice chystá svržení vlády
+  - osoba: andrej-babis
+    vztah: pozitivni
+    kontext: Hájí jeho „zvolenou vládu“ proti údajným plánům opozice
   podtema: Politická kultura

@@ -8,3 +8,10 @@ zdroj:
   prepis: prepisy/done/2026-02-22_Jiří-Černohorský-Živě_Magyar.txt
   rezim: standard
   delka: '2:35'
+  osoby:
+  - osoba: jan-sovjak
+    vztah: negativni
+    kontext: Označen za Pavlova „agenta", spojen s vraždou Olofa Palmeho; Černohorský zveřejnil dokumenty
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: 'Nový řádek: spojen s agentem Sovjakem, který dle Černohorského figuruje v kauze vraždy Palmeho'

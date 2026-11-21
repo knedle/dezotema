@@ -31,6 +31,24 @@ vyroky:
     **Stanjura jako spolupachatel:** Rajchl tvrdí, že Stanjura věděl o původu bitcoinů (z trestné činnosti) a přesto umožnil jejich převod ze státní správy na soukromou aukci prostřednictvím ÚZSVM — to je dle Rajchla tentýž trestný čin jako u Blažka a Daňhela. Stanjura by proto také měl být obviněn.
 
     **Fiala v obraze:** Blažek prý Petru Fialovi o celé kauze vyprávěl „jako vtipnou historku" — Rajchl komentuje: „Moc vtipné, pane Fialo." Rajchl pohrozil zahájením parlamentní vyšetřovací komise pro kauzu Bitcoin, pokud nebudou podána další obvinění.
+  osoby:
+  - osoba: pavel-blazek
+    vztah: negativni
+    kontext: 'Obviněn policií v kauze Bitcoin; Blažek Fialovi vyprávěl o kauze jako „vtipné historce"
+      — Rajchl: „Moc vtipné, pane Fialo"'
+  - osoba: radomir-danhel
+    vztah: negativni
+    kontext: Obviněn policií v kauze Bitcoin jako Blažkův náměstek
+  - osoba: tomas-jirikovsky
+    vztah: negativni
+    kontext: Obviněn policií v kauze Bitcoin (alias „Kára Matice", brněnský advokát)
+  - osoba: petr-fiala
+    vztah: negativni
+    kontext: 'Blažek mu o Bitcoin kauze vyprávěl „jako vtipnou historku" — Rajchl: věděl, ale nejednal'
+  - osoba: zbynek-stanjura
+    vztah: negativni
+    kontext: Věděl o původu bitcoinů a umožnil převod přes ÚZSVM = tentýž trestný čin jako Blažek; Rajchl
+      žádá obvinění
   dalsi_zdroje:
   - 2026-05-05_rajchl_tiskova-konference-pro-migrace-kriminalita-bitcoin-5-5-2026
   podtema: Kauza Bitcoin — organizovaný zločin ve státní správě

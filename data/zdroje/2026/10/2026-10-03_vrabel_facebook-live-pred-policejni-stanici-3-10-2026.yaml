@@ -8,6 +8,11 @@ zdroj:
   prepis: prepisy/done/2026-10-03_Ladislav-Vrabel_Facebook-Live_1.txt
   rezim: vrabel
   poznamka: Přenos zpřed policejního oddělení Malá Strana během výslechu K. Blahníkové; část přepisu nesrozumitelná.
+  prehled:
+  - tema: Čekání na propuštění Katky Blahníkové
+    text: „historický moment" — lidé se postavili za zatčenou; „brutální stát pod vládou Babiše"; precedent
+      vytvořila PRO, která „ukradla naše demonstrace"
+    vyrok: vrabel-2026-10-03-03
 vyroky:
 - id: vrabel-2026-10-03-03
   typ: tvrzeni

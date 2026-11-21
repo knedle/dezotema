@@ -34,3 +34,11 @@ vyroky:
     - Havel třikrát přísahal věrnost třem různým státním subjektům (ČSR → ČSFR → ČR) — Zítko to označuje za „dvojí křivopřísežnictví".
 
     Rozdělení Československa Zítko interpretuje jako vlastizradu: poslanec Jan Stráský vládl bez důvěry parlamentu, zákon 542/1992 byl přijat podvodně, porušen ústavní zákon 327/1991; zákon č. 11/1918 o Československé republice prý zůstává platný. Rozdělení proběhlo pod tlakem Německa, které dle Zítka nechtělo platit válečné reparace, jež se za 30 let vyšplhaly na 29 bilionů korun.
+  osoby:
+  - osoba: vaclav-havel
+    vztah: negativni
+    kontext: Člen KSČ do 1967; trojí přísaha třem různým subjektům = křivopřísežnictví; rodina Havelů
+      spolupracovala s SD za války
+  - osoba: jan-strasky
+    vztah: negativni
+    kontext: Vládl bez důvěry parlamentu v době rozdělení ČS — Zítko to označuje za prvek vlastizrady

@@ -18,6 +18,17 @@ zdroj:
     lituje poválečné shovívavosti vůči Finsku (Kellner) — [valka-nato-rusko.md](valka-nato-rusko.md).
     Neprocesována úvodní část opakující PURL/70 mld. tezi z předchozího videa 9. 7. Bez predikcí a stoch.
     teroru.'
+  prehled:
+  - tema: Zpracováno 6 témat (panelová debata k výročí summitu NATO v Ankaře
+    text: 'hosté bez vlastní stránky osoby): (1) Konspirace „Mezimoří" — šlechta/Habsburkové vs. korporativní
+      skupina (Vítová) — [konspirace.md](../konspirace.md). (2) Americké zbrojovky přesouvají výrobu do
+      Evropy (Adam) — [valka-nato-rusko.md](../valka-nato-rusko.md). (3) Spor o pravděpodobnost přímého
+      konfliktu s Ruskem (Esentier vs. Kellner) — [valka-nato-rusko.md](../valka-nato-rusko.md). (4) Zelenskyj
+      jako Rusku vyhovující vůdce, role Zalužného (Adam, Esentier) — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      (5) Role Turecka v NATO, puč 2016 (Kellner) — [valka-nato-rusko.md](../valka-nato-rusko.md). (6)
+      Rusko lituje poválečné shovívavosti vůči Finsku (Kellner) — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      Neprocesována úvodní část opakující PURL/70 mld. tezi z předchozího videa 9. 7. Bez predikcí a stoch.
+      teroru.'
 vyroky:
 - id: vrabel-2026-07-09-03
   typ: tvrzeni
@@ -55,4 +66,13 @@ vyroky:
     **Role Turecka v NATO.** Miroslav Kellner (žil v Turecku 20 let) popisuje pokus o vojenský puč proti Erdoganovi v roce 2016, který byl podle něj organizován z americké letecké základny NATO v Incirliku za účasti Německa — puč byl zmařen poté, co ruská rozvědka odhalila přípravu, informovala Írán a ten varoval Erdogana půl hodiny předtím, než komando dorazilo do hotelu, kde měl být zabit. Turecko je podle Kellnera v NATO drženo především kvůli rivalitě s Řeckem (obě země se navzájem potřebují mít v alianci kvůli vzájemnému konfliktu), přestože by ekonomicky raději vstoupilo do BRICS a turecká veřejnost o členství v NATO nejeví velké nadšení.
 
     **Rusko lituje poválečné shovívavosti.** Miroslav Kellner cituje ruskou televizní debatu, podle níž si Rusové dnes uvědomují, že bylo chybou chovat se po 2. světové válce k některým státům (Finsko, Rumunsko) smířlivě a neuplatnit vůči nim tvrdší poválečné podmínky — jako příklad uvádí, že Finsko dnes zvažuje umístění amerických jaderných zbraní na svém území navzdory poválečné velkorysosti SSSR.
+  osoby:
+  - osoba: volodymyr-zelensky
+    vztah: rozporuplny
+    kontext: 'Panelová debata: signály zákulisní koordinace s Ruskem (USA věděly o útoku předem, Bennett
+      tvrdí Putinův slib ho nezabít) — Rusku „vyhovuje" jako vůdce'
+  - osoba: recep-tayyip-erdogan
+    vztah: rozporuplny
+    kontext: Podle Kellnera přežil puč 2016 organizovaný z NATO základny v Incirliku díky varování Ruska
+      přes Írán — dnes rozkročen mezi NATO a BRICS
   podtema: Zahraniční aktéři a precedenty

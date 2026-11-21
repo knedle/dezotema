@@ -81,3 +81,16 @@ vyroky:
     a civilní služby). Vrabel referuje beze vlastního rozsáhlého komentáře, v kontextu rostoucí militarizace
     vesmíru.
   podtema: EU jako vojenská struktura
+- id: vrabel-2026-09-15-06
+  typ: stoch-teror
+  temata:
+  - konspirace
+  nadpis: „chazarská židovská elita"
+  text: jmenovaný terč (antisemitský konspirační topos „chazarská elita") kolektivně dehumanizován označením
+    „chátra" v rámci teze, že tato skupina řídí válku proti Rusku
+  citace:
+  - text: Pořád pro tu chazarskou židovskou elitu dobít Rusko. To je cílem. [...] A podcenují tu chazarskou
+      chátru.
+  teror:
+    terc: „chazarská židovská elita"
+    hranicni: false

@@ -80,6 +80,11 @@ vyroky:
     pobyt kolem osmi let). Za příčinu mírnosti označuje i to, že řízení vedl americký soudce, jmenovaný
     bývalou šéfkou personálu Evropské unie — s narážkou na dřívější předání dolů a telekomunikací v Kosovu
     americkým firmám po skončení konfliktu.'
+  osoby:
+  - osoba: hasim-taci
+    vztah: negativni
+    kontext: 'Bývalý prezident Kosova, velitel UÇK — odsouzen na 25 let za vraždy a mučení vlastní albánské
+      opozice; Vrabel: mírný trest kvůli americkému soudci a vynechání zločinů vůči Srbům/obchodu s orgány'
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-09-16-05
   typ: tvrzeni
@@ -93,3 +98,15 @@ vyroky:
   dalsi_zdroje:
   - 2026-09-12_vrabel_facebook-live-12-9-2026
   podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-16-06
+  typ: stoch-teror
+  temata:
+  - suverenita-eu
+  nadpis: Rumuni (rumunští zemědělci protestující v Bukurešti)
+  text: jmenovaný terč (národnostní skupina) dehumanizován přirovnáním k opicím v reakci na protesty zemědělců
+    proti agrární politice EU
+  citace:
+  - text: Ne, podívejte se, Romunii jsou 100 let za opicema.
+  teror:
+    terc: Rumuni (rumunští zemědělci protestující v Bukurešti)
+    hranicni: false

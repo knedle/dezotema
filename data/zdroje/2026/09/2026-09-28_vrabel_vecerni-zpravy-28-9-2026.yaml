@@ -8,6 +8,49 @@ zdroj:
   prepis: prepisy/done/2026-09-28_Ladislav-Vrabel_28-9-2026-Večerní-zprávy-s-komentářem.txt
   rezim: vrabel
   poznamka: Na konci (1:08:40–1:12:29) koláž projevů z demonstrací PRO z roku 2023; výpadek [29:28–30:00].
+  osoby:
+  - osoba: ana-brnabic
+    vztah: pozitivni
+    kontext: „Ohromný respekt"
+  prehled:
+  - tema: Den české státnosti — zrádci pro Západ
+    text: implicitní odpověď Rajchlovi, koláž projevů PRO 2023
+    vyrok: vrabel-2026-09-28-04
+  - tema: Macinka u stolu CSG v New Yorku
+    text: Macinku „sponzoruje" Strnad
+    vyrok: vrabel-2026-09-28-05
+  - tema: Milion chvilek a mediální blokáda shromáždění 3. 10.
+    text: ⚡ viz [Média a propaganda](../media-propaganda.md)
+  - tema: Péter Magyar zbaven imunity
+    text: získá jen popularitu.
+  - tema: Kallasová o ruských sabotážích
+    text: „přání otcem myšlenky" (opakování).
+  - tema: Írán, Hormuz
+    text: Trump „válečný zločinec" (opakování).
+  - tema: Pezeškján v OSN — normalizace jaderných zbraní
+    text: dřív o tom mluvili jen „blázni jako Petr Pavel".
+  - tema: Trump žádá Zelenského, aby neútočil na rafinerie
+    text: Trump „herec", „tři čtvrtě světa za Ruskem"
+    vyrok: vrabel-2026-09-28-06
+  - tema: Britové propuštěni na kauci (RAF Fairford) vs. Čermák
+    text: dvojí metr justice (opakování).
+  - tema: 'Polsko: sestřel bez vizuálního kontaktu'
+    text: „čím dál tím blíž" válce.
+  - tema: 'KMIS: 72 % Ukrajinců viní Zelenského z korupce; Kuleba'
+    text: ukrajinská strana v ČR „hotová věc" (opakování).
+  - tema: Vučić rezignoval, Brnabić úřaduje
+    text: Vučiće nemá nikdo právo kritizovat, „udržel zemi neutrální".
+  - tema: Ceuta; EU jako kalifát
+    text: ⚡ viz [Migrace](../migrace.md)
+  - tema: 'AI: superinteligence, únik ze sandboxu'
+    text: „Skynet"
+    vyrok: vrabel-2026-09-28-01
+  - tema: 'Kallasová: Patrioty pro Ukrajinu; EU superstát; Mrtvá ruka'
+    text: opakování.
+  - tema: Motoristé si nechají MŽP
+    text: Turek „zobchoduje" větrníky, „herci".
+  - tema: Ukrajinské „bratrské varování" Polákům
+    text: válka „Slovanů proti Slovanům".
 vyroky:
 - id: vrabel-2026-09-28-01
   typ: tvrzeni
@@ -62,6 +105,10 @@ vyroky:
     Council) u stolu zbrojařské CSG, Vrabel tvrdí, že Macinku „sponzoruje Michal Strnad a jeho firma CSG";
     Strnad měl mít i soukromé schůzky s Okamurou a ministerstvo obrany (SPD) prý dohlíží na nákupy zbraní
     bez výběrových řízení.'
+  osoby:
+  - osoba: michal-strnad
+    vztah: negativni
+    kontext: „Sponzoruje" Macinku
   podtema: NATO, zbrojení a militarizace ČR/Evropy
 - id: vrabel-2026-09-28-06
   typ: tvrzeni
