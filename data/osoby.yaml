@@ -2917,3 +2917,28 @@ osoby:
   jmeno: Stanley Kubrick
   sledovany: false
   vlastni_stranka: false
+- slug: wes-streeting
+  jmeno: Wes Streeting
+  sledovany: false
+  vlastni_stranka: false
+- slug: mirze-edis
+  jmeno: Mirze Edis
+  sledovany: false
+  vlastni_stranka: false
+- slug: aleksandar-cupic
+  jmeno: Aleksandar Čupić
+  aliasy: [Čupič]
+  sledovany: false
+  vlastni_stranka: false
+- slug: warren-buffett
+  jmeno: Warren Buffett
+  sledovany: false
+  vlastni_stranka: false
+- slug: gerard-depardieu
+  jmeno: Gérard Depardieu
+  sledovany: false
+  vlastni_stranka: false
+- slug: michel-houellebecq
+  jmeno: Michel Houellebecq
+  sledovany: false
+  vlastni_stranka: false

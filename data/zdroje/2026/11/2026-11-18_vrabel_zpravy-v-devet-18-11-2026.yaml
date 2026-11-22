@@ -300,3 +300,10 @@ vyroky:
   predikce:
     horizont: po summitu APEC (od 19. 11. 2026), neurčeno; sankce na novináře do 18. 5.–18. 11. 2027
     stav: ceka
+    vyhodnoceni:
+    - datum: 2026-11-20
+      text: 'Vrabel 20. 11. vidí dílčí naplnění v dohodě Dánska, Grónska a USA, která Trumpovi umožňuje rozšířit vojenskou přítomnost v Grónsku.'
+      stav: ceka
+    - datum: 2026-11-21
+      text: 'K 21. 11. žádný návrat k válce s Íránem; Trump nabízí Íránu trvalou dohodu, Vrabel mu nevěří a čeká „podraz“.'
+      stav: ceka

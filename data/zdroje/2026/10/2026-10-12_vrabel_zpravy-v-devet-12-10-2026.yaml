@@ -157,6 +157,9 @@ vyroky:
     - datum: 2026-11-20
       text: Po 3. 11. Trump dál mluvil o „velké dohodě“ a 19. 11. jednal s Putinem a Si. Vrabel 19. 11.
         tvrdí, že „euforie“ trvala 4–5 týdnů a summitem končí.
+    - datum: 2026-11-20
+      text: 'Vrabel 20. 11. tvrdí, že „období klidu skončilo“ a první den po summitu to ukázal incident s úlomky raket a dronů v Polsku (viz [zdroj](/zdroje/2026-11.md#2026-11-20_vrabel_zpravy-v-devet-20-11-2026)).'
+      stav: castecne
 - id: vrabel-2026-10-12-06
   typ: predikce
   temata:
