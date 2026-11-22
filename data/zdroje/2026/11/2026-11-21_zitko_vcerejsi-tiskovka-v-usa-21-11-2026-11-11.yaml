@@ -1,0 +1,360 @@
+zdroj:
+  id: 2026-11-21_zitko_vcerejsi-tiskovka-v-usa-21-11-2026-11-11
+  mluvci: zitko
+  kanal: Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+  titul: 'Živě: „Včerejší tiskovka v USA“ (21. 11. 2026, 11:11)'
+  datum: 2026-11-21
+  cas: '11:11'
+  url: https://m.facebook.com/watch/?v=1923896368595653&_rdr
+  prepis: prepisy/done/2026-11-21_Československo-TV2_32-reactions-11-shares-jana-peterkova-official-3-v.txt
+  delka: '01:40:12'
+  rezim: standard
+  poznamka: '1 h 40 min. Mluví jen Zítko, asi 40 % času předčítá cizí příspěvky (Hanna Hanna, Rynus
+    Verhagen, Barbora Pražská, „Michael“) a pouští klipy (Pírková – „popravení“, Central Casting).
+    Uživatel vybral všech 22 témat; opakování zapsána krátce s vazbou. Nezpracováno: reklama Bewit,
+    pozvánka na debatu se Suchomelem (22. 11.), technická sdělení, hudební/pohádkové klipy. Stochastický
+    teror: covidoví „vědátoři“ před vojenský tribunál (plný), hraniční: „velezrádci“ k potrestání,
+    klip s „popravenými“ politiky, Rothschildové jako „zrůdičky“ (předčítaný text). Hejtři jako
+    „profesionální kokoti“ jen vulgarita, nezapsáno. Zpracováno podle shrnutí pomocného agenta, klíčové
+    citace ověřeny v přepisu.'
+vyroky:
+- id: zitko-2026-11-21-01
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Trump na tiskovce „menší než originál“ a nižší než Vance — důkaz Central Casting (Zítko, 21. 11. 2026)
+  text: |
+    Na tiskovce po jednání „velké trojky“ byl podle Zítka „ten menší“ Trump, viditelně nižší než
+    J. D. Vance. Trump prý při vítání jednoho generála sám ukázal, že byl „nahrazen dvojníkem“, což má
+    potvrzovat, že v „globální vojenské operaci“ bylo nahrazeno 200 tisíc „herců, dvojníků a klonů“.
+    Vance je podle něj „údajně hrán“ Paulem Walkerem a „čas, kdy odloží masky, se blíží“.
+  citace:
+  - text: Tak 200 tisíc herců dvojníků klonu bylo v rámci globální vojenské operace nahrazeno.
+    cas: "40:16"
+  osoby:
+  - {osoba: donald-trump, vztah: pozitivni, kontext: 'Na tiskovce prý vystupoval jeho „menší“ dvojník'}
+  - {osoba: jd-vance, vztah: neutralni, kontext: '„Údajně hrán“ Paulem Walkerem'}
+  vazby:
+  - {na: zitko-2026-07-15-03, typ: posun}
+- id: zitko-2026-11-21-02
+  typ: predikce
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Kanada se stane 51. státem USA — „prediktivní programování“ na koncertu v Bílém domě (Zítko, 21. 11. 2026)
+  text: |
+    Vojenská kapela na koncertu v zahradách Bílého domu podle Zítka hrála skladbu s melodií kanadské
+    hymny, čímž „naznačili“, že Kanada, dosud „londýnská kolonie pod korunou“, bude 51. státem USA.
+    Hluk stavby „ballroomu“ v záběrech vykládá jako záměrné ukázání, že „se na osvobození lidstva
+    a plánu Q maká intenzivně“ a „jsme ve finální fázi“.
+  citace:
+  - text: Tohle se jmenuje prediktivní programování a včera nám krásně naznačili, že jedna padesátým státem spojených států se stane Kanada podle týhletý písničky.
+    cas: "06:05"
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: zitko-2026-11-21-03
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: USA od roku 1871 korporací, Trump obnovuje republiku z roku 1776 (Zítko, 21. 11. 2026)
+  text: Opakuje, že USA byly korporací a Trump jako „vrchní velitel armády aliance“ je vrací do republiky
+    z roku 1776.
+  vazby:
+  - {na: zitko-2026-06-12-05, typ: opakovani}
+- id: zitko-2026-11-21-04
+  typ: tvrzeni
+  temata: [media-propaganda]
+  nadpis: ČT dostala od USA 42 mil. dolarů, prodala Radiokomunikace do Anglie — žádejte vrácení poplatků (Zítko, 21. 11. 2026)
+  text: |
+    Zákon o ČT se podle Zítka „nedodržuje minimálně od 12. března 2020“ (nevyvážené informace), proto
+    lze „v souladu se zákonem“ žádat vrácení koncesionářských poplatků. Nově uvádí, že ČT na začátku
+    covidu dostala ze Spojených států 42 milionů dolarů („88 milionů korun“) a že České radiokomunikace
+    byly „prodány do Anglie“, kam teď prý odtékají peníze z poplatků.
+  citace:
+  - text: Česká televize porušovala zákon každý den nevyvážené informace brutálně.
+    cas: "18:48"
+  vazby:
+  - {na: zitko-2026-11-04-03, typ: posun}
+  - {na: zitko-2026-05-07-05, typ: opakovani}
+- id: zitko-2026-11-21-05
+  typ: tvrzeni
+  temata: [covid-vakciny]
+  nadpis: Odškodnění pro oběti „injekcí biologické zbraně COVID-19“ (Zítko, 21. 11. 2026)
+  text: Opakuje, že očkování bylo „biologickou zbraní“ a pozůstalí i poškození mají žádat odškodnění;
+    znovu ukazuje „15 stran vedlejších účinků“ Pfizeru.
+  vazby:
+  - {na: zitko-2026-11-18-01, typ: opakovani}
+- id: zitko-2026-11-21-06
+  typ: tvrzeni
+  temata: [covid-vakciny, kauzy]
+  nadpis: Füllmich přesunut mezi odsouzené — naděje na propuštění po dvou třetinách trestu (Zítko, 21. 11. 2026)
+  text: |
+    Reiner Füllmich byl podle Zítka přestěhován z vazebního oddělení do oddělení pro odsouzené, což
+    „dává naději“, že jeho právníci mohou iniciovat propuštění po odpykání dvou třetin trestu a jeho
+    „politické pronásledování“ by mohlo mít „žádoucí konec“. Připomíná protestní nóty, které Československo
+    (jeho iniciativa) posílalo německé vládě, a návštěvu Sonji Pekové.
+  osoby:
+  - {osoba: reiner-fuellmich, vztah: pozitivni, kontext: 'Politický vězeň, naděje na propuštění'}
+  - {osoba: pekova, vztah: pozitivni, kontext: 'Navštívila Füllmicha ve vězení'}
+  vazby:
+  - {na: zitko-2026-06-12-03, typ: posun}
+- id: zitko-2026-11-21-07
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: QFS ve třech fázích — odstávky UniCredit, Raiffeisenbank a dalších bank jako „fáze tři“ (Zítko, 21. 11. 2026)
+  text: |
+    S předčítaným textem Rynuse Verhagena popisuje přechod na QFS ve třech fázích (zmrazení, rekonfigurace,
+    uzamčení): „první fáze je dokončená, druhá probíhá, třetí je za dveřmi“. Peníze se mají vrátit ke
+    krytí zlatem. Ohlášené odstávky bank (UniCredit, Raiffeisenbank a další) podle něj s tímto přechodem
+    souvisejí a „dveře se zavírají za starým světem“.
+  citace:
+  - text: První fáze je dokončená, druhá fáze probíhá, třetí fáze je za dveřmi a tyhle ty dveře se zavírají za starým světem.
+    cas: "28:05"
+  vazby:
+  - {na: zitko-2026-04-03-05, typ: posun}
+- id: zitko-2026-11-21-08
+  typ: tvrzeni
+  temata: [konspirace, konspirace-deep-state-qanon]
+  nadpis: Banky tvoří peníze z ničeho, lidé jsou „právní fikce“, za systémem „černá šlechta“ (Zítko, 21. 11. 2026)
+  text: |
+    Převážně předčítaný text, se kterým Zítko souhlasí: banky půjčují neexistující peníze v rámci „dluhového
+    otroctví“, skutečná inflace je „v desítkách procent“ a lidé jsou „zákonně“ okrádáni. Lidem byla prý
+    ukradena identita a stali se z nich „právní fikce“; původ systému klade k „uctívačům Baala“, černé
+    šlechtě a Rothschildům, kteří financovali obě strany válek.
+  osoby:
+  - {osoba: rothschildove, vztah: negativni, kontext: 'Financovali obě strany válek, „zrůdičky“ (předčítaný text)'}
+- id: zitko-2026-11-21-09
+  typ: predikce
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Na „odhalení a potrestání velezrádců“ v USA zbývá necelý měsíc (45 − 17 dní) (Zítko, 21. 11. 2026)
+  text: |
+    Od „zveřejnění podvodu ve volbách“ uplynulo 17 dní z 45denního okna, takže „maximálně“ zbývá necelý
+    měsíc. Volby jsou podle něj falšovány 20 let (Smartmatic, Dominion); proto prý Klaus s Mečiarem
+    v roce 1992 nevypsali referendum o rozdělení — tehdy ještě „nebyly technologie“ na jeho zfalšování.
+  citace:
+  - text: Nám maximálně, pokud to budou chtít natahovat, zbývá necelý měsíc, jo, protože 45 minus 17 vám dává jasný číslo, který teďka je aktuální pro odhalení a potrestání těchto velezrádců a vlastizrádců.
+    cas: "35:14"
+  osoby:
+  - {osoba: vaclav-klaus, vztah: negativni, kontext: 'Nevypsal referendum o rozdělení ČSFR'}
+  - {osoba: vladimir-meciar, vztah: negativni, kontext: 'Nevypsal referendum o rozdělení ČSFR'}
+  vazby:
+  - {na: zitko-2026-11-05-04, typ: posun}
+  predikce:
+    horizont: necelý měsíc (45denní okno od cca 4. 11. 2026)
+    horizont_do: 2026-12-19
+    stav: ceka
+- id: zitko-2026-11-21-10
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko, valka-ukrajina-prubeh]
+  nadpis: Po válce nebyla mírová smlouva, o ČSR rozhodnou vítězné mocnosti; referendum na Zakarpatské Ukrajině (Zítko, 21. 11. 2026)
+  text: |
+    Po druhé světové válce podle Zítka nebyla podepsána žádná mírová smlouva, jen kapitulace; tisíce
+    nacistických elit utekly do Ameriky a jejich potomci „infiltrovali“ EU. Evropa je „totálně mimo hru“,
+    o poválečném uspořádání rozhodnou USA, Rusko a Čína. Československo podle něj právně trvá (zákon
+    č. 11/1918, čs. státní příslušnost v hlášení o narození) a o obnově je třeba jednat „v hranicích
+    k 28. 10. 1918“ — na Zakarpatské Ukrajině by mělo proběhnout referendum o připojení k ČSR.
+  citace:
+  - text: Evropa je totálně mimo hru a v rámci dohody a jednání o míru vítězných mocností, tam bylo před celým světem demonstrováno, že s Evropou se už v tomto složení nikdo nebaví.
+    cas: "32:00"
+  osoby:
+  - {osoba: valerij-pjakin, vztah: pozitivni, kontext: 'Odkaz na jeho odhad pravděpodobnosti obnovy ČSR'}
+  vazby:
+  - {na: zitko-2026-10-03-06, typ: posun}
+  - {na: zitko-2026-11-18-05, typ: opakovani}
+- id: zitko-2026-11-21-11
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Nárok na reparace „desítky bilionů“, Čechoslovákům ukradli majetek a falšovali katastry (Zítko, 21. 11. 2026)
+  text: |
+    Existuje podle Zítka „naprosto opodstatněný nárok na válečné reparace“ v řádu desítek bilionů korun
+    a Čechoslováci, „majitelé Československa“, mají nárok na majetek, který jim „korporátníci“ ukradli
+    falšováním pozemkových knih a katastrů. Podvodem bylo podle něj i rozdělení Sovětského svazu.
+  citace:
+  - text: Je tady nárok vás, Čechoslováků, na to, co vám ukradli za majetek Československa a sfalšovali pozemkové knihy, katastry a další.
+    cas: "1:29:35"
+  vazby:
+  - {na: zitko-2026-08-27-06, typ: posun}
+- id: zitko-2026-11-21-12
+  typ: predikce
+  temata: [konspirace-deep-state-qanon, valka-ukrajina-prubeh]
+  nadpis: „Přepnutí spínače“ do nové éry ještě před Vánocemi, mír na Ukrajině do začátku ledna (Zítko, 21. 11. 2026)
+  text: |
+    S odkazem na Financial Times (Washington čeká mírovou dohodu Kyjeva do začátku ledna) a Trumpovo
+    „Vánoce budou letos dřív“ Zítko očekává, že „přepnutí“ do „nové, dosud nevídané éry“ nastane
+    ještě před Vánocemi.
+  citace:
+  - text: V jeden den přepnout spínač a začne se nová dosud nevídaná éra… a něco mi říká, že to bude ještě před Vánocemi.
+    cas: "54:41"
+  vazby:
+  - {na: zitko-2026-11-18-05, typ: posun}
+  predikce:
+    horizont: ještě před Vánocemi 2026
+    horizont_do: 2026-12-24
+    stav: ceka
+- id: zitko-2026-11-21-13
+  typ: postoj
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Suchomel jako „snaživec“, který sjednocuje nespojitelné (Zítko, 21. 11. 2026)
+  text: |
+    Před nedělní debatou o Československu označuje Petra Suchomela za „snaživce“, který se marně pokoušel
+    „sjednocovat nespojitelné“. Sám tvrdí, že je nutné jít „místo korporátníků“, ne „mimo“ ně, a přijímá
+    pozvání do debaty s kýmkoli, včetně Rajchla, Babiše či Fialy.
+  osoby:
+  - {osoba: suchomel, vztah: rozporuplny, kontext: '„Snaživec“, ale pozvání do debaty přijímá'}
+- id: zitko-2026-11-21-14
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko, konspirace-deep-state-qanon]
+  nadpis: O obnově ČSR nerozhodne Pavel, Babiš ani Fiala, ale vítězné mocnosti (Zítko, 21. 11. 2026)
+  text: Opakuje, že rozhodnou vítězné mocnosti, ne Pavel, „vyměněnej“ Babiš ani Fiala, „kterému zázračně
+    vyrostly vlasy“ (dvojníci).
+  osoby:
+  - {osoba: pavel, vztah: negativni, kontext: 'O obnově ČSR rozhodovat nebude'}
+  - {osoba: babis, vztah: negativni, kontext: '„Už je jako vyměněnej“ (dvojník)'}
+  - {osoba: fiala, vztah: negativni, kontext: '„Zázračně mu vyrostly vlasy“ (dvojník)'}
+  vazby:
+  - {na: zitko-2026-09-24-03, typ: opakovani}
+- id: zitko-2026-11-21-15
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Deep State rozprodává aktiva, další fází je zajetí agentů na nižších úrovních — „One Way Ticket“ (Zítko, 21. 11. 2026)
+  text: |
+    Z globálních trhů podle Zítka v pátek 20. 11. „vyfičelo“ 2,5 bilionu dolarů, protože Deep State
+    „prodává, co může“. Nejvyšší úrovně jsou už „zajaty a povětšinou popraveny“ nebo drženy na Gitmu,
+    Diego Garcii či „evropském Gitmu na Islandu“; další fází je zajmout agenty na nižších úrovních
+    (s odkazem na Lavrovovo „nikdo se neschová“), kteří dostanou „jednosměrnou jízdenku“.
+  citace:
+  - text: Další fází je zajmout všechny agenty hlubokého státu na nižších úrovních, protože na těch vyšších už jsou vyřízený.
+    cas: "1:03:44"
+  osoby:
+  - {osoba: sergej-lavrov, vztah: pozitivni, kontext: 'Citován výrok „nikdo se neschová“'}
+  vazby:
+  - {na: zitko-2026-10-03-08, typ: posun}
+- id: zitko-2026-11-21-16
+  typ: postoj
+  temata: [fara-neziskovky, politicky-system]
+  nadpis: Hejtři placení z neziskovek, Rajchl „zaňuchal politická korýtka“ (Zítko, 21. 11. 2026)
+  text: |
+    Hejtry označuje za placené „profesionály“ napojené na neziskovky a USAID; radí je ignorovat, protože
+    je „vyřeší někdo jiný, někde jinde“. Rajchl a další se podle něj na protestech objevili až po roce,
+    když bylo lidí víc a „zaňuchali možná politická korýtka“; Rajchl je „vyučenej u Chvalovskýho“.
+  citace:
+  - text: Reichel a další, ty se objevily až po roce, ty vůbec rypák nevystrkovaly, když nás bylo málo, ale když už bylo potom víc lidí, tak zaňuchali možná politická korýtka.
+    cas: "1:07:09"
+  osoby:
+  - {osoba: rajchl, vztah: negativni, kontext: 'Na protestech až po roce, „zaňuchal politická korýtka“'}
+- id: zitko-2026-11-21-17
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Masové zatýkání v USA a „700 tisíc obžalob“ při spuštění EBS (Zítko, 21. 11. 2026)
+  text: |
+    Referuje jako fakt, že bylo zatčeno 47 federálních soudců, 23 senátorů a 12 agentů CIA a že „takhle
+    to bude pokračovat i dál po světě“, „brzo i v našich kinech“. Při spuštění Emergency Broadcast System
+    má být rozpečetěno 700 tisíc obžalob.
+  vazby:
+  - {na: zitko-2026-11-11-05, typ: posun}
+- id: zitko-2026-11-21-18
+  typ: postoj
+  temata: [konspirace-deep-state-qanon]
+  nadpis: „Nesnažte se predikovat, ví to deset lidí na světě“ — důvěřujte plánu (Zítko, 21. 11. 2026)
+  text: |
+    S předčítaným textem („nic se nevyplní tak, jak si představujete, ale všechno se stane tak, jak
+    doufáte“) vyzývá diváky, aby přestali predikovat termíny a důvěřovali plánu; sám termíny prý nezná.
+    Současně ve stejném vysílání termíny uvádí (viz predikce výše).
+  citace:
+  - text: Nesnažte se všechno predikovat. Ví to deset lidí na světě a znovu opakuju, já to nejsem.
+    cas: "1:25:19"
+- id: zitko-2026-11-21-19
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: „Uvidíme, kdo se skrývá pod identitou Stephen Miller“ (Zítko, 21. 11. 2026)
+  text: Opakuje, že za novým šéfem personálu Stephenem Millerem se může skrývat „překvapení“.
+  osoby:
+  - {osoba: stephen-miller, vztah: rozporuplny, kontext: '„Kdo se skrývá pod identitou“'}
+  vazby:
+  - {na: zitko-2026-11-08-06, typ: opakovani}
+- id: zitko-2026-11-21-20
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: JFK jako „starter“ boje proti Deep State, Trump „finisher“ (Zítko, 21. 11. 2026)
+  text: Opakuje, že atentát v Dallasu nebyl na skutečného Kennedyho a ten boj „startoval“.
+  vazby:
+  - {na: zitko-2026-11-18-04, typ: opakovani}
+- id: zitko-2026-11-21-21
+  typ: tvrzeni
+  temata: [covid-vakciny, konspirace]
+  nadpis: Freddie Mercury „zavražděn v rámci ideologie AIDS“ (Zítko, 21. 11. 2026)
+  text: |
+    Při komentování klipu tvrdí, že Freddie Mercury byl „údajně zavražděn v rámci ideologie AIDS a podvodu
+    z HIV AIDS“; Fauci byl podle něj „u všeho“ od AIDS po „prasečí chřipku“ a covid („důvěřujte vědě“).
+  osoby:
+  - {osoba: anthony-fauci, vztah: negativni, kontext: '„Byl u všeho“, od AIDS po covid'}
+  vazby:
+  - {na: zitko-2026-06-03-02, typ: posun}
+- id: zitko-2026-11-21-22
+  typ: postoj
+  temata: [valka-ukrajina-prubeh]
+  nadpis: Mír není v zájmu těch, kdo posílají drony a pořádají sbírky na rakety (Zítko, 21. 11. 2026)
+  text: |
+    Mírové uspořádání je podle Zítka v zájmu Ruska i USA, nikoli „čertů v hodnosti vraníků“, kteří posílají
+    drony a pořádají „sbírky na rakety Dana“.
+- id: zitko-2026-11-21-23
+  typ: stoch-teror
+  temata: [covid-vakciny]
+  nadpis: Covidoví „vědátoři“ Prymula, Hořejší, Flegr, Kubek — „tohle skončí až před vojenským tribunálem“
+  text: |
+    Po komentáři k Faucimu vyjmenovává (v přepisu zkomoleně) „vědátory“ — „kubky, chlípky, primuly,
+    hořejší Václavy, flégry“ — s tím, že „i na tyto chlapce dojde“, protože konec covidu „nebyl oznámením
+    Babiše“.
+  citace:
+  - text: „I na tyto chlapce dojde, protože konec COVID-19 nebyl oznámením Babiše… Tohle skončí až před vojenským tribunálem.“
+    cas: "51:21"
+  osoby:
+  - {osoba: roman-prymula, vztah: negativni, kontext: '„Skončí před vojenským tribunálem“'}
+  - {osoba: vaclav-horejsi, vztah: negativni, kontext: '„Skončí před vojenským tribunálem“'}
+  - {osoba: jaroslav-flegr, vztah: negativni, kontext: '„Skončí před vojenským tribunálem“'}
+  - {osoba: milan-kubek, vztah: negativni, kontext: '„Skončí před vojenským tribunálem“'}
+  vazby:
+  - {na: zitko-2026-11-14-08, typ: opakovani}
+  teror:
+    terc: Roman Prymula, Václav Hořejší, Jaroslav Flegr, Milan Kubek, Roman Chlíbek (covidoví experti)
+    hranicni: false
+- id: zitko-2026-11-21-24
+  typ: stoch-teror
+  temata: [konspirace-deep-state-qanon]
+  nadpis: „Velezrádci a vlastizrádci“ (demokraté, volební podvod) k „odhalení a potrestání“
+  text: Výzva k potrestání skupiny bez konkrétních jmen (demokraté zapojení do údajného volebního podvodu).
+  citace:
+  - text: „…aktuální pro odhalení a potrestání těchto velezrádců a vlastizrádců.“
+    cas: "35:31"
+  vazby:
+  - {na: zitko-2026-11-05-05, typ: opakovani}
+  teror:
+    terc: Demokraté (volební podvod v USA)
+    hranicni: true
+- id: zitko-2026-11-21-25
+  typ: stoch-teror
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Schwab, Fauci, Podesta, Obama, Clintonová a Bush jako „popravení“ — souhlasný komentář klipu
+  text: |
+    Zítko pouští a souhlasně komentuje klip se seznamem údajně popravených osobností; hraniční, protože
+    jde o cizí klip a „popravy“ líčí jako již proběhlé, nikoli jako výzvu.
+  citace:
+  - text: „Klaus Schwab a Antony Fauci. Oba popraveni. Podesta, pedofil a jeden z hlavních představitelů Pizzagate. Popraven.“
+    cas: "47:57"
+  osoby:
+  - {osoba: klaus-schwab, vztah: negativni, kontext: 'V klipu „popraven“'}
+  - {osoba: anthony-fauci, vztah: negativni, kontext: 'V klipu „popraven“'}
+  - {osoba: barack-obama, vztah: negativni, kontext: 'V klipu „popraven“ (i „jeho klon“)'}
+  - {osoba: george-w-bush, vztah: negativni, kontext: 'V klipu „popraven 4. ledna 2022“'}
+  teror:
+    terc: Klaus Schwab, Anthony Fauci, John Podesta, Barack Obama, Hillary Clintonová, George W. Bush
+    hranicni: true
+- id: zitko-2026-11-21-26
+  typ: stoch-teror
+  temata: [konspirace]
+  nadpis: Rothschildové a „černá šlechta“ jako „zrůdičky“ toužící po redukci obyvatel (předčítaný text)
+  text: Předčítaný text, který Zítko vybral a souhlasně komentuje; dehumanizace bez výzvy k násilí.
+  citace:
+  - text: „…zabíjení lidí a redukci obyvatel na planetě, která pro tyto zrůdičky byla žádoucí.“
+  osoby:
+  - {osoba: rothschildove, vztah: negativni, kontext: '„Zrůdičky“ (předčítaný text)'}
+  teror:
+    terc: Rothschildové, „černá šlechta“
+    hranicni: true
