@@ -1,0 +1,57 @@
+zdroj:
+  id: 2026-11-22_rajchl_mikulas-minar-mamlas-22-11-2026
+  mluvci: rajchl
+  kanal: Jindřich Rajchl
+  titul: 'Dejte si tohle video, abyste se přesvědčili, jaký je Mikuláš Minář neskutečný mamlas (22. 11. 2026)'
+  datum: 2026-11-22
+  url: https://www.facebook.com/100063460865205/videos/2576607156182883
+  prepis: prepisy/done/2026-11-22_Jindřich-Rajchl_90K-views-88K-reactions-Dejte-si-tohle-video-abyste-s.txt
+  delka: '00:02:50'
+  rezim: standard
+  poznamka: 'Krátký spot reagující na Minářův rozhovor pro ČRo. Zpracována všechna 3 témata. Stochastický
+    teror nezjištěn (Minář pojmenován jako „defraudant“, „mamlas“, „blbec“ — urážky bez dehumanizace
+    či výzvy k trestu; v popisu příspěvku „ovečky z Letné“).'
+vyroky:
+- id: rajchl-2026-11-22-01
+  typ: tvrzeni
+  temata: [politicky-system]
+  nadpis: Babiš je po nevydání nestíhatelný do konce volebního období — Minářovo tvrzení o Čapím hnízdu je „blbost“ (Rajchl, 22. 11. 2026)
+  text: |
+    Minář v rozhovoru pro Český rozhlas řekl, že Babiš je „nejslabším premiérem“, protože ho drží v šachu
+    Okamura a Macinka, které potřebuje kvůli ochraně před pokračováním kauzy Čapí hnízdo. Rajchl to odmítá:
+    podle čl. 27 odst. 4 Ústavy je po nevydání Sněmovnou trestní stíhání vyloučeno až do konce volebního
+    období a „nelze hlasovat podruhé“, takže Babiš by byl nestíhatelný i při pádu vlády. Mináře označuje
+    za „vrchního defraudanta“ a „mamlasa“, který by si měl Ústavu přečíst, „než ji roztrhal“.
+  citace:
+  - text: Takže Mikuláš Minář by si možná mohl tu ústavu předtím, než ji roztrhal, přečíst, aby ze sebe nedělal úplného blbce.
+    cas: "01:41"
+  osoby:
+  - {osoba: mikulas-minar, vztah: negativni, kontext: '„Vrchní defraudant“ a „mamlas“, který nezná Ústavu'}
+  - {osoba: babis, vztah: pozitivni, kontext: 'Hájí ho proti tvrzení o závislosti na koaličních partnerech'}
+  - {osoba: okamura, vztah: neutralni, kontext: 'Zmíněn v Minářově tvrzení'}
+  - {osoba: petr-macinka, vztah: neutralni, kontext: 'Zmíněn v Minářově tvrzení'}
+  vazby:
+  - {na: rajchl-2026-04-05-06, typ: opakovani}
+- id: rajchl-2026-11-22-02
+  typ: postoj
+  temata: [media-propaganda]
+  nadpis: Nevyváženost veřejnoprávních médií — ČT skáče do řeči Davidovi, ČRo se Mináři „servilně usmívá“ (Rajchl, 22. 11. 2026)
+  text: |
+    Rajchl srovnává „mladou snaživou redaktorku“ ČT, která Ivanu Davidovi skákala do řeči a „korigovala“ ho,
+    s moderátorkou Českého rozhlasu, která nechala Mináře „vykládat bludy až do aleluja“. Takovou podle něj
+    je „vyváženost našich veřejnoprávních médií“.
+  citace:
+  - text: No, taková je vyváženost našich veřejnoprávních médií v současné době.
+    cas: "02:23"
+  osoby:
+  - {osoba: ivan-david, vztah: pozitivni, kontext: 'Oběť nevyváženého přístupu redaktorky ČT'}
+  - {osoba: mikulas-minar, vztah: negativni, kontext: 'V ČRo mohl „vykládat bludy“'}
+- id: rajchl-2026-11-22-03
+  typ: postoj
+  temata: [politicky-system]
+  nadpis: Minář se bojí debaty, „shořel by jako papír“ (Rajchl, 22. 11. 2026)
+  text: Opakuje, že Minář se s ním bojí jít do debaty, protože by ho „argumentačně zašlápl do země“.
+  osoby:
+  - {osoba: mikulas-minar, vztah: negativni, kontext: 'Bojí se debaty'}
+  vazby:
+  - {na: rajchl-2026-03-28-03, typ: opakovani}
