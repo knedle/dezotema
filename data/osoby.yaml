@@ -2986,7 +2986,7 @@ osoby:
   vlastni_stranka: false
 - slug: miroslav-hlavac
   jmeno: Miroslav Hlaváč
-  aliasy: [Hlaváč]
+  aliasy: [Hlaváč, Hlavač, Miloslav Hlavač]
   popis: Náčelník Generálního štábu Armády ČR
   sledovany: false
   vlastni_stranka: false
@@ -2999,5 +2999,17 @@ osoby:
 - slug: petr-cudek
   jmeno: Petr Čudek
   popis: Primátor Opavy
+  sledovany: false
+  vlastni_stranka: false
+- slug: sophie-scholl
+  jmeno: Sophie Scholl
+  aliasy: [Sofie Šolová, Sofie Scholl]
+  popis: Německá studentka, členka protinacistického odboje Bílá růže, popravena 1943
+  sledovany: false
+  vlastni_stranka: false
+- slug: vera-jourova
+  jmeno: Věra Jourová
+  aliasy: [Jourová]
+  popis: Bývalá místopředsedkyně Evropské komise
   sledovany: false
   vlastni_stranka: false
