@@ -1,0 +1,198 @@
+zdroj:
+  id: 2026-11-23_zitko_zive-ohlednuti-za-vcerejskem-23-11-2026-11-11
+  mluvci: zitko
+  kanal: Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+  titul: 'Živě: „Ohlédnutí za včerejškem“ — debata se Suchomelem, Pjakin: 99 % obnova ČSR (23. 11. 2026, 11:11)'
+  datum: 2026-11-23
+  cas: "11:11"
+  url: https://m.facebook.com/watch/?v=2196477197606951&_rdr
+  prepis: prepisy/done/2026-11-23_Československo-TV2_12K-views-38-reactions-jana-peterkova-official-3-v.txt
+  delka: '00:50:25'
+  rezim: standard
+  poznamka: 'Monolog bez cizích videí, ohlédnutí za nedělní debatou se Suchomelem. Zpracována všechna témata
+    (výběr „vše“). Stochastický teror nezjištěn („organizovaná zločinecká skupina“, „velezrada“ bez výzvy
+    k trestu; „fízlové“, „agent Pávek“ jako urážky). Podklady agent, klíčové citace ověřeny v přepisu.'
+vyroky:
+- id: zitko-2026-11-23-01
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Rozdělení ČSFR jako „akt velezrady a vlastizrady“ organizované zločinecké skupiny (Zítko, 23. 11. 2026)
+  text: |
+    Rekapituluje kroky po roce 1989: OF a VPN „instalovaly do parlamentu bez voleb svoje koně“ kooptací,
+    5. 7. 1992 Havel „zradil přísahu“ a do února 1993 bylo „absolutní bezvládí“. Rozdělení bylo
+    protiústavní, „zločinné rozdělení Československa organizovanou zločineckou skupinou“ pod tlakem ze
+    zahraničí. Připomíná krádeže „100 miliard na lehkých topných olejích“ a cituje Fica, podle něhož bylo
+    referendum o vstupu do EU zmanipulované.
+  citace:
+  - text: Bylo to zločinné rozdělení Československa organizovanou zločineckou skupinou, ještě pod tlakem ze zahraničí, kdy tento akt nejde popsat jiným způsobem než akt velezrady a vlastizrady.
+    cas: "14:11"
+  - text: Občanské fórum a Veřejnost proti násilí tam instalovalo do parlamentu bez voleb a bez vůle lidu svoje koně, kteří se měli tímto způsobem dostat ke korýtkům.
+    cas: "05:28"
+  osoby:
+  - {osoba: vaclav-havel, vztah: negativni, kontext: '„Zradil přísahu“ a křivě přísahal'}
+  - {osoba: marian-calfa, vztah: negativni, kontext: 'Protiprávně jmenovaná vláda'}
+  - {osoba: vaclav-klaus, vztah: negativni, kontext: 'Protiústavní rozdělení'}
+  - {osoba: jan-strasky, vztah: negativni, kontext: 'Protiústavní rozdělení'}
+  - {osoba: robert-fico, vztah: pozitivni, kontext: 'Citován k zmanipulovanému referendu o EU'}
+  vazby:
+  - {na: zitko-2026-11-22-43, typ: opakovani}
+- id: zitko-2026-11-23-02
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko, konspirace-deep-state-qanon]
+  nadpis: ČR zapsána v Anglii jako „LTD Czech Republic“; Suchomel „si zvykl na vlastizradu“ (Zítko, 23. 11. 2026)
+  text: |
+    Suchomel si podle Zítka „zvykl na vlastizradu“. Česká republika byla od 1. 1. 1993 zapsána „jako
+    soukromá společnost, jako veřejná korporace v Anglii jako LTD Czech Republic“, Polsko je registrováno
+    v New Yorku a USA jsou korporací od roku 1871 pod tlakem Rothschildů a Rockefellerů; nyní se vracejí
+    „250 let zpátky do republiky a ústavnosti“.
+  citace:
+  - text: Byli jsme zapsáni jako soukromá společnost, jako veřejná korporace v Anglii jako LTD Czech Republic.
+    cas: "15:57"
+  osoby:
+  - {osoba: suchomel, vztah: rozporuplny, kontext: '„Zvykl si na vlastizradu“'}
+  vazby:
+  - {na: zitko-2026-11-22-46, typ: opakovani}
+- id: zitko-2026-11-23-03
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko, valka-ukrajina-prubeh]
+  nadpis: O ČSR nerozhodne „107čkový rozvědčík na Hradě“ ani Babiš, ale vítězné mocnosti; Británie a Francie se „diskvalifikovaly“ (Zítko, 23. 11. 2026)
+  text: |
+    Rusko podle Zítka oznamuje návrat ke stavu před rokem 1997, kdy se nerozšiřovalo NATO a neexistovala
+    EU. O budoucích hranicích nerozhodne prezident Pavel („107čkový rozvědčík na Hradě“) ani Babiš, ale
+    vítězné mocnosti USA, Rusko a Čína; Velká Británie a Francie se „podporou fašistického nacistického
+    režimu na Ukrajině diskvalifikovaly“.
+  citace:
+  - text: O tom nebude rozhodovat 107čkový rozvědčík na Hradě ani Babiš, ani nikdo jiný, ale tato rozhodovací úroveň o podobě budoucích hranic v Evropě i ve světě bude na úrovni vítězných mocností.
+    cas: "17:09"
+  osoby:
+  - {osoba: petr-pavel, vztah: negativni, kontext: '„107čkový rozvědčík na Hradě“'}
+  - {osoba: andrej-babis, vztah: negativni, kontext: 'O ČSR rozhodovat nebude'}
+  vazby:
+  - {na: zitko-2026-11-22-09, typ: opakovani}
+- id: zitko-2026-11-23-04
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Rodný list jako obchodovatelný dluhopis, „dluhové otroctví“; otisk nožičky a krev „putují do Vatikánu“ (Zítko, 23. 11. 2026)
+  text: |
+    Rodný list je podle Zítka obchodovatelný cenný papír a dluhopis, za nějž člověk ručí; celý systém je
+    „bankovní a dluhové otroctví“, v němž státy (USA po bankrotu 1933, Británie 1935) kryjí deficity
+    rodnými listy. Otisk nožičky a krev novorozence „putovaly do Vatikánu“; proto lze „jednoduše vytvářet
+    dluhy na fiktivní pandemie“.
+  citace:
+  - text: A váš rodný list je obchodovatelný cenný papír a stal se finančním dluhopisem a vy jste zárukou za tento dluhopis.
+    cas: "19:00"
+  - text: Otisk nožičky i krev vlastně putovaly standardně do Vatikánu.
+    cas: "21:12"
+  vazby:
+  - {na: zitko-2026-10-25-03, typ: posun}
+- id: zitko-2026-11-23-05
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon, konspirace-ceskoslovensko]
+  nadpis: Bohatství z kolaterálních účtů bude v rámci „globální vojenské operace“ vráceno lidem (Zítko, 23. 11. 2026)
+  text: V rámci „speciální vojenské operace, která je globální“, se podle Zítka překlápí „zrůdné bankovní dluhové otroctví“ a bohatství z kolaterálních účtů bude vráceno lidem; spolu s Medbedy a kvantovým telefonem to tvoří s kvantovým finančním systémem jeden celek.
+  citace:
+  - text: Toto bohatství bude vráceno lidem.
+    cas: "28:01"
+  vazby:
+  - {na: zitko-2026-11-22-11, typ: opakovani}
+- id: zitko-2026-11-23-06
+  typ: postoj
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Jediné řešení je „zpětvzetí“ ČSR podle stále platného zákona č. 11/1918 (Zítko, 23. 11. 2026)
+  text: Na rozdíl od Suchomela zastává jako jedinou možnost obnovu a „zpětvzetí“ Československé republiky založené zákonem č. 11/1918, který podle něj stále platí.
+  citace:
+  - text: Jako jedinou možnost obnovu a zpětvzetí Československé republiky založené zákonem číslo 11 z roku 1918, který stále platí.
+    cas: "28:46"
+  vazby:
+  - {na: zitko-2026-11-22-44, typ: opakovani}
+- id: zitko-2026-11-23-07
+  typ: tvrzeni
+  temata: [covid-vakciny]
+  nadpis: Pod rouškou korporací Česko a Slovensko „masové vraždy, vakcinační holokaust a sterilizace“ (Zítko, 23. 11. 2026)
+  text: Opakuje, že pod rouškou „korporací Česko a Slovensko“ byly páchány masové vraždy, vakcinační holokaust, genocida a sterilizace původního obyvatelstva, čímž vládci ztratili právní i morální právo vládnout; v USA podle něj zemřelo víc lidí než v obou světových válkách a ve Vietnamu dohromady.
+  citace:
+  - text: Tady byly páchány masové vraždy, vakcinační holokaust, genocida národa a sterilizace původního československého obyvatelstva.
+    cas: "29:36"
+  vazby:
+  - {na: zitko-2026-11-22-47, typ: opakovani}
+- id: zitko-2026-11-23-08
+  typ: postoj
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Trump a Putin si snadno vyberou mírové Československo „chci míru“ (Zítko, 23. 11. 2026)
+  text: Volba mezi Československem „chci míru“ a „podvodně založenými korporacemi“ Česko a Slovensko „chci války“ bude podle Zítka pro Trumpa i Putina „velmi jednoduchá“.
+  citace:
+  - text: Bude ten výběr pro Donalda Trumpa i Vladimíra Putina velmi, velmi jednoduchý.
+    cas: "31:51"
+  osoby:
+  - {osoba: donald-trump, vztah: pozitivni, kontext: 'Vybere mírové Československo'}
+  - {osoba: vladimir-putin, vztah: pozitivni, kontext: 'Vybere mírové Československo'}
+- id: zitko-2026-11-23-09
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: JFK se dožil 104 let, test EBS 17. 11. prověřoval loajalitu majitelů stanic (Zítko, 23. 11. 2026)
+  text: |
+    Kennedy podle Zítka nezemřel, byl nahrazen dvojníkem a dožil se 104 let (kód „17“ z SPZ). Volební
+    podvod demokratů je „průkazný a doložitelný“ a po summitu v Šen-čenu události nabírají spád.
+    Test EBS 17. listopadu v USA podle něj sloužil k prověření loajality majitelů rozhlasových a
+    televizních stanic před zavedením EBS „na ostro“.
+  citace:
+  - text: Takže nezemřel Kennedy, byl v tu dobu nahrazen dvojníkem a JFK se dožil požehnaného věku 104 let.
+    cas: "32:46"
+  - text: Kde se testovala loajalita majitelů těchto vysílacích stanic před zavedením EBS na ostro.
+    cas: "35:00"
+  vazby:
+  - {na: zitko-2026-11-22-08, typ: opakovani}
+- id: zitko-2026-11-23-10
+  typ: tvrzeni
+  temata: [konspirace, konspirace-ceskoslovensko]
+  nadpis: Polovina komentářů k debatě od „hejtrů, fízlů a agentů“; Suchomel měl sluchátko; skutečný Čermák „přestal existovat“ (Zítko, 23. 11. 2026)
+  text: |
+    Z 848 komentářů pod debatou se Suchomelem byla podle Zítka polovina od „hejtrů, fízlů a agentů
+    tajných služeb“. Suchomel měl v uchu sluchátko, „možná se zhlédl v praktikách 107čkového rozvědčíka
+    agenta Pávka“. Kampaň proti němu běží od 17. 10.; skutečný Tomáš Čermák podle něj „přestal existovat“
+    a jeho dvojník se potvrdil.
+  citace:
+  - text: Polovina z 848 příspěvků, který jsem tam ráno napočítal, tak byla hejtrů, fízlů a agentů tajných služeb.
+    cas: "36:24"
+  - text: Reálný Tomáš Čermák přestal existovat, potvrdily se všechny pochybnosti, které vznikly na soudu v Liberci.
+    cas: "40:33"
+  osoby:
+  - {osoba: suchomel, vztah: negativni, kontext: 'Podezřelé „sluchátko v uchu“'}
+  - {osoba: petr-pavel, vztah: negativni, kontext: '„Agent Pávek“'}
+  vazby:
+  - {na: zitko-2026-10-25-02, typ: posun}
+- id: zitko-2026-11-23-11
+  typ: tvrzeni
+  temata: [covid-vakciny]
+  nadpis: Do dětí se budou snažit dostat „ty sračky“ z injekcí přes nosní spreje (Zítko, 23. 11. 2026)
+  text: Varuje, že po „útoku biologickou zbraní COVID-19“ se budou v nosních sprejích snažit do lidí a dětí dostat látky, „které byly aplikovány injekčním způsobem“.
+  citace:
+  - text: V nosních sprejích se budou do vás a do vašich dětí snažit dostat ty sračky, které byly aplikovány injekčním způsobem.
+    cas: "45:53"
+- id: zitko-2026-11-23-12
+  typ: postoj
+  temata: [konspirace-ceskoslovensko]
+  nadpis: „Nesedět na prdeli“ — tlačit na úředníky, policii a soudy, vstoupit do jednání s vítěznými mocnostmi (Zítko, 23. 11. 2026)
+  text: Vyzývá diváky, aby se zapojili a v každodenním kontaktu tlačili na úředníky, policisty, státní zástupce a soudy, kteří musí „zaujmout postoj“ k „masovým vraždám, genocidě a sterilizaci“; správný čas vstoupit do jednání (s vítěznými mocnostmi) je podle něj „právě teď“.
+  citace:
+  - text: Nesedět na prdeli, nedržet hubu a krok a zapojit se.
+    cas: "47:41"
+- id: zitko-2026-11-23-13
+  typ: predikce
+  temata: [konspirace-deep-state-qanon, konspirace-ceskoslovensko]
+  nadpis: Do Vánoc „velké změny“, obnova ČSR „s pravděpodobností nad 99 %“, „velká jízda“ začne v USA (Zítko, 23. 11. 2026)
+  text: |
+    S odkazem na akademika Pjakina tvrdí, že obnova Československa je „s pravděpodobností nad 99 %“; po
+    summitu v Šen-čenu se lze „připravit na velkou jízdu, která začne ve Spojených státech“, a „v horizontu
+    do Vánoc“ očekává velké změny.
+  citace:
+  - text: Obnova Československa je s pravděpodobností nad 99 %.
+    cas: "16:56"
+  - text: Můžeme se připravit na velkou jízdu, která bude a začne ve Spojených státech amerických.
+    cas: "34:35"
+  vazby:
+  - {na: zitko-2026-11-22-55, typ: opakovani}
+  predikce:
+    horizont: do Vánoc 2026 (velké změny); obnova ČSR neurčeno
+    horizont_do: 2026-12-24
+    stav: ceka
