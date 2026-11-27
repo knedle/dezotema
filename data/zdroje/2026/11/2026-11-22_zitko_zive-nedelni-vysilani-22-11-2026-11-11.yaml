@@ -1,0 +1,333 @@
+zdroj:
+  id: 2026-11-22_zitko_zive-nedelni-vysilani-22-11-2026-11-11
+  mluvci: zitko
+  kanal: Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+  titul: 'Živě: „Výročí atentátu v Dallasu“, Central Casting, pozvánka na nedělní debatu (22. 11. 2026, 11:11)'
+  datum: 2026-11-22
+  cas: "11:11"
+  url: https://m.facebook.com/watch/?v=1042688592175904&_rdr
+  prepis: prepisy/done/2026-11-22_Československo-TV2_1K-views-43-reactions-jana-peterkova-official-3-vy.txt
+  delka: '01:02:33'
+  rezim: standard
+  poznamka: 'Nedělní dopolední monolog (večer téhož dne debata se Suchomelem, viz samostatný zdroj). Cizí klipy
+    jen několik minut (hudba, sketch, krátké ukázky); čtené cizí příspěvky (Alex Jones, Cole, Warren) Zítko
+    přebírá a komentuje. Zpracována všechna témata (výběr „vše“), drobná témata sloučena. Stochastický teror:
+    vojenský tribunál pro vlády Babiše a Fialy (jednoznačný); hraniční: tribunál pro von der Leyenovou,
+    tribunály pro „zrádně založené korporace“, tribunály a stanné právo pro „zodpovědné“ za volební podvod,
+    radost z „vymírání elit“. Nadávka „kokot z Trenčína“ nezapsána (urážka). Ranní „Pjakin 99 %“ z titulku
+    v přepisu nezaznělo. Podklady agent, klíčové citace ověřeny v přepisu.'
+vyroky:
+- id: zitko-2026-11-22-01
+  typ: tvrzeni
+  temata: [media-propaganda]
+  nadpis: Falešné profily na Facebooku pod kontrolou „fízlů, agentů a tajných služeb“ (Zítko, 22. 11. 2026)
+  text: |
+    Zítko vyzývá diváky, aby přestali sledovat jeho videa na falešných profilech, které jsou podle něj
+    „pod kontrolou fízlů, agentů, tajných služeb a hejtrů“; kradení identity je podle něj ze strany
+    Facebooku „dlouhodobě běžná záležitost“. Vysílá proto na hostujícím profilu Jany Peterkové.
+  citace:
+  - text: Kradení identity na falešných profilech je ze strany Facebooku dlouhodobě běžná záležitost.
+    cas: "10:39"
+- id: zitko-2026-11-22-02
+  typ: tvrzeni
+  temata: [covid-vakciny]
+  nadpis: Vakcíny jako „biologické zbraně hromadného ničení“, stovky milionů obětí, placebo pro politiky (Zítko, 22. 11. 2026)
+  text: |
+    Vakcíny jsou podle Zítka „nesprávný název pro biologické zbraně hromadného ničení“; v USA kvůli nim
+    zemřelo víc lidí než v obou světových válkách a celosvětově se mluví „o stovkách milionů obětí“.
+    Hrála se „ruská ruleta“, politici a spřízněné osoby dostávali placebo. Vyzývá k žádostem o odškodnění
+    (u plné invalidity „kolem 17 milionů korun“) a kritizuje chomutovskou soudkyni Dvořákovou.
+  citace:
+  - text: Zemřelo kvůli tomu víc Američanů než během první a druhé světové války.
+    cas: "14:37"
+  - text: Se tady hrála ruská ruleta a politici a spřízněné osoby dostávali placebo.
+    cas: "17:32"
+  osoby:
+  - {osoba: iva-dvorakova, vztah: negativni, kontext: 'Soudkyně v Chomutově, soudí podle informací z let 2020–21'}
+  vazby:
+  - {na: zitko-2026-11-16-01, typ: opakovani}
+- id: zitko-2026-11-22-03
+  typ: tvrzeni
+  temata: [covid-vakciny]
+  nadpis: Kritici covidu byli ekonomicky likvidováni; Zítko „nemůže být agent“, byl 110 dní ve vězení (Zítko, 22. 11. 2026)
+  text: |
+    S odkazem na patologa Ryana Colea a Josepha Warrena tvrdí, že kritici covidových opatření čelili
+    „ekonomické likvidaci“. Na obvinění, že je agent, odpovídá, že byl 110 dní uvězněn.
+  citace:
+  - text: Tohle byla i ekonomická likvidace lidí, který se do boje proti covid mafii postavili.
+    cas: "20:14"
+- id: zitko-2026-11-22-04
+  typ: tvrzeni
+  temata: [covid-vakciny]
+  nadpis: Vakcíny způsobují autismus, Rockefeller zlikvidoval přírodní léčbu, 97 % pacientů umírá na chemoterapii (Zítko, 22. 11. 2026)
+  text: |
+    Očkování podle Zítka způsobuje „dramatický nárůst autismu u dětí“. „Rockefellerovská farmacie“ byla
+    založena na likvidaci přírodních léků; rakovina a chemoterapie jsou byznys a 97 % léčených podle něj
+    umírá na následky chemoterapie, ne na rakovinu.
+  citace:
+  - text: 97 % lidí, které jsou léčeny chemoterapií, umírají v následku chemoterapie a nikoliv na rakovinu.
+    cas: "24:02"
+- id: zitko-2026-11-22-05
+  typ: tvrzeni
+  temata: [covid-vakciny, konspirace]
+  nadpis: Vakcíny jako „chemická lobotomie“ pro transhumanistický svět — pachateli jsou vlády Babiše a Fialy (Zítko, 22. 11. 2026)
+  text: |
+    Přebírá text (Alex Jones) o tom, že vakcíny napadají mozek a nervové dráhy („chemická lobotomie“),
+    a doplňuje, že cílem bylo „destabilizovat civilizaci“ a uvolnit místo pro transhumanistický svět.
+    Pachateli „největší genocidy v historii lidstva“ jsou podle něj vlády Andreje Babiše a Petra Fialy.
+  citace:
+  - text: Stalo se to proto, aby byla destabilizována civilizace, která by nakonec mohla skolabovat a uvolnit místo pro posthumanistický nebo chcete-li transhumanistický svět.
+    cas: "27:01"
+  osoby:
+  - {osoba: andrej-babis, vztah: negativni, kontext: 'Jeho vláda je „pachatelem“ genocidy'}
+  - {osoba: petr-fiala, vztah: negativni, kontext: 'Jeho vláda je „pachatelem“ genocidy'}
+  - {osoba: sas-z-trencina, vztah: negativni, kontext: 'Kritik, prý „absolvoval chemickou lobotomii“'}
+- id: zitko-2026-11-22-06
+  typ: postoj
+  temata: [covid-vakciny]
+  nadpis: Babišovo prohlášení o konci covidu je „trapný pokus“ (Zítko, 22. 11. 2026)
+  text: Babišovo prohlášení o „ukončení COVID-19“ označuje za trapný pokus; nenapálit se nechali jen ti, kdo používají „selský rozum“.
+  citace:
+  - text: Byl to takovej trapnej pokus, ukončit COVID-19 tím jeho prohlášením.
+    cas: "15:21"
+  osoby:
+  - {osoba: andrej-babis, vztah: negativni, kontext: '„Trapný pokus“ ukončit covid'}
+- id: zitko-2026-11-22-07
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Hnutí Q bylo vždy o dětech; „elity a ilumináti“ masivně vymírají (Zítko, 22. 11. 2026)
+  text: |
+    Celé hnutí Q podle Zítka „vždycky šlo jenom o děti“. Úmrtí osobností, např. legendy módního průmyslu
+    (Bulgari), vykládá jako součást toho, co se „děje čím dál víc příslušníkům elity a iluminátů“.
+    Zmiňuje i Stephena Millera, „o kterém budeme slyšet“.
+  citace:
+  - text: Nakonec hry se vždycky vytahuje trumf, vždycky šlo jenom o děti, celý hnutí Q.
+    cas: "30:13"
+  osoby:
+  - {osoba: stephen-miller, vztah: pozitivni, kontext: '„O něm budeme slyšet“'}
+- id: zitko-2026-11-22-08
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Biden „popraven před nástupem“, 200 000 dvojníků a klonů řídí armáda; video Bílého domu má „17 sekund“ (Zítko, 22. 11. 2026)
+  text: |
+    Opakuje, že originál Joe Bidena byl popraven ještě před nástupem do úřadu („proto je tam automatické
+    pero“) a že jde o vojenskou operaci s 200 000 dvojníky, herci a klony; dvojníci se podle něj používali
+    už dříve — JFK starší se dožil 104 let, „v tom autě to nebyl on“. Délku videa Bílého domu ze summitu
+    (17 sekund) vykládá jako kód Q.
+  citace:
+  - text: Je to vojenská operace a používá se tady dvěstě tisíc dvojníků, herců, klonů a diriguje to armáda.
+    cas: "32:10"
+  osoby:
+  - {osoba: joe-biden, vztah: negativni, kontext: '„Popraven“, nahrazen dvojníkem'}
+  vazby:
+  - {na: zitko-2026-11-21-01, typ: opakovani}
+- id: zitko-2026-11-22-09
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko, valka-ukrajina-prubeh]
+  nadpis: Trump, Putin a Si rozhodnou o ČSR — návrat před rok 1997 mimo EU a NATO; Ukrajina „nacistický stát“ (Zítko, 22. 11. 2026)
+  text: |
+    Trojice vítězných mocností spolupracuje „v rámci likvidace Deep State“ a rozhodne i o osudu
+    Československa, které se ocitne v podobě před rokem 1997 — o tom podle Zítka „Moskva vůbec nehodlá
+    diskutovat“. Ukrajinu označuje za „fašistický, nacistický stát“ s biologickými pokusy na dětech
+    „namířenými k vyhlazení Slovanů“; „impérium ještěrek z Londýna“ je pohřbíváno, „ples upírů končí“.
+    Ruská federace si podle něj snadno vybere mezi Československem „chci míru“ a „chci války“.
+  citace:
+  - text: O tom Moskva vůbec nehodlá diskutovat, to znamená, že budeme opět mimo Evropskou unii a mimo NATO.
+    cas: "34:22"
+  - text: Tady je impérium ještěrek z Londýna takovýmhle způsobem pohřbíváno, ples upírů končí.
+    cas: "58:25"
+  osoby:
+  - {osoba: donald-trump, vztah: pozitivni, kontext: 'Likviduje Deep State, rozhodne o ČSR'}
+  - {osoba: vladimir-putin, vztah: pozitivni, kontext: 'Spolupracuje s Trumpem'}
+  - {osoba: si-tin-pching, vztah: pozitivni, kontext: 'Jedna z vítězných mocností'}
+  vazby:
+  - {na: zitko-2026-11-18-05, typ: opakovani}
+- id: zitko-2026-11-22-10
+  typ: tvrzeni
+  temata: [covid-vakciny]
+  nadpis: Třetí dávka byla „osudná“ pro Hanu Zagorovou, Kubišovou za to moderátorka utnula (Zítko, 22. 11. 2026)
+  text: Pouští záznam, v němž Marta Kubišová mluví o třetí dávce, která byla podle Zítka „zřejmě osudná i pro Hanku Zagorovou“; moderátorka ji „okamžitě usekla“.
+  citace:
+  - text: O třetí dávce injekce COVID, která byla zřejmě osudná i pro Hanku Zagorovou, a okamžitě byla moderátorkou useknuta.
+    cas: "35:13"
+- id: zitko-2026-11-22-11
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon, konspirace-ceskoslovensko]
+  nadpis: QFS aktivován, výplata kolaterálních účtů zahájena; Medbed centra a léčba frekvencemi (Zítko, 22. 11. 2026)
+  text: |
+    Podle Zítka bylo „uvolnění kapitálu QFS aktivováno“ a začala výplata kolaterálních účtů, které lidem
+    byly ukradeny, protože se s rodným listem obchodovalo jako s cenným papírem. Aktivována budou Medbed
+    centra a léčení „na bázi frekvencí a vibrací“ místo „odpadních produktů z ropy“.
+  citace:
+  - text: Uvolnění kapitálu QFS bylo aktivováno a byl zahájen proces výplaty těchto kolaterálních účtů, které vám byly protiprávním způsobem ukradeny.
+    cas: "35:54"
+  vazby:
+  - {na: zitko-2026-11-21-07, typ: posun}
+- id: zitko-2026-11-22-12
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko, benesovy-dekrety]
+  nadpis: ČSR nikdo nezrušil, 1989 byl „puč“; od 2020 „genocida původních Čechoslováků“; hranice 1945, nebo 1918 (Zítko, 22. 11. 2026)
+  text: |
+    Československou republiku podle Zítka nikdo nezrušil, rok 1989 byl „evidentní puč na základě tlaku
+    ze zahraničí“ (17. listopad jako operace StB a KGB) a od roku 2020 vše vyvrcholilo „genocidou a
+    vyhlazováním původního obyvatelstva“. Otázkou je jen, zda budou hranice z roku 1945, nebo 1918; o
+    připojení Podkarpatské Rusi má rozhodnout referendum. Benešovy dekrety jsou „stále platné a
+    nezpochybnitelné“; Schwarzenberga spojuje s Bilderbergem.
+  citace:
+  - text: Československá republika, kterou nikdo nezrušil ani za druhé světové války, ani teďka po roce 1989, což byl prostě evidentní puč na základě tlaku ze zahraničí.
+    cas: "40:55"
+  osoby:
+  - {osoba: karel-schwarzenberg, vztah: negativni, kontext: 'Člen Bilderbergu'}
+  vazby:
+  - {na: zitko-2026-11-22-44, typ: souhlas}
+- id: zitko-2026-11-22-13
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: „Kšefty s adrenochromem“ byly tématem trojstranného summitu (Zítko, 22. 11. 2026)
+  text: Tvrdí, že „kšefty s adrenochromem musí skončit“ a že to bylo vedle nastolení světového míru i tématem setkání USA–Rusko–Čína.
+  citace:
+  - text: Kšefty s adrenochromem musí skončit, tohle určitě bylo i téma na tom trojstranném setkání a hlavně nastolení světového míru.
+    cas: "42:08"
+- id: zitko-2026-11-22-14
+  typ: postoj
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Debatu se Suchomelem přijal, ale „spojovat“ s agenty policie nejde; vyzývá Babiše, Fialu, Rajchla, Okamuru (Zítko, 22. 11. 2026)
+  text: |
+    Ohlašuje večerní debatu s Petrem Suchomelem, jehož pokus o „spojování“ (Drahotuše) podle něj
+    nedopadl dobře, protože spojovat lze jen to, „co je kompatibilní na určité úrovni vědomí“, a
+    „obzvlášť to nejde u agentů spolupracujících policejních složek“. K debatě je připraven s kýmkoli.
+  citace:
+  - text: Něco prostě nejde a obzvlášť to nejde u agentů spolupracujících policejních složek.
+    cas: "01:18"
+  osoby:
+  - {osoba: suchomel, vztah: rozporuplny, kontext: 'Debatu přijal, jeho „spojování“ nedopadlo dobře'}
+  vazby:
+  - {na: zitko-2026-11-21-13, typ: opakovani}
+- id: zitko-2026-11-22-15
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Reparace 29 bilionů — Klaus s Mečiarem „ukradli daleko víc“ (Zítko, 22. 11. 2026)
+  text: Korporace ČR a SR nemají nárok na válečné reparace, které vzrostly na 29 bilionů Kč (skoro 2 miliony na obyvatele); daleko víc ale podle Zítka „ukradli“ Klaus s Mečiarem „rozkradením a vytunelováním bohatství Československa“.
+  citace:
+  - text: Ale co ukradli daleko víc, tak to byly Klaus s Mečiarem v rámci rozkradení a vytunelování bohatství Československa.
+    cas: "46:30"
+  osoby:
+  - {osoba: vaclav-klaus, vztah: negativni, kontext: '„Vytuneloval“ ČSR'}
+  - {osoba: vladimir-meciar, vztah: negativni, kontext: '„Vytuneloval“ ČSR'}
+  vazby:
+  - {na: zitko-2026-11-21-11, typ: opakovani}
+- id: zitko-2026-11-22-16
+  typ: postoj
+  temata: [media-propaganda, covid-vakciny]
+  nadpis: ČT dostala od Bidenovy administrativy 4,2 mil. dolarů — má vracet poplatky; tunelování přes Radiokomunikace (Zítko, 22. 11. 2026)
+  text: Opakuje, že ČT dostala na začátku covidu od Bidenovy administrativy 4,2 mil. dolarů (88 mil. Kč) za jednostranné informování, od 12. 3. 2020 denně porušuje zákon a měla by vracet poplatky a platit odškodné; nově tvrdí, že je „tunelována“ i prodejem Českých radiokomunikací (peníze odcházejí „do Anglie“).
+  citace:
+  - text: Tímhletím způsobem je tunelována Česká televize a koncesionářské poplatky.
+    cas: "51:14"
+  vazby:
+  - {na: zitko-2026-11-13-05, typ: posun}
+- id: zitko-2026-11-22-17
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Burzy strmě padají, ztráty „do bilionu dolarů“ (Zítko, 22. 11. 2026)
+  text: Kurzy na burzách podle Zítka „padají a to velmi strmně“, ztráty jdou do bilionu dolarů a „nejde to maskovat“.
+  citace:
+  - text: Kurzy na burzách padají, a to velmi strmně, ztráty jdou do bilionu dolarů.
+    cas: "49:49"
+- id: zitko-2026-11-22-18
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Trump má zmapovaný každý ukradený hlas — v některých státech víc hlasů než obyvatel (Zítko, 22. 11. 2026)
+  text: Volební podvod demokratů v USA bude podle Zítka „velmi jednoduché prokazování“, protože Trump má zmapovaný každý ukradený hlas a v některých státech bylo odevzdáno víc hlasů, než je obyvatel.
+  citace:
+  - text: Trump má všechno, každý hlas ukradený byl zmapován.
+    cas: "51:42"
+- id: zitko-2026-11-22-19
+  typ: postoj
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Žijeme v „nejúžasnějším období dějin“, největší tma je před svítáním (Zítko, 22. 11. 2026)
+  text: Čte optimistický text o „velkém probuzení“ — jde o „dost možná nejúžasnější období v lidských dějinách hned po době, kdy lidé kráčeli bok po boku s Ježíšem“ — a dodává, že „největší tma je právě před svítáním“.
+  citace:
+  - text: Největší tma je právě před svítáním.
+    cas: "1:00:19"
+- id: zitko-2026-11-22-20
+  typ: predikce
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Do necelého měsíce vojenské tribunály a stanné právo za volební podvod v USA (Zítko, 22. 11. 2026)
+  text: Zítko předpovídá, že odpovědní za volební podvod v USA budou do necelého měsíce stát před vojenskými tribunály a bude vyhlášeno vojenské stanné právo.
+  citace:
+  - text: Už je tam necelý měsíc maximální doba času, než se za tenhle podvod budou před vojenskými tribunály a na základě vyhlášení vojenského stanného práva zodpovídat zodpovědní.
+    cas: "52:14"
+  vazby:
+  - {na: zitko-2026-11-21-12, typ: souhlas}
+  predikce:
+    horizont: necelý měsíc (cca do 22. 12. 2026)
+    horizont_do: 2026-12-22
+    stav: ceka
+- id: zitko-2026-11-22-21
+  typ: predikce
+  temata: [konspirace-deep-state-qanon]
+  nadpis: JFK Jr. se k 65. narozeninám objeví po boku Trumpa (Zítko, 22. 11. 2026)
+  text: K blížícím se 65. narozeninám JFK Jr. (25. 11.) očekává, že se „ukáže“ po boku Donalda Trumpa.
+  citace:
+  - text: Tak tomu bude co nevidět 65 let, takže to bude taková vhodná příležitost k tomu, aby se ukázal.
+    cas: "38:49"
+  vazby:
+  - {na: zitko-2026-11-16-05, typ: opakovani}
+  predikce:
+    horizont: kolem 25. 11. 2026 (65. narozeniny)
+    horizont_do: 2026-11-25
+    stav: ceka
+- id: zitko-2026-11-22-22
+  typ: predikce
+  temata: [konspirace-ceskoslovensko]
+  nadpis: ČSR se vrátí do stavu před rokem 1997 mimo EU a NATO; referendum o Podkarpatské Rusi (Zítko, 22. 11. 2026)
+  text: Po rozhodnutí vítězných mocností se Československo podle Zítka „rázem ocitne“ v podobě před rokem 1997, mimo EU a NATO; o připojení Podkarpatské Rusi má proběhnout referendum a otevřené zůstanou hranice z roku 1945, nebo 1918.
+  citace:
+  - text: V referendu se bude moct rozhodovat pouze o této části Podkarpatské Rusi.
+    cas: "43:08"
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: zitko-2026-11-22-23
+  typ: stoch-teror
+  temata: [covid-vakciny, politicky-system]
+  nadpis: Vlády Babiše a Fialy nesou odpovědnost za „genocidu“ — covid „skončí až před vojenským tribunálem“ (Zítko, 22. 11. 2026)
+  text: Pachateli „genocidy národa a sterilizace“ jsou podle Zítka vlády Andreje Babiše a Petra Fialy, které nesou plnou odpovědnost; konec covidu „skončí až před vojenským tribunálem“. Dodává, že to, co se dělo v „zrádně založených korporacích“, by mělo mít konzekvence u vojenských tribunálů.
+  citace:
+  - text: Pachateli nejsou nikdo jiný než vlády Andreje Babiše, Petra Fialy … který za tyto smrtící následky a brutální poškození zdraví lidí nesou plnou odpovědnost, a konec COVID-19 je a skončí až před vojenským tribunálem.
+    cas: "27:55"
+  - text: A to, co se tady dělo ve vlasti zrádně založených korporacích, by mělo mít svoje konzekvence u vojenských tribunálů.
+    cas: "45:07"
+  osoby:
+  - {osoba: andrej-babis, vztah: negativni, kontext: 'Jeho vláda patří před vojenský tribunál'}
+  - {osoba: petr-fiala, vztah: negativni, kontext: 'Jeho vláda patří před vojenský tribunál'}
+  vazby:
+  - {na: zitko-2026-11-22-59, typ: souhlas}
+  teror:
+    terc: vlády Andreje Babiše a Petra Fialy
+    hranicni: false
+- id: zitko-2026-11-22-24
+  typ: stoch-teror
+  temata: [covid-vakciny, suverenita-eu]
+  nadpis: Von der Leyenová „má stanout před tribunálem“ za objednávku vakcín (Zítko, 22. 11. 2026)
+  text: V komentáři ke klipu německé europoslankyně uvádí, že Ursula von der Leyenová „má stanout před tribunálem“ za objednávku vakcín, které jsou podle něj „biologické zbraně hromadného ničení“. Hraniční případ.
+  citace:
+  - text: Proti Uršule von der Leyen, která má stanout před tribunálem a zodpovídat se z té neuvěřitelné objednávky vakcín pro obyvatele Evropské unie.
+    cas: "12:29"
+  osoby:
+  - {osoba: ursula-von-der-leyen, vztah: negativni, kontext: 'Má stanout před tribunálem'}
+  teror:
+    terc: Ursula von der Leyen
+    hranicni: true
+- id: zitko-2026-11-22-25
+  typ: stoch-teror
+  temata: [konspirace-deep-state-qanon]
+  nadpis: „Zodpovědní“ za volební podvod před vojenskými tribunály; radost z „vymírání elit a iluminátů“ (Zítko, 22. 11. 2026)
+  text: Souhlasně ohlašuje, že „zodpovědní“ za volební podvod demokratů budou souzeni vojenskými tribunály za stanného práva, a úmrtí osobností líčí jako vymírání „příslušníků elity a iluminátů“; mluví o „plesu upírů“ a „impériu ještěrek z Londýna“. Vágně vymezený terč — hraniční případ.
+  citace:
+  - text: Tohleto se děje čím dál víc těmto příslušníkům elity a iluminátů, chcete-li, takže tohle už taky nejde maskovat.
+    cas: "29:16"
+  teror:
+    terc: američtí demokraté („zodpovědní“ za volby), „elity a ilumináti“
+    hranicni: true
