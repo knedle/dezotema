@@ -1,0 +1,296 @@
+zdroj:
+  id: 2026-11-22_rajchl_nedelni-vysilani-z-emiratu-22-11-2026
+  mluvci: rajchl
+  kanal: Jindřich Rajchl
+  titul: Nedělní živé vysílání ze Spojených arabských emirátů (22. 11. 2026)
+  datum: 2026-11-22
+  url: https://www.facebook.com/100063460865205/videos/1526366446209536
+  prepis: prepisy/done/2026-11-22_Jindřich-Rajchl_212K-views-89K-reactions-Jindřich-Rajchl-on-Reels.txt
+  delka: '00:31:45'
+  rezim: standard
+  poznamka: 'Nedělní živé vysílání z dovolené v Ras al-Chajmě (SAE). Zpracováno všech 15 témat (výběr uživatele
+    „vše“). Témata Minář/nestíhatelnost Babiše a veřejnoprávní moderátoři navazují na ranní spot téhož dne
+    (opakování). Stochastický teror: 2 hraniční případy („zloději z Kyjeva“ kolem Zelenského; „parta
+    afrických chirurgů v Paříži“). Označení chvilkařů a moderátorů za „hlupáky“ / „ovce“ hodnoceno jako
+    urážka bez dehumanizace či výzvy k trestu — nezapsáno jako teror. Ověřeno v přepisu.'
+vyroky:
+- id: rajchl-2026-11-22-04
+  typ: postoj
+  temata:
+  - politicky-system
+  - suverenita-eu
+  nadpis: 17. listopad jako „vítězný únor“ pravdoláskařů; rok 1989 nebyl dějinným zlomem (Rajchl, 22. 11. 2026)
+  text: |
+    Opakuje myšlenky svého projevu k 17. listopadu: rok 1939 je pro něj zásadnější než rok 1989, který
+    nepovažuje za velký dějinný zlom. Oslavy na Národní třídě si podle něj „zprivatizovali“ lidé, kteří
+    se vykupují ze špatného svědomí, a mladí studenti znající dobu „z kreslených učebnic“. Původním
+    poselstvím byla pluralita názorů; dnešní stav (ostrakizace odlišných názorů, vyhazování z práce)
+    přirovnává k totalitě a „bruselský režim“ k režimu před rokem 1989. Chybou po roce 1989 bylo podle něj
+    vpuštění zahraničního kapitálu, který nás „zotročil“.
+  citace:
+  - text: Oni si ze 17. listopadu udělali vítězný únor.
+    cas: "03:44"
+  osoby:
+  - {osoba: mikulas-minar, vztah: negativni, kontext: 'Chvilkaři „financovaní ze zahraničí“ nemají rozhodovat o budoucnosti země'}
+  vazby:
+  - {na: rajchl-2026-11-17-01, typ: opakovani}
+- id: rajchl-2026-11-22-05
+  typ: postoj
+  temata:
+  - suverenita-eu
+  nadpis: Od Lisabonu jde Evropa „zu grunt“ — návrat ke spolupráci suverénních národů (Rajchl, 22. 11. 2026)
+  text: |
+    Od přijetí Lisabonské smlouvy v roce 2009 a centralizace moci v Bruselu se podle Rajchla Evropě daří
+    čím dál hůř: „technokraté“ vymýšlejí Green Deal, masovou migraci, LGBTQ, proválečné akce a povinné
+    očkování, a Evropa tak ztrácí konkurenceschopnost vůči Americe a Asii. Varuje před „naivním
+    probruselstvím“ — von der Leyenová, Kallasová, Merz ani Macron podle něj nejednají v zájmu ČR a budou
+    nás vždy považovat za levnou pracovní sílu. Jedinou cestou je spolupráce suverénních národů.
+  citace:
+  - text: Nenechat se ovládat těmi bruselskými soudruhy, kteří už tady neplánují na pětiletky, ale na dvacetiletky dopředu.
+    cas: "08:11"
+  osoby:
+  - {osoba: ursula-von-der-leyen, vztah: negativni, kontext: 'Nejedná v zájmu ČR'}
+  - {osoba: kaja-kalas, vztah: negativni, kontext: 'Nejedná v zájmu ČR'}
+  - {osoba: friedrich-merz, vztah: negativni, kontext: 'Nejedná v zájmu ČR'}
+  - {osoba: emmanuel-macron, vztah: negativni, kontext: 'Nejedná v zájmu ČR'}
+- id: rajchl-2026-11-22-06
+  typ: postoj
+  temata:
+  - politicky-system
+  - media-propaganda
+  nadpis: Letná — „smrt oligarchii“ a pak oligarchové jako sponzoři; chvilkaři jsou „hlupáci“ (Rajchl, 22. 11. 2026)
+  text: |
+    Vysmívá se tomu, že na Letné jeden z vystupujících volal „smrt oligarchii“ a o pár minut později
+    Minář představoval sponzory, kteří jsou podle Rajchla oligarchové. Zesměšňuje i požadavek odvolání
+    ministra obrany Zůny na akci, která měla být podle pořadatelů o koncesionářských poplatcích, ne
+    protivládní. Organizátory označuje za „hlupáky, kteří jen slouží svým chlebodárcům“.
+  citace:
+  - text: Oni jsou skutečně směšní, jsou to hlupáci, kteří jenom slouží svým chlebodárcům, nic víc, nic míň.
+    cas: "10:23"
+  osoby:
+  - {osoba: mikulas-minar, vztah: negativni, kontext: 'Volá proti oligarchii a představuje sponzory-oligarchy'}
+  - {osoba: jaromir-zuna, vztah: pozitivni, kontext: 'Hájí ho proti požadavku na odvolání'}
+  vazby:
+  - {na: rajchl-2026-11-15-02, typ: posun}
+- id: rajchl-2026-11-22-07
+  typ: postoj
+  temata:
+  - politicky-system
+  nadpis: Minář nezná Ústavu, nebo lže; Rajchl přijde do Švandova divadla a „zválcuje je“ (Rajchl, 22. 11. 2026)
+  text: |
+    Opakuje ranní kritiku Mináře (Babiš je po nevydání nestíhatelný, Minář tedy buď nezná Ústavu, nebo je
+    „absolutní lhář“, a „chvilkaři“ jsou s ním „pro smích“). Nově reaguje na chystanou debatu 2. prosince
+    ve Švandově divadle, kam jsou zváni Babiš a ministři: sám ministrem není, ale přijde a protistranu
+    „argumentačně totálním způsobem zválcuje“, protože ona má jen „ideologii a floskule“. Minář je podle
+    něj „zbabělec“, který se debatě s ním opakovaně „vylhal“.
+  citace:
+  - text: Já tam klidně přijdu. A garantuju vám, že je tam prostě argumentačně totálním způsobem zválcuju.
+    cas: "12:02"
+  osoby:
+  - {osoba: mikulas-minar, vztah: negativni, kontext: '„Lhář“ a „zbabělec“, který se vyhýbá debatě'}
+  - {osoba: andrej-babis, vztah: pozitivni, kontext: 'Hájí ho proti tvrzení, že je slabý'}
+  vazby:
+  - {na: rajchl-2026-11-22-01, typ: opakovani}
+  - {na: rajchl-2026-11-22-03, typ: posun}
+- id: rajchl-2026-11-22-08
+  typ: postoj
+  temata:
+  - media-propaganda
+  nadpis: Moderátoři veřejnoprávních médií nejsou „majitelé pravdy“, ČT reformovat, nebo zrušit (Rajchl, 22. 11. 2026)
+  text: |
+    Rozvádí ranní srovnání: moderátorka ČRo nechala Mináře „vyprávět bludy“ a „podkuřovala mu“, zatímco
+    moderátorka ČT nenechala Ivana Davida domluvit ani jednu větu, když tvrdil, že Rusko chce mír.
+    Veřejnoprávní moderátoři podle něj nemají „uvádět věci na pravou míru“, ale klást otázky a pozvat
+    případně jiného hosta. S odkazem na průzkum (52 % lidí ČT nevěří) prohlašuje, že ČT je nutné
+    zreformovat, nebo zrušit — dnes ji podle něj díky internetu „vůbec k ničemu nepotřebujeme“.
+  citace:
+  - text: Vy nejste majitelé pravdy. Většinou jste hlupáci, kteří vůbec netušíte, jaký geopolitický vývoj v současné době probíhá. Jenom opakujete titulky … a jak ovce je papouškujete dál.
+    cas: "14:34"
+  osoby:
+  - {osoba: ivan-david, vztah: pozitivni, kontext: 'V ČT nedostal prostor domluvit'}
+  - {osoba: mikulas-minar, vztah: negativni, kontext: 'V ČRo mohl „vyprávět bludy“'}
+  - {osoba: david-arachamija, vztah: neutralni, kontext: 'Citován jako doklad, že Rusko chtělo mír už v Istanbulu 2022'}
+  vazby:
+  - {na: rajchl-2026-11-22-02, typ: posun}
+  - {na: rajchl-2026-11-15-03, typ: opakovani}
+- id: rajchl-2026-11-22-09
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  - valka-ukrajina-prubeh
+  nadpis: Dron v Polsku je další provokace proti míru — jako Převodov 2022 (Rajchl, 22. 11. 2026)
+  text: |
+    Vždy, když se svět blíží k míru, „něco dopadne do Polska“. Připomíná rakety v Převodově, kdy prezident
+    Duda mluvil o ruských raketách a chtěl aktivovat čl. 5 NATO, než Biden řekl, že byly ukrajinské;
+    Rajchl je přesvědčen, že tomu tak je i tentokrát, protože si nedovede představit, že by dron
+    přeletěl celou Ukrajinu. Jde podle něj o snahu „evropských válečných štváčů“ zabránit míru, k němuž
+    se blíží USA, Čína a Rusko. Proto ČR podle něj správně neposílá vojáky na cvičení v Polsku.
+  citace:
+  - text: Vždycky, když se svět blíží k míru, když to vypadá, že už ta mírová dohoda je na spadnutí, tak něco dopadne do Polska.
+    cas: "17:06"
+  osoby:
+  - {osoba: donald-tusk, vztah: negativni, kontext: 'Jeho tvrzení o cíleném ruském útoku zpochybňuje'}
+  - {osoba: andrzej-duda, vztah: negativni, kontext: 'V případě Převodova mylně obvinil Rusko'}
+  - {osoba: joe-biden, vztah: neutralni, kontext: 'Potvrdil, že rakety v Převodově byly ukrajinské'}
+- id: rajchl-2026-11-22-10
+  typ: postoj
+  temata:
+  - valka-ukrajina-prubeh
+  - suverenita-eu
+  nadpis: Ukrajinu zradili evropští lídři, ne Trump; „přestaňte posílat peníze na Ukrajinu“ jako program (Rajchl, 22. 11. 2026)
+  text: |
+    Odmítá, že by Trump zradil Ukrajinu — zradili ji evropští lídři, kteří ji zbraněmi a penězi „nahnali
+    do neštěstí“. Trump podle něj teď říká totéž co on od února 2022 (za což dostával nálepky „ruského
+    kolaboranta“): dodávky zbraní jen prodlužují „nevyhnutelné“. Trumpovu větu „přestaňte posílat peníze
+    na Ukrajinu, začněte je utrácet doma“ prohlašuje za svůj politický program. Ručení za 60 miliard
+    (návrh Merze) by pro něj znamenalo konec setrvání v jakékoli vládní koalici.
+  citace:
+  - text: Přestaňte posílat peníze na Ukrajinu, začněte je utrácet u nás doma. Tohle je, dámy a pánové, můj politický program.
+    cas: "19:38"
+  - text: Nikdy nezvednu ruku pro to, aby naše děti spláceli 60 miliard korun za to, že Zelenský ukradne. Nikdy.
+    cas: "20:24"
+  osoby:
+  - {osoba: donald-trump, vztah: pozitivni, kontext: 'Podle Rajchla teď říká to, co on od začátku války'}
+  - {osoba: friedrich-merz, vztah: negativni, kontext: '„Vydírání“ kvůli ručení 60 mld. za Ukrajinu'}
+  - {osoba: volodymyr-zelenskyj, vztah: negativni, kontext: 'Peníze by „ukradl“'}
+  vazby:
+  - {na: rajchl-2026-11-15-06, typ: posun}
+- id: rajchl-2026-11-22-11
+  typ: postoj
+  temata:
+  - suverenita-eu
+  - nato-zbrojeni-militarizace
+  nadpis: Návrh rozpočtu EU je proválečný, genderový a green-dealový — Babiš ho správně odmítl (Rajchl, 22. 11. 2026)
+  text: |
+    Vyzývá odmítnout „vydírání Friedricha Merze a EU“ i návrh rozpočtu EU, který podle něj bere peníze
+    zemědělcům a na rozvoj kontinentu a je zaměřen „proválečně, progenderově, progreendealově“; uvrhne
+    Evropu do ještě většího chaosu. Oceňuje, že Babiš rozpočet označil za nepřijatelný.
+  osoby:
+  - {osoba: andrej-babis, vztah: pozitivni, kontext: 'Správně odmítl návrh rozpočtu EU'}
+  - {osoba: friedrich-merz, vztah: negativni, kontext: '„Vydírání“'}
+- id: rajchl-2026-11-22-12
+  typ: postoj
+  temata:
+  - suverenita-eu
+  - migrace
+  nadpis: Šen-čen jako „Jalta 2.0“ bez Evropy — Evropa je „slon na hliněných nohou“ (Rajchl, 22. 11. 2026)
+  text: |
+    Na summitu v Šen-čenu seděly USA, Rusko a Čína, Evropa ne — podle Rajchla to není náhoda, ale odraz
+    ztráty ekonomické síly a respektu, za kterou si Evropa může sama „nesmyslnou zelenou politikou“.
+    „Dělá ramena“ na jadernou velmoc Rusko, a přitom nezvládá migranty „rabující ve Francii“. Aby znovu
+    seděla u stolu velmocí, musí odmítnout Green Deal, masovou migraci, provést remigraci, odmítnout
+    „genderismus“ a směřovat rozpočet k porodnosti, „ne k zabíjení lidí na Ukrajině“.
+  citace:
+  - text: Děláme ramena na jadernou velmoc, ale parta afrických chirurgů v Paříži je pro nás absolutně neskrotitelná. Vidíte, jak je Evropa jenom slon na hliněných nohou?
+    cas: "22:35"
+- id: rajchl-2026-11-22-13
+  typ: tvrzeni
+  temata:
+  - digitalni-kontrola
+  - suverenita-eu
+  nadpis: EU chystá do aut povinný měřič emisí, který auto zastaví, a hlídání rychlosti — „otroctví“ (Rajchl, 22. 11. 2026)
+  text: |
+    Tvrdí, že EU chce zavést povinné zařízení v autech, které bude měřit emise a při jejich překročení
+    po naměření „2400 km“ auto zastaví, a také povinné měření (a zřejmě omezování) rychlosti. Označuje
+    to za „otroctví na každém kroku“, které odmítá.
+  citace:
+  - text: Stroj vám zastaví auto, protože budete mít příliš vysoké emise. … Otroctví na každém jednom kroku.
+    cas: "23:13"
+- id: rajchl-2026-11-22-14
+  typ: postoj
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Smysl má jen protivzdušná obrana, tanky a F-35 jsou „vyhazování peněz“ — raději sestrám a seniorům (Rajchl, 22. 11. 2026)
+  text: |
+    Peníze chce raději investovat do podpory mladých rodin, důstojného stáří seniorů a lepších platů
+    zdravotních sester a pečovatelek než do raket a tanků. Smysl podle něj má jen protivzdušná,
+    protiraketová a antibalistická obrana; nákup tanků, BVP a F-35 je „totální vyhazování peněz“.
+  citace:
+  - text: Kupovat v tuhletu chvíli tanky, BVPčka, F-35, to je totální vyhazování peněz. Pojďme dát raději peníze opravdu do lidí.
+    cas: "25:50"
+- id: rajchl-2026-11-22-15
+  typ: postoj
+  temata:
+  - politicky-system
+  - fara-neziskovky
+  - migrace
+  nadpis: Politici na zásadní reformy tu jsou, chybí odvaha voličů — FARA, konec dotací, zrušení Evropské komise, remigrace (Rajchl, 22. 11. 2026)
+  text: |
+    Nesouhlasí s ekonomkou Švihlíkovou (jíž si váží), že v ČR nejsou politici schopní systémových změn:
+    on sám je připraven „zásadním způsobem překopat ekonomiku“, odmítnout dotační ekonomiku a centrální
+    plánování. Chybí podle něj odvaha voličů dát takovým politikům šanci. Spory o koncesionářské
+    poplatky, „Turkovy jogurty, Macinkovy SMSky a Babišův střet zájmů“ jsou podružné; klíčové je zavést
+    zákon FARA, zrušit Evropskou komisi, odejít od Green Dealu a provést remigraci.
+  citace:
+  - text: Klíčové je zavést zákon FARA, odmítnout dotační ekonomiku, zrušit Evropskou komisi, odejít od Green Dealu, provést remigraci a vrátit Evropu na její pevné nohy.
+    cas: "29:54"
+  osoby:
+  - {osoba: ilona-svihlikova, vztah: rozporuplny, kontext: 'Váží si jí, ale nesouhlasí, že chybí politici pro zásadní reformy'}
+- id: rajchl-2026-11-22-16
+  typ: postoj
+  temata:
+  - valka-nato-rusko
+  nadpis: Vylučování ruských sportovců z OH a MS v hokeji je „malé a nízké“ (Rajchl, 22. 11. 2026)
+  text: Opakuje, že postoj ČR proti účasti ruských sportovců na olympijských hrách či MS v hokeji je „malý a nízký“; ČR má být naopak „tahounem diplomacie“.
+  vazby:
+  - {na: rajchl-2026-11-01-05, typ: opakovani}
+- id: rajchl-2026-11-22-17
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  - media-propaganda
+  nadpis: V Hormuzském průlivu je klid, napětí média „vyhánějí“ kvůli ziskům mocných (Rajchl, 22. 11. 2026)
+  text: |
+    Z dovolené v Emirátech hlásí, že u Hormuzského průlivu (Fudžajra) je „absolutní klid“ a že se s nohama
+    v průlivu fotil bez problémů. Situaci podle něj média jako vždy eskalují, „aby to hýbalo s trhy“ a
+    „správní a mocní“ na tom vydělali obrovské peníze.
+  citace:
+  - text: Je to celé trošku médii vyhnané a eskalované do výšin takových, aby to hýbalo s trhy, aby samozřejmě zase ti správní a mocní na tom vydělávali obrovské peníze.
+    cas: "00:31"
+- id: rajchl-2026-11-22-18
+  typ: postoj
+  temata:
+  - digitalni-kontrola
+  nadpis: Emiráty vyřizují vše přes mobil, Bartošova digitalizace stavebního řízení selhala (Rajchl, 22. 11. 2026)
+  text: |
+    Emiráty podle něj ČR technologicky „utekly“ — občanku, řidičák i platby vyřídíte přes aplikaci,
+    zatímco Bartošův pokus o digitalizaci stavebního řízení „víme, jak dopadl“. ČR se má věnovat jiným
+    problémům než koncesionářským poplatkům, které jsou „technický detail“.
+  osoby:
+  - {osoba: ivan-bartos, vztah: negativni, kontext: 'Neúspěšná digitalizace stavebního řízení'}
+- id: rajchl-2026-11-22-19
+  typ: stoch-teror
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: „Zloději z Kyjeva“ — „oligarchická klika kleptokratů“ kolem Zelenského (Rajchl, 22. 11. 2026)
+  text: |
+    V pasáži o ukončení pomoci Ukrajině opakovaně označuje ukrajinské vedení kolem Zelenského za zloděje
+    a kleptokraty a tvrdí, že by Zelenský peníze z ručení „ukradl“. Kriminalizace pojmenovaného terče
+    bez výzvy k trestu či násilí — hraniční případ.
+  citace:
+  - text: Já odmítám … financovat zloděje z oligarchické kliky kleptokratů z Kyjeva kolem Volodymyra Zelenského.
+    cas: "19:51"
+  - text: Přestaňme financovat zloděje z Kyjeva.
+    cas: "20:45"
+  osoby:
+  - {osoba: volodymyr-zelenskyj, vztah: negativni, kontext: 'Hlava „kliky kleptokratů“'}
+  teror:
+    terc: Volodymyr Zelenskyj a ukrajinské vedení („zloději z Kyjeva“)
+    hranicni: true
+- id: rajchl-2026-11-22-20
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: „Parta afrických chirurgů v Paříži“ — migranti „rabující“ ve Francii (Rajchl, 22. 11. 2026)
+  text: |
+    Ironickým označením „afričtí chirurgové“ (narážka na rétoriku o migrantech jako kvalifikované pracovní
+    síle) a líčením „afrických migrantů rabujících ve Francii“ paušalizuje skupinu migrantů jako
+    kriminální, v kontextu výzvy k „remigraci“. Bez výslovné výzvy k násilí — hraniční případ.
+  citace:
+  - text: Nejsme schopni se vypořádat s africkými migranty rabujícími ve Francii v jejich obchodech.
+    cas: "22:22"
+  - text: Parta afrických chirurgů v Paříži je pro nás absolutně neskrotitelná.
+    cas: "22:39"
+  teror:
+    terc: afričtí migranti ve Francii
+    hranicni: true
