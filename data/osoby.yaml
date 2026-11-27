@@ -3013,3 +3013,20 @@ osoby:
   popis: Bývalá místopředsedkyně Evropské komise
   sledovany: false
   vlastni_stranka: false
+- slug: pavel-dlouhy
+  jmeno: Pavel Dlouhý
+  aliasy: [Dlouhý]
+  popis: Podnikatel z jižních Čech, kterého Vrabel označuje za „kmotra ODS“
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-michal
+  jmeno: Petr Michal
+  popis: Policista hospodářské kriminálky v Českých Budějovicích (podle Vrabela)
+  sledovany: false
+  vlastni_stranka: false
+- slug: zdenek-rerabek
+  jmeno: Zdeněk Řeřábek
+  aliasy: [Řeřábek, Řeřák]
+  popis: Bývalý tajemník magistrátu Českých Budějovic
+  sledovany: false
+  vlastni_stranka: false
