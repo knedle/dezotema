@@ -106,7 +106,7 @@ vyroky:
   osoby:
   - {osoba: tomas-hrdlicka, vztah: pozitivni, kontext: 'Odsouzen za odznak Z, podle Vrabela jen za názor a za nevěru oficiálnímu výkladu'}
   - {osoba: rajchl, vztah: negativni, kontext: 'Podle Vrabela jeho strana PRO podáním trestního oznámení z roku 2022 vytvořila precedent trestnosti Z'}
-  - {osoba: katka-blahnikova, vztah: pozitivni, kontext: 'Její Z ze stuhy chce Vrabel bránit jako svobodu slova'}
+  - {osoba: katerina-blahnikova, vztah: pozitivni, kontext: 'Její Z ze stuhy chce Vrabel bránit jako svobodu slova'}
   - {osoba: major-kolar, vztah: neutralni, kontext: 'Podle něj varoval, že policie na demonstraci 17. 11. zatkne nositele Z'}
   - {osoba: igor-striz, vztah: negativni, kontext: 'V roce 2022 hrozil až třemi lety za podporu Ruska'}
   vazby:

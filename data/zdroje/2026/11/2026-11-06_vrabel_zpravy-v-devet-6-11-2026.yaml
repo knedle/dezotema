@@ -172,10 +172,10 @@ vyroky:
   citace:
   - text: Kaja Kalas je absolutní nacistka a co se týče Uršuli von der Leyen, no tak ta je taky.
   osoby:
-  - osoba: kaja-kallasova
+  - osoba: kaja-kallas
     vztah: negativni
     kontext: „Absolutní nacistka“
-  - osoba: ursula-von-der-leyenova
+  - osoba: ursula-von-der-leyen
     vztah: negativni
     kontext: „Ta je taky“ (nacistka)
   - osoba: antonio-costa

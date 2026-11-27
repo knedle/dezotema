@@ -205,9 +205,9 @@ vyroky:
   text: Opakuje, že rozhodnou vítězné mocnosti, ne Pavel, „vyměněnej“ Babiš ani Fiala, „kterému zázračně
     vyrostly vlasy“ (dvojníci).
   osoby:
-  - {osoba: pavel, vztah: negativni, kontext: 'O obnově ČSR rozhodovat nebude'}
-  - {osoba: babis, vztah: negativni, kontext: '„Už je jako vyměněnej“ (dvojník)'}
-  - {osoba: fiala, vztah: negativni, kontext: '„Zázračně mu vyrostly vlasy“ (dvojník)'}
+  - {osoba: petr-pavel, vztah: negativni, kontext: 'O obnově ČSR rozhodovat nebude'}
+  - {osoba: andrej-babis, vztah: negativni, kontext: '„Už je jako vyměněnej“ (dvojník)'}
+  - {osoba: petr-fiala, vztah: negativni, kontext: '„Zázračně mu vyrostly vlasy“ (dvojník)'}
   vazby:
   - {na: zitko-2026-09-24-03, typ: opakovani}
 - id: zitko-2026-11-21-15

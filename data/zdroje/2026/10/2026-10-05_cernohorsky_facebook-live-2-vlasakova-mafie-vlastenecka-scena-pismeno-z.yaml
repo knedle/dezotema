@@ -93,7 +93,7 @@ vyroky:
   - text: Nejdřív se spojí všichni velcí vlastenci, a jak dosáhnou svého cíle, tak v tu ránu všichni —
       peníze, peníze, peníze.
   osoby:
-  - osoba: bernardy
+  - osoba: renata-bernardy
     vztah: negativni
     kontext: „Saň Spriglu", rozjela „štvavou kampaň"
   - osoba: patrik-tusl
@@ -209,7 +209,7 @@ vyroky:
   - osoba: josef-skala
     vztah: pozitivni
     kontext: Upozorňoval na Donbas od 2016–2017
-  - osoba: kaja-kallasova
+  - osoba: kaja-kallas
     vztah: negativni
     kontext: Vulgárně napadeny za narativ „ruského agresora"
   dalsi_zdroje:

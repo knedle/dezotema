@@ -18,7 +18,7 @@ zdroj:
   - osoba: policista-bily
     vztah: negativni
     kontext: Součást „mafie“ proti Vlasákové
-  - osoba: herec-trojan
+  - osoba: ivan-trojan
     vztah: negativni
     kontext: Projev na Letné
 vyroky:
@@ -166,7 +166,7 @@ vyroky:
   - osoba: petr-macinka
     vztah: rozporuplny
     kontext: „Rozmázl ty idioty na Letné“, ale „debil“ kvůli „mužatkám“ a „ruskému agresorovi“
-  - osoba: volodymyr-zelensky
+  - osoba: volodymyr-zelenskyj
     vztah: negativni
     kontext: Zmařili mír po stažení Rusů 30. 4. 2022
   - osoba: boris-johnson
@@ -201,19 +201,19 @@ vyroky:
   - text: zmrd
   - text: debil
   osoby:
-  - osoba: kupka
+  - osoba: martin-kupka
     vztah: negativni
     kontext: Hrubé dehumanizující nadávky
-  - osoba: cernochova
+  - osoba: jana-cernochova
     vztah: negativni
     kontext: Hrubé dehumanizující nadávky
-  - osoba: decroix
+  - osoba: eva-decroix
     vztah: negativni
     kontext: Hrubé dehumanizující nadávky
-  - osoba: stanjura
+  - osoba: zbynek-stanjura
     vztah: negativni
     kontext: Hrubé dehumanizující nadávky
-  - osoba: fiala
+  - osoba: petr-fiala
     vztah: negativni
     kontext: Hrubé dehumanizující nadávky
   teror:

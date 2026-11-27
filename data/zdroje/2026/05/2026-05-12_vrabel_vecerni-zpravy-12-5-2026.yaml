@@ -97,11 +97,11 @@ vyroky:
     za to ocitla na ukrajinskéom seznamu Mirotvorce — Vrabel tvrdí, že jde o seznam určený k fyzické likvidaci
     osob. Hodnotí situaci jako „odrovnání zbytku Zelenského kariéry."'
   osoby:
-  - osoba: mendelova
+  - osoba: julie-mendelova
     vztah: neutralni
     kontext: Autorka knihy o Zelenského kokainu; po vydání umístěna na ukrajinský seznam Mirotvorce —
       Vrabel to cituje jako důkaz Zelenského totalitní povahy
-  - osoba: volodymyr-zelensky
+  - osoba: volodymyr-zelenskyj
     vztah: negativni
     kontext: 'Dal novinářku Mendelovou na seznam Mirotvorce za knihu o jeho kokainové závislosti — Vrabel:
       důkaz fašistické diktatury'

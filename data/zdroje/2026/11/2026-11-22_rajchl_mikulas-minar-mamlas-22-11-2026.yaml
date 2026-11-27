@@ -27,8 +27,8 @@ vyroky:
     cas: "01:41"
   osoby:
   - {osoba: mikulas-minar, vztah: negativni, kontext: '„Vrchní defraudant“ a „mamlas“, který nezná Ústavu'}
-  - {osoba: babis, vztah: pozitivni, kontext: 'Hájí ho proti tvrzení o závislosti na koaličních partnerech'}
-  - {osoba: okamura, vztah: neutralni, kontext: 'Zmíněn v Minářově tvrzení'}
+  - {osoba: andrej-babis, vztah: pozitivni, kontext: 'Hájí ho proti tvrzení o závislosti na koaličních partnerech'}
+  - {osoba: tomio-okamura, vztah: neutralni, kontext: 'Zmíněn v Minářově tvrzení'}
   - {osoba: petr-macinka, vztah: neutralni, kontext: 'Zmíněn v Minářově tvrzení'}
   vazby:
   - {na: rajchl-2026-04-05-06, typ: opakovani}

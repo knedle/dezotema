@@ -27,7 +27,7 @@ vyroky:
   - osoba: tomas-cermak
     vztah: pozitivni
     kontext: Bojovník proti „covidové mafii"; propuštěný muž je podle něj „údajný" Čermák / dvojník
-  - osoba: trump
+  - osoba: donald-trump
     vztah: pozitivni
     kontext: „Vítězné mocnosti", rozhodnou o obnově ČSR
   - osoba: vladimir-putin
@@ -39,13 +39,13 @@ vyroky:
   - osoba: modi
     vztah: pozitivni
     kontext: „Vítězné mocnosti", rozhodnou o obnově ČSR
-  - osoba: klaus
+  - osoba: vaclav-klaus
     vztah: negativni
     kontext: „Trio" rozkradení Československa
-  - osoba: meciar
+  - osoba: vladimir-meciar
     vztah: negativni
     kontext: „Trio" rozkradení Československa
-  - osoba: havel
+  - osoba: vaclav-havel
     vztah: negativni
     kontext: „Trio" rozkradení Československa
   dalsi_zdroje:

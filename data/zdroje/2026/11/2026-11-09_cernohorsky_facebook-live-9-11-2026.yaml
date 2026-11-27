@@ -77,7 +77,7 @@ vyroky:
   - osoba: zitko
     vztah: negativni
     kontext: „Parazité“ a „zmrdi“, které scéna živí a podporuje
-  - osoba: bernardy
+  - osoba: renata-bernardy
     vztah: negativni
     kontext: „Parazité“ a „zmrdi“, které scéna živí a podporuje
   - osoba: vrabel
@@ -177,10 +177,10 @@ vyroky:
   citace:
   - text: Neskončí to. Co si kurva myslíte? Jo, skončí, tak maximálně třetí světovou válkou.
   osoby:
-  - osoba: ursula-von-der-leyenova
+  - osoba: ursula-von-der-leyen
     vztah: negativni
     kontext: Kvůli nim válka neskončí
-  - osoba: kaja-kallasova
+  - osoba: kaja-kallas
     vztah: negativni
     kontext: Kvůli nim válka neskončí
   - osoba: tomas-zdechovsky

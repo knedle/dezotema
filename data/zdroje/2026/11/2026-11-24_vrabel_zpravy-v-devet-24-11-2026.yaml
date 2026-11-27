@@ -153,7 +153,7 @@ vyroky:
   - text: A měli by vytáhnout Českou republiku z NATO.
     cas: "22:22"
   osoby:
-  - {osoba: volodymyr-zelensky, vztah: negativni, kontext: 'Slíbil mír, a pak podle Vrabela vytvořil situaci, v níž se hranice uzavřely a muži nemohli odejít'}
+  - {osoba: volodymyr-zelenskyj, vztah: negativni, kontext: 'Slíbil mír, a pak podle Vrabela vytvořil situaci, v níž se hranice uzavřely a muži nemohli odejít'}
   vazby:
   - {na: vrabel-2026-11-21-18, typ: posun}
 - id: vrabel-2026-11-24-04
@@ -317,7 +317,7 @@ vyroky:
   - text: Takže Ukrajina nám rozpoutává válku najednou od Libie po Finsko.
     cas: "52:09"
   osoby:
-  - {osoba: volodymyr-zelensky, vztah: negativni, kontext: 'Podle Vrabela by útoky v cizích přístavech nikdo jiný netoleroval'}
+  - {osoba: volodymyr-zelenskyj, vztah: negativni, kontext: 'Podle Vrabela by útoky v cizích přístavech nikdo jiný netoleroval'}
   vazby:
   - {na: vrabel-2026-11-21-07, typ: posun}
 - id: vrabel-2026-11-24-11
@@ -419,7 +419,7 @@ vyroky:
   - text: Hele, pojďte, podepíšeme mírovou dohodu, jenom se musíte stáhnout.
     cas: "1:05:40"
   osoby:
-  - {osoba: volodymyr-zelensky, vztah: rozporuplny, kontext: 'Označován za zbabělce podle jeho mluvčí, ale Vrabel vybízí, aby se člověk vžil do jeho situace'}
+  - {osoba: volodymyr-zelenskyj, vztah: rozporuplny, kontext: 'Označován za zbabělce podle jeho mluvčí, ale Vrabel vybízí, aby se člověk vžil do jeho situace'}
   - {osoba: emmanuel-macron, vztah: negativni, kontext: 'Podle Vrabela „chytrá hlava s fíglem“, který prodloužil válku o čtyři až pět let'}
 - id: vrabel-2026-11-24-16
   typ: predikce

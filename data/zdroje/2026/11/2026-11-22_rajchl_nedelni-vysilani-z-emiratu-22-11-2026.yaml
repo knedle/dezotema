@@ -50,7 +50,7 @@ vyroky:
     cas: "08:11"
   osoby:
   - {osoba: ursula-von-der-leyen, vztah: negativni, kontext: 'Nejedná v zájmu ČR'}
-  - {osoba: kaja-kalas, vztah: negativni, kontext: 'Nejedná v zájmu ČR'}
+  - {osoba: kaja-kallas, vztah: negativni, kontext: 'Nejedná v zájmu ČR'}
   - {osoba: friedrich-merz, vztah: negativni, kontext: 'Nejedná v zájmu ČR'}
   - {osoba: emmanuel-macron, vztah: negativni, kontext: 'Nejedná v zájmu ČR'}
 - id: rajchl-2026-11-22-06

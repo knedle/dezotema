@@ -74,6 +74,7 @@ osoby:
   vlastni_stranka: true
 - slug: turanek
   jmeno: Jaroslav Turánek
+  aliasy: [Jiří Turánek]
   popis: Profesor, přednášející na sněmovním semináři o VTE/FVE.
   sledovany: false
   vlastni_stranka: false
@@ -83,7 +84,8 @@ osoby:
   sledovany: false
   vlastni_stranka: false
 - slug: cimprichova
-  jmeno: Pynelopi Cimprichová
+  jmeno: Penelope Cimprichová
+  aliasy: [Pynelopi Cimprichová]
   popis: Přednášející na sněmovním semináři o VTE/FVE.
   sledovany: false
   vlastni_stranka: false
@@ -94,6 +96,7 @@ osoby:
   vlastni_stranka: false
 - slug: hamplova
   jmeno: Jana Zwyrtek Hamplová
+  aliasy: [Jana Zvěřetek-Hamplová]
   popis: Senátorka, advokátka (veřejné a ústavní právo).
   sledovany: false
   vlastni_stranka: false
@@ -131,11 +134,13 @@ osoby:
   sledovany: false
   vlastni_stranka: false
 - slug: jeronim-tejc
-  jmeno: Jeroním Tejc
+  jmeno: Jeroným Tejc
+  aliasy: [Jaromír Tejc, Jiří Tejc, Jeroním Tejc]
   sledovany: false
   vlastni_stranka: false
 - slug: donald-trump
   jmeno: Donald Trump
+  aliasy: [Trump]
   sledovany: false
   vlastni_stranka: false
 - slug: aleister-crowley
@@ -156,6 +161,7 @@ osoby:
   vlastni_stranka: false
 - slug: petr-pavel
   jmeno: Petr Pavel
+  aliasy: [Pavel]
   sledovany: false
   vlastni_stranka: false
 - slug: amy-eskridge
@@ -168,6 +174,7 @@ osoby:
   vlastni_stranka: false
 - slug: jana-cernochova
   jmeno: Jana Černochová
+  aliasy: [Černochová]
   sledovany: false
   vlastni_stranka: false
 - slug: filip-turek
@@ -195,7 +202,8 @@ osoby:
   sledovany: false
   vlastni_stranka: false
 - slug: kaja-kallas
-  jmeno: Kaja Kallas
+  jmeno: Kaja Kallasová
+  aliasy: [Kaja Kalas, Kaja Kallas]
   sledovany: false
   vlastni_stranka: false
 - slug: klaus-schwab
@@ -204,14 +212,17 @@ osoby:
   vlastni_stranka: false
 - slug: andrej-babis
   jmeno: Andrej Babiš
+  aliasy: [Babiš]
   sledovany: false
   vlastni_stranka: false
 - slug: tomio-okamura
   jmeno: Tomio Okamura
+  aliasy: [Okamura]
   sledovany: false
   vlastni_stranka: false
 - slug: petr-fiala
   jmeno: Petr Fiala
+  aliasy: [Fiala]
   sledovany: false
   vlastni_stranka: false
 - slug: vit-rakusan
@@ -224,6 +235,7 @@ osoby:
   vlastni_stranka: false
 - slug: vaclav-havel
   jmeno: Václav Havel
+  aliasy: [Havel]
   sledovany: false
   vlastni_stranka: false
 - slug: karel-schwarzenberg
@@ -304,10 +316,6 @@ osoby:
   vlastni_stranka: false
 - slug: viktor-orban
   jmeno: Viktor Orbán
-  sledovany: false
-  vlastni_stranka: false
-- slug: volodymyr-zelensky
-  jmeno: Volodymyr Zelenský
   sledovany: false
   vlastni_stranka: false
 - slug: pirati-topici
@@ -403,7 +411,8 @@ osoby:
   sledovany: false
   vlastni_stranka: false
 - slug: ursula-von-der-leyen
-  jmeno: Ursula von der Leyen
+  jmeno: Ursula von der Leyenová
+  aliasy: [Ursula von der Leyen]
   sledovany: false
   vlastni_stranka: false
 - slug: josef-baxa
@@ -424,10 +433,12 @@ osoby:
   vlastni_stranka: false
 - slug: volodymyr-zelenskyj
   jmeno: Volodymyr Zelenskyj
+  aliasy: [Volodymyr Zelenský, Zelenský]
   sledovany: false
   vlastni_stranka: false
 - slug: jan-grolich
   jmeno: Jan Grolich
+  aliasy: [Grolich]
   sledovany: false
   vlastni_stranka: false
 - slug: oliver-zipse
@@ -444,6 +455,7 @@ osoby:
   vlastni_stranka: false
 - slug: zbynek-stanjura
   jmeno: Zbyněk Stanjura
+  aliasy: [Stanjura]
   sledovany: false
   vlastni_stranka: false
 - slug: jan-skopecek
@@ -474,20 +486,8 @@ osoby:
   jmeno: Karel Havlíček
   sledovany: false
   vlastni_stranka: false
-- slug: tusl
-  jmeno: Tušl
-  sledovany: false
-  vlastni_stranka: false
 - slug: zdenek-hrib
   jmeno: Zdeněk Hřib
-  sledovany: false
-  vlastni_stranka: false
-- slug: kaja-kallasova
-  jmeno: Kaja Kallasová
-  sledovany: false
-  vlastni_stranka: false
-- slug: ursula-von-der-leyenova
-  jmeno: Ursula von der Leyenová
   sledovany: false
   vlastni_stranka: false
 - slug: danuse-nerudova
@@ -553,11 +553,8 @@ osoby:
   vlastni_stranka: false
 - slug: sebelova
   jmeno: Michaela Šebelová
+  aliasy: [Jaroslava Šebelová]
   popis: STAN
-  sledovany: false
-  vlastni_stranka: false
-- slug: pospisil
-  jmeno: Pospíšil
   sledovany: false
   vlastni_stranka: false
 - slug: petra-redova
@@ -574,10 +571,12 @@ osoby:
   vlastni_stranka: false
 - slug: renata-bernardy
   jmeno: Renata Bernardy
+  aliasy: [Bernardy]
   sledovany: false
   vlastni_stranka: false
 - slug: patrik-tusl
   jmeno: Patrik Tušl
+  aliasy: [Tušl]
   sledovany: false
   vlastni_stranka: false
 - slug: monika-spoulova
@@ -601,10 +600,6 @@ osoby:
   jmeno: Jakub Jašek
   sledovany: false
   vlastni_stranka: false
-- slug: bernardy
-  jmeno: Bernardy
-  sledovany: false
-  vlastni_stranka: false
 - slug: dan-novas
   jmeno: Dan Novas
   sledovany: false
@@ -619,6 +614,7 @@ osoby:
   vlastni_stranka: false
 - slug: eva-decroix
   jmeno: Eva Decroix
+  aliasy: [Decroix]
   sledovany: false
   vlastni_stranka: false
 - slug: josef-skala
@@ -638,17 +634,8 @@ osoby:
   popis: kandidátka na prezidentku
   sledovany: false
   vlastni_stranka: false
-- slug: jaroslava-sebelova
-  jmeno: Jaroslava Šebelová
-  sledovany: false
-  vlastni_stranka: false
 - slug: jiri-hynek
   jmeno: Jiří Hynek
-  sledovany: false
-  vlastni_stranka: false
-- slug: fridrichova
-  jmeno: Fridrichová
-  popis: ČT
   sledovany: false
   vlastni_stranka: false
 - slug: spd
@@ -692,11 +679,6 @@ osoby:
   jmeno: Eva Pavlová
   sledovany: false
   vlastni_stranka: false
-- slug: grolich
-  jmeno: Grolich
-  popis: senátor
-  sledovany: false
-  vlastni_stranka: false
 - slug: milan-mazurek
   jmeno: Milan Mazurek
   sledovany: false
@@ -707,10 +689,6 @@ osoby:
   vlastni_stranka: false
 - slug: vyskocil
   jmeno: Vyskočil
-  sledovany: false
-  vlastni_stranka: false
-- slug: vasut
-  jmeno: Vašut
   sledovany: false
   vlastni_stranka: false
 - slug: vaclav-sinagl
@@ -725,32 +703,8 @@ osoby:
   jmeno: Martin Kuba
   sledovany: false
   vlastni_stranka: false
-- slug: kupka
-  jmeno: Kupka
-  sledovany: false
-  vlastni_stranka: false
-- slug: cernochova
-  jmeno: Černochová
-  sledovany: false
-  vlastni_stranka: false
-- slug: decroix
-  jmeno: Decroix
-  sledovany: false
-  vlastni_stranka: false
-- slug: stanjura
-  jmeno: Stanjura
-  sledovany: false
-  vlastni_stranka: false
-- slug: fiala
-  jmeno: Fiala
-  sledovany: false
-  vlastni_stranka: false
 - slug: policista-bily
   jmeno: Policista Bílý
-  sledovany: false
-  vlastni_stranka: false
-- slug: herec-trojan
-  jmeno: Herec Trojan
   sledovany: false
   vlastni_stranka: false
 - slug: reiner-fullmich
@@ -765,10 +719,6 @@ osoby:
   jmeno: Oliver Angino
   sledovany: false
   vlastni_stranka: false
-- slug: jiri-turanek
-  jmeno: Jiří Turánek
-  sledovany: false
-  vlastni_stranka: false
 - slug: zdenek-kettner
   jmeno: Zdeněk Kettner
   sledovany: false
@@ -779,10 +729,6 @@ osoby:
   vlastni_stranka: false
 - slug: sasa-uhlova
   jmeno: Saša Uhlová
-  sledovany: false
-  vlastni_stranka: false
-- slug: natalia-vachatova
-  jmeno: Natália Vachatová
   sledovany: false
   vlastni_stranka: false
 - slug: katerina-stojanova
@@ -799,6 +745,7 @@ osoby:
   vlastni_stranka: false
 - slug: vojtech-psenak
   jmeno: Vojtěch Pšenák
+  aliasy: [Pšenák]
   sledovany: false
   vlastni_stranka: false
 - slug: jakub-hedia
@@ -821,10 +768,6 @@ osoby:
   jmeno: Martina Bednářová
   sledovany: false
   vlastni_stranka: false
-- slug: nora-friedrichova
-  jmeno: Nora Friedrichová
-  sledovany: false
-  vlastni_stranka: false
 - slug: bart-de-wever
   jmeno: Bart De Wever
   sledovany: false
@@ -834,7 +777,8 @@ osoby:
   sledovany: false
   vlastni_stranka: false
 - slug: jd-vance
-  jmeno: JD Vance
+  jmeno: J. D. Vance
+  aliasy: [JD Vance]
   sledovany: false
   vlastni_stranka: false
 - slug: peter-magyar
@@ -867,6 +811,7 @@ osoby:
   vlastni_stranka: false
 - slug: martin-kupka
   jmeno: Martin Kupka
+  aliasy: [Kupka]
   sledovany: false
   vlastni_stranka: false
 - slug: jakub-abel
@@ -887,10 +832,7 @@ osoby:
   vlastni_stranka: false
 - slug: jiri-pospisil
   jmeno: Jiří Pospíšil
-  sledovany: false
-  vlastni_stranka: false
-- slug: hinek-beran
-  jmeno: Hinek Beran
+  aliasy: [Pospíšil]
   sledovany: false
   vlastni_stranka: false
 - slug: radomir-danhel
@@ -899,10 +841,6 @@ osoby:
   vlastni_stranka: false
 - slug: tomas-jirikovsky
   jmeno: Tomáš Jiříkovský
-  sledovany: false
-  vlastni_stranka: false
-- slug: jaromir-tejc
-  jmeno: Jaromír Tejc
   sledovany: false
   vlastni_stranka: false
 - slug: zuzana-cerna
@@ -915,6 +853,7 @@ osoby:
   vlastni_stranka: false
 - slug: natalie-vachatova
   jmeno: Natálie Vachatová
+  aliasy: [Natália Vachatová]
   sledovany: false
   vlastni_stranka: false
 - slug: tomas-elner
@@ -927,14 +866,11 @@ osoby:
   vlastni_stranka: false
 - slug: hynek-beran
   jmeno: Hynek Beran
+  aliasy: [Hinek Beran]
   sledovany: false
   vlastni_stranka: false
 - slug: demetrashvili
   jmeno: Demetrashvili
-  sledovany: false
-  vlastni_stranka: false
-- slug: kaja-kalas
-  jmeno: Kaja Kalas
   sledovany: false
   vlastni_stranka: false
 - slug: gerhard-schroder
@@ -977,10 +913,6 @@ osoby:
   jmeno: Tomáš Paukner
   sledovany: false
   vlastni_stranka: false
-- slug: jana-zveretek-hamplova
-  jmeno: Jana Zvěřetek-Hamplová
-  sledovany: false
-  vlastni_stranka: false
 - slug: marek-wollner
   jmeno: Marek Wollner
   sledovany: false
@@ -1020,6 +952,7 @@ osoby:
   vlastni_stranka: false
 - slug: nora-fridrichova
   jmeno: Nora Fridrichová
+  aliasy: [Fridrichová, Nora Friedrichová]
   sledovany: false
   vlastni_stranka: false
 - slug: marek-volner
@@ -1267,10 +1200,6 @@ osoby:
   jmeno: Milan Kundera
   sledovany: false
   vlastni_stranka: false
-- slug: bara-starkova
-  jmeno: Bára Stárková
-  sledovany: false
-  vlastni_stranka: false
 - slug: donald-tusk
   jmeno: Donald Tusk
   sledovany: false
@@ -1322,6 +1251,7 @@ osoby:
   vlastni_stranka: false
 - slug: barbora-starkova
   jmeno: Barbora Stárková
+  aliasy: [Bára Stárková]
   sledovany: false
   vlastni_stranka: false
 - slug: otakar-foltyn
@@ -1406,16 +1336,13 @@ osoby:
   jmeno: Eva Dekrová
   sledovany: false
   vlastni_stranka: false
-- slug: penelope-cimprichova
-  jmeno: Penelope Cimprichová
-  sledovany: false
-  vlastni_stranka: false
 - slug: mikulas-macinka
   jmeno: Mikuláš Macinka
   sledovany: false
   vlastni_stranka: false
 - slug: marek-vasut
   jmeno: Marek Vašut
+  aliasy: [Vašut]
   sledovany: false
   vlastni_stranka: false
 - slug: martin-puta
@@ -1444,7 +1371,8 @@ osoby:
   sledovany: false
   vlastni_stranka: false
 - slug: christine-lagarde
-  jmeno: Christine Lagarde
+  jmeno: Christine Lagardeová
+  aliasy: [Christine Lagarde]
   sledovany: false
   vlastni_stranka: false
 - slug: aleksandar-vucic
@@ -1477,6 +1405,7 @@ osoby:
   vlastni_stranka: false
 - slug: matthias-desmet
   jmeno: Matthias Desmet
+  aliasy: [Mattias Desmet]
   sledovany: false
   vlastni_stranka: false
 - slug: jan-macinka
@@ -1489,10 +1418,6 @@ osoby:
   vlastni_stranka: false
 - slug: daniela-kovarova
   jmeno: Daniela Kovářová
-  sledovany: false
-  vlastni_stranka: false
-- slug: herbert-kalinak
-  jmeno: Herbert Kalinák
   sledovany: false
   vlastni_stranka: false
 - slug: alexander-stubb
@@ -1517,10 +1442,6 @@ osoby:
   vlastni_stranka: false
 - slug: boris-pistorius
   jmeno: Boris Pistorius
-  sledovany: false
-  vlastni_stranka: false
-- slug: mendelova
-  jmeno: Mendelová
   sledovany: false
   vlastni_stranka: false
 - slug: jose-manuel-albares
@@ -1568,7 +1489,8 @@ osoby:
   sledovany: false
   vlastni_stranka: false
 - slug: marie-zacharova
-  jmeno: Marie Zacharova
+  jmeno: Marija Zacharovová
+  aliasy: [Marie Zacharova]
   sledovany: false
   vlastni_stranka: false
 - slug: tomas-hrdlicka
@@ -1590,6 +1512,7 @@ osoby:
   vlastni_stranka: false
 - slug: alexandr-lukasenko
   jmeno: Alexandr Lukašenko
+  aliasy: [Aleksandr Lukašenko]
   sledovany: false
   vlastni_stranka: false
 - slug: jeff-bezos
@@ -1638,6 +1561,7 @@ osoby:
   vlastni_stranka: false
 - slug: kyrylo-budanov
   jmeno: Kyrylo Budanov
+  aliasy: [Kirilo Budanov]
   sledovany: false
   vlastni_stranka: false
 - slug: itamar-ben-gvir
@@ -1646,10 +1570,6 @@ osoby:
   vlastni_stranka: false
 - slug: petra-alexova-polakova
   jmeno: Petra Alexová Poláková
-  sledovany: false
-  vlastni_stranka: false
-- slug: marija-zacharovova
-  jmeno: Marija Zacharovová
   sledovany: false
   vlastni_stranka: false
 - slug: william-polter
@@ -1678,10 +1598,6 @@ osoby:
   vlastni_stranka: false
 - slug: milorad-dodik
   jmeno: Milorad Dodik
-  sledovany: false
-  vlastni_stranka: false
-- slug: ivanka-trump
-  jmeno: Ivanka Trump
   sledovany: false
   vlastni_stranka: false
 - slug: grzegorz-braun
@@ -1726,6 +1642,7 @@ osoby:
   vlastni_stranka: false
 - slug: vaclav-klaus
   jmeno: Václav Klaus
+  aliasy: [Klaus]
   sledovany: false
   vlastni_stranka: false
 - slug: lindsey-graham
@@ -1738,10 +1655,6 @@ osoby:
   vlastni_stranka: false
 - slug: vlasta-kovarova
   jmeno: Vlasta Kovářová
-  sledovany: false
-  vlastni_stranka: false
-- slug: j-d-vance
-  jmeno: J. D. Vance
   sledovany: false
   vlastni_stranka: false
 - slug: tucker-carlson
@@ -1772,12 +1685,9 @@ osoby:
   jmeno: Vladimir Solovjov
   sledovany: false
   vlastni_stranka: false
-- slug: kirilo-budanov
-  jmeno: Kirilo Budanov
-  sledovany: false
-  vlastni_stranka: false
 - slug: ratko-mladic
   jmeno: Ratko Mladić
+  aliasy: [Radko Mladić]
   sledovany: false
   vlastni_stranka: false
 - slug: recep-tayyip-erdogan
@@ -1936,10 +1846,6 @@ osoby:
   jmeno: Marta Kos
   sledovany: false
   vlastni_stranka: false
-- slug: radko-mladic
-  jmeno: Radko Mladić
-  sledovany: false
-  vlastni_stranka: false
 - slug: petr-bubenicek
   jmeno: Petr Bubeníček
   sledovany: false
@@ -1964,16 +1870,13 @@ osoby:
   jmeno: Mark Carney
   sledovany: false
   vlastni_stranka: false
-- slug: aleksandr-lukasenko
-  jmeno: Aleksandr Lukašenko
-  sledovany: false
-  vlastni_stranka: false
 - slug: josef-mengele
   jmeno: Josef Mengele
   sledovany: false
   vlastni_stranka: false
 - slug: julie-mendelova
   jmeno: Julie Mendelová
+  aliasy: [Mendelová, Julia Mendelová]
   sledovany: false
   vlastni_stranka: false
 - slug: rados-aw-sikorski
@@ -1998,6 +1901,7 @@ osoby:
   vlastni_stranka: false
 - slug: petr-bures
   jmeno: Petr Bureš
+  aliasy: [Bureš]
   sledovany: false
   vlastni_stranka: false
 - slug: jana-hruskova
@@ -2010,6 +1914,7 @@ osoby:
   vlastni_stranka: false
 - slug: katerina-blahnikova
   jmeno: Kateřina Blahníková
+  aliasy: [Katka Blahníková]
   sledovany: false
   vlastni_stranka: false
 - slug: ales-svoboda
@@ -2046,6 +1951,7 @@ osoby:
   vlastni_stranka: false
 - slug: robert-kalinak
   jmeno: Robert Kaliňák
+  aliasy: [Herbert Kalinák]
   sledovany: false
   vlastni_stranka: false
 - slug: dan-j-rgensen
@@ -2063,10 +1969,6 @@ osoby:
   vlastni_stranka: false
 - slug: susan-dell
   jmeno: Susan Dell
-  sledovany: false
-  vlastni_stranka: false
-- slug: mattias-desmet
-  jmeno: Mattias Desmet
   sledovany: false
   vlastni_stranka: false
 - slug: alexus-grynkewich
@@ -2115,6 +2017,7 @@ osoby:
   vlastni_stranka: false
 - slug: vladimira-vitova
   jmeno: Vladimíra Vítová
+  aliasy: [dr. Vítová]
   sledovany: false
   vlastni_stranka: false
 - slug: martin-koller
@@ -2173,10 +2076,6 @@ osoby:
   jmeno: Luboš Volný
   sledovany: false
   vlastni_stranka: false
-- slug: katka-blahnikova
-  jmeno: Katka Blahníková
-  sledovany: false
-  vlastni_stranka: false
 - slug: melania-trumpova
   jmeno: Melania Trumpová
   sledovany: false
@@ -2185,16 +2084,13 @@ osoby:
   jmeno: Giorgia Meloniová
   sledovany: false
   vlastni_stranka: false
-- slug: dr-vitova
-  jmeno: dr. Vítová
-  sledovany: false
-  vlastni_stranka: false
 - slug: patryk-jaki
   jmeno: Patryk Jaki
   sledovany: false
   vlastni_stranka: false
 - slug: ivanka-trumpova
   jmeno: Ivanka Trumpová
+  aliasy: [Ivanka Trump]
   sledovany: false
   vlastni_stranka: false
 - slug: anton-klobuckin
@@ -2239,10 +2135,6 @@ osoby:
   popis: senátorka
   sledovany: false
   vlastni_stranka: false
-- slug: christine-lagardeova
-  jmeno: Christine Lagardeová
-  sledovany: false
-  vlastni_stranka: false
 - slug: sebastian-kurz
   jmeno: Sebastian Kurz
   sledovany: false
@@ -2266,10 +2158,6 @@ osoby:
   vlastni_stranka: false
 - slug: yuval-noah-harari
   jmeno: Yuval Noah Harari
-  sledovany: false
-  vlastni_stranka: false
-- slug: julia-mendelova
-  jmeno: Julia Mendelová
   sledovany: false
   vlastni_stranka: false
 - slug: tomas-taraba
@@ -2358,6 +2246,7 @@ osoby:
   vlastni_stranka: false
 - slug: ivan-trojan
   jmeno: Ivan Trojan
+  aliasy: [Herec Trojan]
   sledovany: false
   vlastni_stranka: false
 - slug: calin-georgescu
@@ -2370,10 +2259,6 @@ osoby:
   vlastni_stranka: false
 - slug: pavek
   jmeno: Pávek
-  sledovany: false
-  vlastni_stranka: false
-- slug: bures
-  jmeno: Bureš
   sledovany: false
   vlastni_stranka: false
 - slug: ludvik-zifcak
@@ -2466,10 +2351,6 @@ osoby:
   jmeno: Michala Jílková
   sledovany: false
   vlastni_stranka: false
-- slug: hinek-chudarek
-  jmeno: Hinek Chudárek
-  sledovany: false
-  vlastni_stranka: false
 - slug: jan-smrs
   jmeno: Jan Smrš
   sledovany: false
@@ -2480,10 +2361,6 @@ osoby:
   vlastni_stranka: false
 - slug: ondrej-havlik
   jmeno: Ondřej Havlík
-  sledovany: false
-  vlastni_stranka: false
-- slug: jiri-tejc
-  jmeno: Jiří Tejc
   sledovany: false
   vlastni_stranka: false
 - slug: martin-stransky
@@ -2528,10 +2405,12 @@ osoby:
   vlastni_stranka: false
 - slug: vladimir-meciar
   jmeno: Vladimír Mečiar
+  aliasy: [Mečiar]
   sledovany: false
   vlastni_stranka: false
 - slug: hynek-chudarek
   jmeno: Hynek Chudárek
+  aliasy: [Hinek Chudárek]
   sledovany: false
   vlastni_stranka: false
 - slug: dolores-cannon
@@ -2568,10 +2447,6 @@ osoby:
   vlastni_stranka: false
 - slug: ladislav-kamenicky
   jmeno: Ladislav Kamenický
-  sledovany: false
-  vlastni_stranka: false
-- slug: psenak
-  jmeno: „Pšenák"
   sledovany: false
   vlastni_stranka: false
 - slug: oganesian
@@ -2627,10 +2502,6 @@ osoby:
   popis: soudce
   sledovany: false
   vlastni_stranka: false
-- slug: trump
-  jmeno: Trump
-  sledovany: false
-  vlastni_stranka: false
 - slug: bin-salman
   jmeno: bin Salmán
   sledovany: false
@@ -2639,20 +2510,9 @@ osoby:
   jmeno: Módí
   sledovany: false
   vlastni_stranka: false
-- slug: klaus
-  jmeno: Klaus
-  sledovany: false
-  vlastni_stranka: false
-- slug: meciar
-  jmeno: Mečiar
-  sledovany: false
-  vlastni_stranka: false
-- slug: havel
-  jmeno: Havel
-  sledovany: false
-  vlastni_stranka: false
 - slug: norbert-naxera
   jmeno: Norbert Naxera
+  aliasy: [Naxera]
   sledovany: false
   vlastni_stranka: false
 - slug: tom-hanks
@@ -2682,11 +2542,6 @@ osoby:
   vlastni_stranka: false
 - slug: dan-vavra
   jmeno: Dan Vávra
-  sledovany: false
-  vlastni_stranka: false
-- slug: naxera
-  jmeno: Naxera
-  popis: advokát
   sledovany: false
   vlastni_stranka: false
 - slug: ivan-masaryk
@@ -2902,18 +2757,6 @@ osoby:
   vlastni_stranka: false
 - slug: sukl
   jmeno: SÚKL
-  sledovany: false
-  vlastni_stranka: false
-- slug: babis
-  jmeno: Babiš
-  sledovany: false
-  vlastni_stranka: false
-- slug: pavel
-  jmeno: Pavel
-  sledovany: false
-  vlastni_stranka: false
-- slug: okamura
-  jmeno: Okamura
   sledovany: false
   vlastni_stranka: false
 - slug: stanley-kubrick

@@ -54,7 +54,7 @@ vyroky:
   - osoba: vyskocil
     vztah: pozitivni
     kontext: Výjimky mezi herci, kritičtí k ČT
-  - osoba: vasut
+  - osoba: marek-vasut
     vztah: pozitivni
     kontext: Výjimky mezi herci, kritičtí k ČT
   podtema: Nová alternativní média
@@ -139,7 +139,7 @@ vyroky:
   citace:
   - text: Pan Grolich, protože je senátor, tak je nad člověk? On je nad právem?
   osoby:
-  - osoba: grolich
+  - osoba: jan-grolich
     vztah: negativni
     kontext: „Rozhodne ulice“ jako výzva k násilí
   podtema: Politická kultura

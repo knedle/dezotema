@@ -16,7 +16,7 @@ zdroj:
   - osoba: benjamin-netanjahu
     vztah: negativni
     kontext: Tlačí Trumpa k útoku na Írán, „prohrál volby“, u moci ho udrží jen válka
-  - osoba: j-d-vance
+  - osoba: jd-vance
     vztah: rozporuplny
     kontext: Distancuje se kvůli kandidatuře, „připravovaný“
   - osoba: petr-macinka
@@ -25,7 +25,7 @@ zdroj:
   - osoba: marketa-gregorova
     vztah: negativni
     kontext: 'K jejímu zadržení: „Je to velká škoda, že si ji tam nenechali.“'
-  - osoba: ursula-von-der-leyenova
+  - osoba: ursula-von-der-leyen
     vztah: negativni
     kontext: Účast na summitu V4 „zvláštní“, „baba“
   prehled:
