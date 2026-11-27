@@ -1,0 +1,59 @@
+zdroj:
+  id: 2026-11-24_rajchl_ne-pane-hrobari-ods-kupko-paragraf-405-24-11-2026
+  mluvci: rajchl
+  kanal: Jindřich Rajchl
+  titul: Ne, pane hrobaři ODS Kupko, nehodlám zrušit paragraf 405 Schvalování genocidy (24. 11. 2026)
+  datum: 2026-11-24
+  url: https://www.facebook.com/100063460865205/videos/2085709985443192
+  prepis: prepisy/done/2026-11-24_Jindřich-Rajchl_148K-views-15K-reactions-Ne-pane-hrobaři-ODS-Kupko-ne.txt
+  delka: '00:04:06'
+  rezim: standard
+  poznamka: 'Krátký spot. Zpracována témata 1 (úprava § 405) a 2 (případy zneužití § 405); přeskočeno téma
+    Novinky.cz/Kupka. Stochastický teror nezjištěn („hrobař ODS“, „progresivně probruselská, proukrajinská
+    klika“ — urážky bez dehumanizace či výzvy k trestu). Ověřeno v přepisu.'
+vyroky:
+- id: rajchl-2026-11-24-01
+  typ: postoj
+  temata:
+  - dsa-cenzura
+  podtema: Trestání politického projevu
+  nadpis: '§ 405 nechce zrušit, jen zúžit — diskuse o Srebrenici, Buči či Převodově nemá být trestná (Rajchl, 24. 11. 2026)'
+  text: |
+    Reaguje na tvrzení Novinek.cz a Martina Kupky, že chce zrušit § 405 (schvalování, popírání a
+    zlehčování genocidia): podle něj jej chce jen upravit a zúžit, aby nebyl zneužitelný „vůči každému,
+    kdo se zprotiví oficiálnímu názoru strany, vlády a Bruselu“. Trestné má být jednání jen při úmyslu
+    podnítit nenávist či násilí vůči jednotlivci či skupině (což je podle něj v souladu s evropskou
+    legislativou), nikoli „relevantní diskuze“ o válečných událostech. Nově jako příklady uvádí
+    Srebrenici, Buču a Převodov — kdo řekne, že tam dopadly ukrajinské rakety, nemá být „dopoledne
+    pachatelem trestného činu a odpoledne člověkem, který říká pravdu“.
+  citace:
+  - text: Nechci žít v zemi, kde já jako poslanec parlamentu České republiky nemohu na některé otázky odpovídat tak, jak si myslím, aby mi nehrozilo trestní stíhání. Tohle skutečně není demokracie.
+    cas: "03:20"
+  osoby:
+  - {osoba: martin-kupka, vztah: negativni, kontext: '„Hrobař ODS“, který přejímá „smyšlené žvásty“ Novinek.cz'}
+  vazby:
+  - {na: rajchl-2026-10-20-01, typ: posun}
+- id: rajchl-2026-11-24-02
+  typ: postoj
+  temata:
+  - dsa-cenzura
+  podtema: Trestání politického projevu
+  nadpis: Kapal, Skála, Bednářová, Panenka — oběti zneužívání § 405, nemají být kriminalizováni (Rajchl, 24. 11. 2026)
+  text: |
+    Jako doklady zneužívání § 405 uvádí odsouzení Vladimíra Kapala a Josefa Skály za diskusi o tom, zda
+    genocidu v Katyni spáchali nacisté, nebo sovětští komunisté, odsouzení Martiny Bednářové za výrok, že
+    „se v Kyjevě nic neděje“ („v době, kdy se tam nic nedělo“), a policejní „popotahování“ novináře
+    Parlamentních listů Radima Panenky za kondolenci k úmrtí generála Ratka Mladiće. Všechna tato
+    jednání podle něj „nemají být kriminalizována za žádnou cenu“ — stíhaní se „provinili“ jen tím, že
+    mají jiný názor než „progresivně probruselská, proukrajinská klika“.
+  citace:
+  - text: Na základě tohoto paragrafu byla odsouzená Martina Bednářová za to, že říkala, že se v Kyjevě nic neděje. V době, kdy se tam nic nedělo. To má být trestné?
+    cas: "01:17"
+  osoby:
+  - {osoba: vladimir-kapal, vztah: pozitivni, kontext: 'Neprávem odsouzen za diskusi o Katyni'}
+  - {osoba: josef-skala, vztah: pozitivni, kontext: 'Neprávem odsouzen za diskusi o Katyni'}
+  - {osoba: martina-bednarova, vztah: pozitivni, kontext: 'Neprávem odsouzena za výrok o Kyjevě'}
+  - {osoba: radim-panenka, vztah: pozitivni, kontext: 'Stíhán za kondolenci k úmrtí Mladiće'}
+  - {osoba: ratko-mladic, vztah: neutralni, kontext: 'Kondolence k jeho úmrtí podle Rajchla nemá být trestná'}
+  vazby:
+  - {na: rajchl-2026-10-20-01, typ: posun}
