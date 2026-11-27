@@ -2984,3 +2984,20 @@ osoby:
   popis: Švýcarský bývalý bankéř, šiřitel konspiračních teorií o covidu a „plánu“
   sledovany: false
   vlastni_stranka: false
+- slug: miroslav-hlavac
+  jmeno: Miroslav Hlaváč
+  aliasy: [Hlaváč]
+  popis: Náčelník Generálního štábu Armády ČR
+  sledovany: false
+  vlastni_stranka: false
+- slug: kim-cong-un
+  jmeno: Kim Čong-un
+  aliasy: [Kim Jong-un, Kim Jong-il]
+  popis: Vůdce Severní Koreje
+  sledovany: false
+  vlastni_stranka: false
+- slug: petr-cudek
+  jmeno: Petr Čudek
+  popis: Primátor Opavy
+  sledovany: false
+  vlastni_stranka: false

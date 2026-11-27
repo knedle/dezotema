@@ -1,0 +1,358 @@
+zdroj:
+  id: 2026-11-26_vrabel_zpravy-v-devet-26-11-2026
+  mluvci: vrabel
+  kanal: Ladislav Vrabel
+  titul: Zprávy v devět s komentářem 26. 11. 2026
+  datum: 2026-11-26
+  url: https://www.facebook.com/100087923704145/videos/2000791487558128
+  prepis: prepisy/done/2026-11-26_Ladislav-Vrabel_26-11-2026-Zprávy-v-devět-s-komentářem.txt
+  delka: "01:05:43"
+  rezim: vrabel
+  poznamka: "Čtvrteční vysílání se spolumoderátorkou Zuzkou, která čte zprávy (od 2:58). 19 témat v denním přehledu, 13 z nich s vlastním úhlem (⚡) v 16 plných výrocích (+ 2 výroky o stochastickém teroru). Predikce: 3 (EU schválí půjčku Ukrajině kolem Vánoc i s Babišem, kolaps trhů s AI a první zadlužená Francie, růst cen zlata a stříbra). Stochastický teror: 2 hraniční (opavský primátor a ruské kolo; migranti na Kanárských ostrovech jako „svrabaví styliky“). Na konci pouští video z Německa (nezpracováno, přepis je nesrozumitelný). Citace ověřeny v přepisu."
+  prehled:
+  - tema: Půjčka Ukrajině 45 mld. eur a rozpočet EU 2028–2034
+    text: souhlasí s Babišem, že podmiňovat rozpočet půjčkou je absurdní, ale označuje jeho postoj za divadlo, žádá veto a výstup z EU.
+    vyrok: vrabel-2026-11-26-01
+  - tema: Trump a Rutte na Floridě
+    text: „klasický Trump“, tvrzení o ruské agresi jsou prý jen politická prohlášení, o nichž žádný soud nerozhodl.
+    vyrok: vrabel-2026-11-26-03
+  - tema: Kushnerův rozhovor s Döpfnerem
+    text: Kushner potvrdil „proxy válku“ a ruské obavy z NATO, ale NATO prý napadlo Jugoslávii, a Zelenského záruky jsou přehnané.
+    vyrok: vrabel-2026-11-26-04
+  - tema: Nový prezident ECB Hernández de Cos
+    text: nezná ho, takže se nevyjadřuje.
+  - tema: Ukrajinský student se zapálil před ministerstvem kultury ve Varšavě
+    text: podle něj protestoval proti vydávání uprchlíků Ukrajině, jejíž TCK je posílají na frontu.
+    vyrok: vrabel-2026-11-26-06
+  - tema: Bank of England varuje před zadlužením AI firem
+    text: AI firmy jsou přepumpované, trhy se zhroutí a první padne Francie, zlato a stříbro půjdou nahoru.
+    vyrok: vrabel-2026-11-26-07
+  - tema: Pavel, Hlaváč a Zůna v Senátu
+    text: ironicky je označuje za „príma trojku“, která chce víc zbrojit.
+    vyrok: vrabel-2026-11-26-10
+  - tema: Maďarský premiér žádá odstranění trojzubce z hradu v Mukačevu
+    text: Petr Maďar bude možná „na stejné úrovni jako Zelenský“.
+  - tema: Odkud Vrabel bere informace
+    text: jeho komentáře jsou soukromé, zprávy čerpá z různých zdrojů a divákům doporučuje si udělat vlastní názor.
+  - tema: Kim Čong-un a taktické jaderné zbraně
+    text: pro Severní Koreu je to „naprosto logické“, pro ČR ne, protože by dopadla jako člověk s plynovou pistolí.
+    vyrok: vrabel-2026-11-26-11
+  - tema: Evropský parlament a geneticky modifikované mikroorganismy
+    text: obává se GMO a zmiňuje i údajnou směrnici o povinném očkování mRNA; označuje to za špatný krok.
+    vyrok: vrabel-2026-11-26-12
+  - tema: Lavrov zpochybňuje účast Evropanů na jednáních
+    text: Lavrovova pozice je „stoprocentně logická“, evropská „0 % logiky“, a Evropa musí uznat ruské důvody (rozšiřování NATO).
+    vyrok: vrabel-2026-11-26-13
+  - tema: ZDF o šikaně konzervativních muslimských žáků
+    text: šikana původních dětí je podle něj to, co čeká ČR s migračním paktem.
+    vyrok: vrabel-2026-11-26-15
+  - tema: Libyjští důstojníci zabiti ukrajinským dronem v Benghází
+    text: Ukrajinci nemají právo vést válku na libyjském území.
+    vyrok: vrabel-2026-11-26-14
+  - tema: Precedent Kosova a sebeurčení Donbasu a Krymu
+    text: Kosovo je podle něj precedens, a na rozdíl od něj se obyvatelé Donbasu a Krymu sebeurčují zpět k Rusku (opakuje).
+    vyrok: vrabel-2026-11-26-14
+  - tema: Finsko prodlužuje zákon o ochraně hranic s Ruskem
+    text: nechápe, proč Finsko uzavírá hranici a mluví o válečné propagandě, hranice s Ruskem je 1340 km.
+  - tema: Opava vyřadila ruské kolo z vánočních trhů
+    text: fantazíruje, jak by primátora nechal tři hodiny točit na ruském kole.
+    vyrok: vrabel-2026-11-26-17
+  - tema: Kanárské ostrovy, rekordních 2100 migrantů za den
+    text: migranti podle něj ničí turismus a platí je daně, přičemž ČR leží mezi „dvěma šílenými zeměmi“ (Ukrajina a Německo).
+    vyrok: vrabel-2026-11-26-16
+  - tema: Závěrečné video z Německa
+    text: pouští satirické video jako ukázku „současného Německa“ a omlouvá se, že předchozí video s muslimy a ozdobami bylo z Egypta.
+vyroky:
+- id: vrabel-2026-11-26-01
+  typ: postoj
+  temata:
+  - suverenita-eu
+  - valka-ukrajina-prubeh
+  podtema: Rozpočet a půjčka EU
+  nadpis: "Souhlasí s Babišem proti půjčce Ukrajině z rozpočtu EU, ale jeho postoj je prý jen „divadlo“; zná řešení: veto, nebo výstup z EU (Vrabel, 26. 11. 2026)"
+  text: |
+    Ke zprávě o jednání EU o půjčce Ukrajině 45 mld. eur na rok 2027 Vrabel říká, že podmiňovat evropský rozpočet 2028–2034 garancí půjčky je absurdní, a v tom s Babišem souhlasí. Zároveň tvrdí, že Babiš za celou dobu ve funkci neudělal pro mír nic (nezrušil muniční iniciativu ani vojenskou dohodu s Ukrajinou, ČR prý posílá víc než polovinu munice) a že se chová jako někdo, kým není, protože jeho slova míří jen k českým médiím. Vrabel tvrdí, že Babiš má Merze jmenovat a říct mu, ať Ukrajinu platí z německých peněz, případně ať Německo z EU odejde, nebo odejde ČR či V4. Babiše označuje za „diktátora“, který zakázal referendum o výstupu z EU, a EU popisuje jako moloch, který si usurpuje nové daně (z elektroniky, emisní povolenky).
+  citace:
+  - text: "To je taky absurdní, že my, když řešíme evropský rozpočet, co jsou peníze pro evropské státy, které to samozřejmě platí, tak někdo přichází s návrhem, že pokud nebudeme souhlasit s garancí půjčky pro Ukrajiny, tak nebude rozpočet."
+    cas: "04:22"
+  - text: "že zakázal občanům České republiky vůbec se vyjádřit v referendu o tom, že by chtěli vystoupit z Evropské unie a drží nás násilím jako diktátor"
+    cas: "09:53"
+  - text: "To není ta suverénní politika, to není ta politika pro Českou republiku. To je prostě jenom divadlo."
+    cas: "12:05"
+  osoby:
+  - {osoba: andrej-babis, vztah: rozporuplny, kontext: "V odporu k půjčce s ním souhlasí, ale jeho postoj označuje za divadlo a diktátorství"}
+  - {osoba: friedrich-merz, vztah: negativni, kontext: "Podle Vrabela vydírá zbytek EU požadavkem financovat Ukrajinu"}
+- id: vrabel-2026-11-26-02
+  typ: predikce
+  temata:
+  - suverenita-eu
+  - valka-ukrajina-prubeh
+  nadpis: "Vrabel — půjčka Ukrajině se schválí kolem Vánoc, i s Babišem (26. 11. 2026)"
+  text: Vrabel předpokládá, že spor o půjčku Ukrajině se rozhodne kolem Vánoc, až lidé přestanou věnovat pozornost, a že ji schválí i Babiš.
+  citace:
+  - text: "a okolo Vánoc, až lidi tomu nebudou věnovat pozornost, tak to schválí tu půjčku. A předpokládám, že to schválí i Andrej Babiš."
+    cas: "12:23"
+  predikce:
+    horizont: okolo Vánoc 2026
+    stav: ceka
+- id: vrabel-2026-11-26-03
+  typ: postoj
+  temata:
+  - valka-ukrajina-prubeh
+  - nato-zbrojeni-militarizace
+  podtema: Jednání o míru
+  nadpis: "Trump a Rutte: „klasický Trump“; označení ruské agrese je jen politické prohlášení, o kterém žádný soud nerozhodl (Vrabel, 26. 11. 2026)"
+  text: |
+    K setkání Trumpa s Ruttem na Floridě Vrabel říká, že Trump na jedné straně chápe, co se děje, a o Putinovi mluví jako o kamarádovi, na druhé straně prosazuje vyzbrojování NATO a ruskou agresi. Podle Vrabela Rusové uvádějí, že zahájili speciální vojenskou operaci na základě mezinárodního práva, a o tom, kdo agresi spáchal, dosud nerozhodl žádný příslušný soud, takže jde o politická prohlášení, která vedou k válce. Opakující se sliby o brzkém míru označuje za nic neznamenající, protože nebyly oznámeny žádné konkrétní kroky, a jedinou jistou dohodou podle něj bude prodej amerických zbraní do NATO, jehož východní křídlo (tedy „my“) půjde do případného konfliktu.
+  citace:
+  - text: "No tak vidíte, to je prostě klasický Trump."
+    cas: "15:17"
+  - text: "To znamená, to jsou pořád politická prohlášení a ta politická prohlášení bohužel vedou k válce."
+    cas: "16:01"
+  osoby:
+  - {osoba: donald-trump, vztah: rozporuplny, kontext: "Chápe situaci, ale prosazuje zbrojení NATO a označuje Rusko za agresora"}
+  - {osoba: mark-rutte, vztah: negativni, kontext: "Jednal s Trumpem o zbrojení a bezpečnosti Evropy"}
+- id: vrabel-2026-11-26-04
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  - valka-nato-rusko
+  podtema: Rozšiřování NATO
+  nadpis: "Kushner potvrdil „proxy válku“ a ruské obavy z NATO, ale NATO prý útočilo na Jugoslávii a stalo se útočnou aliancí (Vrabel, 26. 11. 2026)"
+  text: |
+    Vrabel referuje o rozhovoru Jareda Kushnera s Mathiasem Döpfnerem a tvrdí, že Kushner označil válku za zástupnou (proxy), v níž Evropa financuje a vyzbrojuje Ukrajince proti Rusku, a potvrdil, že Rusové věří v hrozbu rozšiřování NATO. Vrabel to bere jako potvrzení svých dosavadních výkladů a oddechl si, že ho za to policie nebude stíhat. S Kushnerem ale nesouhlasí v tvrzení, že NATO nikdy nikoho nenapadlo, protože podle něj útok na Jugoslávii v roce 1999 bez souhlasu Rady bezpečnosti OSN a bez článku 5 byl agresí a precedentem, který z NATO udělal útočnou alianci. Rusové proto mají podle Vrabela důvodnou obavu o svou existenci.
+  citace:
+  - text: "protože NATO napadlo, NATO útočilo minimálně ve třech operacích v Afganistánu a Jugoslávii"
+    cas: "18:44"
+  - text: "a to je precedent, který prostě z NATO udělal útočnou alianci."
+    cas: "19:08"
+  osoby:
+  - {osoba: jared-kushner, vztah: rozporuplny, kontext: "Chválí ho za potvrzení proxy války a ruských obav, kritizuje tvrzení, že NATO nikdy nezaútočilo"}
+- id: vrabel-2026-11-26-05
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  podtema: Bezpečnostní záruky
+  nadpis: "Zelenského bezpečnostní záruky jsou přehnané (víc než článek 5); Rusové s nimi prý nebudou souhlasit (Vrabel, 26. 11. 2026)"
+  text: |
+    Vrabel převypráví Kushnerovo tvrzení, že Zelenský chce víc než článek 5 NATO, tedy právně závaznou povinnost států poslat na Ukrajinu vlastní armády při novém konfliktu s Ruskem. Podle Vrabela Kyjevu nestačí zbraně a vojáci a chce západní státy přímo zapojit do války, přičemž osobně pochybuje, že by Rusové s takovou smlouvou souhlasili. Dodává, že po zastavení bojů by se Ukrajinci mohli nazbrojit, zahájit provokaci pod falešnou vlajkou a dojít by mohlo i na jaderné zbraně.
+  citace:
+  - text: "Jemu nestačí to, že mu západ dává zbraně a posílá vojáky, ale on chce, aby ty státy byly přímo zapojené do té války, jakmile by vzniknul konflikt s Ruskou federací."
+    cas: "21:10"
+  - text: "Takže tam si osobně úplně nejsem jistý, že Rusové budou souhlasit s něčím takovým"
+    cas: "21:36"
+  osoby:
+  - {osoba: volodymyr-zelenskyj, vztah: negativni, kontext: "Podle Vrabela požaduje záruky nad rámec článku 5 NATO"}
+  vazby:
+  - {na: vrabel-2026-11-21-11, typ: souhlas}
+- id: vrabel-2026-11-26-06
+  typ: postoj
+  temata:
+  - valka-ukrajina-prubeh
+  - migrace
+  podtema: Ukrajinští uprchlíci a mobilizace
+  nadpis: "Vydávání ukrajinských uprchlíků je „barbarské“; TCK je lapají a posílají na frontu; v ČR se to může stát také (Vrabel, 26. 11. 2026)"
+  text: |
+    Ke zprávě o ukrajinském studentovi, který se ve Varšavě zapálil, Vrabel tvrdí, že důvodem nemohl být požadavek rovného zacházení, ale spíš protest proti vracení uprchlíků na Ukrajinu. Ukrajinské TCK podle něj lidi lapají na ulicích, bijí je, ničí jim auta a berou na frontu, kde přežití hrozí s pravděpodobností „87 %“ (jeho odhad), a ukrajinský režim označuje za zločinný. Evropské státy, které uprchlíky vydávají, jednají podle něj „jako barbaři“ a prodlužují válku a on se označuje za možná jediného politika, který proti tomu veřejně vystupuje. Z auta ukrajinské policie v Polsku usuzuje, že by v rámci spolupráce mohli Ukrajinci někdy „nabírat“ i české vojáky a že tvrzení „my nepůjdeme“ je naivní.
+  citace:
+  - text: "před tím zločinným režimem Volodomira Zelenského, který ti lidi bije, mlátí, používá na ně zbraně, aby je donutil sednout do toho auta"
+    cas: "25:46"
+  - text: "A my jako barbaři, jako barbarské státy, je vydáváme ukrajinskému režimu."
+    cas: "27:20"
+  - text: "možná jsem jediný politik v této republice, který je proti tomu veřejně."
+    cas: "27:39"
+  osoby:
+  - {osoba: volodymyr-zelenskyj, vztah: negativni, kontext: "Jeho režim označen za zločinný kvůli násilné mobilizaci"}
+  vazby:
+  - {na: vrabel-2026-11-05-08, typ: opakovani}
+- id: vrabel-2026-11-26-07
+  typ: tvrzeni
+  temata:
+  - konspirace
+  podtema: Finanční trhy a AI
+  nadpis: "Firmy kolem AI jsou „přepumpované“ a trhy se hroutí; zlato, stříbro a papíry ve ztrátě (Vrabel, 26. 11. 2026)"
+  text: |
+    K varování Bank of England před zadlužením AI společností Vrabel tvrdí, že firmy vyrábějící umělou inteligenci jsou přepumpované, financují se navzájem neprůhlednými půjčkami a poklesem cen akcií se může zhroutit i další napojený kapitál. Aktuální pohyb trhů (zlato, stříbro, krypto, akcie) označuje za katastrofu na začátku větších problémů a připomíná, že své publikum varuje od roku 2021.
+  citace:
+  - text: "ty firmy, které vyrábí umělou inteligenci, jsou prostě přepumpované"
+    cas: "33:34"
+  - text: "jakmile to jde dohou, tak všichni začnou prodávat"
+    cas: "33:59"
+- id: vrabel-2026-11-26-08
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: "Vrabel — zhroucení trhů, bolest bude „neuvěřitelná“; první padne Francie (26. 11. 2026)"
+  text: Vrabel čeká zhroucení trhů (zejména firem kolem AI), s „neuvěřitelnou“ bolestí, a jako první očekává, že na zadlužení padne Francie.
+  citace:
+  - text: "první, co očekávám, bude Francie, protože ta je předlužená"
+    cas: "31:17"
+  - text: "A ta bolest, ta bolest pak, když se ty trhy zhroukí, tak ta bude neuvěřitelná."
+    cas: "31:47"
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: vrabel-2026-11-26-09
+  typ: predikce
+  temata:
+  - konspirace
+  nadpis: "Vrabel — cena zlata a stříbra se otočí nahoru (26. 11. 2026)"
+  text: Vrabel čeká, že po skončení výprodeje zlata Turky a vyrovnání trhu s papírovým zlatem cena zlata i stříbra poroste.
+  citace:
+  - text: "očekávám, že se to otočí, jakmile přestanou Turci vyprodávat zlato"
+    cas: "32:14"
+  - text: "tak předpokládám, že cena zlata i stříbra budou nahoru."
+    cas: "32:29"
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+  vazby:
+  - {na: vrabel-2026-10-22-09, typ: opakovani}
+- id: vrabel-2026-11-26-10
+  typ: postoj
+  temata:
+  - nato-zbrojeni-militarizace
+  - petr-pavel
+  podtema: Zbrojení v ČR
+  nadpis: "Pavel, Hlaváč a Zůna jako „príma trojka“, která prosazuje zbrojení za vládu SPD (Vrabel, 26. 11. 2026)"
+  text: |
+    Ke Pavlovu vystoupení v Senátu o krizové legislativě a pomalých nákupech techniky Vrabel ironicky konstatuje, že Pavel (za Hrad), Hlaváč (za armádu) a Zůna (za vládu, respektive SPD) jsou „príma parta“, která společně tvrdí, že se nezbrojí dost a že je třeba víc peněz. Poznamenává, že Zůna sice patří k SPD, ale reprezentuje celou vládu.
+  citace:
+  - text: "Petr Pavel, Miroslav Hlaváč a Jaromír Zuna je prostě príma parta, je to trojka, príma trojka"
+    cas: "35:10"
+  - text: "Prostě Petr Pavel za hrad, Hlaváč za armáru České republiky a Zuna za SPD"
+    cas: "35:27"
+  osoby:
+  - {osoba: petr-pavel, vztah: negativni, kontext: "Ironicky označen za člena „príma trojky“ prosazující zbrojení"}
+  - {osoba: miroslav-hlavac, vztah: negativni, kontext: "Náčelník generálního štábu, součást „príma trojky“"}
+  - {osoba: jaromir-zuna, vztah: negativni, kontext: "Ministr obrany, reprezentuje za SPD celou vládu v zbrojení"}
+  - {osoba: spd, vztah: negativni, kontext: "Její ministr Zůna podle Vrabela podporuje zbrojení"}
+- id: vrabel-2026-11-26-11
+  typ: postoj
+  temata:
+  - jaderne-zbrane
+  podtema: Jaderné odzbrojení
+  nadpis: "Jaderný program Severní Koreje je „naprosto logický“, pro ČR by ale vlastní jaderná zbraň logiku neměla (Vrabel, 26. 11. 2026)"
+  text: |
+    Ke Kim Čong-unovu volání po rozmístění taktických jaderných zbraní Vrabel říká, že mu to připadá rozumné, protože denuklearizace by musela proběhnout u všech jaderných států najednou; dokud k ní nedojde, má každý stát v pozici Severní Koreje logiku se zbrojit. Pro ČR to logické není, protože leží uprostřed konfliktu s největší jadernou mocností, a její jaderná zbraň by byla jako „plynová pistole“ proti reálné. Trump je podle něj s Kimem „kamarád“ kvůli severokorejskému arzenálu a dosahu raket.
+  citace:
+  - text: "Ale to musí udělat všichni, kdo ty jaderné zbraní mají"
+    cas: "38:48"
+  - text: "A dokud se tohle neděje, no tak každý stát, který je na tom třeba jako Severní Kore, tak tam mi to připadá naprosto logický."
+    cas: "39:01"
+  osoby:
+  - {osoba: kim-cong-un, vztah: pozitivni, kontext: "Jeho jaderné zbrojení označuje za logické"}
+  - {osoba: donald-trump, vztah: neutralni, kontext: "Podle Vrabela je s Kimem „kamarád“ kvůli jadernému arzenálu"}
+  - {osoba: si-tin-pching, vztah: neutralni, kontext: "Zmíněn jeho výrok o denuklearizaci před summitem APEC"}
+- id: vrabel-2026-11-26-12
+  typ: postoj
+  temata:
+  - covid-vakciny
+  - suverenita-eu
+  podtema: GMO a mRNA v EU
+  nadpis: "Povolování geneticky modifikovaných mikroorganismů v EU je „špatný krok“; zmínka o nařizování očkování mRNA (Vrabel, 26. 11. 2026)"
+  text: |
+    K hlasování Evropského parlamentu o zjednodušení schvalování geneticky modifikovaných mikroorganismů Vrabel říká, že se takových věcí osobně obává, a dodává, že si není jistý, zda GMO potraviny nemohou poškozovat lidskou genetiku, když lidé genetice nerozumějí. Zmiňuje také údajnou směrnici, která má Evropské komisi umožnit v epidemiích nařizovat povinné očkování mRNA, přičemž přiznává, že rozhodnutí nečetl, a slibuje to prověřit pro další zprávy.
+  citace:
+  - text: "aby v případných epidemích mohla nařizovat povinné očkování mRNA."
+    cas: "42:49"
+  - text: "Takže mě se tohleto úplně nedíbí, že Evropská unie tohleto umožňuje, ale jak říkám, za mě to je špatný krok."
+    cas: "43:52"
+  vazby:
+  - {na: vrabel-2026-07-26-02, typ: souhlas}
+- id: vrabel-2026-11-26-13
+  typ: postoj
+  temata:
+  - valka-ukrajina-prubeh
+  - valka-nato-rusko
+  podtema: Jednání o míru
+  nadpis: "Lavrovova odmítavá pozice je „stoprocentně logická“, evropská „0 % logiky“; Evropa musí uznat ruské důvody (Vrabel, 26. 11. 2026)"
+  text: |
+    K Lavrovovu zpochybnění účasti Evropanů v jednáních Vrabel tvrdí, že pozice Ruska je logická, protože Evropané chtějí mír bez vyslechnutí ruských důvodů, a proto Rusové pokračují v operaci, v níž podle něj vyhrávají. Evropské požadavky (nejdřív zastavit boje, pak závazné záruky pro Ukrajinu) označuje za nelogické a varuje, že Ukrajina by po zastavení bojů mohla vyvolat provokaci pod falešnou vlajkou, do níž by se Evropa kvůli závazku zapojila, což by vedlo k jaderné válce. Evropští politici podle něj musí připustit, že se Rusové obávají rozšiřování NATO, a hledat nový bezpečnostní systém; Babiš, Pavel i ministr obrany by to měli říct.
+  citace:
+  - text: "To, co říkají Rusové, pro mě stoprocentně logické"
+    cas: "47:23"
+  - text: "a to, co říká většina Evropanů, je pro mě 0% logiky."
+    cas: "47:25"
+  - text: "prostě Evropaní, pokud chtějí evropškí politici jednat o míru, tak nejdřív musí připustit realitu."
+    cas: "45:56"
+  osoby:
+  - {osoba: sergej-lavrov, vztah: pozitivni, kontext: "Jeho pozici označuje za logickou"}
+  vazby:
+  - {na: vrabel-2026-10-30-04, typ: souhlas}
+- id: vrabel-2026-11-26-14
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  - valka-nato-rusko
+  podtema: Kosovo jako precedens
+  nadpis: "Kosovo jako precedens pro sebeurčení Donbasu a Krymu; Ukrajina nesmí vést válku na libyjském území (Vrabel, 26. 11. 2026)"
+  text: |
+    K ukrajinskému útoku na ruskou loď v Benghází Vrabel tvrdí, že Ukrajinci nemají právo vést válku do jiných zemí. Pak opakuje svůj výklad, že Západ vytvořil precedens uznáním Kosova, a proto mají právo na sebeurčení i Donbas a Krym, jež Rusko uznalo stejně jako Západ Kosovo. Rozdíl vidí v tom, že Kosovo bylo podle něj „uloupeno migranty“, kdežto na Donbase a na Krymu zůstali původní obyvatelé, kteří se sebeurčují zpět k Rusku. Zdůrazňuje, že popisuje jejich pohled na Ukrajinu jako na „fašistický vynález“.
+  citace:
+  - text: "Na území Libie Ukrajinci nemají žádné právo táhat válku do jiných zemí."
+    cas: "52:21"
+  - text: "Podívejte, vy jste prostě tady vytvořili precedent"
+    cas: "53:50"
+  - text: "že Kosovo je uloupené těmi migranty, kdežto ty lidi na Donbasa a na Krymu se sebe určují"
+    cas: "55:09"
+  vazby:
+  - {na: vrabel-2026-09-23-06, typ: opakovani}
+- id: vrabel-2026-11-26-15
+  typ: tvrzeni
+  temata:
+  - migrace
+  podtema: Muslimská šikana ve školách
+  nadpis: "Šikana původních dětí muslimskými spolužáky je to, co čeká ČR s migračním paktem (Vrabel, 26. 11. 2026)"
+  text: |
+    Ke zprávě ZDF o šikaně konzervativních muslimských žáků vůči spolužákům jiné víry Vrabel tvrdí, že s migrací přichází teroristické útoky, znásilnění a krádeže, a šikana původních dětí migranty je podle něj jedna z nejhorších věcí, která může vést k trvalým následkům i sebevraždám. Zprávu zařazuje proto, aby si lidé uvědomili, co čeká Českou republiku s migračním paktem.
+  citace:
+  - text: "a podle mě to je jedna z těch nejhorších věcí"
+    cas: "50:46"
+  - text: "Proč o tom mluvíme ve zprávách? Je proto, abyste si uvědomili, co čeká Českou republiku s migračním paktem."
+    cas: "51:16"
+- id: vrabel-2026-11-26-16
+  typ: postoj
+  temata:
+  - migrace
+  podtema: Náklady migrace
+  nadpis: "2100 migrantů za den na Kanárských ostrovech: ničí turismus a platíme je z daní; ČR leží mezi „dvěma šílenými zeměmi“ (Vrabel, 26. 11. 2026)"
+  text: |
+    K rekordnímu příchodu přibližně 2100 migrantů za den na Kanárské ostrovy Vrabel tvrdí, že každý migrant stojí daňové poplatníky velké částky (ubytování, vzdělání, léčba, telefon, účet) a že Kanáry jsou tím „zničené“. Česko podle něj leží mezi dvěma „šílenými zeměmi“, Ukrajinou, kde lidé loví vlastní občany na frontu, a Německem, a pouští na závěr satirické video z Německa jako ukázku.
+  citace:
+  - text: "prostě zničený místo těmi migranty"
+    cas: "01:02:23"
+  - text: "aby jsme zaplatili jednoho takovýhle týpka, a jich jezdí pořád tisíce, tisíce, tisíce"
+    cas: "01:02:38"
+  vazby:
+  - {na: vrabel-2026-11-21-14, typ: opakovani}
+- id: vrabel-2026-11-26-17
+  typ: stoch-teror
+  temata:
+  - media-propaganda
+  nadpis: "Opavský primátor Petr Čudek: fantazie o tom, jak by ho nechal „tři hodiny točit“ na ruském kole (hraniční)"
+  text: "Vrabel fantazíruje, že by opavského primátora, který nezařadil ruské kolo, vzal do baru s „pěknou holkou“, připil ho a nechal ho tři hodiny točit na ruském kole se zrychlením, aby si to užil. Jde o satirický scénář; hraniční, protože terč je pojmenovaný (jmenován ve zprávě) a výhrůžka je ponižující, ale bez dehumanizace nebo výzvy k násilí."
+  citace:
+  - text: "a nechal ho tři hodiny točit aspoň na tom ruským kole"
+    cas: "59:18"
+  - text: "aby mu trošku přidali na rychlosti"
+    cas: "59:27"
+  osoby:
+  - {osoba: petr-cudek, vztah: negativni, kontext: "Primátor Opavy, který odmítl ruské kolo na trzích z důvodu solidarity s Ukrajinou"}
+  teror:
+    terc: Petr Čudek
+    hranicni: true
+- id: vrabel-2026-11-26-18
+  typ: stoch-teror
+  temata:
+  - migrace
+  nadpis: "Migranti jako „styliky“, které „musíme platit“ a vyléčit „ze svrabů“ (hraniční)"
+  text: "V monologu o Kanárských ostrovech Vrabel označuje migranty jako „kousky“ a „styliky“, které je třeba vyléčit „ze všech svrabů“. Hraniční: terč je skupina (migranti), je přítomná dehumanizace, ale chybí výzva k trestu nebo násilí."
+  citace:
+  - text: "musíte ho vylečit ze všech svrabů, který si sebou přiveze"
+    cas: "01:00:32"
+  - text: "na každý den prostě přijedou tyhle styliky, který musíme platit"
+    cas: "01:02:29"
+  teror:
+    terc: migranti přijíždějící na Kanárské ostrovy
+    hranicni: true
