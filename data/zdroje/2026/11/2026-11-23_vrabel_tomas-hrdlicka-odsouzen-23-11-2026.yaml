@@ -1,0 +1,148 @@
+zdroj:
+  id: 2026-11-23_vrabel_tomas-hrdlicka-odsouzen-23-11-2026
+  mluvci: vrabel
+  kanal: Ladislav Vrabel
+  titul: Tomáš Hrdlička ODSOUZEN
+  datum: 2026-11-23
+  url: https://www.facebook.com/100087923704145/videos/1709152920734519
+  prepis: prepisy/done/2026-11-23_Ladislav-Vrabel_62K-views-705-reactions-Tomáš-Hrdlička-ODSOUZEN-Ladis.txt
+  delka: "00:06:49"
+  rezim: vrabel
+  poznamka: 'Krátký monolog Vrabela (6 min 49 s) k odsouzení Tomáše Hrdličky za symbol Z. 7 témat v přehledu,
+    5 z nich s vlastním úhlem (⚡) ve 5 výrocích, z toho 1 predikce (zatýkání a odsuzování za písmeno Z bude pokračovat).
+    Stochastický teror: žádný. Citace ověřeny v přepisu.'
+  prehled:
+  - tema: Odsouzení Tomáše Hrdličky za písmeno Z
+    text: Hrdlička dostal podmíněný trest a povinnou „převýchovu“, odvolává se i státní zástupce; šanci vidí jen
+      u Nejvyššího či Ústavního soudu.
+    vyrok: vrabel-2026-11-23-41
+  - tema: Odpovědnost Rajchla a Vacka za kriminalizaci symbolu Z
+    text: Rajchl a Vacek podle něj od roku 2023 trestním oznámením na „tři individua“ dali režimu „munici“
+      k odsuzování lidí.
+    vyrok: vrabel-2026-11-23-42
+  - tema: Svoboda slova a zrušený pochod 17. listopadu
+    text: u Ústavního soudu uspěl jen s rušením poplašné zprávy, § 405 přetrvává; zrušení pochodu 17. 11. je
+      rád, aby nikdo další nebyl zatčen.
+    vyrok: vrabel-2026-11-23-43
+  - tema: Zatčená důchodkyně s písmenem Z u soudu
+    text: u soudu na Ovocném trhu prý zatkli důchodkyni s písmenem Z a odvezli ji na Bartolomějskou, což podle
+      něj ukazuje, co by čekalo pochod.
+    vyrok: vrabel-2026-11-23-43
+  - tema: Eskalace války, Francouzi v Mariupolu a výroky prezidenta
+    text: francouzské jednotky prý operují v Mariupolu, útoky na ruské rafinérie a fregatu eskalují, Pavel připouští
+      dopady ruských raket na ČR; připravit se na přímou válku.
+    vyrok: vrabel-2026-11-23-44
+  - tema: Katka Blahníková a stuha se Z u soudu
+    text: Blahníková zatím nedostala od policie ani soudu žádné vyjádření; pokud dostane, uspořádá se demonstrace
+      za svobodu slova.
+  - tema: Závěr, příprava na těžkou dobu a policejní praxe
+    text: zachraň se, kdo můžeš, policie bude zatýkat každého se Z, soudy rozhodnou stejně, dokud to neprolomí
+      Nejvyšší nebo Ústavní soud.
+    vyrok: vrabel-2026-11-23-45
+vyroky:
+- id: vrabel-2026-11-23-41
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  - kauzy
+  nadpis: Hrdlička odsouzen za písmeno Z — podmínka a „převychovávání“, šance jen u Nejvyššího a Ústavního soudu
+    (Vrabel, 23. 11. 2026)
+  text: 'Vrabel oznamuje, že Tomáš Hrdlička byl odsouzen za nošení písmene Z na demonstraci a dostal podmíněný trest
+    (podle něj 6 měsíců na 18 měsíců podmíněně) i povinnou docházku na „převýchovu“, kde mu prý budou „vymývat mozek“.
+    Státní zástupce argumentoval letošním rozsudkem Nejvyššího soudu, a proto podle Vrabela nemá Hrdlička u okresního
+    a krajského soudu velkou šanci; odvolal se Hrdlička i státní zástupce (kvůli nízkému trestu). Jedinou cestu
+    k výhře vidí u Nejvyššího nebo Ústavního soudu.'
+  citace:
+  - text: Bude muset povinně docházet někam, kde mu budou vymývat mozek.
+    cas: "01:16"
+  - text: Tam to nevypadá, že by Tomáš měl nějakou velkou šanci k tomu, aby vyhrál.
+    cas: "00:54"
+  osoby:
+  - {osoba: tomas-hrdlicka, vztah: pozitivni, kontext: 'Líčen jako oběť výkladu symbolu Z, odsouzen k podmínce a „převýchově“'}
+- id: vrabel-2026-11-23-42
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  - kauzy
+  nadpis: Rajchl a Vacek „dali do rukou munici“ — od roku 2023 se za symbol Z zatýká a odsuzuje (Vrabel, 23. 11. 2026)
+  text: 'Vrabel „děkuje“ Jindřichu Rajchlovi a prvnímu místopředsedovi PRO Vackovi za to, že od roku 2023 jsou
+    lidé zatýkáni a odsuzováni za symbol Z, protože na demonstraci identifikovali tři lidi a podali na ně trestní
+    oznámení. Tvrdí, že Rajchl tím udělal totéž co Rakušan, Stříž a Fiala, tedy označil symbol Z za trestný,
+    a dal tak „obrovskou munici“ soudům, které od té doby rozhodují stejně. Sám se od odpovědnosti distancuje:
+    „na triku to má Rajchl“.'
+  citace:
+  - text: když Rajchlovi převzal demonstrace a udělal to samé co Rakušan, Stříž a Fiala, tedy, že písmene Z je
+      trestní, tak jim dal do rukou prostě obrovskou munici, obrovský náboj a od té doby soudy rozhodují v této
+      věci takhle.
+    cas: "02:20"
+  - text: Ne, že bych to měl na triku, na triku to má Rajchlo.
+    cas: "03:12"
+  osoby:
+  - {osoba: rajchl, vztah: negativni, kontext: 'Obviněn, že trestním oznámením z roku 2023 umožnil odsuzování za symbol Z'}
+  - {osoba: petr-vacek, vztah: negativni, kontext: Jmenován spolu s Rajchlem jako spoluodpovědný za trestní oznámení}
+  - {osoba: vit-rakusan, vztah: negativni, kontext: Přirovnán k Rajchlovi v kriminalizaci symbolu Z}
+  - {osoba: igor-striz, vztah: negativni, kontext: Přirovnán k Rajchlovi v kriminalizaci symbolu Z}
+  - {osoba: petr-fiala, vztah: negativni, kontext: Přirovnán k Rajchlovi v kriminalizaci symbolu Z}
+  - {osoba: tomas-hrdlicka, vztah: pozitivni, kontext: 'Jeden z lidí, na které bylo podáno trestní oznámení'}
+- id: vrabel-2026-11-23-43
+  typ: postoj
+  temata:
+  - politicky-system
+  - kauzy
+  nadpis: Svoboda slova — jediné vítězství u Ústavního soudu a „rád, že jsme zrušili pochod 17. listopadu“ (Vrabel,
+    23. 11. 2026)
+  text: 'Vrabel uvádí, že od roku 2022 se boj o svobodu slova podařilo vyhrát jen jemu u Ústavního soudu, který
+    zrušil trestný čin šíření poplašné zprávy, zatímco § 405 se zrušit nepodařilo. Je rád, že byl zrušen pochod
+    17. listopadu, protože by na něm podle něj zatýkali a odsuzovali další lidi, a nechce být za to spoluzodpovědný.
+    Jako doklad zmiňuje zatčení důchodkyně s písmenem Z u soudu na Ovocném trhu a tvrdí, že represe sílí, čím blíž
+    je válka.'
+  citace:
+  - text: Dokonce u soudu dneska na ovocným trhu zatkli nějakou důchodkyni, která přišla a měla na sobě nějaký
+      písmeno Z, tak ji zatkli a odvezli ji na Bartolomějskou
+    cas: "03:20"
+  - text: nemyslete si, že se to nějakým způsobem lepší, horší se to, čím blízme válce, tím je to horší a tvrdší
+      likvidace a opozice
+    cas: "03:37"
+  osoby: []
+- id: vrabel-2026-11-23-44
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  - valka-ukrajina-prubeh
+  - nato-zbrojeni-militarizace
+  nadpis: Eskalace války — francouzské jednotky v Mariupolu, útoky na ruské cíle; „připravte se na přímou válku“
+    (Vrabel, 23. 11. 2026)
+  text: 'Vrabel tvrdí, že francouzské jednotky už operují v Mariupolu a že Ukrajinci spolu s dalšími evropskými
+    vojsky, včetně zemí financujících a vyzbrojujících Ukrajinu, útočí na ruské rafinérie a potopili 100metrovou
+    fregatu. Situace se podle něj nelepší, ale eskaluje, politici se bojí a odmítají se k útokům hlásit. Uvádí,
+    že prezident Pavel řekl, že na české území mohou dopadat ruské rakety a drony, což je podle něj to, co říká
+    celou dobu. Vyzývá posluchače, aby se připravili na možnost přímé války a těžké doby; po jejím skončení
+    prý bude třeba znovu bojovat za lepší společnost.'
+  citace:
+  - text: protože už francouzské jednotky normálně operují v Mariupolu, tam už se lidi stěžují, že tam žoldáci
+      francouzskí chodí do barů a neplatí
+    cas: "03:53"
+  - text: teď je opravdu doba na to, abyste si připravili na to, že ta doba může být velmi tvrdá, že se můžeme dostat
+      do přímý války
+    cas: "05:43"
+  osoby:
+  - {osoba: petr-pavel, vztah: neutralni, kontext: 'Cituje jeho slova o možnosti dopadu ruských raket a dronů na ČR jako potvrzení svých varování'}
+- id: vrabel-2026-11-23-45
+  typ: predikce
+  temata:
+  - politicky-system
+  - kauzy
+  nadpis: Policie bude zatýkat každého se symbolem Z, soudy ho odsoudí — dokud to nerozbije Nejvyšší nebo Ústavní
+    soud (Vrabel, 23. 11. 2026)
+  text: Vrabel předpovídá, že policie bude zatýkat všechny, kdo mají na sobě písmeno Z, ti budou souzeni a prohrají
+    v první i odvolací instanci, dostanou podmínku a „převýchovu“, a že se to změní jen případným rozhodnutím
+    Nejvyššího či Ústavního soudu.
+  citace:
+  - text: policie prostě bude zatýkat každýho, kdo má na sobě písmeno Z, bude je brát k výslechům a budou je posílat
+      k soudu, a tam prohrajou i prvou instanční, i odvolací soud z nejvyšší pravděpodobnosti
+    cas: "06:20"
+  predikce:
+    horizont: neurčeno (dokud se to nerozbije u Nejvyššího či Ústavního soudu)
+    stav: ceka
+  osoby:
+  - {osoba: tomas-hrdlicka, vztah: pozitivni, kontext: 'Jeho případ uváděn jako vzor, jak budou dopadat další'}
