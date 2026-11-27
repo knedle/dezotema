@@ -1,0 +1,195 @@
+zdroj:
+  id: 2026-11-24_zitko_vecerni-vysilani-odvolani-prokuratora-fuellmich-24-11-2026-19-07
+  mluvci: zitko
+  kanal: Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+  titul: 'Večerní vysílání: Fuellmich — odvolání prokurátora, Central Casting (24. 11. 2026, 19:07)'
+  datum: 2026-11-24
+  cas: '19:07'
+  url: https://m.facebook.com/watch/?v=1708720894017625&_rdr
+  prepis: prepisy/done/2026-11-25_Československo-TV2_24-reactions-3-comments-jana-peterkova-official-3-.txt
+  delka: '00:45:02'
+  rezim: standard
+  poznamka: 'Datum ověřeno z úvodu („máme 24. listopadu“; soubor nese datum stažení 25. 11.). Zpracována
+    všechna témata; převzatý článek o „Anonech“ (Ján Masát) a ukázka z filmu Muži v černém nezpracovány
+    jako cizí text. Stochastický teror: hraniční — souhlasné líčení rozsudků smrti admirála Crandalla na
+    Guantánamu a „poprav“ Bidena, Hillary Clintonové a papeže Františka. Nadávky „systémové sráče, hejtry,
+    fízly“ (42:45) bez výzvy k trestu — teror nezapsán. Přečteno a ověřeno v přepisu.'
+vyroky:
+- id: zitko-2026-11-24-05
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  - konspirace-deep-state-qanon
+  podtema: Reiner Fuellmich
+  nadpis: Prokurátor se odvolal proti propuštění Fuellmicha; Vivian Fischer „hlavní zrádkyně“ (Zítko, 24. 11. 2026)
+  text: |
+    Prokurátor Philipp John podle Zítka v 18:00 podal odvolání proti rozhodnutí soudce o propuštění
+    Fuellmicha po dvou třetinách trestu, takže rozhodne soud vyšší instance a Díkůvzdání s manželkou Fuellmich
+    „nestihne“ — nastala „horší varianta“, kterou prý předpovídal. Bývalou kolegyni Vivian Fischer označuje za
+    „hlavní zrádkyni“, na základě jejíž „křivé výpovědi“ byl Fuellmich odsouzen, ačkoli sama „zpronevěřila
+    prachy“; vyzývá diváky k účasti na jejím soudním líčení v Berlíně 27. 11. Odpovědní budou podle něj „po
+    zásluze potrestáni“.
+  citace:
+  - text: V osmnáct hodin bohužel se ukázala zpráva, že využil prokurátor svého práva a vlastně podal odvolání proti rozhodnutí soudce o propuštění.
+    cas: "35:04"
+  - text: Hlavní zrádkyně taková s tou sponkou ulízlou Vivian Fischer bude mít soudní líčení v Berlíně 27. listopadu.
+    cas: "37:16"
+  osoby:
+  - {osoba: reiner-fuellmich, vztah: pozitivni, kontext: '„Bojovník proti covid mafii číslo jedna“'}
+  - {osoba: vivian-fischer, vztah: negativni, kontext: '„Hlavní zrádkyně“, jejíž „křivá výpověď“ vedla k odsouzení'}
+  vazby:
+  - {na: zitko-2026-11-24-01, typ: posun}
+- id: zitko-2026-11-24-06
+  typ: predikce
+  temata:
+  - covid-vakciny
+  - konspirace-deep-state-qanon
+  podtema: Reiner Fuellmich
+  nadpis: Fuellmich bude „určitě“ na Vánoce doma s manželkou (Zítko, 24. 11. 2026)
+  text: Navzdory odvolání prokurátora je podle Zítka „zcela evidentní“, že Fuellmich bude na Vánoce s manželkou,
+    protože „takhle už dál to natahovat nemůžou“; odpovědní za jeho uvěznění budou potrestáni.
+  citace:
+  - text: Je zcela evidentní, že na Vánoce bude určitě doktor Rainer Fuellmich se svojí manželkou.
+    cas: "36:43"
+  osoby:
+  - {osoba: reiner-fuellmich, vztah: pozitivni, kontext: 'Očekává propuštění do Vánoc'}
+  vazby:
+  - {na: zitko-2026-11-24-03, typ: posun}
+  predikce:
+    horizont: do Vánoc 2026
+    horizont_do: 2026-12-25
+    stav: ceka
+- id: zitko-2026-11-24-07
+  typ: predikce
+  temata:
+  - konspirace-deep-state-qanon
+  podtema: Volební podvod v USA
+  nadpis: Volby v USA byly zmanipulovány a „budou padat tresty“ — běží 45denní lhůta (Zítko, 24. 11. 2026)
+  text: S odkazem na Trumpův „koláč na Díkůvzdání“ opakuje, že demokraté volby zmanipulovali (volilo prý o
+    miliony víc lidí, než mají státy obyvatel); běží „45denní lhůta“ a „teď budou padat zasloužené tresty“.
+  citace:
+  - text: Volby byly zmanipulovány a budou padat tresty. 45denní lhůta běží za ten podvod, který demokraté udělali.
+    cas: "06:55"
+  vazby:
+  - {na: zitko-2026-11-22-50, typ: opakovani}
+  predikce:
+    horizont: neurčeno („45denní lhůta běží“, bez data počátku)
+    stav: ceka
+- id: zitko-2026-11-24-08
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  podtema: Plán a Central Casting
+  nadpis: Central Casting — 200 000 dvojníků a herců, Vance hraje Paul Walker, „popravení“ Biden, Clintonová i papež; maskami CIA od 90. let (Zítko, 24. 11. 2026)
+  text: |
+    Nad koláží fotografií tvrdí, že v Central Casting je 900 hollywoodských hvězd a celkem 200 000 dvojníků
+    a herců: J. D. Vance je prý mrtvý a hraje ho Paul Walker, Trump na páteční tiskovce byl „o kus menší“,
+    původní Biden byl „popraven ještě před“ volbami 2020 (proto v Bílém domě visí místo jeho fotky
+    automatické pero), Hillary Clintonová i papež František byli „popraveni“, dvojníky mají Putin, RFK jr.,
+    Netanjahu či král Karel. Klonování je podle něj jen „zlomeček“ — stačí hyperrealistické masky, které CIA
+    používá od začátku 90. let (šéfka maskování Jonna Mendez před G. Bushem). Kdo to nevidí, je pod
+    „brainwashingem nebo MK Ultra“.
+  citace:
+  - text: Sleepy Joe, ten dokonce nemá ani fotku v Bílém domě. To je ten napravo, protože ten nalevo byl popraven ještě před začátkem podvedeného volebního masakru.
+    cas: "13:43"
+  - text: Klonování je velmi úzký zlomeček, protože masky udělají tuto službu naprosto dokonale za podstatně nižší náklady.
+    cas: "32:21"
+  osoby:
+  - {osoba: jd-vance, vztah: neutralni, kontext: 'Prý „už není mezi námi“, hraje ho Paul Walker'}
+  - {osoba: joe-biden, vztah: negativni, kontext: 'Původní prý popraven před volbami 2020'}
+  - {osoba: hillary-clinton, vztah: negativni, kontext: '„Popravená už“, vystupuje dvojnice'}
+  - {osoba: papez-frantisek, vztah: negativni, kontext: '„Nedopadl dobře na popravišti“, hrál ho Jonathan Pryce'}
+  - {osoba: donald-trump, vztah: pozitivni, kontext: 'Na tiskovce prý vystupoval menší dvojník v rámci Central Casting'}
+  - {osoba: tomas-cermak, vztah: negativni, kontext: '„Údajný“ Čermák je o 10 cm nižší dvojník'}
+  vazby:
+  - {na: zitko-2026-11-21-01, typ: posun}
+- id: zitko-2026-11-24-09
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  podtema: Stephen Miller
+  nadpis: Pod maskou Stephena Millera může být JFK jr. — 65. narozeniny jako „vhodná příležitost ho ukázat“ (Zítko, 24. 11. 2026)
+  text: |
+    Gesta na páteční tiskovce a „velmi pozitivní přijetí“ Stephena Millera podle Zítka naznačují, že by se
+    z něj „v rámci Central Casting“ mohl „vyklubat“ John F. Kennedy mladší, který se brzy dožije 65 let —
+    to by byla „vhodná příležitost sundat masku“.
+  citace:
+  - text: Můžeme jenom typovat, jestli v rámci Central Casting je pod maskou Kennedy Junior, který se bude dožívat teď pětašedesáti let, a myslím si, že by byla vhodná příležitost ho ukázat.
+    cas: "33:57"
+  osoby:
+  - {osoba: stephen-miller, vztah: pozitivni, kontext: 'Možná JFK jr. pod maskou'}
+  - {osoba: john-f-kennedy-jr, vztah: pozitivni, kontext: 'Prý žije a mohl by se odhalit'}
+  vazby:
+  - {na: zitko-2026-11-21-19, typ: posun}
+- id: zitko-2026-11-24-10
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Přistání na Měsíci zinscenovala NASA ve studiu, satelity jsou „pohádka“ (Zítko, 24. 11. 2026)
+  text: Film Netflixu „Fly Me to the Moon“ je podle Zítka o tom, jak NASA zinscenovala přistání na Měsíci —
+    „oni jsou tak drzí, že vám to všechno ukazují ve filmech“. 95 % telekomunikací jde přes podmořské
+    kabely a satelity jsou „pohádka“.
+  citace:
+  - text: Oni jsou tak drzí, že vám to všechno ukazují ve filmech.
+    cas: "10:05"
+  vazby:
+  - {na: zitko-2026-10-24-04, typ: opakovani}
+- id: zitko-2026-11-24-11
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  - valka-nato-rusko
+  podtema: Plán a Central Casting
+  nadpis: Trump od roku 2017 velí globální vojenské operaci ve spojenectví s Putinem a Si Ťin-pchingem (Zítko, 24. 11. 2026)
+  text: |
+    Trump podle Zítka od roku 2017 „velí globální vojenské operaci“ jako „vrchní velitel armády aliance“,
+    proto mu v Asii salutovali generálové; prezidentem „korporace USA“ je jen „bokovkou“. Spojenectví s
+    Putinem a Si Ťin-pchingem prý Trump potvrdil. Si podle sdíleného článku v roce 2020 ukončil v Číně
+    „teroristickou operaci koronavirus“, odtrhl se od Davosu, provedl čistky lidí napojených na Deep State
+    a spolu s Trumpem a Putinem zmařil „pandemický převrat“ a Velký reset.
+  citace:
+  - text: Donald Trump tady od roku 2017 velí globální vojenské operaci, proto mu všichni generálové teď v Asii salutovali.
+    cas: "23:55"
+  osoby:
+  - {osoba: donald-trump, vztah: pozitivni, kontext: '„Vrchní velitel armády aliance“ od 2017'}
+  - {osoba: vladimir-putin, vztah: pozitivni, kontext: 'Spojenec Trumpa v operaci'}
+  - {osoba: si-tin-pching, vztah: pozitivni, kontext: 'Zmařil s Trumpem a Putinem „pandemický převrat“ Davosu'}
+  - {osoba: klaus-schwab, vztah: negativni, kontext: 'Davoské fórum jako strůjce „pandemického převratu“'}
+- id: zitko-2026-11-24-12
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: WTC jako řízená demolice tří budov, „hologramy letadel“ (Zítko, 24. 11. 2026)
+  text: V souvislosti s požárem domu Willa Smithe zmiňuje, že dvojčata WTC padla řízenou demolicí, místo
+    letadel byly „hologramy“ a budova 7 „spadla jen tak náhodou sama“.
+  citace:
+  - text: Řízená demolice tří domů World Trade Center, jedna, dva, hologramy letadel a sedmička za šest a půl vteřiny spadla jen tak náhodou sama.
+    cas: "25:33"
+  vazby:
+  - {na: zitko-2026-09-13-01, typ: opakovani}
+- id: zitko-2026-11-24-13
+  typ: stoch-teror
+  temata:
+  - konspirace-deep-state-qanon
+  podtema: Guantánamo a tribunály
+  nadpis: Admirál Crandall na Guantánamu vynáší nad „zločinci proti lidskosti“ rozsudky smrti; souhlasně o „popravách“ Bidena, Clintonové a papeže (Zítko, 24. 11. 2026)
+  text: |
+    Zítko souhlasně líčí, že „vrchní velitel na Guantánamu“ admirál Crandall vynáší nad „zločinci proti
+    lidskosti“ z Deep Statu rozsudky trestu smrti — „jednosměrná jízdenka“ s výběrem z oběšení, zastřelení
+    či smrtící injekce, „ale kdo by si z takovýhleho meníčka chtěl vybírat“. V témže vysílání jako hotovou
+    věc uvádí „popravy“ Joea Bidena, Hillary Clintonové a papeže Františka. Bez přímé výzvy, ale s
+    pojmenovanými terči a schvalováním trestu smrti — hraniční případ.
+  citace:
+  - text: Admiral Crandall vynáší nad těmito zločinci proti lidskosti rozsudky trestu smrti. Myslím si, že tam mají na výběr pouze ze tří možností — oběšením, zastřelením anebo smrtící injekce.
+    cas: "33:04"
+  - text: Několik Hillary Clinton, popravená už.
+    cas: "14:40"
+  osoby:
+  - {osoba: joe-biden, vztah: negativni, kontext: 'Prý popraven'}
+  - {osoba: hillary-clinton, vztah: negativni, kontext: 'Prý popravena'}
+  - {osoba: papez-frantisek, vztah: negativni, kontext: 'Prý popraven'}
+  vazby:
+  - {na: zitko-2026-10-03-08, typ: posun}
+  teror:
+    terc: „Deep State“ (zločinci proti lidskosti), Joe Biden, Hillary Clintonová, papež František
+    hranicni: true

@@ -2960,3 +2960,21 @@ osoby:
   popis: Bývalý německý spolkový kancléř (2021–2025)
   sledovany: false
   vlastni_stranka: false
+- slug: hillary-clinton
+  jmeno: Hillary Clintonová
+  aliasy: [Hillary Clinton, Hillary]
+  popis: Bývalá ministryně zahraničí USA a prezidentská kandidátka demokratů (2016)
+  sledovany: false
+  vlastni_stranka: false
+- slug: papez-frantisek
+  jmeno: Papež František
+  aliasy: [Papa Francesco]
+  popis: Papež katolické církve 2013–2025
+  sledovany: false
+  vlastni_stranka: false
+- slug: vivian-fischer
+  jmeno: Viviane Fischer
+  aliasy: [Vivian Fischer]
+  popis: Německá právnička, spoluzakladatelka Corona-Ausschuss s Reinerem Fuellmichem
+  sledovany: false
+  vlastni_stranka: false

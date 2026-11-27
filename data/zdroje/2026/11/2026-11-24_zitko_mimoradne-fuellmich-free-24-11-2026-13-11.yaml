@@ -76,6 +76,8 @@ vyroky:
     horizont: 25. 11. 2026, nejpozději do 1–2 týdnů (cca 8. 12. 2026)
     horizont_do: 2026-12-08
     stav: ceka
+    vyhodnoceni:
+    - {datum: 2026-11-24, text: 'Propuštění 25. 11. se nenaplnilo — podle Zítka večer téhož dne (zdroj [24. 11., 19:07](/zdroje/2026-11.md#2026-11-24_zitko_vecerni-vysilani-odvolani-prokuratora-fuellmich-24-11-2026-19-07)) podal prokurátor odvolání a rozhodne vyšší soud; nyní slibuje propuštění do Vánoc. Lhůta 1–2 týdnů dosud běží.', stav: ceka}
 - id: zitko-2026-11-24-04
   typ: stoch-teror
   temata:
