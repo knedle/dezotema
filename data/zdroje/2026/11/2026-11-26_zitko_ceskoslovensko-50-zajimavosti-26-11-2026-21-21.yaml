@@ -1,0 +1,109 @@
+zdroj:
+  id: 2026-11-26_zitko_ceskoslovensko-50-zajimavosti-26-11-2026-21-21
+  mluvci: zitko
+  kanal: Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+  titul: 'Československo: 50 zajímavostí, které jste možná nevěděli (26. 11. 2026, 21:21)'
+  datum: 2026-11-26
+  cas: '21:21'
+  url: https://m.facebook.com/watch/?v=1127936780082071&_rdr
+  prepis: prepisy/done/2026-11-27_Československo-TV2_11-reactions-5-comments-jana-peterkova-official-3-.txt
+  delka: '00:31:36'
+  rezim: standard
+  poznamka: 'Datum dle titulu („26/11 … 21:21“; soubor nese datum stažení). Asi 70 % tvoří cizí video
+    „50 faktů o české krajině“ — nezpracováno; zpracovány jen Zítkovy vlastní vstupy (všech 6 témat dle
+    výběru uživatele). Id od 21 kvůli dopolednímu vysílání téhož dne. Stochastický teror: opakované
+    ohlášení Fauciho popravy „v repríze“ (nehraniční). Ověřeno v přepisu.'
+vyroky:
+- id: zitko-2026-11-26-21
+  typ: postoj
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Československo je spirituálně klíčové území pod náporem „temných“, kteří tu mají „líheň“ (Zítko, 26. 11. 2026)
+  text: Území Československa je podle Zítka „nenáhodou“ pod úpěnlivým náporem „temných“, protože ti vědí,
+    že je důležité pro „celosvětový spirituální vývoj“; „kreténi a šmejdi“ jsou všude, ale v Československu
+    jako by měli „svoji líheň“.
+  citace:
+  - text: Všude jsou kreténi a šmejdi, ale připadá nám to, jako kdyby v Československu měli ti temní někde svoji líheň.
+    cas: "01:55"
+- id: zitko-2026-11-26-22
+  typ: postoj
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Rozdělení „protiústavní, protiprávní, bez referenda“ (Zítko, 26. 11. 2026)
+  text: Opakuje, že Československo bylo rozděleno protiústavně, bez referenda a s porušením zákona — „podlým
+    podvodem a vlastizradou“, ale jen dočasně.
+  citace:
+  - text: O tom, že jsme byli rozděleni protiústavně, protiprávně, protizákonně, bez referenda, s porušením zákona, o tom už se dneska bavit nebudu.
+    cas: "02:39"
+  vazby:
+  - {na: zitko-2026-11-22-44, typ: opakovani}
+- id: zitko-2026-11-26-23
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Část hamburského přístavu i nesplacené reparace „patří jen Československu“ (Zítko, 26. 11. 2026)
+  text: K faktu o československém území v hamburském přístavu (nájem do roku 2028) Zítko dodává, že podle
+    „versaillské smlouvy“ (kterou zaměňuje se smlouvou z 21. 12. 1945) má nárok na nesplacené válečné
+    reparace po Německu „pouze Československo“, nikoli nástupnické „korporace“.
+  citace:
+  - text: Podle Versajské smlouvy máme nárok i na válečné reparace, které vůbec nebyly splacený, jenom zlomek, ale nárok na ně má pouze Československo.
+    cas: "18:17"
+  vazby:
+  - {na: zitko-2026-11-22-45, typ: posun}
+- id: zitko-2026-11-26-24
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Z Lipna, Orlíku i Slap „upouštějí“, hladina jde „dramaticky dolů“; Země jako „rotující koule“ je školní nesmysl (Zítko, 26. 11. 2026)
+  text: Do faktu o Lipnu vkládá poznámku, že „teď nám tam kapánek upouštějí“ nejen Lipno, ale i Orlík a
+    Slapy a hladina jde „dost dramaticky dolů“ (bez uvedení důvodu). Video hodnotí jako zajímavé „kromě
+    některých nesmyslů jako průměr rovníku“ a toho, „že jsme na rychle letící, rotující kouli“.
+  citace:
+  - text: Ale teď nám tam kapánek upouštěj nejenom Lipno, Orlík, ale i Slapy, takže tamta hladina dost dramaticky jde dolů.
+    cas: "17:17"
+  - text: Kromě některých nesmyslů jako průměr rovníku a to, že jsme na rychle letící, rotující kouli, protože nám to říkali ve škole.
+    cas: "25:58"
+- id: zitko-2026-11-26-25
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Antiparazitika jsou levnější a účinnější než chemoterapie — kvůli nim „nemohla být zavedena“ vakcína (Zítko, 26. 11. 2026)
+  text: Antiparazitika (hydroxychlorochin, mebendazol, fenbendazol, ivermektin) jsou podle Zítka levná a
+    „podstatně efektivnější“ než chemoterapie za přes 100 000 dolarů, proto jsou nyní „bombardována“ a
+    zpochybňována; právě kvůli nim „nemohla být zavedena“ vakcína proti covidu jako „experimentální látka na
+    pokusy na lidech“.
+  citace:
+  - text: Hydroxychlorokin, mebendazol, fenbendazol, ivermectin, to jsou jasný preparáty, kvůli kterým nemohla být zavedená vakcína COVID-19 jako experimentální látka na pokusy na lidech.
+    cas: "27:18"
+- id: zitko-2026-11-26-26
+  typ: postoj
+  temata:
+  - konspirace-ceskoslovensko
+  - valka-nato-rusko
+  nadpis: Po Šen-čenu jako po 2. světové válce — mírové smlouvy obnoví Československo i nároky na reparace a majetek lidu (Zítko, 26. 11. 2026)
+  text: Podobně jako po 2. světové válce se podle Zítka v Šen-čenu mezi USA, Ruskem a Čínou jednalo o
+    mírových dohodách, při nichž bude „velmi žádoucí“ obnovit právní stát Československá republika „včetně
+    všech nároků“ na reparace po Německu. Majetek podle něj podle ústavy nepatřil politikům, ale „lidu,
+    potomkům našich rodů“ žijícím tu dědičně od Zlaté buly sicilské (1212).
+  citace:
+  - text: Bude zase velmi žádoucí to, abychom se spojili opět v právní stát Československá republika, včetně všech nároků i na válečné reparace po Německu.
+    cas: "28:39"
+  vazby:
+  - {na: zitko-2026-11-25-10, typ: posun}
+- id: zitko-2026-11-26-27
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  podtema: Guantánamo a tribunály
+  nadpis: „V repríze teď budete sledovat Fauciho popravu“ (Zítko, 26. 11. 2026, večer)
+  text: Opakuje, že diváci budou „v repríze“ sledovat popravu Anthonyho Fauciho, odsouzeného k trestu smrti.
+  citace:
+  - text: A v repríze teď budete sledovat Fauciho popravu, který byl odsouzen k trestu smrti.
+    cas: "27:38"
+  osoby:
+  - {osoba: anthony-fauci, vztah: negativni, kontext: 'Má být popraven'}
+  vazby:
+  - {na: zitko-2026-11-26-04, typ: opakovani}
+  teror:
+    terc: Anthony Fauci
+    hranicni: false
