@@ -1,0 +1,69 @@
+zdroj:
+  id: 2026-11-25_rajchl_jurecka-lidice-paragraf-405-25-11-2026
+  mluvci: rajchl
+  kanal: Jindřich Rajchl
+  titul: Marian Jurečka mi vzkázal, že prý se mám jet podívat do Lidic (25. 11. 2026)
+  datum: 2026-11-25
+  url: https://www.facebook.com/100063460865205/videos/1701952604872503
+  prepis: prepisy/done/2026-11-25_Jindřich-Rajchl_158K-views-17K-reactions-Marian-Jurečka-mi-vzkázal-že.txt
+  delka: '00:03:32'
+  rezim: standard
+  poznamka: 'Krátký spot — odpověď Jurečkovi na kritiku návrhu úpravy § 405. Zpracována všechna 3 témata.
+    Stochastický teror nezjištěn („největší lhář“, „amorální dno“, „nafackovat si před zrcadlem“ —
+    urážky a obrazná výzva k sebereflexi). Ověřeno v přepisu.'
+vyroky:
+- id: rajchl-2026-11-25-01
+  typ: postoj
+  temata:
+  - dsa-cenzura
+  podtema: Trestání politického projevu
+  nadpis: Schvalování nacistických zločinů zůstane trestné, zúžení § 405 má jen ukončit kriminalizaci názorů na Ukrajinu (Rajchl, 25. 11. 2026)
+  text: |
+    V reakci na Jurečkovo označení návrhu za „amorální dno“ ujišťuje, že zúžení § 405 nemá umožnit
+    schvalování holokaustu ani jiných nacistických zločinů — to bude „i nadále trestné, protože to je
+    odporná věc“. Cílem je zabránit tomu, aby byl kriminalizován každý, kdo měl „jiný pohled na válku na
+    Ukrajině“ nebo se postavil „oficiálnímu narativu“, jak se to podle něj dělo čtyři roky za minulé
+    vlády. Takové stíhané lidi sám obhajoval a označuje to za „čistou cenzuru“.
+  citace:
+  - text: Schvalování nacistických zvěrstev bude i nadále trestné, protože to je odporná věc.
+    cas: "02:00"
+  osoby:
+  - {osoba: marian-jurecka, vztah: negativni, kontext: 'Návrh označil za „amorální dno“'}
+  vazby:
+  - {na: rajchl-2026-11-24-01, typ: posun}
+- id: rajchl-2026-11-25-02
+  typ: postoj
+  temata:
+  - benesovy-dekrety
+  - politicky-system
+  nadpis: Jurečka „největší lhář“ — kdo podporuje sjezd landsmanšaftu, nemá mluvit o Lidicích (Rajchl, 25. 11. 2026)
+  text: |
+    Jurečku nazývá „prokazatelně největším lhářem v historii české politické scény“, protože v den
+    střelby na Filozofické fakultě popíjel a „trsal do čtyř do rána na hity Michala Davida“ a pak o tom
+    lhal. Na jeho výzvu, ať jede do Lidic, odpovídá, že tam letos na vzpomínkovém aktu byl, zatímco
+    Jurečku tam neviděl — snad mu to „páníčkové ze sudetoněmeckého landsmanšaftu nedovolili“. Kdo mluví
+    o Lidicích a zároveň podporuje sjezd landsmanšaftu v Brně, „organizace, která vznikla z členů SS“,
+    by si měl před zrcadlem „pořádně nafackovat“.
+  citace:
+  - text: Pokud někdo hovoří o Lidicích a současně ten člověk podporuje sjezd sudetoněmeckého landsmannschaftu v Brně, tedy organizace, která vznikla z členů SS, … tak by si měl dojít před zrcadlo a pořádně si tam nafackovat.
+    cas: "02:10"
+  osoby:
+  - {osoba: marian-jurecka, vztah: negativni, kontext: '„Největší lhář“, podporovatel sjezdu landsmanšaftu'}
+  vazby:
+  - {na: rajchl-2026-05-13-01, typ: opakovani}
+- id: rajchl-2026-11-25-03
+  typ: postoj
+  temata:
+  - valka-ukrajina-prubeh
+  - politicky-system
+  nadpis: Navrhne usnesení Sněmovny odsuzující „projevy nacismu na Ukrajině“ — test pokrytectví (Rajchl, 25. 11. 2026)
+  text: |
+    Na příští schůzi Sněmovny chce navrhnout usnesení, kterým by Sněmovna odsoudila „projevy nacismu na
+    Ukrajině“, před nimiž podle něj Jurečka a jeho strana „zavírají oči“. Hlasování má ukázat, komu
+    skutečně vadí nacistická zvěrstva a kdo je „jenom pokrytec“, který chce kriminalizovat názorové
+    odpůrce.
+  citace:
+  - text: Ta zvednutá ruka, respektive ta ruka nechaná dole, nás oba dva velmi rychle rozsoudí.
+    cas: "03:23"
+  osoby:
+  - {osoba: marian-jurecka, vztah: negativni, kontext: 'Přehlíží „nacismus na Ukrajině“, pokrytec'}
