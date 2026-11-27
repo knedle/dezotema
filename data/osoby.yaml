@@ -552,7 +552,7 @@ osoby:
   sledovany: false
   vlastni_stranka: false
 - slug: sebelova
-  jmeno: Šebelová
+  jmeno: Michaela Šebelová
   popis: STAN
   sledovany: false
   vlastni_stranka: false
@@ -1072,6 +1072,8 @@ osoby:
   vlastni_stranka: false
 - slug: jan-papjanovsky
   jmeno: Jan Papjanovský
+  aliasy:
+  - Papajanovský
   sledovany: false
   vlastni_stranka: false
 - slug: matej

@@ -1,0 +1,72 @@
+zdroj:
+  id: 2026-11-27_rajchl_skandal-stan-sebelova-papjanovsky-dozimetr-27-11-2026
+  mluvci: rajchl
+  kanal: Jindřich Rajchl
+  titul: Dnes propukl v Poslanecké sněmovně další skandál mafiánského hnutí STAN (27. 11. 2026)
+  datum: 2026-11-27
+  url: https://www.facebook.com/100063460865205/videos/1465585735777413
+  prepis: prepisy/done/2026-11-27_Jindřich-Rajchl_131K-views-15K-reactions-Dnes-propukl-v-Poslanecké-sn.txt
+  delka: '00:02:12'
+  rezim: standard
+  poznamka: 'Krátký spot ze Sněmovny. Zpracována obě témata. Stochastický teror: hraniční — opakované označení
+    STAN za „mafiánské hnutí/sdružení“ (v popisku „mafiánský klan“ v parlamentu); zapsáno na pokyn uživatele.
+    Ověřeno v přepisu.'
+vyroky:
+- id: rajchl-2026-11-27-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  podtema: Dozimetr
+  nadpis: Šebelová prozradila, že Papjanovský vynesl neveřejné informace z komise k Dozimetru — podnět imunitnímu výboru (Rajchl, 27. 11. 2026)
+  text: |
+    Místopředsedkyně STAN Michaela Šebelová podle Rajchla ve Sněmovně v reakci na časopis zobrazující
+    Rakušana jako „Dona Vita“ prozradila, že její stranický kolega Jan Papjanovský vědomě porušil § 48
+    odst. 8 zákona o jednacím řádu Sněmovny, když vynesl informace z neveřejného zasedání vyšetřovací
+    komise k Dozimetru (výpověď ředitele NCOZ Jiřího Mazánka). Rajchl podal podnět mandátovému a
+    imunitnímu výboru a věří, že vyvodí důsledky.
+  citace:
+  - text: Prozradila, ono mi to ulétlo v návalu těch emocí, na svého kolegu Jana Papajanovského, že porušil zákon vědomě.
+    cas: "00:27"
+  osoby:
+  - {osoba: sebelova, vztah: negativni, kontext: '„Rekordmanka v čerpání poslaneckých náhrad“, prozradila únik'}
+  - {osoba: jan-papjanovsky, vztah: negativni, kontext: 'Vynesl informace z neveřejného zasedání komise'}
+  - {osoba: vit-rakusan, vztah: negativni, kontext: 'Zobrazen jako „Don Vito, mafiánský boss“'}
+  - {osoba: mazanek, vztah: neutralni, kontext: 'Jeho výpověď před komisí unikla'}
+  vazby:
+  - {na: rajchl-2026-09-04-01, typ: posun}
+- id: rajchl-2026-11-27-02
+  typ: postoj
+  temata:
+  - kauzy
+  podtema: Dozimetr
+  nadpis: STAN opakovaně vědomě porušuje zákony — „to samé v bledě modrém“ jako schůzka u Rakušana v dubnu 2022 (Rajchl, 27. 11. 2026)
+  text: |
+    Únik z komise podle Rajchla zapadá do vzorce: už v dubnu 2022 se podle médií v Rakušanově kanceláři
+    konala schůzka vedení STAN, kde se probíraly tajné informace z živého policejního spisu a Rakušan
+    sděloval, že „se píše 6 až 8 sdělovaček“. „Neúcta k našim zákonům, jejich vědomé porušování — přesně
+    to je hnutí STAN.“ Kdo chce ve vedení státu takové lidi, ať je volí, on ne.
+  citace:
+  - text: Dnes to máme to samé v bledě modrém. Neúcta k našim zákonům, jejich vědomé porušování, přesně to je hnutí STAN.
+    cas: "01:25"
+  osoby:
+  - {osoba: vit-rakusan, vztah: negativni, kontext: 'Na schůzce v roce 2022 měl sdílet tajné informace z policejního spisu'}
+  vazby:
+  - {na: rajchl-2026-06-17-01, typ: posun}
+- id: rajchl-2026-11-27-03
+  typ: stoch-teror
+  temata:
+  - kauzy
+  nadpis: STAN jako „mafiánské hnutí“ a „mafiánský klan“ v parlamentu (Rajchl, 27. 11. 2026)
+  text: |
+    Opakovaně označuje STAN za „mafiánské hnutí“ a „mafiánské sdružení“ pokračující v „mafiánských
+    praktikách“; v popisku příspěvku píše, že „v jiných zemích nesedí mafiánský klan v jejich
+    parlamentech“. Kriminalizace pojmenované politické strany bez výzvy k trestu či násilí — hraniční
+    případ.
+  citace:
+  - text: Místopředsedkyně tohoto mafiánského sdružení a rekordmanka v čerpání poslaneckých náhrad Michaela Šebelová …
+    cas: "00:08"
+  - text: Lidi, kteří nerespektují naše zákony, kteří se jim vysmívají, kteří si dělají, co chtějí, a pokračují v těch mafiánských praktikách.
+    cas: "02:00"
+  teror:
+    terc: hnutí STAN
+    hranicni: true
