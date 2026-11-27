@@ -1,0 +1,314 @@
+zdroj:
+  id: 2026-11-25_zitko_zive-narozeniny-jfk-jr-fauci-gitmo-25-11-2026-11-11
+  mluvci: zitko
+  kanal: Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+  titul: 'Živě: narozeniny JFK jr., Fauci odsouzen na Gitmo, Central Casting (25. 11. 2026, 11:11)'
+  datum: 2026-11-25
+  cas: '11:11'
+  url: https://m.facebook.com/watch/?v=2312504636258715&_rdr
+  prepis: prepisy/done/2026-11-25_Československo-TV2_34-reactions-18-comments-jana-peterkova-official-3.txt
+  delka: '01:13:09'
+  rezim: standard
+  poznamka: 'Datum ověřeno z úvodu („máme 25. 11.“). Velkou část tvoří předčítání cizích příspěvků
+    (JFK jr. „jsem ten, komu říkali Q“, článek o Fauciho tribunálu, McCartney, Najadi, City of London,
+    Trumpova „vojenská operace“), které Zítko přijímá za své a komentuje — zapsáno jako jeho tvrzení.
+    Zpracována všechna témata (na pokyn uživatele „vse“). Stochastický teror: Fauciho „poprava za týden“
+    (nehraniční), tribunály a popravy pro „cempry, novináře, politiky a agenty nepřítele“ (nehraniční),
+    údajné popravy hollywoodských hvězd (hraniční). Přečteno a ověřeno v přepisu.'
+vyroky:
+- id: zitko-2026-11-25-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  podtema: Reiner Fuellmich
+  nadpis: Fuellmich zůstává ve vězení „díky prokurátorovi“ — Zítko zveřejňuje adresu do Lingenu (Zítko, 25. 11. 2026)
+  text: Opakuje, že odvolání prokurátora Philippa Johna drží Fuellmicha ve vězení, ale „nebude trvat dlouho“
+    a bude na svobodě; diváky vyzývá, aby mu psali do věznice v Lingenu.
+  citace:
+  - text: Co je snad v tomhletom evidentní, že nebude trvat dlouho a doktor Reiner Fuellmich bude free, bude na svobodě.
+    cas: "04:35"
+  osoby:
+  - {osoba: reiner-fuellmich, vztah: pozitivni, kontext: 'Politický vězeň, „bijec proti covid mafii číslo jedna“'}
+  vazby:
+  - {na: zitko-2026-11-24-05, typ: opakovani}
+- id: zitko-2026-11-25-02
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  podtema: Stephen Miller
+  nadpis: K 65. narozeninám JFK jr. poslal „československý dort“ — Kennedy se „co nevidět“ ukáže, možná jako Stephen Miller (Zítko, 25. 11. 2026)
+  text: Zítko přeje JFK jr. k 65. narozeninám a předčítá text, v němž Kennedy prý říká, že přežil „simulovanou
+    nehodu vrtulníku“, je „hlasem za sedmnáctým písmenem“ (Q) a brzy se vrátí na světlo. Překvapení se podle
+    něj může týkat nasazení Stephena Millera; „nebude dlouho trvat chvíle, kdy se JFK junior ukáže“.
+  citace:
+  - text: Si myslím, že nebude dlouho trvat chvíle, kdy se JFK junior ukáže.
+    cas: "35:03"
+  osoby:
+  - {osoba: john-f-kennedy-jr, vztah: pozitivni, kontext: 'Prý žije, je „Q“ a brzy se ukáže'}
+  - {osoba: stephen-miller, vztah: pozitivni, kontext: 'Možná krytí pro JFK jr.'}
+  vazby:
+  - {na: zitko-2026-11-24-09, typ: opakovani}
+- id: zitko-2026-11-25-03
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  - konspirace-deep-state-qanon
+  podtema: Guantánamo a tribunály
+  nadpis: Fauci odsouzen vojenským tribunálem na Gitmo k trestu smrti — originál už popraven, teď „repríza pro spící“ (Zítko, 25. 11. 2026)
+  text: |
+    Podle předčítaného článku admirál Crandall na Guantánamu předložil šestihodinové důkazy a vojenská porota
+    uznala Anthonyho Fauciho vinným z masových vražd, vlastizrady, zneužívání dětí a pokusu svrhnout Trumpa;
+    Fauci měl od Pfizeru, Moderny a J&J dostat 14 milionů dolarů na offshore účet. Zítko dodává, že „originál
+    Fauci, ten s menším nosem“ byl popraven už v prvním Trumpově období po roce 2017 — teď běží „repríza“ pro
+    probuzení lidstva, která bude zveřejněna v rámci EBS. Za Fauciho české „spolupachatele genocidy“ označuje
+    mj. Prymulu, Flegra a „vědátory“. Mengele se podle něj počtem obětí „na Fauciho nehrabal“.
+  citace:
+  - text: Znova upozorňuji, že originál Fauci, ten s tím menším nosem, už byl popraven. Tohle je repríza, která se děje pro spící.
+    cas: "18:39"
+  - text: Kam se na počet obětí hrabal Mengele během druhé světové války na Fauciho.
+    cas: "13:50"
+  osoby:
+  - {osoba: anthony-fauci, vztah: negativni, kontext: 'Prý odsouzen k smrti za masové vraždy, „originál“ už popraven'}
+  - {osoba: roman-prymula, vztah: negativni, kontext: 'Jeden ze „spolupachatelů genocidy“'}
+  - {osoba: jaroslav-flegr, vztah: negativni, kontext: 'Jeden ze „spolupachatelů genocidy“'}
+  vazby:
+  - {na: zitko-2026-11-24-13, typ: posun}
+- id: zitko-2026-11-25-04
+  typ: predikce
+  temata:
+  - covid-vakciny
+  - konspirace-deep-state-qanon
+  podtema: Guantánamo a tribunály
+  nadpis: Fauciho poprava je „naplánována za týden“ (Zítko, 25. 11. 2026)
+  text: Podle předčítaného článku, který Zítko přijímá, má být Fauci popraven do týdne od rozsudku; vše bude
+    zveřejněno v rámci vysílání EBS.
+  citace:
+  - text: Rozsudek, smrt. Poprava je naplánována za týden od dnešního dne. Deep State padá.
+    cas: "18:29"
+  osoby:
+  - {osoba: anthony-fauci, vztah: negativni, kontext: 'Má být popraven'}
+  predikce:
+    horizont: za týden (cca 2. 12. 2026)
+    horizont_do: 2026-12-02
+    stav: ceka
+- id: zitko-2026-11-25-05
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  podtema: Guantánamo a tribunály
+  nadpis: Fauci „vinen ve všech bodech“, „rozsudek smrt“ — Zítko souhlasně ohlašuje popravu (Zítko, 25. 11. 2026)
+  text: |
+    Zítko předčítá a schvaluje „rozsudek smrti“ pro Anthonyho Fauciho za údajné masové vraždy vakcínami a
+    zneužívání dětí, srovnává ho s Mengelem a připomíná, že „originál“ už byl popraven. Zároveň jmenuje české
+    „spolupachatele genocidy“ (Prymula, Flegr aj.). Pojmenovaný terč a souhlas s trestem smrti.
+  citace:
+  - text: Slyšeli jsme dost. Vinen ve všech bodech obžaloby. Rozsudek, smrt. Poprava je naplánována za týden od dnešního dne.
+    cas: "18:25"
+  - text: Zdeňka, Pekla, Hela, Primuly, Kupka, Chlípka, Flégra a dalších spolupachatelů genocidy u nás, nebudu je jmenovat všechny.
+    cas: "11:00"
+  osoby:
+  - {osoba: anthony-fauci, vztah: negativni, kontext: 'Terč – schvalovaná poprava'}
+  teror:
+    terc: Anthony Fauci (a čeští „spolupachatelé genocidy“ Prymula, Flegr aj.)
+    hranicni: false
+- id: zitko-2026-11-25-06
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  - media-propaganda
+  nadpis: Vakcíny jako biologické zbraně, Remdesivir a ventilátory zabíjely; ČT za 88 milionů lhala — má vracet poplatky (Zítko, 25. 11. 2026)
+  text: |
+    Pfizer, Moderna a J&J podle Zítka „zapíchávali lidi v Československu biologickými zbraněmi“; vakcína
+    způsobuje „turbo rakovinu“. Virus SARS-CoV-2 nebyl nikdy izolován — oběti vytvářel nemocniční protokol
+    s Remdesivirem, který „masivně propagoval Babiš“, a ventilátory (umíralo „8 z 10 pacientů“). ČT podle
+    něj dostala z USA 88 milionů Kč (4,2 mil. USD), aby jednostranně propagovala vakcíny, proto má vracet
+    poplatky od 12. 3. 2020 a odškodnit pozůstalé.
+  citace:
+  - text: V rámci nemocničního protokolu v roce 2020 zabíjeli lidi v nemocnicích buď preparátem Remdesivir, ten Babiš propagoval masivně, a kdo přežil Remdesivir, tak skončil na ventilátorech.
+    cas: "16:38"
+  osoby:
+  - {osoba: andrej-babis, vztah: negativni, kontext: '„Masivně propagoval“ Remdesivir'}
+  vazby:
+  - {na: zitko-2026-03-27-02, typ: opakovani}
+  - {na: zitko-2026-11-15-07, typ: opakovani}
+- id: zitko-2026-11-25-07
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  podtema: Plán a Central Casting
+  nadpis: Central Casting trvá 60 let — McCartney nahrazen 1966, Obamovi, Newsom hraje McConaughey, Bessent „herec“ (Zítko, 25. 11. 2026)
+  text: |
+    Paul McCartney podle Zítka zemřel v roce 1966 a nahradil ho dvojník William Campbell — obal Abbey Road je
+    „pohřební průvod“; náhrady tedy nejsou „premiérou v Holýšově“ (Čermák). Michelle Obama je „Mike Robinson“,
+    guvernéra Newsoma hraje Matthew McConaughey, J. D. Vance Paul Walker a Oprah Winfrey hubenější dvojnice;
+    Trumpova slova o „perfektním hereckém obsazení“ Scotta Bessenta jsou podle něj přímým důkazem Central
+    Castingu. Svět prý ovládal „satanistický kult“ vydíráním, pedofilií a volebními podvody (Smartmatic,
+    Dominion); zločinci byli popraveni na Gitmo, Diego García či „evropském Gitmu na Islandu“ a nahrazeni
+    v maskách.
+  citace:
+  - text: Paul McCartney byl tímto způsobem nahrazen dvojníkem už v roce 1966, před 60 lety.
+    cas: "27:51"
+  - text: Ti už byli na Gitmo nebo Diego García nebo na evropským Gitmu na Islandu popraveni. Takže byste je museli co? Nahradit.
+    cas: "32:08"
+  osoby:
+  - {osoba: paul-mccartney, vztah: neutralni, kontext: 'Prý zemřel 1966 a hraje ho dvojník'}
+  - {osoba: barack-obama, vztah: negativni, kontext: '„Narozen v Keni“, Michelle je prý muž'}
+  - {osoba: donald-trump, vztah: pozitivni, kontext: 'Prý veřejně naznačuje Central Casting'}
+  - {osoba: tomas-cermak, vztah: negativni, kontext: 'Dvojník „v Holýšově“'}
+  vazby:
+  - {na: zitko-2026-11-24-08, typ: posun}
+- id: zitko-2026-11-25-08
+  typ: stoch-teror
+  temata:
+  - konspirace-deep-state-qanon
+  podtema: Plán a Central Casting
+  nadpis: Hollywoodské hvězdy jako pedofilové a „satanisté“ — Tom Hanks „už dávno vyřešen“ popravou (Zítko, 25. 11. 2026)
+  text: |
+    U nositelů Medaile svobody od Obamy označuje Ellen DeGeneres za „pedofilní návštěvnici Epsteinova ostrova“
+    a Toma Hankse za „rodovou linii Rothschildů“ a jednu „z největších zrůdiček Hollywoodu“ v pedofilii, který
+    je „už dávno vyřešen“ popravou; Oprah Winfrey je „satanistická služebnice“ nahrazená dvojnicí. Souhlasné
+    tvrzení o popravě pojmenovaných osob spojené s dehumanizací — hraniční případ (nepřímá výzva).
+  citace:
+  - text: Tom Hanks, rodová linie Rothschildů a jeden z největších, jedna z největších zrůdiček Hollywoodu, co se týká pedofílie, … když jsem se zmínil o jeho popravě, protože ten už je dávno vyřešen.
+    cas: "37:44"
+  osoby:
+  - {osoba: tom-hanks, vztah: negativni, kontext: '„Zrůdička“, prý popraven'}
+  - {osoba: barack-obama, vztah: negativni, kontext: 'Udílel medaile „pedofilům“'}
+  teror:
+    terc: Tom Hanks, Ellen DeGeneres, Oprah Winfrey a další hollywoodské hvězdy
+    hranicni: true
+- id: zitko-2026-11-25-09
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Kanada je jen britská kolonie — proto ji Trump chce jako 51. stát (Zítko, 25. 11. 2026)
+  text: Kanada podle Zítka jen předstírá, že je vlastní zemí, ve skutečnosti je britskou kolonií pod kontrolou
+    krále, proto o ní Trump mluví jako o 51. státu; na oslavě u Bílého domu zazněla píseň podobná „hymně
+    korporace Kanada“ a staveniště ukazuje, že „změna“ ještě není hotová.
+  citace:
+  - text: Kanada v podstatě slouží jako britská kolonie pod kontrolou krále a pouze předstírá, že je vlastní zemí.
+    cas: "40:15"
+  osoby:
+  - {osoba: donald-trump, vztah: pozitivni, kontext: 'Chce Kanadu jako 51. stát'}
+- id: zitko-2026-11-25-10
+  typ: postoj
+  temata:
+  - suverenita-eu
+  - konspirace-ceskoslovensko
+  nadpis: EU jako „oprátka“ vnoučat fašistů — jediná cesta ven je obnova Československa (Zítko, 25. 11. 2026)
+  text: |
+    V návaznosti na Putinův výrok o energetice tvrdí, že státy by měly „zrušit pakt EU“; v EU podle něj vládnou
+    „vnoučátka fašistů a nácků“ zachráněná operací Paperclip, které nikdo nevolil a chystají povinné očkování.
+    Obnova Československa je „jediná reálná možnost sundat si tuhle oprátku“; protože Moskva chce vrátit stav
+    před rok 1997, je i rok 1992 „nedaleko“ a „národ Chcimíru“ bude mít u vítězných mocností výhodu.
+  citace:
+  - text: Obnova a zpět vzetí Československa se mi zdá jako jediná reálná možnost sundat si tuhletu oprátku, tuhletu oprátku utahovanou Evropskou unií na krku našich lidí.
+    cas: "44:19"
+  osoby:
+  - {osoba: vladimir-putin, vztah: pozitivni, kontext: 'Evropané si škodí odmítáním ruské energie'}
+  vazby:
+  - {na: zitko-2026-11-22-44, typ: opakovani}
+- id: zitko-2026-11-25-11
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  - konspirace-deep-state-qanon
+  nadpis: Pascal Najadi — otec, spoluzakladatel WEF, byl zavražděn; probíhá „globální depopulační agenda“ (Zítko, 25. 11. 2026)
+  text: Zítko cituje Pascala Najadiho, s nímž prý v Curychu obědval — jeho otec, malajsijský bankéř a
+    spoluzakladatel Světového ekonomického fóra, byl zavražděn, když poznal, kam WEF směřuje; Najadi je
+    „třikrát zapíchaný biologickou zbraní“ a podle něj probíhá „globální depopulační agenda, genocida a
+    sterilizace lidstva“ stoupenců Klause Schwaba.
+  citace:
+  - text: Probíhá globální depopulační agenda, byla to genocida a sterilizace lidstva, výsledky vidíme na každém kroku a vyhlásili válku lidstvu.
+    cas: "48:30"
+  osoby:
+  - {osoba: pascal-najadi, vztah: pozitivni, kontext: 'Zdroj tvrzení o depopulaci, osobní známý'}
+  - {osoba: klaus-schwab, vztah: negativni, kontext: 'Stoupenci chtěli „zapíchat 8 miliard lidí“'}
+- id: zitko-2026-11-25-12
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  podtema: Guantánamo a tribunály
+  nadpis: Šen-čen jako „moderní Jalta“ — přijde „zúčtování“ vojenskými tribunály a „vojenská čistící operace“; Izrael bude poslední (Zítko, 25. 11. 2026)
+  text: |
+    Trump podle předčítaného příspěvku na summitu s Putinem a Si Ťin-pchingem potvrdil, že „armáda aliance je
+    na místě“, a tlačí na rozšíření trestu smrti; vojenské právo je podle Zítka nadřazeno civilnímu a trest
+    smrti v něm „regulérní“. Stejně jako po 2. světové válce mají vítězné mocnosti stíhat a popravovat
+    „válečné zločince“ prostřednictvím vojenských tribunálů a mezinárodního stanného práva — „jiná cesta vpřed
+    není“. Trump prý zveřejnil, že probíhá „vojenská čistící operace“; Izrael jako bašta „chazarské mafie“ bude
+    „posledním dominem“. Svět je podle něj „v repríze“ války, kterou už aliance „v tajnosti vyhrála“.
+  citace:
+  - text: Pokud se skutečně nacházíme v době podobné druhé světové válce a summit v Šenčenu byl skutečně naší moderní verzí jaltské konference, pak lze předpokládat, že dojde i k zúčtování. Jiná cesta vpřed prostě není.
+    cas: "53:53"
+  osoby:
+  - {osoba: donald-trump, vztah: pozitivni, kontext: 'Vede „vojenskou čistící operaci“'}
+  - {osoba: vladimir-putin, vztah: pozitivni, kontext: 'Spojenec v alianci'}
+  - {osoba: si-tin-pching, vztah: pozitivni, kontext: 'Spojenec v alianci'}
+  vazby:
+  - {na: zitko-2026-11-22-20, typ: souhlas}
+- id: zitko-2026-11-25-13
+  typ: stoch-teror
+  temata:
+  - konspirace-deep-state-qanon
+  - media-propaganda
+  podtema: Guantánamo a tribunály
+  nadpis: „Blbá zpráva pro ty cempry“ — vojenské tribunály a popravy novinářů, politiků a „agentů nepřítele“, „bohu dík“ (Zítko, 25. 11. 2026)
+  text: |
+    Při předčítání textu o tom, že vítězné mocnosti po válce využily armády ke „stíhání a popravám“ válečných
+    zločinců, vkládá vlastní komentář: je to „blbá zpráva pro ty cempry a další“, stejně jako pro novináře
+    („bohužel, nebo bohu dík“), politiky a „další agenty nepřítele“ — prostřednictvím vojenských tribunálů.
+    Cempry (ověřovatele/„cenzora Cempera“) označuje i jinde ve vysílání za „hovada“ placená farmaceutickým
+    průmyslem. Pojmenovaná skupina + schvalování poprav.
+  citace:
+  - text: Po válce všechny využili své armády k stíhání a popravám vojenských důstojníků, válečných zločinců. Tady je blbá zpráva pro ty cempry a další. Stejně jako novinářů, bohužel, nebo bohu dík, politiků a dalších agentů nepřítele.
+    cas: "53:12"
+  teror:
+    terc: „cempři“ (kritici a ověřovatelé), novináři, politici, „agenti nepřítele“
+    hranicni: false
+- id: zitko-2026-11-25-14
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  - konspirace-deep-state-qanon
+  nadpis: City of London řídí svět od CIA po Fed i Titanic — rozdělení Československa „ušili“ v Londýně, Klaus a Mečiar si tam létali pro noty (Zítko, 25. 11. 2026)
+  text: |
+    Podle předčítaného příspěvku stojí za MI6, CIA, Mossadem, vznikem Izraele (Rothschildové), Fedem
+    (po „potopení odpůrců na Titanicu“), ovládáním Kanady, Íránu i ceny ropy bankovní kartel 13 rodin z City
+    of London; spolu s Washingtonem a Vatikánem tvoří centra „říše zla“, která zavraždila asi deset
+    prezidentů USA. Zítko dodává, že i rozdělení Československa bylo „ušito“ v Londýně — „lokajové“ Klaus a
+    Mečiar tam létali „pro rozumy a notičky“ a Německu se to hodilo kvůli neplaceným reparacím 29 bilionů Kč.
+    ČT podle něj tuneluje poplatky do Anglie přes Radiokomunikace prodané Britům.
+  citace:
+  - text: Proto lítali Klaus s Mečiarem permanentně do Londýna, kde dostávali noty k rozdělení Československa.
+    cas: "01:03:58"
+  osoby:
+  - {osoba: vaclav-klaus, vztah: negativni, kontext: '„Lokaj“ City of London při rozdělení ČSFR'}
+  - {osoba: vladimir-meciar, vztah: negativni, kontext: '„Lokaj“ City of London při rozdělení ČSFR'}
+  - {osoba: rothschildove, vztah: negativni, kontext: 'Součást bankovního kartelu City of London'}
+  vazby:
+  - {na: zitko-2026-11-22-44, typ: posun}
+- id: zitko-2026-11-25-15
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Chřipka je „přirozený detox“ — žádné léky ani očkování, „vyležte to“ (Zítko, 25. 11. 2026)
+  text: Chřipka je podle Zítka (s odkazem na Herberta Sheltona, 1904) přirozený detoxikační proces těla
+    otráveného potravinami, léky či elektromagneticky; nemá se léčit ani očkovat, „neberte žádné léky a
+    vyležte to“. Nabízí kontakt na antiparazitikum ivermektin.
+  citace:
+  - text: Neberte žádné léky a počkejte, vyležte to, až to přejde, abyste detoxikovali vaše otrávené tělo.
+    cas: "01:07:39"
+- id: zitko-2026-11-25-16
+  typ: postoj
+  temata:
+  - media-propaganda
+  nadpis: Kritici jsou „idioti mácové semprové a další hovada“ placení farmaceutickou mafií (Zítko, 25. 11. 2026)
+  text: Kritiky svých reklam na produkty Bevit (zejm. „Masaryka“) odmítá s tím, že jde o „boj proti
+    farmaceutické mafii“; kritici jsou „idioti mácové semprové a další hovada“ placená z peněz farmaceutického
+    průmyslu a jeho mazání vysílání je dílem „cenzora Cempera“. Pisatelům hrozí předáním „do Ostravy“ kvůli
+    poškozování firmy.
+  citace:
+  - text: Proti bilionům dolarů průmyslu, kde jsou placený všichni tyhle ty idioti mácové semprové a další hovada.
+    cas: "01:11:21"
+  osoby:
+  - {osoba: ivan-masaryk, vztah: negativni, kontext: 'Kritik jeho „vlasteneckého žebrání“'}
