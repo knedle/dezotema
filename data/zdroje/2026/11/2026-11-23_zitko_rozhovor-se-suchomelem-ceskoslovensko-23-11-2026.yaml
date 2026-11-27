@@ -1,0 +1,338 @@
+zdroj:
+  id: 2026-11-23_zitko_rozhovor-se-suchomelem-ceskoslovensko-23-11-2026
+  mluvci: zitko
+  kanal: Československo TV2 (živé vysílání Petra Suchomela)
+  titul: 'Rozhovor s Pavlem Zítkem. Diskuze – otázky – řešení (Petr Suchomel, 23. 11. 2026)'
+  datum: 2026-11-23
+  url: https://m.facebook.com/watch/?v=1656972545867852&_rdr
+  prepis: prepisy/done/2026-11-23_Československo-TV2_31-reactions-6-comments-Petr-Suchomel-vysílala-živ.txt
+  delka: '02:04:30'
+  rezim: standard
+  poznamka: 'Dvouhodinová debata Petra Suchomela (moderátor, oponuje) s Pavlem Zítkem o obnově Československa.
+    Datum podle metadat (v přepisu neuvedeno; Zítko 21. 11. ohlašoval „nedělní debatu“, mohlo jít o 22. 11.).
+    Zpracována všechna témata (výběr „vše“). Stochastický teror: vojenské tribunály pro poslance vlád
+    Babiše a Fialy (jednoznačný), hraniční: „eliminace“ zločinců Deep State, schvalování údajných poprav,
+    EU jako „potomci nacistů“. Výrok „zaprodaná ČT půjde do hajzlu“ nezapsán (přání zániku instituce, ne
+    výzva k násilí). Podklady připravil agent, klíčové citace ověřeny v přepisu.'
+vyroky:
+- id: zitko-2026-11-23-01
+  typ: postoj
+  temata: [covid-vakciny, konspirace-ceskoslovensko]
+  nadpis: Covid jako útok biologickou zbraní; od léta 2021 je jediným řešením obnova Československa (Zítko, 23. 11. 2026)
+  text: |
+    Zítko popisuje svou cestu: po smrti matky v říjnu 2020 se věnoval covidu jako „útoku biologickou
+    zbraní“; kandidaturu v roce 2021 považuje zpětně za marnou a od léta 2021 je podle něj jedinou cestou
+    z „šlamastiky“ obnova právního státu Československé republiky.
+  citace:
+  - text: A velmi intenzivně jsem se zabýval touhletou problematikou COVID-19, útokem biologickou zbraní.
+    cas: "04:06"
+  vazby:
+  - {na: zitko-2026-11-21-05, typ: opakovani}
+- id: zitko-2026-11-23-02
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko, konspirace]
+  nadpis: Listopad 1989 jako dlouhodobě připravená operace StB, KGB a zahraničních služeb (Zítko, 23. 11. 2026)
+  text: |
+    Sametová revoluce byla podle Zítka „dlouhodobě připravovaná operace tajných služeb v čele s StB, KGB
+    i jinými zahraničními službami“. Jako doklady uvádí Ludvíka Zifčáka v roli „mrtvého studenta Šmída“,
+    placky Občanského fóra údajně k vidění už v roce 1988 a klip skupiny Mig 21/Miráž s Evou Farnou,
+    který na to podle něj „odkazuje“.
+  citace:
+  - text: Ukázala ten samet v tom reálným světle, že to byla dlouhodobě připravovaná operace tajných služeb, čele s StB, KGB i jinými zahraničními službami.
+    cas: "07:30"
+  osoby:
+  - {osoba: ludvik-zifcak, vztah: negativni, kontext: 'Agent StB v roli „mrtvého studenta“'}
+- id: zitko-2026-11-23-03
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Havel „třikrát křivě přísahal“ — právní rámec „korporace Česko“ je od začátku neplatný (Zítko, 23. 11. 2026)
+  text: |
+    Přechod 1989–1992 byl podle Zítka protiústavní: Havel jako prezident ČSSR jmenoval vládu jiného
+    státního útvaru (ČSFR), Čalfova vláda byla jmenována protiprávně a Havlův mandát skončil 4. 7. 1992,
+    aniž byly do 14 dnů vypsány volby. Havel tak „třikrát křivě přísahal třem různým subjektům“ a
+    jakýkoli právní rámec přijatý „v rámci korporace Česko“ je od začátku neplatný.
+  citace:
+  - text: Třikrát Havel křivě přísahal třema různým subjektům.
+    cas: "24:06"
+  osoby:
+  - {osoba: vaclav-havel, vztah: negativni, kontext: '„Křivě přísahal“ třem subjektům'}
+  - {osoba: marian-calfa, vztah: negativni, kontext: 'Jeho vláda jmenována protiprávně'}
+  vazby:
+  - {na: zitko-2026-10-25-10, typ: posun}
+- id: zitko-2026-11-23-04
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Rozdělení ČSFR jako protiprávní puč — podle zákona č. 11/1918 jsme stále Československá republika (Zítko, 23. 11. 2026)
+  text: |
+    Rozdělení federace bylo podle Zítka protiprávní — bez referenda podle ústavního zákona 327/1991 a bez
+    podpisu prezidenta; Klaus, Mečiar a Stráský k němu neměli mandát. Česká a Slovenská republika jsou
+    proto „neplatný konstrukt“ a podle zákona č. 11/1918 stále existuje Československá republika.
+    Suchomel oponuje, že zákon č. 11 byl jednorázový akt nahrazený pozdějšími ústavami, ale souhlasí, že
+    postup byl „nepořádek“.
+  citace:
+  - text: Referendum měli vypsat oni v roce 1992, protože to měli v ústavě a oni to neudělali, tudíž podle toho zákona 11 jsme stále Československá republika.
+    cas: "1:47:45"
+  osoby:
+  - {osoba: vaclav-klaus, vztah: negativni, kontext: 'Rozdělil ČSFR bez mandátu'}
+  - {osoba: jan-strasky, vztah: negativni, kontext: 'Podílel se na rozdělení'}
+  - {osoba: vladimir-meciar, vztah: neutralni, kontext: 'Vítěz voleb 1992 bez mandátu k rozdělení'}
+  - {osoba: suchomel, vztah: rozporuplny, kontext: 'Spoluautor deklarace, nyní oponuje výkladu zákona č. 11'}
+  vazby:
+  - {na: zitko-2026-10-25-05, typ: opakovani}
+- id: zitko-2026-11-23-05
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Reparace 29 bilionů Kč — „dva miliony korun na hlavu“ a „zálohová faktura“ na 14,7 miliardy (Zítko, 23. 11. 2026)
+  text: |
+    Rozdělením ČSFR podle Zítka „unikly“ Německu reparace ve výši 29 bilionů Kč (Konečná prý složený úrok
+    „vypočítala špatně“); na každého Čechoslováka připadají dva miliony korun. Každý má podle něj navíc
+    „zálohovou fakturu“ na 14,7 miliardy Kč; ministru financí Stanjurovi podali čestné prohlášení.
+    Vymáhat se to má „u vojenského tribunálu“.
+  citace:
+  - text: To je 29 bilionů korun.
+    cas: "1:01:11"
+  - text: Tak to je dva miliony korun na hlavu.
+    cas: "1:02:51"
+  osoby:
+  - {osoba: katerina-konecna, vztah: negativni, kontext: 'Reparace „vypočítala špatně“'}
+  - {osoba: zbynek-stanjura, vztah: neutralni, kontext: 'Adresát čestného prohlášení'}
+  vazby:
+  - {na: zitko-2026-11-21-11, typ: posun}
+- id: zitko-2026-11-23-06
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon, konspirace-ceskoslovensko]
+  nadpis: Státy jsou korporace od roku 1871 — mírová smlouva USA–Rusko–Čína znamená „konec korporací a Deep State“ (Zítko, 23. 11. 2026)
+  text: |
+    USA, Německo, Polsko, Česko i Slovensko jsou podle Zítka registrované korporace (od „podvodu
+    Rothschildů“ v roce 1871, později Deep State). USA se vracejí k republice z roku 1776 a mírová smlouva
+    Ruska, USA a Číny má znamenat konec korporací i Deep State. Odvolává se mj. na Igora Matoviče
+    („5,5 milionu akcionářů“) a Štefana Harabina (zákony po roce 1992 jsou nulitní).
+  citace:
+  - text: Znamená to konec korporacejí a konec Deep State.
+    cas: "37:51"
+  osoby:
+  - {osoba: igor-matovic, vztah: neutralni, kontext: 'Citován jako zdroj k „akcionářům“'}
+  - {osoba: stefan-harabin, vztah: pozitivni, kontext: 'Zdroj tvrzení o nulitě zákonů po 1992'}
+  vazby:
+  - {na: zitko-2026-11-21-03, typ: opakovani}
+- id: zitko-2026-11-23-07
+  typ: tvrzeni
+  temata: [covid-vakciny]
+  nadpis: „Vakcinační holokaust“ — vlády Babiše a Fialy „pozabíjely spoustu lidí“, porodnost −30 % „vinou zaočkovaných žen“ (Zítko, 23. 11. 2026)
+  text: |
+    Vakcinace propagovaná Babišovou i Fialovou vládou podle Zítka „pozabíjela spoustu lidí“ a ještě více
+    zranila; vlády tím ztratily právní i morální právo vést zemi kvůli „zločinům vakcinačního holokaustu,
+    genocidy národa a sterilizace“. Porodnost podle něj za čtyři roky klesla o 30 %, „vinou zaočkovaných
+    žen“; vše označuje za „akt masových vražd, genocidy národa“.
+  citace:
+  - text: Ztratili jakýkoliv právo, jak právně, tak i morálně vést tuto zemi právě kvůli zločinům vakcinačního holokaustu, genocidy národa a sterilizace lidí.
+    cas: "34:54"
+  osoby:
+  - {osoba: andrej-babis, vztah: negativni, kontext: 'Jeho vláda propagovala „vakcinační holokaust“'}
+  - {osoba: petr-fiala, vztah: negativni, kontext: 'Jeho vláda propagovala „vakcinační holokaust“'}
+  vazby:
+  - {na: zitko-2026-07-15-01, typ: posun}
+- id: zitko-2026-11-23-08
+  typ: postoj
+  temata: [konspirace-deep-state-qanon, konspirace-ceskoslovensko]
+  nadpis: O obnově ČSR rozhodnou vítězné mocnosti, EU je „poražená“; partneři jsou USA, Rusko a Čína, ne Babiš (Zítko, 23. 11. 2026)
+  text: |
+    O obnově Československa se podle Zítka rozhodne na úrovni vítězných mocností (USA, Rusko, Čína —
+    summit v Šen-čenu, kde Evropu „zastupoval“ Putin). Trump podle něj definoval rámec pro vyřešení
+    války do ledna 2027. EU bude mezi poraženými mocnostmi, „s nima už se nikdo bavit nebude“; mandát
+    má patřit Čechoslovákům, ne Babišovi. Suchomel pochybuje, že to tvrdí někdo kromě Zítka.
+  citace:
+  - text: Evropská unie nebude ta, která bude rozdávat karty, jo, která bude patřit mezi vítězné mocnosti. S nima už se nikdo bavit nebude.
+    cas: "1:52:05"
+  osoby:
+  - {osoba: donald-trump, vztah: pozitivni, kontext: 'Definoval rámec pro mír, vítězná mocnost'}
+  - {osoba: vladimir-putin, vztah: pozitivni, kontext: 'Partner pro obnovu ČSR'}
+  - {osoba: si-tin-pching, vztah: pozitivni, kontext: 'Vítězná mocnost, hostitel Šen-čenu'}
+  - {osoba: suchomel, vztah: rozporuplny, kontext: 'Pochybuje o věrohodnosti'}
+  vazby:
+  - {na: zitko-2026-10-25-06, typ: posun}
+- id: zitko-2026-11-23-09
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Probíhá „vojenská operace“ — Biden „popraven před nástupem“, úřadují dvojníci, Babiš „už vyměněn“ (Zítko, 23. 11. 2026)
+  text: |
+    Podle Zítka probíhá vojenská operace „osvobození lidstva“ pod vedením Trumpa jako vrchního velitele
+    (salutování generálům, kreslení „Q“); 80 % operací není vidět, závěrečných 20 % ano. Joe Biden byl
+    podle něj „popraven ještě před nástupem do funkce“ a úřadují dvojníci; také Babiš, Petr Pavel a Fiala
+    jsou údajně vyměněni („Central Casting“). Mluví i o tom, zda tu nejsou „mimozemšťani, reptiliáni nebo
+    dvojníci“.
+  citace:
+  - text: Joe Biden byl popraven ještě před nástupem do funkce a vidíš to na první pohled, že úřadují dvojníci, že je to operace armády.
+    cas: "1:15:09"
+  - text: Jestli jsou tady nějaký mimozemštani, reptiliáni, nebo dvojníci.
+    cas: "1:54:13"
+  osoby:
+  - {osoba: donald-trump, vztah: pozitivni, kontext: 'Vrchní velitel „vojenské operace“'}
+  - {osoba: joe-biden, vztah: negativni, kontext: 'Údajně popraven, nahrazen dvojníkem'}
+  - {osoba: andrej-babis, vztah: negativni, kontext: '„Už byl vyměněnej“'}
+  - {osoba: petr-pavel, vztah: negativni, kontext: '„Není původní“'}
+  - {osoba: petr-fiala, vztah: negativni, kontext: 'Údajně nahrazen dvojníkem'}
+  vazby:
+  - {na: zitko-2026-10-25-07, typ: posun}
+- id: zitko-2026-11-23-10
+  typ: tvrzeni
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Demokraté zfalšovali volby v USA, Trump a armáda je „pochytají“ — za podvod je trest smrti (Zítko, 23. 11. 2026)
+  text: |
+    Podle Zítka pro demokraty v amerických volbách hlasovalo víc lidí, než je obyvatel; Trump a armáda se
+    na podvod připravili, aby pachatele „pochytali“, a mají na to 45 dní od 4. listopadu. Volební podvod
+    je „velezrada a vlastizrada a je tam trest smrti“.
+  citace:
+  - text: Pro demokraty hlasovalo víc lidí, než je tam obyvatel.
+    cas: "1:16:52"
+- id: zitko-2026-11-23-11
+  typ: postoj
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Spor se Suchomelem — „sjednocená většina“ a přípravný výbor vs. vítězné mocnosti (Zítko, 23. 11. 2026)
+  text: |
+    Suchomel navrhuje přípravný výbor a „sjednocenou většinu“ proti chudnutí a digitální identitě a
+    Zítkovo řešení nazývá „pohádkami“ a „kabaretem“. Zítko to odmítá: Suchomel podle něj „adoruje režim“,
+    působí „neinformovaně“ a spolupráce s lidmi, kteří jsou „spolupracovníky policie a StB“, nepřipadá v
+    úvahu. Dohodli se na pokračování debaty po Vánocích.
+  osoby:
+  - {osoba: suchomel, vztah: rozporuplny, kontext: 'Dřívější spolupracovník, nyní oponent'}
+  vazby:
+  - {na: zitko-2026-11-21-13, typ: posun}
+- id: zitko-2026-11-23-12
+  typ: tvrzeni
+  temata: [konspirace-ceskoslovensko, suverenita-eu]
+  nadpis: Československo nikdy nebylo členem EU ani NATO (Zítko, 23. 11. 2026)
+  text: |
+    Setrvání „Česka“ v EU a NATO je podle Zítka „nekompatibilní s Československem“, které členem nikdy
+    nebylo; Rusko podle něj chce návrat ke stavu před rokem 1997. Suchomel namítá, že Rusku jde jen o
+    bezpečnostní pásmo, ne o obnovu ČSR.
+  citace:
+  - text: Česko a setrvání tam je nekompatibilní s Československem a opakuju to naposledy, nebyli jsme nikdy členem EU ani NATO.
+    cas: "1:41:02"
+- id: zitko-2026-11-23-13
+  typ: postoj
+  temata: [konspirace-ceskoslovensko, politicky-system]
+  nadpis: Volby 20 let falšovány přes Smartmatic a Dominion — řešením jsou volby na blockchainu bez stran (Zítko, 23. 11. 2026)
+  text: |
+    Podle Zítka „20 let funguje podvod ve volbách“ přes systémy Smartmatic a Dominion; transparentní mohou
+    být jen volby na technologii blockchain, „bez politiků a politických stran“. Připomíná, že mu při
+    prezidentské kandidatuře 2022 upřeli nahlédnout do podpisových archů a že byl „protiprávně uvězněn na
+    110 dnů“; sám prezidentem být nechce.
+  citace:
+  - text: Jedině volby na technologii blockchain, který jsou zkontrolovatelný a nesinknutelný, mohou být transparentní.
+    cas: "1:33:32"
+- id: zitko-2026-11-23-14
+  typ: postoj
+  temata: [media-propaganda, covid-vakciny]
+  nadpis: ČT dostala za covidu 4,2 mil. dolarů z USA a má odškodnit pozůstalé (Zítko, 23. 11. 2026)
+  text: Opakuje, že ČT dostala „4,2 miliony dolarů z Ameriky“, aby o vakcínách referovala pozitivně, a má platit odškodnění; až „zaprodaná ČT půjde do hajzlu“, obnoví se Československá televize. Facebook mu prý omezuje dosah.
+  vazby:
+  - {na: zitko-2026-11-13-05, typ: opakovani}
+- id: zitko-2026-11-23-15
+  typ: predikce
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Do Vánoc bude vidět „vojenská operace“ a nastolení vojenského stanného práva (Zítko, 23. 11. 2026)
+  text: Zítko předpovídá, že do Vánoc (45 dní od 4. 11.) bude „vojenská operace“ viditelná i pro skeptiky a bude nastoleno vojenské stanné právo.
+  citace:
+  - text: Do Vánoc to budeš vidět i ty, protože ty si tyhle těch věcí nevšímáš a bude nastolený vojenský staný právo.
+    cas: "1:16:27"
+  vazby:
+  - {na: zitko-2026-11-21-12, typ: opakovani}
+  predikce:
+    horizont: do Vánoc 2026 (45 dní od 4. 11.)
+    horizont_do: 2026-12-24
+    stav: ceka
+- id: zitko-2026-11-23-16
+  typ: predikce
+  temata: [valka-ukrajina-prubeh, konspirace-ceskoslovensko]
+  nadpis: Mír Rusko–Ukrajina do začátku ledna 2027, na stole obnova poválečného uspořádání „až po východní Berlín“ (Zítko, 23. 11. 2026)
+  text: |
+    Ukrajina má podle Zítka „do začátku ledna okno“ k mírové dohodě s Ruskem (Trumpův rámec do ledna
+    2027); v rámci poválečného uspořádání pak bude na stole obnova Československa a uspořádání „až po
+    východní Berlín“.
+  citace:
+  - text: Ukrajina má do začátku ledna okno, aby uzavřela mírovou dohodu s Ruskem.
+    cas: "1:48:40"
+  vazby:
+  - {na: zitko-2026-11-18-05, typ: opakovani}
+  predikce:
+    horizont: do začátku ledna 2027
+    horizont_do: 2027-01-15
+    stav: ceka
+- id: zitko-2026-11-23-17
+  typ: predikce
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Slovensko čeká návrat do Československa, nebo „asimilace s Maďary“ (Zítko, 23. 11. 2026)
+  text: Pro Slovensko podle Zítka v rámci práva národa na sebeurčení existují jen dvě možnosti — návrat a obnova Československa, nebo asimilace s Maďary. Prezidentku Čaputovou zmiňuje v souvislosti se Slovenskem jako „krajinou“, ne právním státem.
+  citace:
+  - text: Buď zpět vzití a obnovat Československa to, co už se stalo po druhé světové válce, a nebo asimilace z Maďary.
+    cas: "52:54"
+  predikce:
+    horizont: neurčeno
+    stav: ceka
+- id: zitko-2026-11-23-18
+  typ: predikce
+  temata: [konspirace-ceskoslovensko]
+  nadpis: Lidem budou vrácena aktiva a reparace „dva miliony na hlavu“ jako důsledek vojenské operace (Zítko, 23. 11. 2026)
+  text: Zítko očekává, že v důsledku „vojenské operace“ budou lidem vrácena aktiva (kolaterální účty) a vyplaceny reparace ve výši dvou milionů korun na osobu.
+  predikce:
+    horizont: neurčeno (po „vojenské operaci“)
+    stav: ceka
+- id: zitko-2026-11-23-19
+  typ: stoch-teror
+  temata: [covid-vakciny, politicky-system]
+  nadpis: Poslanci vlád Babiše i Fialy „patří před vojenské tribunály“ za „genocidu národa“ (Zítko, 23. 11. 2026)
+  text: |
+    V souvislosti s covidovými opatřeními a vakcinací požaduje pro poslance vlád Babiše a Fialy vojenské
+    tribunály a uplatnění vojenského práva; Suchomelovi vyčítá, že „adoruje režim“, který „zabíjel a
+    mrzačil lidi“ a jenž „musí skončit u vojenského tribunálu“.
+  citace:
+  - text: Naopak patří před vojenské tribunály všichni poslanci vlády, jak Andreje Babiše, tak Petra Fialy, který byli aktivně účastni ve vyhlazování, to je jiný název pro genocidu národa a proto je potřeba využít vojenské právo.
+    cas: "43:25"
+  - text: Uznáváš a adoruješ režim, který tady prokazatelně zabíjel a mrzačel lidi … Tohle prostě musí být a skončit u vojenského tribunálu.
+    cas: "1:50:20"
+  osoby:
+  - {osoba: andrej-babis, vztah: negativni, kontext: 'Poslanci jeho vlády patří před vojenský tribunál'}
+  - {osoba: petr-fiala, vztah: negativni, kontext: 'Poslanci jeho vlády patří před vojenský tribunál'}
+  vazby:
+  - {na: zitko-2026-11-21-23, typ: opakovani}
+  teror:
+    terc: poslanci vlád Andreje Babiše a Petra Fialy
+    hranicni: false
+- id: zitko-2026-11-23-20
+  typ: stoch-teror
+  temata: [konspirace-deep-state-qanon]
+  nadpis: „Zločinci Deep State budou eliminováni všichni“, korporátníky „likvidujou“ (Zítko, 23. 11. 2026)
+  text: Schvalujícím tónem popisuje údajnou „likvidaci“ korporátníků jako zástupců Deep State po celém světě a jejich eliminaci až „do nižších úrovní“. Terč je vágně vymezená skupina — hraniční případ.
+  citace:
+  - text: Korporátníky všude na světě jako zástupce Deep Stateu likvidujou tak, aby osvobodili lidstvo.
+    cas: "1:20:37"
+  - text: Teď se bude postupovat do nižších úrovní tak, aby byly zločinci Deep Stateu eliminováni všichni.
+    cas: "1:52:27"
+  teror:
+    terc: „zločinci Deep State“, korporátníci
+    hranicni: true
+- id: zitko-2026-11-23-21
+  typ: stoch-teror
+  temata: [konspirace-deep-state-qanon]
+  nadpis: Schvalování údajných poprav — Biden, „zrádci“ v areálu Bílého domu, trest smrti za volební podvod (Zítko, 23. 11. 2026)
+  text: Tvrdí, že už byli popravováni političtí „zrádci“ v areálu Bílého domu i Biden a že za volební podvod demokratů hrozí trest smrti; popravy líčí souhlasně jako součást „osvobození“. Hraniční případ.
+  citace:
+  - text: Podobně byly popravováni už areálu Bílýho domu, ty zráci, který tam byly, protože podvod ve volbách je opět velezrada a vlastizrada a je tam trest smrti.
+    cas: "1:17:15"
+  osoby:
+  - {osoba: joe-biden, vztah: negativni, kontext: 'Údajně popraven'}
+  teror:
+    terc: američtí demokraté / „zrádci“, Joe Biden
+    hranicni: true
+- id: zitko-2026-11-23-22
+  typ: stoch-teror
+  temata: [suverenita-eu]
+  nadpis: EU jako „uskupení potomků, vnuků nacistů a fašistů“ (Zítko, 23. 11. 2026)
+  text: Evropskou unii označuje za „uskupení potomků, vnuků, nacistů a fašistů“ a „spolupracující subjekt se státy adorujícími fašismus a nacismus na Ukrajině“. Dehumanizující označení bez výzvy k násilí — hraniční případ.
+  citace:
+  - text: Není stát, to je uskupení potomků, vnuků, nacistů a fašistů.
+    cas: "1:42:52"
+  teror:
+    terc: Evropská unie a její představitelé
+    hranicni: true

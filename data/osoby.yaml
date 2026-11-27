@@ -2836,7 +2836,8 @@ osoby:
   sledovany: false
   vlastni_stranka: false
 - slug: suchomel
-  jmeno: Suchomel
+  jmeno: Petr Suchomel
+  popis: Moderátor Československo TV2, spoluautor „deklarace“ obnovy Československa.
   sledovany: false
   vlastni_stranka: false
 - slug: sas-z-trencina
@@ -2947,5 +2948,9 @@ osoby:
 - slug: ilona-svihlikova
   jmeno: Ilona Švihlíková
   popis: Ekonomka.
+  sledovany: false
+  vlastni_stranka: false
+- slug: marian-calfa
+  jmeno: Marián Čalfa
   sledovany: false
   vlastni_stranka: false
