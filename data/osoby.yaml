@@ -2954,3 +2954,9 @@ osoby:
   jmeno: Marián Čalfa
   sledovany: false
   vlastni_stranka: false
+- slug: olaf-scholz
+  jmeno: Olaf Scholz
+  aliasy: [Scholz]
+  popis: Bývalý německý spolkový kancléř (2021–2025)
+  sledovany: false
+  vlastni_stranka: false

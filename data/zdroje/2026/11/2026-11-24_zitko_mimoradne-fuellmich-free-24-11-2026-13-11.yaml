@@ -1,0 +1,96 @@
+zdroj:
+  id: 2026-11-24_zitko_mimoradne-fuellmich-free-24-11-2026-13-11
+  mluvci: zitko
+  kanal: Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+  titul: 'Mimořádné vysílání: Dr. Reiner Fuellmich FREE (24. 11. 2026, 13:11)'
+  datum: 2026-11-24
+  cas: '13:11'
+  url: https://m.facebook.com/watch/?v=2609815356205745&_rdr
+  prepis: prepisy/done/2026-11-24_Československo-TV2_14-reactions-jana-peterkova-official-3-vysílala-ži.txt
+  delka: '00:30:06'
+  rezim: standard
+  poznamka: 'Krátké mimořádné vysílání, zhruba polovinu tvoří písně pro Fuellmicha a převzatá zpráva
+    z YouTube streamu Rogera Bittela. Zpracována všechna témata (na pokyn uživatele „zpracuj“).
+    Stochastický teror: hraniční — „sráči z Trenčína“ a „idioti hejterský, na ně taky přijde řada …
+    je potřeba to vyčistit úplně všechno“. Ověřeno v přepisu.'
+vyroky:
+- id: zitko-2026-11-24-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  - konspirace-deep-state-qanon
+  podtema: Reiner Fuellmich
+  nadpis: Fuellmich bude propuštěn po dvou třetinách trestu — „bondovský únos z Mexika“ a „bojovník proti COVID mafii číslo 1“ (Zítko, 24. 11. 2026)
+  text: |
+    Podle zprávy převzaté od Rogera Bittela soudce ve věznici v Lingenu oznámil Reineru Fuellmichovi, že
+    nemá námitky proti jeho propuštění po odpykání dvou třetin trestu, pokud se neodvolá státní zástupce.
+    Zítko uvěznění označuje za protiprávní, „na základě křivých obvinění“ — Fuellmicha podle něj německá
+    tajná služba vylákala na ambasádu v Mexiku a „bondovsky“ unesla do Německa. Fuellmicha nazývá
+    „bojovníkem světovým číslo 1 proti COVID-19 mafii“ a připomíná svou protestní nótu z roku 2024
+    adresovanou „tehdejšímu sluhovi Deep Statu“ Olafu Scholzovi.
+  citace:
+  - text: Jeho protiprávní uvěznění, jeho doslova bondovský únos z Mexika, kdy německá tajná služba ho vylákala na ambasádu pod záminkou, že má prošlej pás.
+    cas: "01:12"
+  - text: A adresoval jsem ji tehdejšímu sluhovi Deep Stateu a spolkovému kancléři Olafu Scholzovi.
+    cas: "23:38"
+  osoby:
+  - {osoba: reiner-fuellmich, vztah: pozitivni, kontext: '„Bojovník číslo 1 proti COVID mafii“, nespravedlivě vězněný'}
+  - {osoba: olaf-scholz, vztah: negativni, kontext: '„Sluha Deep Statu“, adresát Zítkovy protestní nóty'}
+  vazby:
+  - {na: zitko-2026-10-03-09, typ: posun}
+- id: zitko-2026-11-24-02
+  typ: postoj
+  temata:
+  - konspirace-deep-state-qanon
+  podtema: Plán a Central Casting
+  nadpis: Propuštění Fuellmicha jako součást „scénáře“ — „juliánské jedničky“, viditelných 20 % a 200 000 nahrazených v Central Casting (Zítko, 24. 11. 2026)
+  text: |
+    Zítko zdůrazňuje, že soudce přišel 24. 11., což je podle juliánského kalendáře 11. 11., „den, kdy jsou
+    tam samý jedničky“. Propuštění je podle něj součástí „scénáře“ změn při přechodu do „nového věku“:
+    „vrchní velitel armády aliance“ řekl, že 20 % z toho, co se bude dít, uvidíme, a ten čas „právě
+    nastal“. V rámci Central Casting bylo podle něj nahrazeno 200 000 jedinců po celém světě a události
+    sledujeme „v repríze“. Mainstreamová média budou zprávu blokovat — „důvěřujte plánu“.
+  citace:
+  - text: Vrchní velitel armády aliance vám řekl, že 20 % z toho, co se bude dít, určitě uvidíte, a ten čas právě nastal. Takže důvěřujte plánu.
+    cas: "27:44"
+  - text: Nestačí, že v rámci Central Casting bylo nahrazeno dvě stě tisíc jedinců po celém světě a vy ty události sledujete v repríze.
+    cas: "29:15"
+  vazby:
+  - {na: zitko-2026-11-07-05, typ: opakovani}
+- id: zitko-2026-11-24-03
+  typ: predikce
+  temata:
+  - covid-vakciny
+  - konspirace-deep-state-qanon
+  podtema: Reiner Fuellmich
+  nadpis: Fuellmich bude propuštěn už 25. 11., nejpozději do 1–2 týdnů, a na Díkůvzdání bude s manželkou (Zítko, 24. 11. 2026)
+  text: Fuellmich bude podle Zítka propuštěn bez omezení už 25. 11., odletí za manželkou Inkou a na Díkůvzdání
+    26. 11. bude mít „krůtu na stole“; v horším případě státní zastupitelství propuštění protáhne o týden,
+    maximálně o dva, ale „jde ven z vězení“.
+  citace:
+  - text: Horší scénář je, že státní zastupitelství to bude natahovat o týden, možná maximálně o dva, ale Rainer Fuellmich jde ven z vězení.
+    cas: "26:01"
+  osoby:
+  - {osoba: reiner-fuellmich, vztah: pozitivni, kontext: 'Očekává jeho brzké propuštění'}
+  predikce:
+    horizont: 25. 11. 2026, nejpozději do 1–2 týdnů (cca 8. 12. 2026)
+    horizont_do: 2026-12-08
+    stav: ceka
+- id: zitko-2026-11-24-04
+  typ: stoch-teror
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: Kritici jako „sráči z Trenčína“ a „idioti hejterský“ — „na ně taky přijde řada … je potřeba to vyčistit úplně všechno“ (Zítko, 24. 11. 2026)
+  text: |
+    Na závěr vysílání se obrací ke svým kritikům: „sráči z Trenčína“ podle něj zprávu nemohou poškodit
+    a „idioti hejterský“ se „odhalují na nižších úrovních“ — „na ně taky přijde řada“ a „je potřeba to
+    vyčistit úplně všechno“. Výhrůžka čistkou vůči vágně vymezené skupině kritiků v kontextu očekávaných
+    tribunálů — hraniční případ.
+  citace:
+  - text: A tihleti idioti hejterský, na ně taky přijde řada. To se nebojte, protože odhalujou se všichni na těch nižších úrovních a je potřeba to vyčistit úplně všechno.
+    cas: "28:56"
+  osoby:
+  - {osoba: sas-z-trencina, vztah: negativni, kontext: '„Sráči z Trenčína“'}
+  teror:
+    terc: kritici a „hejteři“ Zítkova vysílání („sráči z Trenčína“)
+    hranicni: true
