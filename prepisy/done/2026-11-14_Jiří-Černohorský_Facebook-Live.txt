@@ -1,0 +1,3932 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Jiří Černohorský
+URL:          https://www.facebook.com/61553793793504/videos/1749683132763324
+Datum videa:  2026-11-14
+Zpracováno:   2026-11-16 09:42:15
+Jazyk:        cs
+Délka:        01:52:24
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    1m 41s
+Přepis:       6m 5s
+Rychlost:     18.5x realtime
+Celkem:       7m 46s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] To se stane to, co má zázat, umlčet a jde tam brát.
+[03:31] To byste pánové a dámy, jsme směli srát.
+[03:52] Píde se nadávat.
+[04:00] Lucko.
+[04:12] Tak jo, přátelé, dělme na to.
+[04:15] Uděláme osvětlení, že už máme ty,
+[04:19] už se nám blíží o Vánoce, já vás zdravím.
+[04:26] Tak, já teďka vypnu motůrek.
+[04:31] A kdyby dá ho dobyla nějaká větší zima, tak ho zase zapnu.
+[04:35] Takže já vás všechny zdravím, teďka tady hnedka Lucinku, děkuju.
+[04:40] To je, nese hurá nadávat, to je strašný.
+[04:45] Mně tady pořád budou lidi.
+[04:47] Jirko, měl by se zmírnit.
+[04:49] Opradu ta vulgarita, víš, já tě mám ráda,
+[04:53] nebo chlape, já tě mám rád,
+[04:55] ale někdy to přeháníš.
+[04:58] A tady tě, první, co tady čtu, ráde se nadávat.
+[05:02] No je to to normální?
+[05:04] Tohle nejde normální.
+[05:09] Ješkový oči.
+[05:10] Takže přátelé, já vás všechny zdravím.
+[05:14] Já vás všechny zdravím.
+[05:16] Přeju vám hezkej večer.
+[05:17] Teď já normálně nevím, jestli je sobota, nebo co je za den pátek?
+[05:22] Ne, sobota.
+[05:24] Je sobota, takže přeju vám všem krásnou sobotu.
+[05:30] No a...
+[05:30] Kde se nadávat?
+[05:36] Ježišma, vidíte, jak strašně málo stačí k tomu,
+[05:40] aby najednou člověk měl hezkou náladu,
+[05:43] aby se zasmál.
+[05:44] Jo, to stačí těch pán přátel mít.
+[05:48] A já jich teda zrovna málo nemám, jako jo.
+[05:51] Za což já jsem strašně moc rád.
+[05:53] No a tedy přátelé, moji drazí, milí,
+[05:56] já vás všechny zdravím.
+[05:59] A co já to mám na srdíčku?
+[06:02] No tak samozřejmě ty události,
+[06:05] které se kolem nás dějí, tak jsou jednoznačný.
+[06:08] A já bych tady vlastně navázal
+[06:13] na slovenského europoslance,
+[06:16] pana Mazurka,
+[06:18] který totálně setřel tu naši totální tupaňu,
+[06:23] osobu, která je tak blbá,
+[06:27] že prostě to až tříská dveřma.
+[06:29] Ne, to ani dveřma netříská, jak je blbá.
+[06:33] A to byla Nerudová.
+[06:34] A pan Mazurek jako naprosto, naprosto geniální.
+[06:41] A super, super.
+[06:42] Mně se jeho projevy líbí.
+[06:44] Já toho borca jako uznávám rozhodně.
+[06:49] A za mě prostě, jak se říká, klobouček dolů.
+[06:53] Já jsem rád, že takovýhle člověk na tom Slovensku je,
+[06:58] že prostě on to tam totálně trhá na sračky.
+[07:02] Ale na cáry papíru, celý ten europarlament.
+[07:06] A Nerudovou notu totálně, ale totálně ztrapnil.
+[07:11] A přesně, přesně tohle se dneska odví v České republice.
+[07:16] Prostě fialovo, modro, žlutá banda.
+[07:20] Těch nejvíc skorumpovaných zločinců,
+[07:23] co vůbec kdy byly v České republice v politice.
+[07:28] Já se obávám, že to, co prostě, nebo já si spíš myslím,
+[07:33] že to, co předvedla tato stáv banda naprostých,
+[07:38] ale fakt naprostých zmrdu, dementů a nebezpečných hajzlů,
+[07:46] protože byl tam nebezpečnej hajzl, a to je Rakušan,
+[07:51] to je fakt takovej parchán, že to se v té politice jen tak nevidí.
+[07:58] A další, co si na něho teď chce trošičku hrát,
+[08:03] tak je nově zvolenej senátor Grolich.
+[08:06] To je taky pěknej zmrt.
+[08:09] Každopádně, to, co předvedla fialovo, modro, žlutá banda
+[08:13] těch nejskorumpovanějších politiků, a říkám, já se obávám,
+[08:18] že jsou víc korumpovaní, než bylo za doby, jak se to jmenovalo,
+[08:24] té kuponové privatizace, kdy tady prostě za pomocí nevím koho všeho
+[08:31] se rozprodal, ne rozprodal, doslova do pismene rozkradl,
+[08:36] rozkradl náš národní, náš národní majetek.
+[08:41] Fakt se obávám toho, nebo si spíš myslím,
+[08:44] že to, co tady předvedla ta fialovo, modro, žlutá banda
+[08:48] s tím debilem, co šel zjišťovat do Německa,
+[08:52] že teda tam mají levnější nutelu,
+[08:55] že tam nakoupí určitý nákupy vlastně stejných položek,
+[09:00] levnější v Německu, než u nás v České republice,
+[09:04] tedy toho idiota Fialy, který tenhle strapnej cirkus vedl,
+[09:10] tak to nemá období.
+[09:12] To nemá období za celých sedma třicet let
+[09:16] od toho podvodu,
+[09:19] ano podvodu, ale který prostě,
+[09:22] jak bych to řekl,
+[09:23] ten podvod se bohužel musel v určitém slova smyslu
+[09:27] nebo v určitém smyslu opravdu stát,
+[09:30] a to je zánik Česofere,
+[09:33] protože tady jsou určité indicie,
+[09:37] že vlastně, kdyby nedošlo tady k tomuhle zániku
+[09:42] a bohužel tedy rozdělení nás,
+[09:46] Čechů, Moravanů, Slezanů a našich bratrů ze Slovenska,
+[09:51] tak tady byl naplánovaný ten balkánskej scénář.
+[09:55] A věřte tomu, že oni toho byli schopni,
+[09:59] byli toho opravdu schopni,
+[10:01] a ta rádoby sametová revoluce,
+[10:03] tady tenhle ten podvod,
+[10:06] který připravoval samozřejmě západ
+[10:09] se skorumpovanýma parchantama z KSČ
+[10:13] a samozřejmě STB
+[10:15] a tady tyhle, co už viděli ty západní hodnoty,
+[10:19] a jak, ne, že my se budeme mít dobře,
+[10:23] ale jak oni se budou mít dobře.
+[10:25] Protože těmhle s těm zmrdům,
+[10:28] kteří se skutečnými komunisty
+[10:30] a skutečnými lidmi,
+[10:33] kteří chtěli budovat socialismus,
+[10:35] tak tyhle s tím neměli nic společného.
+[10:38] Jak říkal můj děda,
+[10:40] prostě mnoho a mnoho těch komunistů
+[10:44] chtěli, a můj dědeček byl komunista
+[10:47] a vstoupil do komunistické strany Československa.
+[10:51] A on tomu opravdu věřil
+[10:53] a dělal proto úplně všechno v tom svým životě.
+[10:56] Jenže pochopil, že prostě nemalá část,
+[11:01] jak to vždycky bývá,
+[11:03] tak se do tady těchhle struktur dostali prostě zmrdí.
+[11:07] Prostě bohužel tohle je lidstvo, co je lidstvem.
+[11:10] Budete mít lidi, kteří to mají v tom srdci,
+[11:14] chtěli by, aby se ty lidé měli dobře.
+[11:16] No a pak tady bude značná část takových parchantů,
+[11:20] kteří vždycky jakéhokoliv systému
+[11:22] prostě budou chtít zneužít, využít.
+[11:25] No a to samozřejmě bylo i mezi komunisty jednoznačně.
+[11:31] No takže můj děda,
+[11:32] který prostě fakt v tu myšlenku věřil,
+[11:35] tak nakonec to odešel,
+[11:37] roztrhal tu knížku,
+[11:38] poslal všechny ty, jak mu říkal,
+[11:40] prostě zloděje a hajzly,
+[11:42] poslal do patřičných míst.
+[11:44] No a to, co prostě se odehrálo,
+[11:48] odehrálo prostě v tom
+[11:49] osmdesátým, devátým,
+[11:52] no tak tohohle, co teďka říkám,
+[11:55] je jednoznačně důkazem.
+[11:57] Protože celé to bylo řízené,
+[11:59] naplánované
+[12:00] a to, co to vlastně znamenalo,
+[12:03] no tak to byla ta privatizace
+[12:05] našeho státního majetku.
+[12:07] To, co patřilo
+[12:08] nám všem lidem
+[12:10] a především dnešním seniorům,
+[12:12] kteří, to byli oni,
+[12:14] kteří vybudovali
+[12:16] to Československo.
+[12:18] Oni byli ti,
+[12:19] že jo, ti seniori byli ti,
+[12:20] naši rodiče a prarodiče,
+[12:23] kteří vybudovali
+[12:24] to Československo
+[12:25] doslova do pismené strosek.
+[12:28] Protože bylo bombardováno
+[12:30] na snad, já nevím,
+[12:31] 12, 12 těch našich měst,
+[12:34] kde byl ten průmysl, jo?
+[12:35] Američani se o to postarali samozřejmě.
+[12:39] Protože oni věděli,
+[12:41] že to padne do toho vlivu
+[12:43] té sovětského,
+[12:44] toho sovětského vlivu,
+[12:45] do toho socialistického bloku.
+[12:48] No a samozřejmě oni nepotřebovali,
+[12:50] aby ty špičkové technologie,
+[12:52] které tady tenkrát byly
+[12:53] a vyráběly se tady
+[12:55] však skvělé věci,
+[12:57] no tak, aby se navázalo
+[12:59] na tu předválečnou,
+[13:00] průmyslovou a chemickou
+[13:02] a vůbec tu výrobu těžkého průmyslu.
+[13:06] No tak tohle se Američanům
+[13:08] a západům nehodilo,
+[13:09] no tak to prostě tady rozjebali,
+[13:11] co to šlo,
+[13:12] vys, že jo?
+[13:13] Ten slavný generál Petrn,
+[13:15] který přišel do té škodovky
+[13:17] a viděl jdu rozbombardovanou
+[13:20] a řekl dobrá práce.
+[13:23] Takže od tohohle,
+[13:25] z toho prostě okamžiku
+[13:26] následně, říkám,
+[13:27] vybudovali naši předkové,
+[13:30] naši dneska senioři,
+[13:32] vybudovali Československo
+[13:33] a bez těhle z těch lidí,
+[13:36] bez těhle našich rodičů
+[13:38] a prarodičů
+[13:39] by tohle prostě nevzniklo.
+[13:42] By prostě tohle nevzniklo.
+[13:44] A to je jedna taková věc,
+[13:46] která mě naprosto dere nervy,
+[13:48] když dneska slyším
+[13:49] ty generace
+[13:50] polistopadus mamlus debilus,
+[13:53] demensis, kreténus,
+[13:55] jo, ty studenti,
+[13:56] místo toho, aby se opravdu učili
+[13:58] a snažili se zdokonalovat,
+[14:00] tak radši půjdou za
+[14:01] za idioty,
+[14:03] totální kretény stávkovat
+[14:05] a vyřvávat něco o tom,
+[14:07] že 205 korun
+[14:09] bez problému zvládne.
+[14:11] Opravdu ta inteligence
+[14:13] dnešních lidí
+[14:14] a dnešních těch mladých generací
+[14:16] naštěstí ne všichni.
+[14:17] Naštěstí ne všichni,
+[14:20] ale je to podle mě,
+[14:21] bohužel,
+[14:22] bohužel přátelé,
+[14:23] je to tak 70 na 30.
+[14:26] 70% dneska mladých lidí
+[14:28] polistopadus mamlus prostě
+[14:30] debilus,
+[14:32] totálně,
+[14:33] to jsou ty mileniálové
+[14:35] a generace Z
+[14:37] a já nevím, co všechno,
+[14:39] jo, já tomu nehovím,
+[14:40] prostě byly starší,
+[14:42] mladší generace,
+[14:43] dneska je to označkovaný
+[14:44] jako úplně všechno,
+[14:46] jako všichni se furt nějak značkujeme.
+[14:49] Tak tyhle mladí lidé,
+[14:50] to je naprostá katastrofa.
+[14:53] Naprostá katastrofa.
+[14:55] Takže bohužel prostě
+[14:57] jako budoucnost,
+[14:58] budoucnost,
+[14:59] naše budoucnost
+[15:00] a budoucnost našich dětí,
+[15:03] těch,
+[15:04] jenž prostě rodiče si uchovali
+[15:06] zdravé myšlení,
+[15:08] kritické myšlení,
+[15:10] tak moc světla podle mě nebude.
+[15:13] Nebude.
+[15:14] A to, co se dneska odehrává,
+[15:17] je toho naprosto jednoznačně důkazem.
+[15:19] A říkám,
+[15:21] já jsem ale rád,
+[15:21] že tady jsou mladí lidé,
+[15:23] který já třeba osobně znám,
+[15:26] takže jsou jiní naštěstí.
+[15:29] Že jsou jiní
+[15:29] a že díky za to,
+[15:32] že prostě přemýšlí
+[15:33] o těch věcech,
+[15:35] co jim kdo dává.
+[15:36] Protože,
+[15:37] jak jsem zmínil,
+[15:38] říct,
+[15:40] že 205 korun unesu
+[15:42] a jako ten student
+[15:43] a kde si cosi,
+[15:44] když naprostá většina z nich
+[15:46] nikdy žádný poplatky
+[15:48] nikdy ještě neplatila.
+[15:50] Protože to jsou mamánci,
+[15:51] že prostě platí to jejich rodiče.
+[15:54] Oni do toho ještě nedali ani korunu
+[15:56] a budou tady věco věřovávat.
+[15:58] To je prostě marnost nad marnost,
+[16:00] kdy prostě tohle myšlení
+[16:02] já to absolutně nesnáším.
+[16:04] Protože já zase
+[16:05] ještě na tu druhou stranu
+[16:06] znám lidi,
+[16:09] znám svobodné mámy,
+[16:10] ale i táty,
+[16:11] znám seniory,
+[16:12] invalidní duchoce,
+[16:13] pro kterých 205 korun
+[16:16] za měsíc
+[16:18] jsou třeba,
+[16:19] jak jsem to tam tomu debilovi napsal,
+[16:22] to je prostě třeba
+[16:23] oběd na sobotu
+[16:24] a na neděli.
+[16:25] Jo?
+[16:26] To je pro takovýho člověka,
+[16:28] pro svobodnou mámu
+[16:29] s dvěma dětma třeba
+[16:30] opravdu
+[16:31] 205 korun
+[16:33] je dnes,
+[16:34] je to naprosto šilený,
+[16:35] ale opravdu je to
+[16:37] klidě,
+[16:38] pidě oběd
+[16:39] na dva obědy
+[16:41] o víkendu třeba.
+[16:43] Jo?
+[16:44] Takže když tohle někdo napíše
+[16:45] zrovna tak,
+[16:46] jak já si to si pamatuju,
+[16:49] když jsem šel před
+[16:50] ruskou ambasádu,
+[16:52] když tam byli idioti,
+[16:53] kteří přejmenovali
+[16:56] tu ulici nad Lipami,
+[16:58] která ten název
+[16:59] nesla snad 160
+[17:00] nebo 170 let
+[17:03] a přišli tam ty
+[17:05] pičusové
+[17:06] jako hřib,
+[17:08] jako
+[17:09] tenkrát to byl
+[17:11] starosta
+[17:12] Praha Dejvice,
+[17:15] což byl
+[17:16] ten zrzavej zmr,
+[17:18] toho zrzavýho
+[17:18] zmrda z hradu,
+[17:20] jistý Ondřejíček
+[17:22] Kolář,
+[17:22] který dneska
+[17:23] tady tu špínu
+[17:24] eurohujerskou
+[17:25] propaguje
+[17:26] v evropským parlamentu,
+[17:28] tenhle zrzavej hajzl,
+[17:30] tak tenkrát
+[17:31] oni to tam
+[17:31] slavnostně šli
+[17:32] přejmenovat tu
+[17:34] ulici
+[17:35] nad Lipami
+[17:36] a přejmenovali to
+[17:38] na ulic
+[17:39] náměstí
+[17:40] nacisty
+[17:43] obyčejného
+[17:44] Vožungra,
+[17:45] Feťáka,
+[17:47] Borise Němcova,
+[17:48] děvkaře,
+[17:49] jo, prostě,
+[17:50] který mlátil
+[17:51] svojím ženu
+[17:52] a tak dále
+[17:52] a tak dále
+[17:53] prostě na tohohle
+[17:54] hajzla,
+[17:55] protože on nenáviděl
+[17:56] Putina,
+[17:57] tak prostě
+[17:58] přejmenovali
+[17:59] ty ulici
+[17:59] a já jsem tam tenkrát šel
+[18:01] a samozřejmě
+[18:03] jsem tam byl sám
+[18:05] a já jsem na ty akce chodil
+[18:07] naprosto běžně,
+[18:08] já jsem se tohohle nebál nikdy
+[18:10] a taky musím popravdě říct,
+[18:12] že vždycky,
+[18:13] vždycky,
+[18:14] protože mě policisté znali v Praze,
+[18:17] tak už věděli
+[18:18] i byli informováni,
+[18:20] že tam jde Jiří Černohorský,
+[18:22] takže byli na pozoru
+[18:24] a já jsem tam s těma idiotama debatoval
+[18:28] a když jsem tam tenkrát slyšel,
+[18:29] to byl Borec,
+[18:30] měl na sobě takovou čepicu,
+[18:32] pátračku
+[18:33] a ten kreté mě řekl,
+[18:35] že co já tady furt co chci,
+[18:37] vždyť my se máme,
+[18:39] jak jsme se nejlíp kdy měli,
+[18:41] jo,
+[18:42] takže tohle,
+[18:43] když já slyším kurva,
+[18:44] tak bych takovýho debila vzal
+[18:46] a chtěl bych,
+[18:48] aby jsem udělal takové setkání,
+[18:53] kde by třeba hovořili
+[18:54] invalidní důchodci,
+[18:56] senioři,
+[18:57] právě ty svobodné maminky
+[18:59] a tátové,
+[19:00] prostě jo,
+[19:01] nemocní lidé o tom,
+[19:03] nebo i bezdomovci o tom,
+[19:05] jak se nejlíp máme
+[19:07] v té České republice,
+[19:09] jo, to mě fakt fascinuje,
+[19:11] tady tyhle idioti
+[19:12] s těma večerničkovejma čepicama,
+[19:14] chudák náš večerníček,
+[19:16] ten z toho musí být úplně
+[19:18] nešťastný, jo,
+[19:19] protože večerníček,
+[19:21] který vidí toho zrzavýho hajzla,
+[19:23] jo,
+[19:24] za chvilku milion,
+[19:28] jo,
+[19:28] tady tohohle zrzavýho krypla mináře,
+[19:31] tak ten z toho fakt
+[19:33] musí být úplně nešťastný,
+[19:35] ten musí být úplně hotovej,
+[19:37] jak takovej krásnej náš symbol,
+[19:39] dětství,
+[19:40] symbol našeho dětství,
+[19:41] těch našich 50., 60., 70., 80.,
+[19:47] a dejme tomu ještě 90. let,
+[19:51] těch generací, ty roky,
+[19:53] protože to ještě ten svět byl
+[19:55] tak, jakž takž té České republice,
+[19:58] a tenkrát v tom Československu
+[20:00] ještě normální, jo,
+[20:02] my ty děti a tohle,
+[20:05] my jsme se na to těšili,
+[20:06] vždycky na ten večerníček,
+[20:08] prostě tak,
+[20:09] aby čistit zoubky a spát, že jo,
+[20:11] dneska už samozřejmě ty dětska
+[20:13] absolutně,
+[20:14] nějakej večerníček je prakticky skoro nezajímá,
+[20:17] když je k tomu ty rodiče nevedou,
+[20:19] dneska to má samej tablet,
+[20:21] umělá inteligence,
+[20:22] poátky,
+[20:23] Netflix,
+[20:24] nebo jak se to jmenuje,
+[20:25] ta sračka,
+[20:26] a další a další věci,
+[20:27] prostě,
+[20:28] tyhle symboly tady toho dětství,
+[20:30] prostě tohle už neexistuje,
+[20:32] proto ty dětska se taky takhle chovají,
+[20:34] proto vám klidně,
+[20:35] já nevím,
+[20:36] sedmiletej,
+[20:36] osmiletej kluk napadne ve škole učitelku,
+[20:40] nebo to nosí nože,
+[20:41] nebo se to tam šikanuje,
+[20:43] mlátí a tak dále,
+[20:44] a tak dále,
+[20:45] prostě to ty děti,
+[20:46] to s naším dětstvím nemá absolutně nic společného,
+[20:51] takže já když slyším takový slova,
+[20:53] jako že se máme nejlíp,
+[20:54] tak jak jsme se kdy měli,
+[20:56] tak a tohle,
+[20:58] kdo vysloví,
+[20:58] tak je za mě totálně,
+[21:00] totálně vypatlaný idiot,
+[21:02] totálně vypatlaný idiot.
+[21:05] No a teď říkám,
+[21:07] ty večernicko,
+[21:09] to jste určitě zaregistrovali,
+[21:11] že jo,
+[21:12] minář,
+[21:13] to se mně hrozně líbilo,
+[21:14] že když nic jinýho,
+[21:16] tak ty lidi nejsou přece jenom úplně,
+[21:20] úplně vygumovaný
+[21:22] a tomu zmrdovi,
+[21:25] tady tomu zrzavýmu zmrdovi,
+[21:29] to dali zežrat, jo.
+[21:32] Nicméně samozřejmě,
+[21:34] nepředpokládám,
+[21:35] že by to jako snížilo účast, jo,
+[21:39] té demokratické demonstrace
+[21:41] proti demokraticky a svobodně
+[21:44] zvoleným zástupcům vlády
+[21:47] Andreje Babiše, jo.
+[21:49] To je prostě neuvěřitelný.
+[21:51] Mně se hrozně,
+[21:52] to pokrytectví,
+[21:53] to, co, jo, to byl Fiala,
+[21:56] tady tenhle debil,
+[21:57] to byl ten zmrt Rakuša.
+[21:59] Jo, když se stávkovalo proti ním,
+[22:01] tak oni vyřvávali,
+[22:03] jak žádnej nátlak
+[22:04] a ničemu nepodlehnou tohle.
+[22:06] A teď přesně pravej opak
+[22:09] a grolich toho,
+[22:10] to je typický pičus
+[22:13] téhle z té dnešní doby,
+[22:15] který vám bude vykládat o tom,
+[22:18] že rozhodne ta ulice.
+[22:19] A že hlas z té ulice.
+[22:21] To je prostě neuvěřitelný.
+[22:24] To je neuvěřitelný.
+[22:26] Já vůbec nechápu
+[22:28] tady tuhle politickou garnituru,
+[22:31] protože oni,
+[22:32] oni si serou do rypáku.
+[22:33] Oni si serou sami sobě do rypáku.
+[22:38] Oni si myslí,
+[22:38] že všichni lidi, jo,
+[22:40] vlastně jsou ti,
+[22:41] jenž půjdou na tu letenskou pláň,
+[22:44] protestovat za to,
+[22:45] aby mohli platit,
+[22:46] aby mohli platit socialistický
+[22:49] koncesionárský poplatky
+[22:51] z dob zápotockýho,
+[22:55] z dob roku 1955, jo.
+[22:59] Oni vlastně horují
+[23:02] za tento socialistický výdobitek,
+[23:05] jo,
+[23:06] protože jenom tenhle
+[23:07] socialistický výdobitek
+[23:09] z toho roku 1955
+[23:12] zajistí,
+[23:14] zajistí jenom tu svobodu
+[23:16] a demokracii
+[23:18] a ty nezávislá média, jo.
+[23:21] Tenhle socialistický výdobitek
+[23:24] z roku 1955.
+[23:26] Ale při tom jedním dechem,
+[23:28] jedním dechem,
+[23:29] tady tyhle z tějí magoři,
+[23:30] kteří jsou schopni si dávat,
+[23:32] to je,
+[23:34] já nechápu,
+[23:35] jak dospělej člověk,
+[23:36] my jsme,
+[23:37] pamatujete,
+[23:38] a zase na to naše děství,
+[23:39] já bych nezapomněl,
+[23:40] kdo si to chce dávat
+[23:42] na tu palici,
+[23:43] pamatujete,
+[23:44] jak my jsme si hráli
+[23:45] na vojáky,
+[23:47] jak jsme si z novin
+[23:48] skládali tyhle čepice,
+[23:50] já si ještě pamatuju,
+[23:52] jak se do toho vršku,
+[23:53] do té čepice,
+[23:54] do té špičky,
+[23:56] jak se tam,
+[23:57] my jsme ještě dělali
+[23:58] takový třásničky,
+[23:59] pamatujete?
+[24:00] Takový,
+[24:01] jako z těch novin
+[24:02] se to nastříhalo,
+[24:03] jo,
+[24:03] takový kohoutek,
+[24:04] a to jsme si,
+[24:06] když nám bylo těch pět,
+[24:07] šest,
+[24:07] sedm let,
+[24:08] prostě,
+[24:09] tak jsme si hráli doma,
+[24:10] jo,
+[24:11] prostě,
+[24:11] nebo venku,
+[24:12] na ty vojáky,
+[24:13] prostě,
+[24:15] měli jsme sklacku,
+[24:16] jako ty samopaly,
+[24:17] jo,
+[24:18] to jsme,
+[24:18] to ještě kluci si hráli
+[24:20] klukovsky,
+[24:22] jo,
+[24:23] to si ještě hráli klukovsky,
+[24:25] to se bránili ty bunkry
+[24:27] a tak dále,
+[24:29] dneska,
+[24:29] bohužel,
+[24:30] dneska mobile
+[24:30] a tablety
+[24:33] a tady tyhle z ty nesmyslný
+[24:35] idiotský hry,
+[24:38] takže tenkrát jsme si ty čepice dělali,
+[24:40] ale to nám bylo,
+[24:40] říkám,
+[24:41] pět,
+[24:41] šest,
+[24:41] sedm,
+[24:42] možná ještě těch osm,
+[24:44] jo,
+[24:44] ale později nás tohle z toho pustilo
+[24:47] a už jsme se zase
+[24:48] orientovali na něco,
+[24:50] jako sport
+[24:51] a tyhle věci
+[24:51] a lození po stromech
+[24:53] a už jsme si tak úplně
+[24:54] zaznatý vojáky nehráli,
+[24:56] jo,
+[24:56] to vždycky bylo takový údobí
+[24:58] toho dětství.
+[24:59] A teď si představte,
+[25:00] že tyhle čepice si dneska
+[25:02] na hlavu nasadí
+[25:04] prostě
+[25:05] čtyricetiletej,
+[25:07] padesátiletej chlap,
+[25:11] jo,
+[25:11] to,
+[25:12] já si to,
+[25:12] já si to dovedu představit,
+[25:14] kdybych dělal nějaký,
+[25:16] fakt,
+[25:17] já mám moc rád děti,
+[25:18] takže já,
+[25:19] kdybych dělal,
+[25:20] když jsme byli
+[25:21] tenkrát s mojí kamarádkou Danou
+[25:23] v jedné škole
+[25:25] pro postižený dětí
+[25:26] v Ústí nad Labem,
+[25:27] tak já jsem si tam s nima
+[25:29] dana byla neuvěřitelná holka.
+[25:32] Ta, co dokázala připravit,
+[25:33] to si nedovedete představit.
+[25:35] Tak tam jsem si s těma dětma hrál
+[25:37] a různý hry
+[25:38] a tyhle věci,
+[25:39] takže si dovedu aj představit,
+[25:41] že vlastně tam bych třeba
+[25:42] měl tu
+[25:43] večerníčkovou čepici,
+[25:46] že bych tam dělal večerníčka
+[25:47] pro ty děti,
+[25:48] to si dovedu představit.
+[25:49] Ale nedovedu si představit,
+[25:52] abych ze sebe udělal
+[25:53] naprosto totální kundu,
+[25:55] ale totální kundu
+[25:56] a tuto čepicu,
+[25:58] tady tohle večerníčkovské,
+[26:00] tenhle symbol našeho dětství,
+[26:03] si nasadil na hlavu
+[26:05] s tím,
+[26:06] že bez placení
+[26:08] koncesionárského výpálného
+[26:11] zmizí svoboda slova,
+[26:14] svoboda názoru
+[26:15] v té skurvené české televizi.
+[26:18] Jako,
+[26:21] já to prostě,
+[26:22] já to fakt
+[26:23] absolutně nepobírám,
+[26:25] já to absolutně nepobírám,
+[26:28] že tohle,
+[26:29] že to,
+[26:30] já jsem viděl takový video
+[26:31] jedné slečny
+[26:32] nebo maminky,
+[26:33] já nevím,
+[26:34] která říká,
+[26:34] to je strašný,
+[26:35] co to,
+[26:36] mladá ženská to byla,
+[26:37] mladá buhta,
+[26:39] tak já nejím kolem třicítky,
+[26:41] že je úplně šílený,
+[26:43] že tady se nedemonstruje
+[26:44] za to,
+[26:45] že jsou vysoký nájmy,
+[26:46] tady se nedemonstrovalo
+[26:48] za to,
+[26:48] že Fialová pakáž
+[26:50] okradla seniory,
+[26:51] důchodce,
+[26:52] jo,
+[26:53] prostě o 40 papírů,
+[26:55] minimálně,
+[26:56] každýho jednoho důchodce
+[26:57] okradli
+[26:57] tyhle zmrdí zkurvení.
+[27:00] Rozkopadry páky,
+[27:01] hajzlům za to.
+[27:02] Ne,
+[27:02] za to se nedemonstrovalo.
+[27:04] Nedemonstrovalo se za to,
+[27:06] že tady je inflace jak prase,
+[27:08] protože ty zmrdy zastropovaly energie
+[27:11] tak, jak nikdo v celé Evropě,
+[27:14] jo,
+[27:15] aby šli na ruku těm našim zmrdům
+[27:17] miliardářským,
+[27:19] vole,
+[27:19] jo,
+[27:20] křetínským a tady těmhle týkačům
+[27:22] a těmhle hajzlům,
+[27:24] aby jim prostě dopřál ještě víc a víc
+[27:26] miliard,
+[27:28] vole.
+[27:28] Ne,
+[27:29] za to se nedemonstrovalo.
+[27:31] Ne,
+[27:31] v žádném případě.
+[27:32] Žrádlo drahý,
+[27:34] benzín,
+[27:34] nafta,
+[27:35] drahý,
+[27:36] všechno se zdražovalo.
+[27:38] Najmy neskutečný.
+[27:40] Byty drahý jako prase.
+[27:43] Na to nikdo nemá.
+[27:44] Na to nikdo z běžných lidí nemá.
+[27:48] Ne,
+[27:48] za to se nedemonstrovalo.
+[27:50] Ale půjde se demonstrovat za to,
+[27:53] aby tady se platilo
+[27:57] koncesionársky výpálný
+[27:59] pro tři tisíce parazitických hajzlů,
+[28:02] v české televizi.
+[28:05] Já teď nevím,
+[28:06] kdo to říkal.
+[28:08] Byl to pan Koler?
+[28:10] Nebo kdo to byl?
+[28:13] Nebo pan Ševčík?
+[28:16] Já teď nevím.
+[28:17] Viděl jsem video,
+[28:19] kde někdo hovořil o tom,
+[28:22] že z těch osmi miliard
+[28:24] jde plus minus
+[28:26] šest, pětset, padesát až šestset milionů
+[28:31] na takový ty věci
+[28:33] jako spravodajství,
+[28:35] debaty,
+[28:36] jo,
+[28:36] prostě na ty pořady.
+[28:38] Jako třeba Studio 6,
+[28:40] jo,
+[28:40] prostě na ty zprávy.
+[28:41] Takže na tohle,
+[28:42] z toho balíku,
+[28:44] osm a půl miliardy,
+[28:47] osm tisíc pětset milionů.
+[28:51] Tak šestset milionů maximálně,
+[28:54] jde na to spravodajství,
+[28:55] tady na tyhle věci.
+[28:56] Jo?
+[28:57] A to ostatní jde
+[28:59] neví se kam.
+[29:01] Neví se kam.
+[29:04] Protože ta česká televize
+[29:05] prostě nemá žádnou povinnost
+[29:09] nikomu dávat hospodářství,
+[29:13] sdělovat ty výsledky
+[29:15] toho hospodaření,
+[29:16] co, kam,
+[29:18] ty veřejné peníze,
+[29:19] protože to kurva nejsou jejich peníze,
+[29:21] to jsou veřejné peníze.
+[29:24] To je tohle výpálný,
+[29:25] protože to bylo prostě povinné
+[29:27] ze zákona platit.
+[29:30] Tak prostě kam ty prachy šly?
+[29:32] Protože za mě,
+[29:34] já jsem to už zmiňoval několikrát,
+[29:36] já vůbec nech,
+[29:37] já nevím, jestli ty lidi to viděli,
+[29:39] ale já bych jim to pustil.
+[29:41] Já bych fakticky,
+[29:42] kdyby to šlo,
+[29:43] jak kdybych byl hacker,
+[29:45] já kdybych byl ten
+[29:49] balšoj ruský malčik,
+[29:53] jo?
+[29:54] Ten ruský hacker, vole,
+[29:56] tak já bych jim to vysílání
+[29:58] tomu zrzavýmu zmrdovi
+[30:00] hacknul,
+[30:01] a já bych jim tam pustil,
+[30:03] místo,
+[30:04] nevím, jaké té významné osobnosti,
+[30:07] jako třeba
+[30:08] čuráka Čermáka,
+[30:10] jo?
+[30:12] Dobrý ráno,
+[30:13] čuráci,
+[30:14] jo?
+[30:14] On takhle zdraví ty svoje
+[30:16] ovce.
+[30:17] Takže tady tohle kreténa,
+[30:19] tak já bych to hacknul,
+[30:21] místo toho jeho projevu,
+[30:22] a já bych tam dal kanál
+[30:25] české televize YouTube,
+[30:28] Čiči na gauči.
+[30:30] Já bych jim to tam dal,
+[30:31] jo?
+[30:32] A dal bych jim tam tu znělku,
+[30:34] jak ten tranvestita,
+[30:36] odporný,
+[30:37] hnusnej,
+[30:39] odporná osoba,
+[30:40] odporná,
+[30:41] jak tam měl tu svoji znělku,
+[30:45] já jsem nějaká čiča,
+[30:47] nejsem žádná píča.
+[30:48] A tohle se platilo,
+[30:52] tenhle YouTube kanál,
+[30:53] české televize,
+[30:54] z těch koncesionárských poplatků.
+[30:57] Si to představte.
+[31:00] Toto bych jim tam pustil,
+[31:02] aby si to užili,
+[31:04] aby viděli,
+[31:05] co česká televize vysílá.
+[31:07] Notabene,
+[31:08] taky jsem viděl příspěvek,
+[31:10] že v 11 hodin,
+[31:11] tedy ve 23.00,
+[31:14] jo?
+[31:14] V tu dobu,
+[31:16] tady tato novinárská,
+[31:17] odporná žumpa,
+[31:19] která si říká
+[31:20] veřejno-právní médium,
+[31:23] tak někde v nějakém studiu,
+[31:24] to tam si to prej,
+[31:26] lajnovalo lajny z koksu,
+[31:29] a že se tam prej i někdo poblil.
+[31:32] A že to,
+[31:33] ta televize omlouvala tím,
+[31:35] že to bylo v 11 hodin.
+[31:40] Jako,
+[31:40] já jsem to neviděl,
+[31:41] já to neviděl.
+[31:43] Já nemám televizi,
+[31:44] jo?
+[31:45] Já nemám 11 let,
+[31:47] 12 let,
+[31:48] dneď se nezdívám na televizi,
+[31:50] a vůbec mě to nechybí.
+[31:54] A já prostě vůbec,
+[31:58] jako kultura tohoto,
+[32:01] takže,
+[32:02] já si to nedovedu představit.
+[32:05] Jak může,
+[32:06] jak může někdo říct,
+[32:07] že se poblil ve studiu
+[32:10] a oni si tam,
+[32:11] oni tam fetovali,
+[32:14] já tomu pořád nemůžu věřit normálně.
+[32:16] Já tomu fakt přesto,
+[32:18] jak já vím,
+[32:19] co to je za chamrať,
+[32:20] ta česká televize.
+[32:22] Vůbec ty lidi nechápu,
+[32:23] jak něčem takovým můžou pracovat.
+[32:25] Mě by z toho bylo nablití.
+[32:27] Mě by sám ze sebe bylo nablití.
+[32:32] Takže jestli toto je fakt pravdou,
+[32:34] že tam normálně
+[32:35] si házeli lajny koksu
+[32:37] a že tam normálně ty vole
+[32:40] fetovali,
+[32:42] jako,
+[32:42] a že tam se někdo pozvracel,
+[32:45] tak toto je ta kultura
+[32:46] té české televize.
+[32:51] Víte,
+[32:51] mě úplně stačí
+[32:52] ty vystřižky
+[32:54] těch videí,
+[32:55] jo,
+[32:55] prostě ukázka,
+[32:57] jo,
+[32:57] to vystříhne,
+[32:57] někdo vystřihne,
+[32:59] ať už tam je
+[33:00] Reichl,
+[33:01] ať je tam
+[33:02] Měrek Ševčík,
+[33:04] ať je tam dokoliv
+[33:04] z té současné
+[33:05] vládní koalice,
+[33:07] Macínka,
+[33:08] Turek samozřejmě,
+[33:10] a další a další,
+[33:12] jo,
+[33:12] Ondráček,
+[33:15] tak mě úplně stačí,
+[33:16] když tam prostě
+[33:17] kdokoliv tu debatu řídí
+[33:19] z té české televize,
+[33:21] a teď tam máte
+[33:22] ty jejich moderátory,
+[33:24] jak oni prostě nechají
+[33:26] vyzvracet,
+[33:27] doslova dopismené vyzvracet
+[33:29] všechny ty
+[33:29] naprostý tupý hňupy,
+[33:32] jako Šebelovou,
+[33:33] Richterovou,
+[33:34] Jakoba,
+[33:35] Bendu, vole,
+[33:36] a další a další
+[33:37] magory,
+[33:39] doslova dopismené,
+[33:40] totální magory,
+[33:43] jo,
+[33:43] z té fialovo,
+[33:44] modro, žluté,
+[33:45] skurvené opozice,
+[33:48] jak ty moderátoři
+[33:49] prostě jim nahrávají
+[33:50] na smeče
+[33:51] a ty věci,
+[33:52] doslova dopismené,
+[33:53] a nechají je vyšgrindat.
+[33:55] A jen co otevře hubu
+[33:57] někdo
+[33:57] z té vládní koalice,
+[33:59] tak ten moderátor
+[34:01] okamžitě do toho
+[34:02] šije, vole.
+[34:04] Prostě to,
+[34:05] a tomuhle někdo
+[34:06] fandí a říká,
+[34:07] jo, to je ta
+[34:09] vyváženost,
+[34:10] jo, to je ten
+[34:11] kodex té české televize.
+[34:14] Bože můj,
+[34:15] zrušte tu instituci.
+[34:17] Já nechci platit
+[34:18] ze svých daní
+[34:20] ani korunu
+[34:21] těmhle,
+[34:22] s těm skurveným,
+[34:24] zmrdům,
+[34:25] zaprodaným,
+[34:26] těm západním
+[34:27] evropským hodnotám.
+[34:29] Těmhle zmrdům,
+[34:30] kteří to oni tady
+[34:32] podporovali,
+[34:33] covid, vole.
+[34:33] Oni tady
+[34:34] tím strašením
+[34:36] donutili
+[34:37] na 4-5 milionů
+[34:39] lidí se jít
+[34:40] očkovat.
+[34:41] Týhle zmrdi,
+[34:42] kteří zpívali
+[34:43] v těch
+[34:44] televizních
+[34:45] šotech, vole,
+[34:46] s těma
+[34:47] stupidníma
+[34:48] respirátorama,
+[34:50] rouškama,
+[34:51] kteří se šili
+[34:51] doma
+[34:52] s kytičkama,
+[34:53] vole,
+[34:54] kteří
+[34:54] na ten
+[34:55] vir covidu
+[34:56] působili
+[34:57] asi jako
+[34:58] tenisová
+[34:58] raketa
+[34:59] proti komárům.
+[35:02] Tyhle lži,
+[35:03] tyhle podvody,
+[35:04] tyhle svinctva,
+[35:06] tyhle kurvy
+[35:07] šířili
+[35:08] do společnosti.
+[35:10] Ty, co jsou
+[35:11] v české televizi,
+[35:12] jeden vedle druhýho,
+[35:14] kdo se na tomhle
+[35:14] podílel,
+[35:16] tak ty jsou ti,
+[35:17] jenž
+[35:17] zabili ty lidi,
+[35:19] kteří se bájali
+[35:20] chodit do nemocnice
+[35:21] a zemřeli
+[35:22] díky zanedbané
+[35:23] lékařské péči.
+[35:25] Všechny tyhle
+[35:26] kurvy z té
+[35:27] české televize
+[35:28] jsou ti,
+[35:29] jenž mají
+[35:30] na rukou
+[35:31] tu krev
+[35:31] těch lidí,
+[35:32] tu smrt
+[35:33] těch lidí,
+[35:34] kteří prostě
+[35:35] se očkovali
+[35:36] jedním,
+[35:37] po druhým,
+[35:37] po třetí,
+[35:38] po čtvrtý
+[35:39] a ještě si byli
+[35:40] schopni dát
+[35:40] dva boostry,
+[35:42] vole.
+[35:43] Protože
+[35:43] ti zmrdi
+[35:44] strašili,
+[35:45] strašili,
+[35:45] strašili a
+[35:46] strašili.
+[35:49] Strašili.
+[35:51] Takže já
+[35:51] nechci platit
+[35:52] byť jedinou
+[35:53] korunu.
+[35:54] Nechci platit
+[35:55] byť jedinou
+[35:56] korunu
+[35:56] těmhle
+[35:57] hajzlům
+[35:58] z našeho
+[35:59] státního
+[36:00] rozpočtu.
+[36:01] To jsou
+[36:01] naše
+[36:02] prachy.
+[36:03] To jsou
+[36:03] peníze
+[36:04] za potraviny,
+[36:05] co nakupujeme,
+[36:06] za pohony
+[36:07] hmoty,
+[36:07] co nakupujeme,
+[36:08] samozřejmě
+[36:09] daně.
+[36:10] Prostě
+[36:11] já nechci,
+[36:13] nechci těm
+[36:14] hajzlům
+[36:14] platit ze
+[36:15] státního
+[36:16] rozpočtu
+[36:16] jedinou
+[36:17] korunu.
+[36:18] Už jsem viděl
+[36:18] spousty videí,
+[36:20] jo,
+[36:20] to není jenom
+[36:21] černohorský,
+[36:21] jsou to i další,
+[36:23] který říkají
+[36:23] zrušte
+[36:24] český
+[36:25] moloch.
+[36:26] zrušte
+[36:27] jednoznačně
+[36:28] zrušte
+[36:29] tyhle
+[36:29] svině.
+[36:31] Tečka,
+[36:32] úplně
+[36:33] khovnu
+[36:33] to je.
+[36:34] V téhle
+[36:35] kapitalistické
+[36:36] skurvené
+[36:37] době
+[36:37] nevidím
+[36:38] jedinej
+[36:39] důvod,
+[36:40] aby tady
+[36:41] někdo
+[36:41] podnikal
+[36:42] tímto
+[36:42] způsobem,
+[36:44] aby tady
+[36:44] jim byl
+[36:44] dotovaný
+[36:45] celý
+[36:46] ten jejich
+[36:47] život,
+[36:48] kurva,
+[36:49] prachy,
+[36:50] pořady,
+[36:50] všechno,
+[36:51] vole,
+[36:52] aby ředitel
+[36:52] měl
+[36:53] 12 megavole
+[36:54] ročně,
+[36:55] aby dostával
+[36:56] tenkrát
+[36:57] ten teplou
+[36:57] šmoravec,
+[36:58] ty vole,
+[36:58] 140 hadrů
+[37:00] za jeden
+[37:00] ten skurvenej
+[37:02] pořad
+[37:02] otázky
+[37:03] Václava
+[37:04] Moravce,
+[37:05] ty vole,
+[37:06] neuvěřitelný,
+[37:08] jestliže
+[37:09] tady máte
+[37:09] TV Nova
+[37:10] a TV Prima,
+[37:12] který taky
+[37:12] povětšinu
+[37:13] naprosto
+[37:13] nesleduju,
+[37:15] nemám na čem,
+[37:18] tak
+[37:18] jestliže
+[37:19] oni
+[37:20] tady
+[37:20] v tomhle
+[37:21] prostředí
+[37:21] dokážou
+[37:23] dokonce
+[37:24] mít i zisk,
+[37:25] já nevidím
+[37:26] jedinej důvod
+[37:27] proč by tady
+[37:29] měla být
+[37:29] postkomunistická
+[37:30] instituce
+[37:31] jako je
+[37:32] Česká televize
+[37:34] a tímto
+[37:36] způsobem
+[37:36] prostě to je
+[37:37] jak se to říká
+[37:39] to je
+[37:39] to je
+[37:41] nekalá
+[37:41] soutěž,
+[37:42] vole,
+[37:43] prostě oni
+[37:44] tady na tom
+[37:45] oni ten trh
+[37:46] Česká televize
+[37:46] ten trh
+[37:47] totálně pokřivuje,
+[37:49] totálně,
+[37:50] kde je
+[37:51] ta spravedlnost,
+[37:53] kde je
+[37:53] kurva
+[37:54] spravedlnost,
+[37:54] dejte to,
+[37:56] když to chcou
+[37:56] platit ty hovada,
+[37:58] tak to dejte
+[37:59] dobrovolně,
+[38:00] udělejte,
+[38:01] udělejte,
+[38:02] udělejme pokus,
+[38:04] Andreji Babiši,
+[38:05] udělejte pokus,
+[38:06] udělejte
+[38:07] takové
+[38:08] meziopatření
+[38:10] a dejte ty
+[38:11] poplatky
+[38:11] dobrovolně,
+[38:13] a já chci
+[38:14] vidět,
+[38:14] já chci
+[38:15] vidět,
+[38:16] kolik lidí,
+[38:17] kolik lidí,
+[38:19] jim to bude
+[38:19] platit,
+[38:22] tečka,
+[38:23] a to,
+[38:24] to budeme
+[38:24] čumět,
+[38:25] to budou čumět,
+[38:27] ani miliardu nevyberou,
+[38:29] ani miliardu nevyberou,
+[38:31] to vám garantuju.
+[38:33] Takže Česká televize,
+[38:34] zrušte tu instituci,
+[38:36] je úplně k hovnu,
+[38:38] úplně k hovnu,
+[38:40] není objektivní,
+[38:41] v žádném případě
+[38:42] není objektivní,
+[38:43] jsou to eurohujerský kurvy,
+[38:45] nic víc,
+[38:46] samá Evropská unie,
+[38:47] samej západ,
+[38:49] všechno,
+[38:49] co je od nás na západ,
+[38:51] je o květi bílé lilie,
+[38:53] vole,
+[38:53] je to naprosto v ažuru
+[38:55] dokonalý,
+[38:55] skvělý,
+[38:56] úžasný,
+[38:57] a jenom to Rusko,
+[38:59] jenom to Rusko,
+[39:00] je to nejhorší
+[39:01] satanista
+[39:03] všech dob,
+[39:04] ty vole,
+[39:05] to je neuvěřitelný,
+[39:05] neuvěřitelný,
+[39:07] jak když vidím
+[39:08] ty jejich pořady,
+[39:09] jak hovoří o tom,
+[39:10] jak ruští sportovci,
+[39:12] a kde si cosi,
+[39:13] a ty titulky vole,
+[39:14] ty sračky neskutečný,
+[39:17] ty neskutečný sračky,
+[39:19] já to přečtu,
+[39:20] teďka,
+[39:21] teď jsem blokoval naposledy
+[39:23] ekonomický,
+[39:25] ekonomický cosi,
+[39:27] to nebyl denník,
+[39:28] já nevím, co to byl,
+[39:29] další neskutečná sračka,
+[39:33] tak tož já to,
+[39:35] mě ten Facebook to dělá nashvál,
+[39:37] aby mě asi kleplo,
+[39:39] protože mě fakt posílají
+[39:40] prostě na tu zeď,
+[39:43] jedno to hovno vedle druhýho,
+[39:46] jedno hovno vedle druhýho,
+[39:48] Evropskou unii,
+[39:50] Petra Pavla vole,
+[39:51] tu jeho Fiflenu vole,
+[39:54] jo, která teďka si navlíkla rukavice,
+[39:56] aby asi nechytla,
+[39:58] já nevím co,
+[39:59] musela si oblíct
+[40:00] mykinu Evropské unie,
+[40:03] toto je,
+[40:04] tady ta stupidita,
+[40:06] ty vole,
+[40:06] co to je,
+[40:08] co se to kurva
+[40:09] s těma lidma stalo,
+[40:11] pane Bože,
+[40:12] za toho socana,
+[40:13] kdyby nám takhle někdo něco nutil,
+[40:17] kdyby nám to takhle někdo něco nutil,
+[40:20] tak naprostá většina
+[40:21] tehdejšího československého národa
+[40:23] to bude odmítat,
+[40:26] protože si budou říkat,
+[40:27] pane Bože,
+[40:28] proč,
+[40:28] proč,
+[40:29] jo,
+[40:29] prostě,
+[40:29] dneska ne,
+[40:31] dneska vůbec,
+[40:33] dva plus jedna zdarma,
+[40:35] vole,
+[40:35] jo,
+[40:36] prostě,
+[40:37] to je prostě strašný,
+[40:40] to,
+[40:40] co prostě předvádí česká televize,
+[40:43] to,
+[40:43] to,
+[40:44] co já slyším na těch náměství,
+[40:45] co jsou schopni ze sebe vypustit ty studenti,
+[40:49] vole,
+[40:49] a nejenom studenti,
+[40:51] to je naprost,
+[40:52] jo,
+[40:52] že to říkají herci,
+[40:54] že to říkají,
+[40:55] já teďka jsem mi pojmenoval KP,
+[40:57] koncesionářstí paraziti,
+[41:02] jo,
+[41:03] že to říkají oni,
+[41:04] no jasně,
+[41:06] oni z těch 8 miliard jsou živení,
+[41:09] oni jsou z těch 8 miliard živení,
+[41:10] 8 a půl miliardy jsou živení,
+[41:12] proto jsou na prášky,
+[41:14] proto přátelé,
+[41:16] já furt na to čumím jako blázen,
+[41:19] Oldřich Kaiser,
+[41:21] on za dob covidu,
+[41:23] a to měl takový takový názory,
+[41:25] že člověk nechápal,
+[41:26] a já pořád ve mně,
+[41:29] víte,
+[41:29] ve mně je furt takový to,
+[41:30] že nakonec ten Olda ty vole vystoupí s tím,
+[41:33] jak nás všechny podělal,
+[41:35] já prostě pro mě,
+[41:37] protože to je naprosto ojediněný názor,
+[41:41] jo,
+[41:41] jako třeba Ivan vyskočil,
+[41:43] to je další takovej,
+[41:44] to málo kdy jako,
+[41:46] jako,
+[41:47] Ježiš Maria,
+[41:50] Vašut,
+[41:51] jo,
+[41:52] a ještě,
+[41:53] ještě ten další,
+[41:55] to je pár herců,
+[41:57] který napočítáte maximálně,
+[41:59] na maximálně,
+[42:00] na prstech obou rukách,
+[42:03] kteří se do tohohle nezapojujou,
+[42:05] takže mě jako osobně Oldřich Kaiser
+[42:08] víc než překvapil,
+[42:10] fakt, že jo,
+[42:12] a pořád,
+[42:12] já tomu tak nějak nemůžu věřit,
+[42:15] a pořád si říkám,
+[42:17] jestli on fakt s tím nakonec jako,
+[42:21] nevyleze a neřekne tak,
+[42:23] a já jsem vás,
+[42:24] já jsem viděl další videa,
+[42:26] prostě,
+[42:26] já jsem to viděl,
+[42:27] jo,
+[42:28] prostě fakt všechno,
+[42:29] nám to tak říká Olda jako,
+[42:32] klobou dolů,
+[42:33] ale pořád já tam mám takový,
+[42:35] takovou špětku si říkám,
+[42:36] ty vole, nedělá si,
+[42:38] on zná zlegraci,
+[42:40] ale může to být fakt,
+[42:42] může to být fakt pravda,
+[42:43] že ten člověk prostě,
+[42:45] si nevysrál ten mozek z hlavy
+[42:48] a chápe,
+[42:49] co se tady děje,
+[42:51] jo,
+[42:51] když se tady mluví o tom,
+[42:53] o té svobodě slova,
+[42:54] svobodě projevu,
+[42:55] jo,
+[42:56] co je česká televize zač,
+[42:59] třeba jako on opravdu,
+[43:00] jo,
+[43:01] to takhle vidí,
+[43:02] což teda jako,
+[43:03] pane bože,
+[43:04] díky bohu za to,
+[43:06] takže česká televize,
+[43:08] ne, ne, ne, ne, ne,
+[43:10] jestliže Nova Prima tady jedou
+[43:12] 500, 700 zaměstnanců,
+[43:14] nevidím jedinej důvod,
+[43:16] proč v tomhle,
+[43:16] v tom kapitalistickým prostředí,
+[43:20] má být tenhle,
+[43:20] ten skurvený moloch
+[43:21] české televize,
+[43:23] se socialistickýma výdobitkama,
+[43:25] z roku 1955,
+[43:28] za Zápotockýho,
+[43:30] ty vole,
+[43:31] jo,
+[43:31] kdy říkám jedním dechem,
+[43:33] všichni tady tíhle demonstranti,
+[43:34] vole,
+[43:34] s večerníčkovskýma čepicama,
+[43:39] budou nadávat na ty,
+[43:40] na ty komunisty,
+[43:42] jo,
+[43:42] a na ten socialismu,
+[43:44] jak to bylo strašný,
+[43:45] a tak dále,
+[43:46] a já se vsadím,
+[43:47] že 90% z nich bydlí v těch králikárnách,
+[43:52] vole,
+[43:52] 90% z nich,
+[43:54] a vůbec si oni neuvědomujou,
+[43:57] prostě,
+[43:57] že to,
+[43:58] co se tady prostě za toho socialismu vybudovalo,
+[44:00] jako bylo,
+[44:02] z naprosté většiny potřeba,
+[44:06] a bylo to důležitý,
+[44:08] a dneska se to jenom prokazuje,
+[44:10] protože,
+[44:10] kde by my jsme,
+[44:11] prosím vás,
+[44:12] byli neby těch vodních elektráren,
+[44:15] těch,
+[44:15] těch králikáren,
+[44:17] ty vole,
+[44:18] prostě obchodu,
+[44:19] a těch vůbec věcí,
+[44:21] a té infrastruktury,
+[44:22] kde by jsme tak asi byli,
+[44:24] jo,
+[44:24] samozřejmě,
+[44:25] ono,
+[44:26] kdyby jsme byli na ten západ,
+[44:27] tak se to tady buduje taky,
+[44:29] jo,
+[44:29] to nikdo samozřejmě o tom nepochybuje,
+[44:32] jenže,
+[44:33] víte,
+[44:33] ona to nebyla propaganda,
+[44:36] já jsem si to tak jako opět ověřoval,
+[44:38] protože se mi to nechtělo zdát,
+[44:40] to, co se tady jako,
+[44:42] jaká výstavba,
+[44:43] vlastně byla v těch 70. 80. letech,
+[44:48] v tom socialistickým bloku,
+[44:51] ve srovnání třeba s Německem,
+[44:53] jo,
+[44:55] tomu člověk nechce věřit,
+[44:56] tomu fakt člověk nechce věřit,
+[44:59] takže prostě oni vám tady na jedné straně říkám,
+[45:02] budou hanit všechno,
+[45:03] co je z té dopy mimi minulé
+[45:05] a budou vychvalovat, vole,
+[45:09] českou televizi,
+[45:10] pohrobka toho socialistického výdobitku.
+[45:14] To je neuvěřitelné.
+[45:15] To je neuvěřitelné.
+[45:17] Já tady tyhle magory,
+[45:18] totální magory,
+[45:20] fakt nedokážu pochopit.
+[45:22] jenom proto,
+[45:24] že nenávidí babiše.
+[45:27] A už si někdy tady tyhle hovada,
+[45:29] víte,
+[45:30] to je to stejné,
+[45:31] když se ptají tady na ty poplatky těch lidí
+[45:34] a oni odpovídají naprosto neuvěřitelný,
+[45:38] dávají neuvěřitelný odpovědi.
+[45:40] To nechcete tomu věřit.
+[45:46] Prostě si říkáte,
+[45:46] to přece není možné,
+[45:48] to není možné,
+[45:48] aby to tak bylo blbý.
+[45:50] Tak to stejné,
+[45:52] já bych každému takovému debilovi
+[45:54] prostě dal tu otázku,
+[45:55] chytrolínovi,
+[45:58] proč nenávidí babiše?
+[46:01] Proč?
+[46:02] Z jakého důvodu?
+[46:05] Protože já,
+[46:06] když se budu bavit o Andreju Babišovi,
+[46:08] tak já řeknu,
+[46:09] co mě na něm vadí.
+[46:10] proč toho člověka kritizuju.
+[46:16] Řeknu to stejné,
+[46:17] co mě vadí na Fialovi,
+[46:19] co mě vadí na Rakušanovi,
+[46:21] co mě vadí na Tomiho Okamurovi,
+[46:26] řeknu, co mě vadí na Jindřichu Rajchlovi
+[46:28] a dalších a dalších.
+[46:30] A já to odargumentuju
+[46:33] a ne, že prostě budu opakovat to,
+[46:37] co mě do rypáku strčí česká televize
+[46:40] a nebo mainstream.
+[46:43] Jo, protože,
+[46:44] jako co ty lidi myslí,
+[46:45] že vám řeknou,
+[46:46] prosím vás,
+[46:47] na toho Andreje Babiše.
+[46:49] Maximálně vytáhnou čapí hnízdo.
+[46:52] Vytáhnou čapí hnízdo.
+[46:54] Jo.
+[46:55] Pak teda vytáhnou,
+[46:56] že byl agentem STB.
+[46:58] Jo.
+[46:59] A to už jsou teda ti
+[47:00] trošičku víc,
+[47:01] co se zajímají o tu politiku.
+[47:02] Ale naprostá většina z nich
+[47:04] vám teďka řekne čapí hnízdo
+[47:06] a že chce ukráct svobodné média.
+[47:10] Jo.
+[47:11] Jak Nerudová,
+[47:12] prostě to jsem zapomněl říct,
+[47:14] jak Nerudová vám tam vyblila
+[47:16] v tom europarlamentu,
+[47:17] že česká televize není Babišova.
+[47:20] Že česká televize,
+[47:23] český rozhlas není Babišův.
+[47:26] Já bych té kundě doporučil,
+[47:28] aby laskavě si prohlídla
+[47:30] ty pořady zpětně
+[47:31] a ukázala mě tam,
+[47:34] kdy ta česká televize
+[47:35] patřila
+[47:36] komukoliv z té současné
+[47:40] politické garnitury,
+[47:41] která je ve vládě.
+[47:42] Jo.
+[47:44] Jo.
+[47:44] Ta vyváženost té televize.
+[47:47] To bylo,
+[47:47] to je posledních 15 let.
+[47:49] to je ODS,
+[47:53] totální dementi z Pirátů,
+[47:56] z TOP 09,
+[47:58] kolaboranti z KDU,
+[47:59] ČSL, ty vole,
+[48:02] a zloději, zločinci
+[48:04] a vrazy ze stanu.
+[48:05] Jo.
+[48:06] Prostě tady,
+[48:08] tady, tady ta politická garnitura,
+[48:10] 15 let je tam prosazovaná
+[48:12] jako prase.
+[48:14] SPD je celou dobu očernováno.
+[48:17] Celou dobu, celých 12 let
+[48:19] je SPD očernováno,
+[48:22] znevýhodňováno
+[48:24] a tady mě někdo bude,
+[48:26] no jo, vlastně já jsem zapomněl,
+[48:27] ta česká televize to rozlišuje,
+[48:30] SPD jsou extrémisti.
+[48:32] Ježišu Kristu.
+[48:35] Takže ten mazurek ještě k tomu
+[48:37] se vrátím nerudovou,
+[48:40] prostě z cirkusu,
+[48:41] prostě to je,
+[48:43] jenže čemu se divit,
+[48:44] prosím vás,
+[48:44] protože její manžílek má na starosti
+[48:47] jedna čtyřicet tisíc exekučních řízení
+[48:51] a dostává pěkných pár milionů,
+[48:55] stovek milionů,
+[48:57] na to, aby mohl vegetovat.
+[49:00] Takže nerudová samozřejmě,
+[49:02] jak jinak,
+[49:03] půjde, jo,
+[49:04] bojovat za ty koncesionárský poplatky,
+[49:07] protože samozřejmě
+[49:08] oni přijdou o příjem, jo.
+[49:10] To tak nějak jako neřekne
+[49:13] tato sevině skurvená,
+[49:15] blbá, tupá, jo.
+[49:18] Neskutečný.
+[49:19] Jen tak,
+[49:20] malý moment,
+[49:25] jen tak mimochodem,
+[49:27] teďka mi tak napadá,
+[49:29] já nevím, jak to dělají občas někteří,
+[49:33] ale představte si,
+[49:37] mě se vám tam na profil dostal
+[49:39] nějaký pan Charvat, jo,
+[49:44] pod příspěvek,
+[49:46] kde já jsem tam teď,
+[49:48] Ježiši Kristo.
+[49:50] To je strašný.
+[49:51] To je,
+[49:53] já vám to ukážu, jo.
+[49:56] To je Stanley Vladislav,
+[49:59] tam dal teď tady toto.
+[50:21] Pane Bože,
+[50:24] já chci na svou planetu,
+[50:25] chápete, proč to říkám?
+[50:27] Proč říkám,
+[50:28] že chci na svou vlastní planetu?
+[50:31] Protože tohle,
+[50:32] já už to fakt nedávám.
+[50:34] Děkuju Pánu Bohu
+[50:36] za všechny normální holky.
+[50:38] Ježiši, díky Bohu
+[50:40] za všechny normální holky,
+[50:43] který ze sebe nedělají
+[50:45] takovýhle umělohmotný piče.
+[50:48] Bože můj, děkuju,
+[50:50] děkuju ti,
+[50:52] protože toto je strašná doba.
+[50:55] Ty vole,
+[50:55] ty vole potetovaných rypáků, vole.
+[51:01] Prostě všeho tady tohohle,
+[51:02] prostě to je gendery, vole,
+[51:04] vyvážený, nevyvážený, vole,
+[51:07] ty, ty exoti, vole, co?
+[51:09] Prostě jsou schopni si vzít
+[51:10] tyčku s koněm
+[51:11] a ten hobbyhorsing.
+[51:13] Nebo teďka, vole,
+[51:15] viděli jste to?
+[51:16] Já nevím,
+[51:16] jestli jsem to sdílel,
+[51:17] já už nevím,
+[51:18] protože já jsem z toho
+[51:19] úplně vyřízený.
+[51:21] Oni dělají takovej ten,
+[51:23] co mají ty pejskové, jo,
+[51:25] takový ty překážky,
+[51:26] já nech se to jmenuje.
+[51:28] Oni vám mají jakýsi
+[51:29] vyhoněný vodítka, jo,
+[51:33] a s těma, jako chodijou
+[51:35] mezi, jako slalom,
+[51:37] skáčou přes překážky.
+[51:40] Říkám, co to je?
+[51:42] Já už ne, tohle,
+[51:44] to je strašný.
+[51:45] Díky Bohu za každýho
+[51:47] normálního člověka.
+[51:49] On je Bože.
+[51:51] To je strašný.
+[51:52] To je fakt strašný
+[51:53] tahle doba.
+[51:55] Naprostá katastrofa.
+[51:57] No a co jsem to chtěl?
+[51:59] Já jsem si udělal
+[51:59] takovej vtípek
+[52:00] a hodil jsem tam,
+[52:04] jsem našel starý snímek,
+[52:06] kde jsem měl takovou
+[52:07] od měho kamaráda Mirka.
+[52:09] Mám masku takové smrtky, jo.
+[52:12] Masku takové smrtky.
+[52:14] A já prostě občas to udělám
+[52:16] a udělám si takovou
+[52:17] nějakou legraci.
+[52:19] No a teď si představte,
+[52:21] já vůbec nechápu,
+[52:22] jak si ten člověk tam dostal,
+[52:25] ale je tady nějakej
+[52:27] Petr Charvat, jo.
+[52:28] A mně se strašně líbí,
+[52:31] jak, já nevím, co tady,
+[52:32] já je činou blokuju,
+[52:34] nevím, jak se tenhle kripl
+[52:35] tady vůbec objevil,
+[52:37] tenhle hlupák,
+[52:38] a on mě píše
+[52:39] Čau dědo.
+[52:41] Já nevidím jedinej důvod,
+[52:43] proč třeba,
+[52:43] jako oni si myslí,
+[52:44] že mi to urazí.
+[52:46] Čau dědo.
+[52:49] Já si myslím,
+[52:50] že každej chlap,
+[52:51] který je děda,
+[52:52] který je skutečně děda,
+[52:54] tak je hrdý.
+[52:56] Já jako dědeček,
+[52:57] já jsem hrdý dědeček.
+[52:59] Děčka.
+[53:01] Mě tohle nemůže urazit, jo.
+[53:03] Vůbec nechápu.
+[53:04] A to je přesně ono,
+[53:05] podíváte se mu na profil
+[53:06] a zjistíte,
+[53:07] co to je za debila,
+[53:08] na čem si zakládá, jo.
+[53:11] Jaký naprostý malichernosti
+[53:12] on považuje za důležitý.
+[53:15] A to vidíte jeho úvodní fotku,
+[53:16] jak tam stojí
+[53:17] s těma rukama,
+[53:18] vole kolem sebe,
+[53:19] jak je úspěšnej meneger,
+[53:21] vole, malagelo, jo.
+[53:23] A na co si to hraje.
+[53:25] A mě tady hodil fotku,
+[53:27] to je taková ta hodně známá fotka, jo.
+[53:30] Já vám ho ukážu, jo.
+[53:33] U ní mě pak zavřou,
+[53:35] protože propaguju ty
+[53:36] komunistický, socialistický.
+[53:39] Jo, to je ta,
+[53:40] to je ta lepka, jo.
+[53:43] A já jsem tam měl takový jenom,
+[53:45] misto očí, červený tečky.
+[53:47] A to se mě,
+[53:48] na tohle se mě líbí AI,
+[53:49] protože normálně bych to nedokázal
+[53:51] za pomoci nějakých těch programů
+[53:55] tohle vytvořit.
+[53:55] Takže, když to ta AI udělala,
+[53:59] já říkám, to je špička,
+[54:00] to tam dám.
+[54:01] No takže, on dal tady tuhle fotku,
+[54:03] ten debil, jo.
+[54:05] Ona je hodně populární,
+[54:06] tahle fotka moje.
+[54:08] A píše mě,
+[54:09] čau dědo,
+[54:11] když už ses rozhodl
+[54:13] zase veřejně
+[54:14] předvéct úroveň
+[54:16] svého, svýho
+[54:17] intelektu
+[54:19] a politického rozhledu,
+[54:21] mohl bys zkusit něco víc
+[54:23] než primitivní urážky
+[54:25] a obrázek lepky.
+[54:27] Pardon.
+[54:30] Tvoje obdivování Ruska
+[54:32] a nenávist vůči
+[54:34] demokraticky zvoleným politikům
+[54:38] už nikoho nepřekvapuje.
+[54:41] Zkus někdy místo těhle ubohých výkřiků
+[54:45] přijít s nějakým argumentem.
+[54:47] I když chápu,
+[54:49] že v tvým případě
+[54:51] by to byl výkon
+[54:53] hodnej zápisu
+[54:54] do Guinnessovy knihy rekordu.
+[54:57] Takže
+[54:58] ta fotografie
+[55:00] on mě udal,
+[55:02] jakože to dokazuje
+[55:03] můj neskonalý obdiv
+[55:05] k Rusku.
+[55:07] Já už jsem mu to tam nechtěl psát,
+[55:10] ale jistý,
+[55:10] on teda ještě může být
+[55:12] na mým profilu,
+[55:12] tenhle idiot.
+[55:14] Takže panu Charvátovi
+[55:15] bych chtěl zkázat,
+[55:16] že tenhle snímek
+[55:19] je z roku 2000,
+[55:21] a to není podstatný,
+[55:22] 2021,
+[55:25] nebo 2019,
+[55:29] já teď říkám,
+[55:30] že to není podstatný,
+[55:31] ale myslím,
+[55:31] že 2019 to bylo.
+[55:33] Že tohle bylo ještě před covidem,
+[55:34] před tou sračkou.
+[55:35] A ta menší vlajka
+[55:39] sovětského svazu,
+[55:41] historická vlajka,
+[55:43] tak tahle fotka ty kreténe
+[55:45] vznikla před olšanskými hřbitovy.
+[55:49] A na olšanských hřbitovech
+[55:51] leží hrdinové,
+[55:54] padly hrdinové,
+[55:56] rudé armády,
+[55:57] kteří osvobozovali Československo.
+[56:01] A kteří mimo jiné
+[56:02] zachránili
+[56:03] tíhle hrdinové,
+[56:05] kteří položili
+[56:05] svoje životy,
+[56:08] svoje životy
+[56:09] za naše Československo,
+[56:12] za naši vlast,
+[56:14] za naše prarodiče a rodiče.
+[56:17] Takže ty pičusu,
+[56:18] jeden z kurvené,
+[56:21] který samozřejmě budeš plývat
+[56:23] tady po těchto hrdinech.
+[56:26] Bez těchto hrdinů
+[56:27] bys mě tady ty hňupe
+[56:29] menedžere
+[56:31] z brněnské agentury
+[56:33] nějaké realitní,
+[56:36] tak bys mě tady nic nepsal,
+[56:39] ty debilé.
+[56:40] Takže tadle
+[56:43] z ta moje fotka,
+[56:46] kde mám vlajku
+[56:47] Československa,
+[56:50] dnes tedy České republiky
+[56:51] a k tomu ta malá vlajka
+[56:54] Sovětského svazu
+[56:56] je jen a pouze
+[56:58] vyjádření
+[57:00] mé úcty
+[57:01] a mého vědomí
+[57:05] a vděku za to,
+[57:07] že tady cizí národ,
+[57:10] ruský národ,
+[57:11] lidé, kluci, ženy
+[57:14] z tehdejšího Sovětského svazu,
+[57:19] rudé armády,
+[57:20] položili životy
+[57:21] za naši zem
+[57:24] a za naše
+[57:24] rodiče a prarodiče,
+[57:27] aby my jsme mohli žít
+[57:29] a dočkat se
+[57:30] této skurvené,
+[57:32] vypičené doby,
+[57:34] která vyplodila
+[57:35] přesně takový kretény,
+[57:37] charvátej jako seš ty,
+[57:41] přesně takový kretény,
+[57:43] jako je pan herec Čermák,
+[57:46] jako je
+[57:46] tu pohlav, ty vole,
+[57:48] na hradě,
+[57:49] přesně takovýhle kretény,
+[57:53] aby mohla tato doba vyplodit.
+[57:55] Takže
+[57:56] tohle není,
+[57:58] tahle fotka
+[57:58] nic neříká o tom,
+[58:00] že já mám
+[58:01] neskonalej obdiv k Rusku.
+[58:04] Jo?
+[58:05] Notabene,
+[58:06] já jsem nikdy
+[58:07] na své profilovce
+[58:08] neměl
+[58:09] jinou vlajku,
+[58:11] jinou,
+[58:11] kromě,
+[58:12] jako samostatně,
+[58:13] kromě naší
+[58:15] československé vlajky
+[58:17] dneska,
+[58:18] vlajky Ruska,
+[58:18] dneska,
+[58:19] vlajky České republiky,
+[58:21] ty debilé.
+[58:22] Jo?
+[58:24] Tak,
+[58:24] a teďko já mám,
+[58:27] on, že nemám žádný argumenty,
+[58:30] jo?
+[58:30] Takže já jsem si řekl,
+[58:32] že bych mu nějaký ty argumenty
+[58:35] mohl napsat,
+[58:36] jo?
+[58:37] Malý moment,
+[58:39] já to musím najít,
+[58:41] kam já,
+[58:41] pak jsem to tady dal,
+[58:43] tady.
+[58:45] Takže,
+[58:46] já jsem ho slušně pozdravil
+[58:47] na rozdíl od něho,
+[58:49] jo?
+[58:50] A tak dále,
+[58:50] a tak dále.
+[58:52] A já jsem mu tam napsal ty,
+[58:54] já říkám,
+[58:55] že mu tam napíšu
+[58:55] čtyři argumenty.
+[58:58] A čtyři argumenty,
+[59:00] aby pochopil,
+[59:02] aby nemusel nikde
+[59:03] na tým mým profilu hledat,
+[59:05] proč,
+[59:06] proč já tak nesnáším
+[59:07] ty fialovo-modro-žlutý
+[59:09] párchanty,
+[59:11] tyhle zmrdy,
+[59:12] kteří zaprodali
+[59:13] Českou republiku,
+[59:15] Ukrajincům,
+[59:17] jo?
+[59:17] a peníze
+[59:18] a okradli důchodce
+[59:20] a tyhle,
+[59:20] tyhle prachy,
+[59:21] který okradli
+[59:22] o to ty důchodce,
+[59:23] poslali na zbraně.
+[59:25] Takže,
+[59:25] proč já absolutně
+[59:27] nedávám Rakušana,
+[59:28] který ho,
+[59:29] kdyby to jenom šlo,
+[59:30] tak ho nechám popravit,
+[59:31] hajzla,
+[59:32] jo?
+[59:33] Proč nesnáším toho
+[59:34] naprostého zmrda,
+[59:36] kolaborantského hajzla,
+[59:38] který si říká
+[59:39] prezident České republiky,
+[59:41] tohodle parchanta,
+[59:43] jo?
+[59:44] Ty vole.
+[59:46] Proč nesnáším
+[59:47] naprostou většinu
+[59:48] poslanců
+[59:49] v poslanecké
+[59:50] sněmovně České republiky,
+[59:52] senátory
+[59:53] a vůbec,
+[59:54] jo?
+[59:54] Tady tyhle z ty
+[59:55] bývalí vládnouci garnitury.
+[59:58] Takže první argument.
+[01:00:02] Slibuji věrnost
+[01:00:04] České republice.
+[01:00:06] Slibuji,
+[01:00:07] slibuji,
+[01:00:08] že budu pracovat,
+[01:00:09] že budu,
+[01:00:10] pardon,
+[01:00:11] že budu zachovávat
+[01:00:12] její ústavu
+[01:00:13] a zákony.
+[01:00:15] Slibuji na svou čest,
+[01:00:17] že svůj mandát
+[01:00:19] budu vykonávat
+[01:00:20] v zájmu
+[01:00:20] všeho,
+[01:00:22] všeho lidu
+[01:00:23] a podle svého
+[01:00:25] nejlepšího vědomí
+[01:00:26] a svědomí.
+[01:00:29] Toto je slib
+[01:00:30] poslance České republiky.
+[01:00:32] Takže to máme
+[01:00:33] jeden argument.
+[01:00:35] Druhý argument.
+[01:00:38] Slibuji věrnost
+[01:00:39] České republice.
+[01:00:41] Slibuji,
+[01:00:41] že budu zachovávat
+[01:00:43] její ústavu
+[01:00:43] a zákony
+[01:00:45] a uvádět je v život.
+[01:00:47] Slibuji na svou čest,
+[01:00:49] že budu zastávat svůj úřad
+[01:00:52] svědomitě
+[01:00:53] a nezneužijí
+[01:00:55] svého postavení.
+[01:00:56] tohle je slib
+[01:00:58] to je slib člena vlády.
+[01:01:03] Tohle je slib člena vlády.
+[01:01:06] Jak se s tímhle stotožňuje
+[01:01:07] Rakušan,
+[01:01:10] Fiala,
+[01:01:11] jak se s tímto stotožňuje
+[01:01:12] Černochová
+[01:01:13] a další tyhle
+[01:01:15] kundyskurvený,
+[01:01:16] kteří rozkradli,
+[01:01:18] rozkradli
+[01:01:19] za bilion,
+[01:01:21] dvěstě miliard
+[01:01:23] za čtyřleté volební období
+[01:01:25] tuto zemi.
+[01:01:29] Jak se to s tímhle slučuje,
+[01:01:33] když byli schopni
+[01:01:34] legalizovat
+[01:01:35] naprosté zvěrstva
+[01:01:37] z Darknetu.
+[01:01:40] Legalizovat
+[01:01:41] obchod s drogama,
+[01:01:44] s prostitucí,
+[01:01:45] s obchod s orgány,
+[01:01:48] obchod s vraždami,
+[01:01:49] obchod s dětmi.
+[01:01:53] Jak se to s tím slučuje?
+[01:01:56] Pojďme dál.
+[01:01:59] Třetí argument.
+[01:02:00] Jen tam mimochodem
+[01:02:02] do tohohle spadají
+[01:02:03] samozřejmě i
+[01:02:04] senátoři.
+[01:02:06] Takže by mě taky zajímalo,
+[01:02:08] jak se s tím slučuje to,
+[01:02:11] co teďka dávám
+[01:02:12] ten třetí argument
+[01:02:14] tady tomuhle dementovi.
+[01:02:16] Slibují věrnost
+[01:02:18] České republice.
+[01:02:21] Slibují,
+[01:02:21] že budu zachovávat
+[01:02:23] její ústavu
+[01:02:24] a zákony.
+[01:02:26] Slibují na svou čest,
+[01:02:28] že svůj úřad
+[01:02:29] budu zastávat
+[01:02:31] vzájmu
+[01:02:32] všeho lidu.
+[01:02:33] Všeho lidu.
+[01:02:35] A podle svého nejlepšího
+[01:02:37] vědomí a svědomí.
+[01:02:39] A toto je slib
+[01:02:41] prezidenta
+[01:02:42] České republiky.
+[01:02:46] Já tady nečtu nic o tom,
+[01:02:48] že ten zmrt
+[01:02:49] má být nápomocen
+[01:02:51] Lichtenštejnům.
+[01:02:52] Nečtu tady nic o tom,
+[01:02:54] že ten skurvenej zmrt
+[01:02:56] má dávat záštitu
+[01:02:58] sudeto německému
+[01:02:59] Landsmannschaftu.
+[01:03:01] Nečtu tady nic o tom,
+[01:03:03] že má podporovat
+[01:03:04] jenom ty,
+[01:03:05] ještě ho podporovali
+[01:03:07] a ještě ho volili.
+[01:03:09] Protože tady čtu.
+[01:03:11] Slibují na svou čest,
+[01:03:15] že svůj úřad
+[01:03:15] budu zastávat
+[01:03:17] v zájmu
+[01:03:18] všeho lidu.
+[01:03:21] Všeho lidu.
+[01:03:22] No a čtvrtý argument
+[01:03:26] pro takový dementy
+[01:03:28] jako je charva.
+[01:03:28] My občané České republiky
+[01:03:32] v Čechách,
+[01:03:34] na Moravě
+[01:03:34] a ve Slezsku
+[01:03:36] v čase obnovy
+[01:03:37] samostatného
+[01:03:39] Českého státu
+[01:03:40] věrni všem
+[01:03:41] dobrým tradicím
+[01:03:43] dané
+[01:03:43] státnosti
+[01:03:45] zemí koruny české,
+[01:03:47] státnosti
+[01:03:48] československé
+[01:03:49] odhodlání
+[01:03:50] budovat,
+[01:03:51] chránit
+[01:03:52] a rozvíjet
+[01:03:52] Českou republiku
+[01:03:54] v duchu
+[01:03:55] nedotknutelných
+[01:03:56] hodnot
+[01:03:57] lidské důstojnosti.
+[01:03:59] a svobody
+[01:04:00] jako vlast
+[01:04:01] rovnoprávných,
+[01:04:03] svobodných občanů,
+[01:04:04] kteří jsou si vědomi
+[01:04:06] svých povinností
+[01:04:08] vůči druhým
+[01:04:09] a zodpovědnosti
+[01:04:10] vůči celku.
+[01:04:11] Jako svobodný
+[01:04:12] a demokratický stát,
+[01:04:14] založený na úctě
+[01:04:16] k lidským právům,
+[01:04:19] na zásadě
+[01:04:20] občanské společnosti,
+[01:04:22] jako součást rodiny
+[01:04:23] evropských
+[01:04:24] a světových demokrací,
+[01:04:25] odhodlání
+[01:04:27] společně
+[01:04:28] střežit
+[01:04:29] a rozvíjet
+[01:04:30] zděděné
+[01:04:31] přírodní
+[01:04:32] a kulturní
+[01:04:33] a hmotné
+[01:04:34] bohatství,
+[01:04:35] duchovní bohatství,
+[01:04:37] odhodlání
+[01:04:37] řídit se
+[01:04:38] všemi osvědčenými
+[01:04:40] principy
+[01:04:41] právního státu,
+[01:04:42] prostřednictví svým
+[01:04:44] svobodně
+[01:04:44] zvolených
+[01:04:45] zástupců
+[01:04:46] přijímáme
+[01:04:47] tuto ústavu
+[01:04:48] České republiky.
+[01:04:49] Toto je preambule
+[01:04:52] ústavy České republiky.
+[01:04:56] A najdete tam
+[01:04:57] dneska
+[01:04:59] to, jak si
+[01:05:00] ne protiřečí,
+[01:05:02] ale jak
+[01:05:02] naprosto si
+[01:05:04] z toho dnešní
+[01:05:05] politici
+[01:05:06] udělali
+[01:05:07] toaletní papír
+[01:05:09] a vytírají si
+[01:05:10] s ústavou České republiky
+[01:05:13] svůj anal.
+[01:05:16] Zrovna jako
+[01:05:16] všechny ty sliby,
+[01:05:18] co tady oni
+[01:05:19] skládají, kurva.
+[01:05:21] Toto jsou moje
+[01:05:22] argumenty
+[01:05:23] proto,
+[01:05:24] proč jsou takhle
+[01:05:25] nasranej
+[01:05:26] a proč
+[01:05:27] budu prostě
+[01:05:28] takhle sprostej
+[01:05:29] a vulgární
+[01:05:30] a budu upozorňovat
+[01:05:32] na všechny
+[01:05:32] ty zmrdy,
+[01:05:34] jenž složili
+[01:05:34] tyhle sliby.
+[01:05:37] Proto,
+[01:05:38] proto jsem
+[01:05:38] nasranej,
+[01:05:40] proto tyhle
+[01:05:40] zmrdy nesnáším.
+[01:05:43] Protože
+[01:05:44] to, co tady je,
+[01:05:46] nikdo z nich
+[01:05:47] nedodržuje.
+[01:05:48] Nikdo z nich
+[01:05:49] proto,
+[01:05:50] protože kdyby
+[01:05:51] dodržovali
+[01:05:52] minulá vláda,
+[01:05:54] minulá vláda,
+[01:05:55] o tohle současné,
+[01:05:57] se budu bavit
+[01:05:58] až za příští rok
+[01:06:00] a přes příští rok.
+[01:06:03] Takže
+[01:06:04] ta minulá vláda,
+[01:06:06] která tady
+[01:06:07] něco vykládala,
+[01:06:08] že má
+[01:06:08] založený
+[01:06:09] tohle na úctě
+[01:06:11] a k lidským právům
+[01:06:13] na základě
+[01:06:14] občanské společnosti.
+[01:06:17] Jako úctu
+[01:06:18] ty zmrdy
+[01:06:19] zkurvení
+[01:06:20] měli
+[01:06:21] k seniorům,
+[01:06:23] k těm,
+[01:06:24] jenž
+[01:06:24] oni by měli
+[01:06:25] mít úctu
+[01:06:26] největší.
+[01:06:28] Protože
+[01:06:28] bez těhle
+[01:06:29] z těch lidí,
+[01:06:30] bez těhle lidí,
+[01:06:31] kteří
+[01:06:32] tady pracovali
+[01:06:33] 45,
+[01:06:34] 50
+[01:06:34] i 55
+[01:06:35] let,
+[01:06:37] by zmrdy
+[01:06:38] zkurvení,
+[01:06:39] ty zkurvení
+[01:06:39] z mrdi,
+[01:06:41] by neměli
+[01:06:42] vůbec nic.
+[01:06:43] protože
+[01:06:45] ty jejich
+[01:06:45] zkurvení životy
+[01:06:46] platíme my
+[01:06:47] a platí
+[01:06:48] je i seniori.
+[01:06:50] Protože
+[01:06:50] i ti seniori
+[01:06:51] chodí
+[01:06:52] do těch obchodů,
+[01:06:54] musí si kupovat
+[01:06:55] jídlo,
+[01:06:58] někeří
+[01:06:58] stále
+[01:06:59] jezdí,
+[01:07:00] takže
+[01:07:01] kupují
+[01:07:01] naftu,
+[01:07:02] benzín,
+[01:07:03] ale především
+[01:07:04] ty seniori
+[01:07:06] kupují
+[01:07:07] a živí
+[01:07:08] ten zkurvený
+[01:07:09] farmaceutický
+[01:07:10] vypíčenej
+[01:07:11] biznis.
+[01:07:12] Jasný?
+[01:07:13] A k těmhle
+[01:07:15] s těm lidem
+[01:07:15] tady dneska
+[01:07:16] není úcta.
+[01:07:17] A tyhle lidi
+[01:07:18] tady tady
+[01:07:19] ty,
+[01:07:20] co Steve
+[01:07:20] v Charváte
+[01:07:21] zřejmě
+[01:07:21] i volil,
+[01:07:23] tak tyhle
+[01:07:23] zmrdi,
+[01:07:24] když tvrdili,
+[01:07:25] že budou
+[01:07:27] dodržovat
+[01:07:27] zákony
+[01:07:28] České republiky,
+[01:07:30] tak si ten
+[01:07:31] zákon,
+[01:07:31] kurva,
+[01:07:32] upravili
+[01:07:33] obrazu svému.
+[01:07:36] Nejdřív
+[01:07:36] si zvyšili
+[01:07:37] platy
+[01:07:38] ty zmrdi
+[01:07:38] zkurvení?
+[01:07:39] Ano.
+[01:07:40] Nejdřív
+[01:07:41] si ty zmrdi
+[01:07:42] zkurvení
+[01:07:42] zvyšili
+[01:07:43] platy?
+[01:07:44] A pak
+[01:07:44] okradli
+[01:07:45] důchodce.
+[01:07:46] A ten
+[01:07:47] sráč
+[01:07:47] zkurvenej
+[01:07:48] na tom
+[01:07:48] hradě
+[01:07:49] neměl
+[01:07:50] tolik
+[01:07:51] úcty
+[01:07:51] a odvahy
+[01:07:52] k tomu,
+[01:07:53] aby tenhle
+[01:07:54] zákon
+[01:07:55] zasranej
+[01:07:55] zkurvenej
+[01:07:56] jim zhodil
+[01:07:57] ze stola
+[01:07:57] a řekl,
+[01:07:58] ano,
+[01:07:59] já s tím
+[01:07:59] sice
+[01:07:59] nesouhlasím,
+[01:08:01] ale já to
+[01:08:01] pošlu,
+[01:08:02] ať to
+[01:08:02] rozhodne
+[01:08:03] ústavní
+[01:08:03] soud.
+[01:08:05] A tomuhlen
+[01:08:05] z tomu
+[01:08:06] zmrdovi
+[01:08:06] z toho
+[01:08:07] hradu
+[01:08:07] někdo říká,
+[01:08:08] že on je
+[01:08:09] ten čestnej
+[01:08:10] a velikej
+[01:08:10] člověk,
+[01:08:11] který si všechny
+[01:08:12] ty křivárny,
+[01:08:13] který kurva
+[01:08:14] udělal,
+[01:08:15] tak on si je
+[01:08:16] prý odpracoval.
+[01:08:19] Tane Bože.
+[01:08:23] Já si jen tak
+[01:08:23] vzpomínám,
+[01:08:24] že toho,
+[01:08:26] co stají
+[01:08:27] tato strana,
+[01:08:28] těchto
+[01:08:28] fialovo-modr,
+[01:08:30] žlutejch
+[01:08:30] debilů,
+[01:08:31] vy jste ho
+[01:08:32] nenáviděli,
+[01:08:33] vy jste ho
+[01:08:34] špinili,
+[01:08:35] pomlouvali.
+[01:08:37] Já neříkám,
+[01:08:38] že byl
+[01:08:38] dokonalej
+[01:08:39] a já k němu
+[01:08:40] měl
+[01:08:40] a mám
+[01:08:41] výhrady,
+[01:08:42] ale oproti tomu,
+[01:08:44] co je dneska
+[01:08:45] na hradě,
+[01:08:47] byl Miloš Zeman
+[01:08:49] doslova nezlatej,
+[01:08:53] ale diamantovej člověk.
+[01:08:56] Oproti tomu
+[01:08:57] kreténovi,
+[01:08:58] co je dneska
+[01:08:58] na hradě,
+[01:09:00] já vlastně
+[01:09:00] já se musím
+[01:09:02] omluvit teďka
+[01:09:03] Miloši Zemanovi
+[01:09:04] za to,
+[01:09:05] že ho vlastně
+[01:09:05] už jenom tím,
+[01:09:07] že ho teďka
+[01:09:08] zmiňujú
+[01:09:09] vůči téhle
+[01:09:10] z té sviní
+[01:09:11] zaprodané
+[01:09:12] zkurvené
+[01:09:13] z toho hradu,
+[01:09:16] že ho vůbec
+[01:09:16] k němu
+[01:09:17] jakýmkoliv způsobem
+[01:09:18] zcupři rovnávat.
+[01:09:20] Ale proč to říkám?
+[01:09:22] Protože
+[01:09:22] Miloš Zeman
+[01:09:24] z toho
+[01:09:25] platu,
+[01:09:26] který mu poskytli
+[01:09:27] všichni lidé
+[01:09:28] České republiky,
+[01:09:29] tak on ten plat,
+[01:09:31] prosím vás,
+[01:09:32] nevím kolik procent,
+[01:09:34] on to dával
+[01:09:35] na klokánka.
+[01:09:37] On to dával
+[01:09:38] dětem.
+[01:09:40] Kdežto
+[01:09:40] tenhle zmrt
+[01:09:41] vyžebral,
+[01:09:43] vyžebral
+[01:09:44] pro tu svoji
+[01:09:45] Lady
+[01:09:46] Dianus
+[01:09:47] z dva
+[01:09:47] stemu
+[01:09:48] pro tu
+[01:09:49] lůzu
+[01:09:51] odpornou,
+[01:09:52] blbou,
+[01:09:53] tupou,
+[01:09:55] protože
+[01:09:55] ona si musí
+[01:09:56] odpočnout
+[01:09:57] v Karibiku,
+[01:09:58] jo,
+[01:09:59] jezdit
+[01:10:00] k volbám,
+[01:10:01] ty vole,
+[01:10:01] protože
+[01:10:01] ten úřad,
+[01:10:03] její úřad,
+[01:10:04] jaký úřad,
+[01:10:05] jaká je jí práce,
+[01:10:07] kurva,
+[01:10:07] jaká náročnost,
+[01:10:09] čeho ona si chce
+[01:10:10] odpočívat
+[01:10:11] v Karibiku,
+[01:10:12] tato kurva,
+[01:10:14] tak tady se
+[01:10:15] vyžebralo
+[01:10:15] pro tuhle
+[01:10:16] první dámu
+[01:10:17] z to papíru,
+[01:10:20] protože
+[01:10:21] ona si potřebuje
+[01:10:22] odpočnout.
+[01:10:25] Já bych
+[01:10:26] tady tu,
+[01:10:27] ty vole,
+[01:10:28] to je neuvěřitelný,
+[01:10:30] narvat,
+[01:10:30] já bych ju vzal,
+[01:10:31] kurva,
+[01:10:32] a okamžitě,
+[01:10:33] vole,
+[01:10:33] táhni,
+[01:10:34] táhni dělat
+[01:10:35] do Lidlu,
+[01:10:36] do Penny,
+[01:10:37] do jakéhokoliv
+[01:10:38] supermarketu,
+[01:10:40] táhni na 10,
+[01:10:41] 12 hodin
+[01:10:41] do pokladny,
+[01:10:42] ty mrtko,
+[01:10:44] kdy tam
+[01:10:45] musíš nahlásit
+[01:10:46] to,
+[01:10:46] aby ses mohla
+[01:10:47] jít vychcat,
+[01:10:49] táhni do skladu,
+[01:10:51] do továrny,
+[01:10:52] do nějakého,
+[01:10:53] do nějaké fabriky
+[01:10:54] k pásu,
+[01:10:56] a tam stůj
+[01:10:56] 12 hodin,
+[01:10:58] a pak něco
+[01:10:59] vykládej,
+[01:11:00] něco o nějakým
+[01:11:01] odpočinku,
+[01:11:02] ty vole,
+[01:11:03] já už toho
+[01:11:03] prezidentskýho páru
+[01:11:04] mám fakt plný zuby,
+[01:11:06] vole,
+[01:11:07] protože
+[01:11:07] co oni předvádí,
+[01:11:09] to je,
+[01:11:09] to je neuvěřitelný,
+[01:11:11] tady tenhle
+[01:11:12] kripl,
+[01:11:13] vole,
+[01:11:13] který si z toho
+[01:11:14] udělal,
+[01:11:14] ty vole,
+[01:11:15] cestovní
+[01:11:17] kancelář,
+[01:11:18] Prague Pride,
+[01:11:19] vole,
+[01:11:21] pardon,
+[01:11:21] to není,
+[01:11:22] to je něco
+[01:11:23] jiného,
+[01:11:23] vole,
+[01:11:25] udělal si z toho
+[01:11:26] cestovní
+[01:11:27] kancelář,
+[01:11:28] ty vole,
+[01:11:29] Pragotur,
+[01:11:30] on si z toho
+[01:11:31] udělal Pragotur,
+[01:11:32] cestovku,
+[01:11:32] vole,
+[01:11:33] do dneška,
+[01:11:34] do dneška
+[01:11:35] mě neodpověděla
+[01:11:37] prezidentská
+[01:11:37] kancelář
+[01:11:38] na moji
+[01:11:39] 106
+[01:11:40] o svobodných
+[01:11:42] informacích,
+[01:11:44] kdo tomu
+[01:11:45] zmrdový
+[01:11:45] platil
+[01:11:46] tu cestu
+[01:11:47] na maďarský
+[01:11:48] okruh
+[01:11:49] Hungaroring,
+[01:11:50] kdo mu
+[01:11:51] zařídil,
+[01:11:52] kurva,
+[01:11:53] to,
+[01:11:53] že tam mohl
+[01:11:53] dělat
+[01:11:54] fotografa,
+[01:11:55] kdo mu to
+[01:11:56] dal,
+[01:11:57] kdo mu
+[01:11:59] zařídil
+[01:11:59] tady tyhle věci,
+[01:12:01] do dneška
+[01:12:02] mě na to
+[01:12:02] neodpověděli,
+[01:12:04] neuvěřitelný,
+[01:12:06] akreditaci,
+[01:12:07] to není tak
+[01:12:08] jednoduchý,
+[01:12:09] nějaký
+[01:12:10] Bernd Eccleston
+[01:12:11] se mu může
+[01:12:12] vysrat
+[01:12:13] na to,
+[01:12:14] že je on
+[01:12:15] prezident
+[01:12:15] České republiky.
+[01:12:18] Takže on si
+[01:12:19] z toho udělal
+[01:12:19] cestovku,
+[01:12:20] vole.
+[01:12:21] On tady
+[01:12:22] hlásá
+[01:12:23] naprostý
+[01:12:24] sračky.
+[01:12:26] Teďka
+[01:12:26] ono nestačí,
+[01:12:27] že ten
+[01:12:28] hajzl
+[01:12:28] dojednával
+[01:12:30] vlastně
+[01:12:30] kolaboraci
+[01:12:31] s Lichlštejnama,
+[01:12:33] že tady
+[01:12:34] chtěl
+[01:12:34] za pomocí
+[01:12:35] fondu
+[01:12:37] vzít
+[01:12:38] 35 miliard,
+[01:12:40] o tom se teda
+[01:12:41] mluví,
+[01:12:42] a dát to
+[01:12:43] do toho fondu,
+[01:12:44] který by
+[01:12:44] zprávovali
+[01:12:45] Lichlštejnové.
+[01:12:47] Ty krávo,
+[01:12:48] nestačí,
+[01:12:49] že jede
+[01:12:50] na motorce
+[01:12:50] tenhle zmrt,
+[01:12:52] nasune to
+[01:12:52] německý
+[01:12:53] Landsmannschaft,
+[01:12:55] co jsi tam
+[01:12:55] kurva dělal,
+[01:12:56] ty hajzle.
+[01:12:59] Nestačí,
+[01:13:01] že takhle
+[01:13:02] kolaboruje
+[01:13:02] s našima
+[01:13:03] bývalejma
+[01:13:04] nepřátelama,
+[01:13:07] ty,
+[01:13:07] co usilují
+[01:13:07] o zrušení
+[01:13:09] Benešových
+[01:13:09] dekretů,
+[01:13:11] což sám
+[01:13:11] ten tlustý
+[01:13:13] prase
+[01:13:13] poseltovo
+[01:13:14] potvrdil.
+[01:13:17] Když ho tady
+[01:13:17] hájila
+[01:13:18] celá poslanecká
+[01:13:19] sněmovna
+[01:13:20] fialovo-modro-žlutejch
+[01:13:22] švábů
+[01:13:23] skurvených,
+[01:13:25] tak tenhle
+[01:13:26] ten zmrt
+[01:13:26] z hradu
+[01:13:27] udělil
+[01:13:28] záštitu,
+[01:13:29] vole.
+[01:13:31] Sud je to
+[01:13:31] německýmu
+[01:13:32] Landsmannschaftu,
+[01:13:33] vole,
+[01:13:34] v Brně.
+[01:13:36] Takže to
+[01:13:37] nestačí.
+[01:13:39] On klidně si
+[01:13:40] otevře rypák
+[01:13:41] tenhle
+[01:13:41] smradlavej
+[01:13:42] hajzl
+[01:13:42] a řekne,
+[01:13:44] že
+[01:13:44] plyn,
+[01:13:47] životně důležitý
+[01:13:48] plyn
+[01:13:49] pro Českou
+[01:13:50] republiku,
+[01:13:52] tak to
+[01:13:52] daruje
+[01:13:53] Německu.
+[01:13:57] Tak,
+[01:13:57] a teď se vrátím
+[01:13:58] k pánům
+[01:13:59] senátorům
+[01:13:59] a k jejich
+[01:14:01] slibům.
+[01:14:04] Ten jsem tam
+[01:14:04] zapomněl
+[01:14:05] napsat,
+[01:14:05] takže
+[01:14:06] to uděláme
+[01:14:07] naživo,
+[01:14:08] dáme to
+[01:14:09] naživo,
+[01:14:10] to je prostě
+[01:14:10] úžasný.
+[01:14:11] Na to ta
+[01:14:12] technologie
+[01:14:12] je skvělá,
+[01:14:14] jo,
+[01:14:14] ona nás to
+[01:14:15] odposlouchává,
+[01:14:16] slyší všechno,
+[01:14:18] to takhle
+[01:14:18] vezmete,
+[01:14:19] dáte režim
+[01:14:20] AI a řeknete,
+[01:14:23] napiš mě
+[01:14:24] slib
+[01:14:25] senátora,
+[01:14:26] jak zní.
+[01:14:29] A tohle
+[01:14:29] odkliknete
+[01:14:30] a on vám to
+[01:14:32] tady hnedka
+[01:14:32] hvízne
+[01:14:33] a teď
+[01:14:33] můžu číst.
+[01:14:36] Slibuji
+[01:14:36] věrnost
+[01:14:37] České republice.
+[01:14:40] Slibuji,
+[01:14:41] že budu
+[01:14:41] zachovávat
+[01:14:42] její ústavu
+[01:14:43] a zákony.
+[01:14:45] Slibuji
+[01:14:45] na svou čest,
+[01:14:46] že můj mandát
+[01:14:47] budu vykonávat
+[01:14:48] v zájmu všeho lidu
+[01:14:50] a podle seho
+[01:14:51] nejlepšího vědomí
+[01:14:52] a svědomí.
+[01:14:53] Tak,
+[01:14:55] a jestliže
+[01:14:55] tady máte
+[01:14:57] zmrda na hradě,
+[01:14:59] který nevykonává
+[01:15:00] svůj úřad
+[01:15:01] v zájmu všeho lidu,
+[01:15:03] v zájmu České republiky,
+[01:15:06] nevykonává.
+[01:15:07] Tak já se ptám
+[01:15:10] senátoru,
+[01:15:11] jak je možný,
+[01:15:12] když oni mají
+[01:15:13] vykonávat
+[01:15:14] na svojí čest
+[01:15:15] ten svůj mandát
+[01:15:17] poctivě
+[01:15:18] a čestně
+[01:15:19] vůči
+[01:15:19] českému lidu,
+[01:15:22] všemu lidu,
+[01:15:24] jak je možný,
+[01:15:25] že ten hajzl
+[01:15:26] z toho hradu,
+[01:15:27] tenhle zmrt,
+[01:15:28] tenhle zmrt
+[01:15:29] zaprodanej,
+[01:15:31] skurvenej,
+[01:15:32] tato loutka
+[01:15:33] toho dalšího
+[01:15:34] hajzla koláře,
+[01:15:36] jak je možný,
+[01:15:37] že na něho
+[01:15:38] není podaná
+[01:15:39] ústavní žaloba
+[01:15:41] a že tenhle zmrt
+[01:15:43] není zbaven
+[01:15:44] už prezidentského úřadu.
+[01:15:47] Jak je
+[01:15:47] tohle možný?
+[01:15:50] Protože
+[01:15:50] to máte další věci.
+[01:15:53] Bez problému by
+[01:15:54] nechal zrušit
+[01:15:56] právo VETA
+[01:15:57] pro Českou republiku
+[01:15:59] v zahraničních otázkách,
+[01:16:01] ty vole.
+[01:16:02] Takže by vlastně
+[01:16:03] o nás mohli rozhodovat
+[01:16:04] bejvalí Náckove
+[01:16:06] jako Mertz.
+[01:16:07] A to s tímhle
+[01:16:09] souhlasí
+[01:16:10] ta svině
+[01:16:11] skurvená
+[01:16:12] z toho hradu.
+[01:16:14] Já vám říkám,
+[01:16:15] já jsem jednoznačně
+[01:16:16] pro obnovu
+[01:16:18] trestu smrti
+[01:16:19] za vlasti zradu,
+[01:16:22] vele zradu
+[01:16:23] a za korupci,
+[01:16:25] za státní korupci,
+[01:16:27] jako v Číně.
+[01:16:28] Jako v Číně
+[01:16:29] bych všechny
+[01:16:30] tyhle kurvy,
+[01:16:31] krysy,
+[01:16:32] kteří se podíleli
+[01:16:33] na dozimetru,
+[01:16:34] kampeličce,
+[01:16:35] rozkrádání
+[01:16:37] zbrojních zakázek,
+[01:16:39] dozimetru,
+[01:16:41] bitcoinu,
+[01:16:43] všechny,
+[01:16:44] co se v tom
+[01:16:45] jenom trochu zakoupali,
+[01:16:47] tak bych je nechal popravit.
+[01:16:50] A nebo možná bych
+[01:16:51] udělal lepší.
+[01:16:52] Dal bych jim
+[01:16:53] elektronické obojky
+[01:16:54] na krky
+[01:16:55] a nucené práce.
+[01:16:58] Nucené práce.
+[01:17:00] Protože pro některý
+[01:17:02] tyhle zmrdy
+[01:17:03] by ten trest smrti
+[01:17:05] bylo vykoupení.
+[01:17:09] Ale ten trest smrti
+[01:17:10] musí se vrátit zpátky,
+[01:17:13] aby,
+[01:17:13] já neříkám,
+[01:17:14] že se musí vždycky vykonat,
+[01:17:16] ale musí tam být,
+[01:17:18] aby tyhle hajzlové skurveni,
+[01:17:20] kteří mají zastupovat nás,
+[01:17:22] nás,
+[01:17:23] nás jediné vlastníky,
+[01:17:24] vlastníky,
+[01:17:25] vlastníky České republiky.
+[01:17:28] Toto je naše vlast.
+[01:17:30] Toto je naše vlast.
+[01:17:32] Náš domov.
+[01:17:33] My to kurva živíme.
+[01:17:35] My vás živíme,
+[01:17:36] vy zmrdi.
+[01:17:39] Toto je naše vlast.
+[01:17:40] Náš domov.
+[01:17:42] Nám patří.
+[01:17:43] Ne vám.
+[01:17:44] Ne vám.
+[01:17:46] Takže pro všechny
+[01:17:47] tyhle parchanty
+[01:17:49] a pro všechny ty rádoby
+[01:17:50] vlastenecké poslance
+[01:17:52] a ministry
+[01:17:53] a všechny
+[01:17:54] ten trest smrti
+[01:17:56] za tyhle činy
+[01:17:58] proti republice,
+[01:18:00] proti nám lidem,
+[01:18:02] tam musí se vrátit
+[01:18:04] do té ústavy.
+[01:18:06] Aby to tam vyselo
+[01:18:07] jako ten damoklův meč.
+[01:18:10] Aby přestala je
+[01:18:12] chuť na to
+[01:18:13] někoho tady okrádat.
+[01:18:15] Aby tady měnili kurva zákony
+[01:18:17] k obrazu svému.
+[01:18:19] Aby mohli okrát z důchodce.
+[01:18:21] Aby mohli okrát z rodiny s dětma.
+[01:18:24] Aby mohli okrávat invalidy.
+[01:18:26] prostě to tam musí
+[01:18:28] přijít vrátit zpátky.
+[01:18:33] Mám plný zuby
+[01:18:34] tady téhle doby.
+[01:18:35] Plný zuby
+[01:18:36] mám téhle doby.
+[01:18:37] Těhle zlodějů,
+[01:18:38] těhle hoštaplerů,
+[01:18:40] těhle zmrdů skurvených,
+[01:18:42] kteří tady budou
+[01:18:43] vyřvávat,
+[01:18:45] jak my jsme
+[01:18:46] ta demokratická
+[01:18:47] společnost,
+[01:18:48] tolik té svobody.
+[01:18:50] Jo?
+[01:18:51] A jak my se máme,
+[01:18:52] jak jsme se nikdy neměli.
+[01:18:55] To je neuvěřitelný.
+[01:18:59] To je neuvěřitelný.
+[01:19:05] Já ne, já nechápu,
+[01:19:07] absolutně nechápu,
+[01:19:09] že tady máte
+[01:19:10] takový parchanty,
+[01:19:11] jako je právě Rakushan.
+[01:19:14] Tenhle,
+[01:19:14] ty hajzle,
+[01:19:15] ty patříš už dávno.
+[01:19:17] Ty máš mít dávno do životí.
+[01:19:19] Ty máš,
+[01:19:19] ty máš být v tom kriminále,
+[01:19:22] ty hajzle,
+[01:19:22] skurvenej Rakouskej, vole.
+[01:19:24] Ty máš makat
+[01:19:26] od rána,
+[01:19:26] od pětí
+[01:19:27] do šesti do večera,
+[01:19:29] aby si mohl zaplatit,
+[01:19:31] kurva, žrádlo.
+[01:19:33] Aby si na to žrádlo vydělal.
+[01:19:35] Nic zadarmo,
+[01:19:36] ty hajzle.
+[01:19:37] Ne.
+[01:19:38] A celá ta fialovo-modrožlutá banda.
+[01:19:41] 90% všech těch hajzlů
+[01:19:44] mají být dávno v kriminále.
+[01:19:46] Má jim být zabavený majetek, vole.
+[01:19:49] Jenže tohle,
+[01:19:50] tato současná vláda
+[01:19:52] neudělá.
+[01:19:53] Protože oni mají
+[01:19:54] minimálně,
+[01:19:56] já nevím,
+[01:19:57] z jakého
+[01:19:58] toho podílu
+[01:19:59] zašpiněný pracky.
+[01:20:01] Protože oni taky jedou
+[01:20:03] spousty věcí
+[01:20:04] do své vlastní kapsičky.
+[01:20:07] Oni jedou v té stejném,
+[01:20:09] oni mají ten stejný rybníček,
+[01:20:11] oni si ho nevypustí.
+[01:20:14] Ale my to pořád nechápeme.
+[01:20:16] My to nechápeme.
+[01:20:18] A pořád,
+[01:20:19] pořád a pořád,
+[01:20:20] jenom ty volby
+[01:20:21] a pořád do kola.
+[01:20:40] A já vidím té nespravedlnosti.
+[01:20:42] To je strašné nespravedlnosti.
+[01:20:45] Mě to prostě dere nervy,
+[01:20:47] trhá mě to srdce na kusy,
+[01:20:50] když prostě vidím tu nespravedlnost
+[01:20:52] mezi těma běžnejma lidma.
+[01:20:57] Kdy se tady nemá,
+[01:20:58] kdy tady norm,
+[01:20:59] člověk,
+[01:20:59] který nemá,
+[01:21:00] který má finance jenom na to,
+[01:21:02] aby vůbec přežil,
+[01:21:04] aby vůbec přežil,
+[01:21:06] aby zaplatil nájem,
+[01:21:07] aby měl na základní potřeby,
+[01:21:11] tak když se dostane
+[01:21:12] do nějakého menšího problému,
+[01:21:14] je v hajzu.
+[01:21:15] Nemá šanci se dovolat
+[01:21:18] jakéhokoliv práva.
+[01:21:20] Nemá šanci.
+[01:21:21] Nemáte peníze,
+[01:21:23] nemáte naprávníka,
+[01:21:25] nemáte právo,
+[01:21:25] žádné právo se dovolat,
+[01:21:29] možnost takhle.
+[01:21:30] Nemáte žádnou,
+[01:21:32] jakoukoliv možnost,
+[01:21:33] se dovolat svého práva.
+[01:21:35] Jestliže nemáte
+[01:21:37] potřebné finance,
+[01:21:40] nedovoláte se svého práva.
+[01:21:43] Takže ještě,
+[01:21:44] tady mě ještě někdo může napsat,
+[01:21:47] že žijeme v právním státě,
+[01:21:50] tak kdyby to bylo možný,
+[01:21:52] a já bych se mohl
+[01:21:53] zhmotnit někde na tom místě,
+[01:21:56] kdo tohle řekne,
+[01:21:57] tak ho nakopu hodně
+[01:21:59] špičatou botou
+[01:22:01] do prdele.
+[01:22:05] Mě tady někdo bude vykládat
+[01:22:07] něco o právu
+[01:22:10] běžného člověka.
+[01:22:14] Jenom se podívám
+[01:22:15] na tu skurvenou
+[01:22:16] exekutorskou mafii.
+[01:22:20] Podívám se na ty politiky.
+[01:22:22] Podívám se na jejich platy.
+[01:22:24] A mně se chce blít.
+[01:22:26] Mně se chce blít.
+[01:22:29] Když tady jsou lidi,
+[01:22:31] kteří se domáhají,
+[01:22:33] aby měli ten,
+[01:22:35] aby oni prosím,
+[01:22:36] oni žadoní,
+[01:22:37] oni se dovolávají
+[01:22:39] svých práv, vole.
+[01:22:41] Lidi, kteří se musí starat
+[01:22:44] o své rodiče,
+[01:22:45] kteří jsou nemohoucí, vole.
+[01:22:47] Tak ty, vole,
+[01:22:48] to jsou měsíce,
+[01:22:49] než se dovolají svého práva
+[01:22:52] na příspěvek,
+[01:22:53] na ošetření.
+[01:22:54] lidi, kteří mají
+[01:22:57] těžké nemoce,
+[01:22:59] rakoviny, vole,
+[01:23:00] schizofrenii,
+[01:23:02] roztroušené sklerózy.
+[01:23:05] Tak tento stát je nutí
+[01:23:06] chodit do práce.
+[01:23:11] Mizijou trojky, dvojky,
+[01:23:13] invalidní důchody, vole.
+[01:23:15] Dostávají ty lidi jedničky.
+[01:23:18] Nebo vůbec, vole,
+[01:23:19] nebo jim to úplně seberou.
+[01:23:21] A mně tady chce někdo
+[01:23:22] vykládat kurva něco
+[01:23:24] o právním státě.
+[01:23:25] Juchelku bych vzal,
+[01:23:28] vykopal ho z toho ministerstva,
+[01:23:30] toho debila
+[01:23:31] a nahradil ho opravdovým člověkem
+[01:23:34] s empatií,
+[01:23:36] který chápe,
+[01:23:37] co to musí být pro člověka,
+[01:23:40] který nemá šanci
+[01:23:41] se dostat do práce
+[01:23:42] a žít z devíti tisíc korun měsíčně.
+[01:23:48] Nemít tenhle člověk,
+[01:23:49] o kterým mluvím,
+[01:23:50] svého přítele,
+[01:23:52] nemít rodiče,
+[01:23:53] nemít možnost bydlet,
+[01:23:57] protože mají rodinný dům,
+[01:24:00] tak tenhle člověk
+[01:24:01] chcípá na ulici.
+[01:24:04] A mně tady chce někdo
+[01:24:05] vykládat do piče
+[01:24:07] něco o právním státě.
+[01:24:17] Já mám být slušnej, vole.
+[01:24:20] Já mám být slušnej.
+[01:24:27] Teďka
+[01:24:28] pan veliký senátor,
+[01:24:31] ty, ty, ty, ty, ty, ty,
+[01:24:33] tady tenhle tydít,
+[01:24:35] grolich.
+[01:24:35] Teďka článek,
+[01:24:38] já jsem si to radši ofotil,
+[01:24:39] protože bych se vůbec nedivil,
+[01:24:41] kdyby to zmizelo.
+[01:24:43] Pan grolich
+[01:24:44] za loňský rok,
+[01:24:46] 5 milionů 600 tisíc
+[01:24:49] hrubého.
+[01:24:53] 5 milionů 600 tisíc hrubého.
+[01:24:56] Já to nezávidím.
+[01:25:05] To není závist.
+[01:25:07] Kdyby to náhodou zase nějakej debil,
+[01:25:09] který se mě tady směje.
+[01:25:12] 5 milionů 600 tisíc hrubého.
+[01:25:15] Děleno dvanácti.
+[01:25:17] Měsíčně
+[01:25:17] je to 466,
+[01:25:20] ty, vole, to je cifra.
+[01:25:22] To je jak vystřížený,
+[01:25:24] vole, z toho.
+[01:25:26] Ze satanismu.
+[01:25:27] Ty šestky tam, vole.
+[01:25:28] Takže měsíčně
+[01:25:31] tenhle hajzl
+[01:25:32] 466 tisíc
+[01:25:34] 666 hrubého
+[01:25:36] z našich dání.
+[01:25:45] Do toho jeho hrubého
+[01:25:46] se vlezou dva lidé,
+[01:25:48] kteří pracují celý rok.
+[01:25:51] Celý rok.
+[01:25:52] Protože tohle, když si vezmu,
+[01:25:57] rovná se
+[01:25:58] na kurva
+[01:26:00] jinak 4, 4, 6, 6, 6,
+[01:26:03] děleno dvěma,
+[01:26:04] tak je to 233 tisíc
+[01:26:07] hrubého.
+[01:26:10] Jo?
+[01:26:11] Tak.
+[01:26:12] Děleno dvěma.
+[01:26:15] Děleno dvanácti.
+[01:26:17] Je dneska
+[01:26:18] bez problémů.
+[01:26:19] Lidé
+[01:26:20] 19 tisíc
+[01:26:21] 444 korun
+[01:26:23] hrubého.
+[01:26:24] No jasně.
+[01:26:25] Takže takovýhle zmrt
+[01:26:27] do něho se vleze
+[01:26:29] práce
+[01:26:30] dvou lidí,
+[01:26:32] kteří makají
+[01:26:33] celý rok.
+[01:26:35] A makají a dřou.
+[01:26:37] a tenhle ten týdýd
+[01:26:39] vám bude v televizi
+[01:26:40] vykládat,
+[01:26:43] že ne je
+[01:26:44] svobodně
+[01:26:45] a demokraticky
+[01:26:46] zvolená vláda,
+[01:26:49] ale ulice.
+[01:26:51] Ulice to rozhodne.
+[01:26:55] Prosím vás,
+[01:26:58] já jsem to psal,
+[01:26:59] já jsem to psal,
+[01:27:00] když jsem tohle slyšel,
+[01:27:02] nebo četl,
+[01:27:03] co tenhle ten
+[01:27:04] imbecil,
+[01:27:06] protože
+[01:27:06] to je přesně ono,
+[01:27:07] to jsou
+[01:27:07] arogantní
+[01:27:08] skurvisyni,
+[01:27:09] kteří si prostě myslí,
+[01:27:11] že můžou
+[01:27:12] naprosto všechno.
+[01:27:15] A on vám
+[01:27:16] v televizi,
+[01:27:17] já nevím,
+[01:27:17] na kterým programu,
+[01:27:18] já nevím,
+[01:27:21] zahlásil,
+[01:27:22] že ne vláda
+[01:27:23] Andreje Babiše,
+[01:27:25] ne,
+[01:27:25] že ta svobodně
+[01:27:27] a demokraticky
+[01:27:28] zvolená
+[01:27:29] vláda
+[01:27:30] občanů
+[01:27:31] České republiky
+[01:27:32] bude rozhodovat
+[01:27:34] o tom,
+[01:27:36] jestli poplatky
+[01:27:37] ano nebo ne,
+[01:27:38] ale že on vyzývá,
+[01:27:40] aby lidi šli do ulic,
+[01:27:42] aby oni rozhodli.
+[01:27:46] Já mám takovej pocit,
+[01:27:48] že
+[01:27:48] pan Grolich,
+[01:27:51] tenhle kripl,
+[01:27:52] naplnil
+[01:27:53] vlastně
+[01:27:55] trestný čin
+[01:27:58] šíření nenávisti
+[01:28:00] vůči skupině osob,
+[01:28:03] jo,
+[01:28:04] a vyzývá
+[01:28:05] k násilí.
+[01:28:08] Jednoznačně.
+[01:28:09] A myslím si,
+[01:28:11] že by se tam našli
+[01:28:12] vlastně i prvky
+[01:28:13] terorismu.
+[01:28:15] Protože
+[01:28:15] za něco takového,
+[01:28:17] podobného,
+[01:28:18] i když s jiným
+[01:28:19] slovníkem,
+[01:28:21] tak
+[01:28:21] zavřeli
+[01:28:22] Tomáše Čermáka.
+[01:28:26] Jenže
+[01:28:26] Tomáš Čermák,
+[01:28:28] na rozdíl
+[01:28:28] od pana Grolicha,
+[01:28:30] to řekl
+[01:28:30] na svém
+[01:28:31] facebookovém profilu,
+[01:28:33] kde to mohlo vidět,
+[01:28:34] já nevím,
+[01:28:35] plásnu třeba
+[01:28:36] 100 tisíc lidí,
+[01:28:37] to zhlédlo.
+[01:28:39] Jenže
+[01:28:39] z těch 100 tisíc lidí
+[01:28:40] tam bylo minimálně
+[01:28:42] 60 tisíc lidí,
+[01:28:44] kteří se
+[01:28:44] Čermákovi
+[01:28:45] jenom smáli,
+[01:28:46] jaký je to blbec.
+[01:28:48] A těch dalších
+[01:28:49] 40 tisíc lidí,
+[01:28:51] kteří mu,
+[01:28:51] dejme tomu,
+[01:28:52] jakože tleskali,
+[01:28:55] tak
+[01:28:55] v životě
+[01:28:56] Tomáš Čermák
+[01:28:57] přes ten facebook
+[01:28:57] nemohl,
+[01:28:59] nemohl
+[01:28:59] docílit toho,
+[01:29:01] aby ty lidé
+[01:29:02] se prostě
+[01:29:03] někde sešli
+[01:29:04] na náměstí
+[01:29:05] a všechny ty
+[01:29:07] zmrdy,
+[01:29:07] který by si to
+[01:29:08] zasloužili
+[01:29:08] jednoznačně,
+[01:29:10] vyházet
+[01:29:10] z těch svých
+[01:29:11] křesel.
+[01:29:14] Toho Tomáš Čermák
+[01:29:15] nikdy
+[01:29:16] nemohl
+[01:29:17] docílit
+[01:29:18] za pomocí
+[01:29:19] sociální sítě
+[01:29:20] facebook.
+[01:29:22] Kdežto
+[01:29:23] slovo
+[01:29:23] tady tohodle
+[01:29:24] z toho,
+[01:29:26] tady tohodle
+[01:29:27] hajzla,
+[01:29:30] tady,
+[01:29:30] tady,
+[01:29:31] jak se to říká,
+[01:29:32] tady tohodle
+[01:29:33] z toho,
+[01:29:34] to je jedno
+[01:29:35] prostě,
+[01:29:35] já seď to nespomenu,
+[01:29:36] tady tohodle
+[01:29:38] kripla,
+[01:29:39] grolicha,
+[01:29:41] tak on tohle,
+[01:29:42] prosím vás,
+[01:29:43] vyzýval ty lidi,
+[01:29:44] vyzýval ty lidi
+[01:29:46] v televizi.
+[01:29:49] Tu televizi
+[01:29:49] mohlo sledovat
+[01:29:50] minimálně,
+[01:29:51] já nevím,
+[01:29:52] pětset,
+[01:29:52] šestset,
+[01:29:53] sedmset
+[01:29:53] tisíc
+[01:29:54] lidí,
+[01:29:55] milion,
+[01:29:58] to medium,
+[01:29:59] jako je televize,
+[01:30:00] já nevím,
+[01:30:00] v který televizi
+[01:30:01] to tenhle
+[01:30:02] ten kripl řekl,
+[01:30:04] ale ta má
+[01:30:04] daleko větší
+[01:30:05] dosah,
+[01:30:07] než má
+[01:30:07] nějaký
+[01:30:08] profil
+[01:30:09] na Facebooku
+[01:30:10] nějakýho
+[01:30:11] čermáka.
+[01:30:14] Za mě
+[01:30:15] grolich prostě
+[01:30:15] tohle udělal.
+[01:30:18] Prostě
+[01:30:18] vyzývá
+[01:30:20] k násilí,
+[01:30:21] vyzývá
+[01:30:21] k násilí
+[01:30:22] proti
+[01:30:23] svobodně
+[01:30:24] a demokraticky
+[01:30:25] zvolené vládě
+[01:30:26] ve svobodných
+[01:30:28] a demokratických
+[01:30:29] volbách.
+[01:30:31] A tady se vrátím
+[01:30:32] znovu
+[01:30:32] k panu Mazurkovi,
+[01:30:34] to on to řekl
+[01:30:34] naprosto přesně.
+[01:30:36] Vy,
+[01:30:37] vy,
+[01:30:37] svině
+[01:30:38] skurvený,
+[01:30:39] vy,
+[01:30:40] vy ta banda
+[01:30:41] zasraných,
+[01:30:42] fialovo-modro-žlutej
+[01:30:43] spolu ve stanu,
+[01:30:45] kde kameň
+[01:30:45] mrdal cihlu.
+[01:30:47] Vy,
+[01:30:47] vy,
+[01:30:48] ksyndlové,
+[01:30:49] eurohujeřští,
+[01:30:50] pro západní,
+[01:30:51] pro nacistický,
+[01:30:53] ukrajinský svině.
+[01:30:55] Vy jenštěte válku.
+[01:30:58] Vy jste kurva
+[01:30:59] ty volby
+[01:30:59] prostě do prdele
+[01:31:01] prohráli.
+[01:31:03] A vy se můžete
+[01:31:04] posrat,
+[01:31:05] vy se můžete
+[01:31:06] posrat,
+[01:31:06] abyste to
+[01:31:08] zvrátili.
+[01:31:11] Vy prostě
+[01:31:11] budete dělat
+[01:31:12] všechno
+[01:31:13] proto,
+[01:31:15] abyste
+[01:31:16] tomu
+[01:31:17] babišovi
+[01:31:17] a té vládě
+[01:31:18] prostě
+[01:31:19] naházeli
+[01:31:20] co nejvíc
+[01:31:21] klacků
+[01:31:21] pod nohy.
+[01:31:23] A budete si
+[01:31:24] brát
+[01:31:24] do rypáku
+[01:31:25] a jako rukojmi
+[01:31:26] si budete
+[01:31:26] brát
+[01:31:27] tupé
+[01:31:28] idioty
+[01:31:29] ve večerníčkovských
+[01:31:31] čepicích.
+[01:31:34] To je
+[01:31:34] neuvěřitelný.
+[01:31:35] To je
+[01:31:36] neuvěřitelný.
+[01:31:39] Já jsem
+[01:31:39] neslyšel,
+[01:31:41] neslyšel jsem
+[01:31:42] nikdy,
+[01:31:43] ať to byl
+[01:31:44] vrábel,
+[01:31:44] ať to byl
+[01:31:45] rajchl,
+[01:31:46] ať to byl
+[01:31:47] volný,
+[01:31:47] ať to byl
+[01:31:48] nevím kdo.
+[01:31:50] Neslyšel jsem,
+[01:31:51] aby vyzývali
+[01:31:52] lidi
+[01:31:53] pojďte
+[01:31:53] do ulic,
+[01:31:55] pojďte
+[01:31:56] do ulic,
+[01:31:57] musíme
+[01:31:58] toho
+[01:31:58] babiše
+[01:31:59] odstranit,
+[01:31:59] teda babiše,
+[01:32:00] musíme
+[01:32:01] toho
+[01:32:01] fialu
+[01:32:01] odstranit.
+[01:32:03] Já jsem
+[01:32:04] to neslyšel.
+[01:32:06] Jak je
+[01:32:07] možný,
+[01:32:08] jak je
+[01:32:08] možný,
+[01:32:10] že si
+[01:32:10] v tom
+[01:32:10] právním
+[01:32:11] státě
+[01:32:11] něco
+[01:32:12] takového
+[01:32:13] dovolí
+[01:32:15] senátor
+[01:32:17] České
+[01:32:18] republiky
+[01:32:19] tohle říct
+[01:32:20] v české
+[01:32:21] nebo v jaké
+[01:32:22] televizi.
+[01:32:23] Toto mě
+[01:32:23] vysvětlete,
+[01:32:25] protože
+[01:32:25] když jsem
+[01:32:25] tenkrát
+[01:32:26] byl na tom
+[01:32:27] soudě,
+[01:32:28] kde
+[01:32:28] odsoudili
+[01:32:28] toho
+[01:32:29] krypla
+[01:32:29] Tušla
+[01:32:30] s Tomášem
+[01:32:31] Čermákem
+[01:32:32] a ten
+[01:32:34] státní
+[01:32:34] zástupce
+[01:32:35] tam řekl,
+[01:32:37] že
+[01:32:38] jejich
+[01:32:38] verbální
+[01:32:39] projevy,
+[01:32:40] tedy
+[01:32:40] slovní
+[01:32:41] projevy,
+[01:32:41] by se
+[01:32:42] mohly
+[01:32:43] proměnit
+[01:32:45] ve fyzické
+[01:32:46] násilí
+[01:32:47] a za tohle
+[01:32:48] je odsoudili,
+[01:32:50] tak já
+[01:32:51] se ptám,
+[01:32:53] pan
+[01:32:54] Grolich
+[01:32:55] je
+[01:32:55] nějaký
+[01:32:56] polobůch?
+[01:32:58] Pan Grolich,
+[01:32:59] protože je
+[01:32:59] senátor,
+[01:33:00] tak je
+[01:33:00] nad člověk?
+[01:33:02] On je
+[01:33:02] nad právem?
+[01:33:04] On je
+[01:33:04] nad ústavou?
+[01:33:05] jak je
+[01:33:07] možný,
+[01:33:07] že si
+[01:33:07] tohle
+[01:33:08] dovolil
+[01:33:09] říct
+[01:33:09] televizi
+[01:33:10] a vyzývá
+[01:33:12] lidi do ulic
+[01:33:13] a nejenom
+[01:33:14] on,
+[01:33:14] ale i další
+[01:33:15] a potom
+[01:33:16] ta fotka
+[01:33:17] z té
+[01:33:18] jakési
+[01:33:18] kundy,
+[01:33:19] která kdysi
+[01:33:20] ležela,
+[01:33:20] vožralá
+[01:33:21] před
+[01:33:22] Rudolfínem,
+[01:33:26] jo,
+[01:33:27] málela se tam
+[01:33:27] jako
+[01:33:28] prase
+[01:33:29] pochcaná,
+[01:33:30] tak
+[01:33:30] tato
+[01:33:31] stejná
+[01:33:31] atrapa
+[01:33:33] ženy,
+[01:33:34] jo,
+[01:33:35] novinářky,
+[01:33:36] nebo co to má
+[01:33:36] být,
+[01:33:37] tak dlažební kostkou
+[01:33:39] chtěla
+[01:33:39] rozbíjet okna
+[01:33:41] v poslanecké
+[01:33:41] sněmovně?
+[01:33:43] Prosím vás,
+[01:33:44] kdože je
+[01:33:45] tady ten
+[01:33:45] dezolát?
+[01:33:48] Víte,
+[01:33:48] já můžu mít
+[01:33:49] výhrady
+[01:33:50] tady k té
+[01:33:50] naší
+[01:33:51] scéně,
+[01:33:52] nevím jaký,
+[01:33:53] nevím jaký,
+[01:33:54] ale
+[01:33:55] tato scéna,
+[01:33:56] tato scéna
+[01:33:57] se nikdy
+[01:33:58] nedopustila,
+[01:34:00] nikdy se
+[01:34:01] nevyjadřovala
+[01:34:02] tak,
+[01:34:02] jak tady
+[01:34:03] ty lepšo lidi.
+[01:34:04] Já jsem,
+[01:34:05] možná nějakej
+[01:34:07] exces třeba
+[01:34:08] jeden,
+[01:34:08] dva byly,
+[01:34:09] ale já jsem nikde
+[01:34:10] neviděl
+[01:34:11] transparenty,
+[01:34:13] že
+[01:34:13] fiala
+[01:34:14] a spol,
+[01:34:15] že to jsou
+[01:34:15] píče
+[01:34:16] a čuráci,
+[01:34:18] jo,
+[01:34:18] neviděl jsem
+[01:34:19] nic takovýho,
+[01:34:20] jen tak
+[01:34:20] mimochodem,
+[01:34:21] vy dementi
+[01:34:22] s těma
+[01:34:23] večerničkovejma
+[01:34:24] čepicama,
+[01:34:26] čas,
+[01:34:28] kdy se
+[01:34:28] poslanecká
+[01:34:29] sněmovna
+[01:34:30] hlasovala
+[01:34:30] o nějakým
+[01:34:31] zákonu,
+[01:34:32] 4,36
+[01:34:34] není absolutně
+[01:34:36] nic neobyklého.
+[01:34:38] Absolutně
+[01:34:39] nic
+[01:34:39] to není neobyklé,
+[01:34:41] protože
+[01:34:41] fialova vláda
+[01:34:43] hlasovala
+[01:34:45] v daleko
+[01:34:46] brzčejší
+[01:34:47] časech,
+[01:34:49] v jednu hodinu
+[01:34:50] 36 minut,
+[01:34:51] ku příkladu,
+[01:34:52] nebo ne,
+[01:34:52] to neříkám to přesně,
+[01:34:54] ale něco kolem
+[01:34:55] půl jedné
+[01:34:56] nebo půl druhé,
+[01:34:58] ve tři hodiny ráno,
+[01:34:59] o pěti hodinách ráno.
+[01:35:02] To je totiž,
+[01:35:03] pardon,
+[01:35:05] naprosto běžná záležitost.
+[01:35:07] Takže tady zase je ukázka toho,
+[01:35:10] jakým způsobem pracuje Česká televize.
+[01:35:15] A za mě Česká televize patří zrušit.
+[01:35:18] Celý projekt České televize
+[01:35:21] zmačkat
+[01:35:22] jako záchodovej papi,
+[01:35:25] jako ten toaleťák,
+[01:35:27] když si utíráte prdel
+[01:35:28] a tyhle hovna hodit do toho hajzlu
+[01:35:32] a spláchnout.
+[01:35:35] Takhle bych to viděl
+[01:35:36] s Českou televizí.
+[01:35:38] S těmahle neonacistama,
+[01:35:41] s těmahle lhářema,
+[01:35:43] podvodníkama,
+[01:35:44] hoštaplerama,
+[01:35:45] touhle chamradí.
+[01:35:47] Protože ještě připomenu,
+[01:35:50] jenom tak,
+[01:35:52] ještě v lednu,
+[01:35:53] ještě v lednu 2022
+[01:35:55] tam ti redaktoři
+[01:35:58] a tady tato chamradí novinářská
+[01:36:00] hovořili o tom,
+[01:36:03] jak se na Ukrajině
+[01:36:05] v městech jako Lvov
+[01:36:07] probouzí neonacismus.
+[01:36:11] Česká televize schovala dokument
+[01:36:13] o neonacismu,
+[01:36:16] o Azov,
+[01:36:16] o tom, co nabírá
+[01:36:19] Azov za žoldáky,
+[01:36:21] že tam je
+[01:36:22] nacistická symbolika.
+[01:36:25] Toto česká televize
+[01:36:27] ukryla ve svém archivu.
+[01:36:30] Jednoznačně.
+[01:36:33] To jsou fakta.
+[01:36:34] Tady mám pro Charváta
+[01:36:35] další fakta.
+[01:36:37] Proč nesnáším českou televizi
+[01:36:39] a celou tu chamradí skurvenou.
+[01:36:41] Takže tak, přátelé.
+[01:36:52] No, každopádně,
+[01:36:53] tohle si myslím, že stačilo.
+[01:36:55] Zase jsme si zanadávali,
+[01:36:57] že jo, slečno nebo paní Lucie.
+[01:37:02] Potom, prosím vás,
+[01:37:03] chtěl bych vám všem, přátelům,
+[01:37:05] ta druhá strana mě uprdele.
+[01:37:08] Než zase najdou
+[01:37:09] svůj mozek, vole,
+[01:37:11] který si někde vysrali,
+[01:37:13] tak než zase najdou
+[01:37:14] svůj mozek,
+[01:37:15] tak komunikovat s nima nemá smysl.
+[01:37:18] Takže já vám chci říct,
+[01:37:19] že přátelé,
+[01:37:21] prosím vás,
+[01:37:22] nemějte obavy.
+[01:37:23] Nemějte obavy o mě.
+[01:37:25] Já se o sebe vždycky dokážu postarat.
+[01:37:28] A co se týče
+[01:37:29] toho mýho rozčilování.
+[01:37:32] Kdybych vám mohl říct
+[01:37:33] jednu historku
+[01:37:34] s panem Hercem Čermákem,
+[01:37:39] tímhle hňupem,
+[01:37:42] co se odehrála na Barandovi.
+[01:37:46] Já jsem o tom psal
+[01:37:47] v jednom komentáři
+[01:37:48] u měho kamaráda Jirky
+[01:37:49] pod příspěvkem právě
+[01:37:52] tady tohohle hňupa.
+[01:37:55] Tak já jsem tomu nemohl věřit.
+[01:37:57] Tomu byste se fakt smáli.
+[01:37:59] Úplně úžasně.
+[01:38:00] Takže já vám chci říct,
+[01:38:01] že já to prožívám.
+[01:38:04] Já ty emoce prožívám
+[01:38:06] se vším všudy.
+[01:38:08] Opravdu.
+[01:38:09] Když je ta nespravedlnost,
+[01:38:11] mě to vnitřně fakticky
+[01:38:13] dere srdce.
+[01:38:14] Mě to strašně štve.
+[01:38:16] Mě je líto.
+[01:38:18] Mě je líto tak moc líto
+[01:38:20] těch lidí,
+[01:38:21] kteří prostě
+[01:38:21] trpí tou nespravedlností.
+[01:38:24] Všech těch dětí,
+[01:38:26] maminek a invalidů
+[01:38:28] a seniorů.
+[01:38:29] Já když si s nima píšu,
+[01:38:30] já to doslova a do písmene prožívám.
+[01:38:34] Takže já potom to tímto způsobem
+[01:38:37] ze sebe dostávám.
+[01:38:39] Já teďka už jsem úplně klidnej.
+[01:38:42] Já jsem fakt úplně klidnej.
+[01:38:44] Víte, herci se tohle musí učit
+[01:38:46] na damu, jamu
+[01:38:48] a já nevím kde,
+[01:38:49] v jakých těch sračkách dneska,
+[01:38:51] protože dneska už to jsou samý sračky.
+[01:38:53] To zapomeňte na dobu,
+[01:38:56] kdy tady byly menšíkové
+[01:38:59] a ty skvělí herci.
+[01:39:02] Na to můžete zapomenout.
+[01:39:06] Dneska to, co to vyučí,
+[01:39:08] to je genderově neutrální.
+[01:39:11] Kde jsou ti naši pání herci
+[01:39:13] Hrušinský starší?
+[01:39:15] Sovák, ty vole.
+[01:39:18] Řezniček.
+[01:39:19] Pane Bože.
+[01:39:21] Kde jsou ti herci, ty vole?
+[01:39:23] To, co je dneska,
+[01:39:24] to je otřez, to je otřez.
+[01:39:27] Takže tohle, co já dělám,
+[01:39:31] to se herci učí.
+[01:39:32] Oni se to musí učit.
+[01:39:36] Mně je tohle vlastní.
+[01:39:38] Mně je tohle vlastní.
+[01:39:40] Já se to učit nemusím.
+[01:39:42] Já nemusím nic předstírat,
+[01:39:44] protože já to neumím,
+[01:39:46] já to neumím.
+[01:39:49] Já jsem si v roce 2015 řekl,
+[01:39:55] že prostě budu čestnej,
+[01:39:57] upřímnej,
+[01:39:57] že nebudu lhát,
+[01:39:59] že nebudu podvádět,
+[01:40:01] že nebudu dělat pomluvy v uči lidem,
+[01:40:05] že to nebudu dělat.
+[01:40:08] A já prostě jsem to tak řekl
+[01:40:10] a tak to tak je.
+[01:40:13] A ono to není pro mě úplně dobrý,
+[01:40:16] protože mě to udělalo spousty nepřátel,
+[01:40:20] protože ta moje přímost,
+[01:40:22] tak to nenávidí tolik lidí,
+[01:40:25] až to hezky není.
+[01:40:27] Takže já jsem vám chtěl říct,
+[01:40:28] přátelé,
+[01:40:29] protože nás nemusíte se o mě obávat.
+[01:40:32] Já ano,
+[01:40:33] mně ten tlak jde nahoru,
+[01:40:34] ale já jsem trénovanej.
+[01:40:36] Já jsem trénovanej.
+[01:40:37] U mě tlak třeba 170 na 110, 115,
+[01:40:44] to jsou takový běžný věci u mě.
+[01:40:48] No a pak já se uklidním
+[01:40:50] a mám někde těch 140 na 100,
+[01:40:53] na 95 prostě.
+[01:40:55] Takže fakt to, prosím vás,
+[01:40:57] nemějte o mě obavy,
+[01:40:58] nebojte se.
+[01:41:00] Jo?
+[01:41:02] To jsem vám chtěl říct.
+[01:41:04] No a potom,
+[01:41:06] už to nebude dlouho trvat, přátelé,
+[01:41:08] jinak já,
+[01:41:10] jo, ještě takhle.
+[01:41:12] Prosím vás,
+[01:41:13] já jsem moc rád,
+[01:41:15] já ho nebudu pana právníka jmenovat,
+[01:41:17] jsem moc rád,
+[01:41:18] že máme právníka pro Ivu Rosickou.
+[01:41:22] Jsem za to moc rád
+[01:41:23] a budu dělat
+[01:41:26] možná zítra,
+[01:41:27] možná zítra.
+[01:41:29] Já vás znovu poprosím,
+[01:41:31] jo, o pomoc,
+[01:41:32] finanční pomoc,
+[01:41:34] protože budeme potřebovat finance ještě pro,
+[01:41:37] jak Ivu Rosickou,
+[01:41:39] tak pro Teresku Vlasákovou
+[01:41:41] a pro její dvě holky
+[01:41:43] a pro Ivu a její koníčky
+[01:41:46] a její děti.
+[01:41:47] Budeme ještě potřebovat.
+[01:41:49] Jo?
+[01:41:49] A já znova dám ten příspěvek.
+[01:41:51] Ale chci říct,
+[01:41:53] že se to vyvíjí podle mě správným směrem
+[01:41:58] k té spravedlnosti, jo.
+[01:42:02] U Ivě Rosické teďkom jsem zaznamenal,
+[01:42:05] teď jsme si psali,
+[01:42:06] že nebudu říkat, co konkrétně,
+[01:42:10] ale že je tam určitý pozitivum,
+[01:42:13] že se jim podařilo,
+[01:42:14] Ivě a s kamarádem Jirkou,
+[01:42:18] dohledat nějaké věci,
+[01:42:20] ty budou předány právníkovi, jo.
+[01:42:23] Takže já věřím,
+[01:42:25] že oba dva ty spory
+[01:42:26] a u Terezy obzvláště,
+[01:42:29] protože tam mám další a další poznatky,
+[01:42:32] že díky vám všem,
+[01:42:34] díky přátelé,
+[01:42:35] opravdu vám všem
+[01:42:36] a díky členům společenství Česlo a Respekt,
+[01:42:40] tak prostě jsme schopni,
+[01:42:44] jsme schopni prostě pomoci té spravedlnosti
+[01:42:47] a já jsem přesvědčený,
+[01:42:49] že jak u Ivě Rosické,
+[01:42:52] tak u Teresky Vlasákové
+[01:42:54] dojdeme k té spravedlnosti.
+[01:42:57] A to je něco,
+[01:43:01] nedovedete si představit,
+[01:43:03] nedovedete si představit,
+[01:43:05] jak mě to v srdci těší,
+[01:43:09] jaké emoce to ve mně vyvolává.
+[01:43:11] Teďka mám slzy v očích,
+[01:43:16] protože tohle,
+[01:43:18] to jsou věci,
+[01:43:19] které mě naplňují,
+[01:43:22] to jsou věci,
+[01:43:24] díky kterým tady vůbec ještě jsem,
+[01:43:27] protože je tady,
+[01:43:28] že pomáháme těm lidem,
+[01:43:30] že jste tady vy,
+[01:43:32] prostě lidé srdce,
+[01:43:33] že i přes ty problémy,
+[01:43:35] který vy sami máte,
+[01:43:37] tak prostě vezmete tu stovečku,
+[01:43:40] dvě, prostě pošlete.
+[01:43:41] Někeří neuvěřitelný částky.
+[01:43:44] Chtěl jsem vám také říct,
+[01:43:46] prosím vás, přátelé,
+[01:43:48] já přece se nemůžu
+[01:43:50] na nikoho zlobit,
+[01:43:51] že prostě je v nouzi
+[01:43:53] a že ty peníze nemá
+[01:43:55] a že byť ta stovka je pro někoho,
+[01:43:58] pro mnohé z vás,
+[01:44:00] jako fakt velký peníze.
+[01:44:01] Takže, že tam nepošlete tu korunu,
+[01:44:04] prosím vás,
+[01:44:06] nemusíte se mě omlouvat,
+[01:44:08] když to neuděláte teď,
+[01:44:09] tak to uděláte někdy příště.
+[01:44:11] Prosím vás,
+[01:44:12] nepíšte mi do zpráv,
+[01:44:13] omlouvám se,
+[01:44:14] že nemůžu a tohle a tohle.
+[01:44:17] Lidi slatí boubelatí.
+[01:44:18] Já moc dobře vím,
+[01:44:20] co to je být v nouzi.
+[01:44:21] I mě taky nezaplatili faktury
+[01:44:25] a žral jsem rohlíky se salámem
+[01:44:27] a vodu jsem si bral
+[01:44:29] z kohoutku na benzince.
+[01:44:32] Jo, i takovýhle věci
+[01:44:34] člověk podnikání
+[01:44:35] v České republice zažije.
+[01:44:38] Takže já vím,
+[01:44:39] co to je nemít taky peníze.
+[01:44:41] Takže já s váma soucítím,
+[01:44:43] já to naprosto chápu,
+[01:44:45] tak mě toto, prosím,
+[01:44:46] nemusíte psát.
+[01:44:47] Jo, takže, ale prostě
+[01:44:50] tohle jsou věci,
+[01:44:51] který prostě nás tak nějak
+[01:44:53] propojují,
+[01:44:54] i když nejsou úplně veselí,
+[01:44:56] ale prostě tyhle věci,
+[01:44:58] kdy pomáháme lidem,
+[01:44:59] pomáháme zvířátkům,
+[01:45:01] prostě tohle strašně moc
+[01:45:04] vlastně nahrazuje
+[01:45:05] a vyplňuje ty,
+[01:45:07] nebo odstraňuje,
+[01:45:09] tak odstraňuje ty hnusy,
+[01:45:11] ty hnusy skurvený,
+[01:45:13] tady těchto hajzlů,
+[01:45:14] tak z toho mýho srdíčka
+[01:45:16] to vytlačí pryč.
+[01:45:18] A přijde taková nějaká zpráva,
+[01:45:21] jako od vás žen,
+[01:45:25] jako jo, já to chápu,
+[01:45:28] já za to moc děkuju,
+[01:45:31] nesmíte se zlobit,
+[01:45:33] jako že bych já,
+[01:45:34] já nemůžu jezdit po celé republice
+[01:45:36] a chodit na kafe
+[01:45:37] a že mě zvete k vám domů
+[01:45:39] a na oběd
+[01:45:40] a že byste mě chtěli
+[01:45:41] osobně poděkovat.
+[01:45:43] Já vám za to moc děkuju,
+[01:45:44] je to nádherný,
+[01:45:45] ale já to nemůžu, nemůžu.
+[01:45:49] A teďka nechci se dotknout nějak žen,
+[01:45:52] ale chlapi, jo,
+[01:45:55] když mě borec napíše,
+[01:45:58] nebudu říkat, nebudu jmenovat,
+[01:46:01] prostě, že si váží toho,
+[01:46:03] co prostě já dělám a tak dále,
+[01:46:06] pro mě to má obrovskou váhu,
+[01:46:10] jako jakákoliv,
+[01:46:10] ale víte, od toho chlapa přece jenom,
+[01:46:13] jako je to jiný, jo,
+[01:46:14] protože napsat prostě to,
+[01:46:17] jo, prostě je to jiný, že jo.
+[01:46:20] Takže všem, všem vám strašně moc děkuju,
+[01:46:22] všem vám strašně moc děkuju
+[01:46:24] za tyhle věci,
+[01:46:25] protože tohle vytlačí z toho srdce
+[01:46:28] ty sračky,
+[01:46:29] ty naprosté svinstva,
+[01:46:32] co tady předvádí
+[01:46:33] napříč politická garnitura,
+[01:46:36] napříč, jo.
+[01:46:39] Mně je jedno,
+[01:46:39] jestli je to menší, větší zlo,
+[01:46:41] mně je to jedno,
+[01:46:42] je to pořád zlo,
+[01:46:44] jsou to špatné věci,
+[01:46:46] jo, prostě neplní se sliby,
+[01:46:48] je to špatně,
+[01:46:49] je to prostě špatně.
+[01:46:52] A proto já prostě padni,
+[01:46:54] komu padni, jo.
+[01:46:56] Takže proto já mám spousty nepřátel,
+[01:46:58] a to na obou dvou stranách,
+[01:47:00] na obou dvou stranách.
+[01:47:03] Takže to jsem vám chtěl říct,
+[01:47:04] nic, startujeme,
+[01:47:07] startujeme,
+[01:47:09] podíváme, kolik mám,
+[01:47:10] jo, ha, jasně, co mě to pípa,
+[01:47:12] oni jsou 4 stupně,
+[01:47:13] to ještě pořád v pohodě,
+[01:47:15] 4 stupně je v pohodě,
+[01:47:18] a když nefouká vítr,
+[01:47:20] tak je to skvělý.
+[01:47:21] Tak, já přemýšlím,
+[01:47:26] tak, čekejte,
+[01:47:27] já nevím, co bychom tam dali,
+[01:47:28] to tam dáme,
+[01:47:29] podíváme se,
+[01:47:32] tak, podíváme se,
+[01:47:36] tadadadadam,
+[01:47:38] tohle nechci,
+[01:47:40] tak, cdčka,
+[01:47:48] 1,5,
+[01:47:49] hlavá sání,
+[01:47:52] tak,
+[01:47:54] nevěř,
+[01:47:56] a dámy tam,
+[01:47:57] to má rád jeden kamarád,
+[01:47:59] tady,
+[01:47:59] taky pořádně prosil,
+[01:48:01] o tu písničku,
+[01:48:03] nevěř,
+[01:48:03] tak,
+[01:48:11] a já ho tam teda dám,
+[01:48:12] jo,
+[01:48:14] tak,
+[01:48:14] a to prostě mluví za všechno,
+[01:48:25] a teď já přijdu domů,
+[01:48:26] a já tam mám výbornou čokoládu,
+[01:48:29] hořkou,
+[01:48:30] s pistáciem,
+[01:48:32] vynikající,
+[01:48:33] já si ho dám,
+[01:48:35] a přátelé,
+[01:48:38] země má je život můj,
+[01:48:40] ale i ten váš,
+[01:48:41] i ten váš,
+[01:48:42] a prostě říkejte si,
+[01:48:44] co chcete,
+[01:48:45] vy pořád ty politiky a politiky,
+[01:48:47] a já vám říkám,
+[01:48:48] že bez politiků,
+[01:48:51] jeden,
+[01:48:51] jo,
+[01:48:52] že prostě jenom společně jsme silnější,
+[01:48:54] a jenom společně to můžeme dát,
+[01:48:57] a je mi jedno,
+[01:48:58] koho milujete,
+[01:48:58] koho obdivujete,
+[01:48:59] prostě,
+[01:49:00] protože vím,
+[01:49:00] že prostě to naše rozdělování nemá šanci,
+[01:49:05] prostě jenom společně,
+[01:49:07] a jenom jeden za všechny a všichni za jednoho,
+[01:49:10] a nemusíme se milovat,
+[01:49:12] o tom to vůbec není,
+[01:49:13] nám přece jde o naši zem,
+[01:49:15] o naši vlast,
+[01:49:16] takže to jeden za všechny a všichni za jednoho,
+[01:49:18] prostě musí být,
+[01:49:20] jenom s naprostou česností,
+[01:49:22] naprostou morálností,
+[01:49:25] prostě poznanou pravdou,
+[01:49:27] bez té pravdy to prostě nemůže jít,
+[01:49:29] no a pak česnost, odvahou a hrdostí,
+[01:49:34] jinak prostě tu naši vlast,
+[01:49:36] tu naši zemičku nezachráníme,
+[01:49:39] tak se opatrujte,
+[01:49:40] vždy o tebe nevěřím,
+[01:50:00] nevěřím,
+[01:50:10] nevěřím,
+[01:50:12] nevěřím,
+[01:50:17] prostě nevěř,
+[01:50:18] a nevěř úřadů,
+[01:50:24] nevěř těm,
+[01:50:26] co otráví vodu,
+[01:50:27] nevěř,
+[01:50:28] příbí reklamou,
+[01:50:30] svůj dohrsti si vem,
+[01:50:36] neúřen,
+[01:50:37] přilním příslívem,
+[01:50:38] chuby sami si čijou,
+[01:50:42] neplijou,
+[01:50:43] čijou,
+[01:50:44] nevěřím,
+[01:50:45] a tímto se s vámi loučím,
+[01:51:36] nemusím zaparkovat,
+[01:51:37] takový blbej pobrubník tady,
+[01:51:45] s tímto se s vámi loučím,
+[01:51:46] a přeju vám krásný zbytek večera sobotního,
+[01:51:51] a krásnou neděli vám přeji zítra,
+[01:51:54] ať máte co nejvíc pozitivní,
+[01:51:58] dávejte na sebe pozor,
+[01:52:03] a já nevím,
+[01:52:05] tím, co se já nelíbím,
+[01:52:06] tak ideální je,
+[01:52:08] když mě vypnete,
+[01:52:10] a necháte mě prostě,
+[01:52:12] nemá smysl mě komentovat,
+[01:52:14] já prostě jiný nebudu,
+[01:52:16] já to mám takhle nastavený,
+[01:52:21] tak jo,
+[01:52:22] dobrou noc,

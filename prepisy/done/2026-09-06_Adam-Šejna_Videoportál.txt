@@ -1,0 +1,33 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Adam Šejna
+URL:          https://www.facebook.com/61586055215179/videos/2258238511626076
+Datum videa:  2026-09-06
+Zpracováno:   2026-09-07 22:01:17
+Jazyk:        cs
+Délka:        00:00:42
+Zhlédnutí:    2 552
+Popis:        Toto je důležité. Prosím, pošlete to dál.
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    4s
+Přepis:       13s
+Rychlost:     3.2x realtime
+Celkem:       17s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Všichni na Instagramu se rozšiřujou falešné účty, které se vydávají za moji osobu pod jménem mého projektu Restart Česko.
+[00:06] Nejenže jsou podezřelé dlouhé vejmenovce, několik potržítek vždycky,
+[00:10] ale také píšou věci, které bych úplně já říkat nechtěl,
+[00:14] protože s nima nesouhlasím, jo, a prostě tyto účty se za moji osobu vydávají a snaží se mě zdiskreditovat.
+[00:21] Část lidí má tu důvěru v ní, že jsem to opravdu já, což bohužel je nešťastné,
+[00:25] ale může se stát, když se za vás někdo vydává, já jsem na Instagramu neměl dlouhou dobu svoji vlastní prezenci,
+[00:30] kvůli tomu, že mě Instagram furt blokoval, teď jsem to konečně zvádl vyřešit, tento účet má i fajfku.
+[00:34] A jediný další účet, kromě Sejna potřítko official, je restartcesko.cz.
+[00:39] Takže děkuju všem, mějte se krásně a hezký den.

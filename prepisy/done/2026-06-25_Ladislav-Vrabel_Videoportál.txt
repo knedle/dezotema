@@ -1,0 +1,42 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1007929691851015
+Datum videa:  2026-06-25
+Zpracováno:   2026-06-26 08:32:25
+Jazyk:        cs
+Délka:        00:01:31
+Zhlédnutí:    9 242
+Popis:        Protože se nekradlo jako dnes. Tipl bych si, že dřív se třeba deset procent rozkradlo, ale vrátilo se to do oběhu, ale dnes se krade mnohem víc a velká část se odvezla a nadále odváží ven ze země. Pro
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    4s
+Přepis:       14s
+Rychlost:     6.1x realtime
+Celkem:       19s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Československo mělo v dobách socializmu asi 220 tisíc aktivních vojáků v době míru.
+[00:05] Na svoji obranu tehdejší komunistická strana Československa utrácela 5 a někdy dokonce až 10% HDP.
+[00:14] Přesto však stát dokázal zajistit bezplatné vzdělání a zdravotní péči.
+[00:19] Do důchodu se chodilo v 60. Ženy i dříve.
+[00:23] A systém dokázal stavět byty pro občany své země.
+[00:25] Budovat silnice, elektrárny, přehrady, továrny a školy.
+[00:32] Naše vláda tehdy dokázala pomoct zemím třetího světa,
+[00:35] které byly postižené různými konflikty, přírodními katastrofami a jinými ekonomickými problémy.
+[00:42] Nezaměstnanost byla nulová a práce byla pro každého nehleděna jeho rasu či vyznání.
+[00:48] Něco jako neonacizmus bylo v té době něco nemyslitelného.
+[00:52] Zbor národní bezpečnosti dokázal mnohem lépe dohlížet,
+[00:56] na naší bezpečnost.
+[00:57] Organizovaný zločin sice existoval, ale v porovnání s dnešní dobou se to nedá srovnávat.
+[01:03] Narkomani samozřejmě existovaly také, ale bylo jich proti dnešní době pramálo.
+[01:09] Samozřejmě nejvíce ve velkých městech.
+[01:11] Přitom všem dluh České republiky byl asi pouze 3,7 miliardy dolarů.
+[01:16] Proti tomu v dnešní době samostatná Česká republika dluží 169 miliard dolarů,
+[01:21] tedy v přepočtu 3,5 bilionu korun.

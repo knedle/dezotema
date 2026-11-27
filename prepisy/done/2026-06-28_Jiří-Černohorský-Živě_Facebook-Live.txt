@@ -1,0 +1,1196 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Jiří Černohorský Živě
+URL:          https://www.facebook.com/100085862388850/videos/883865374762309
+Datum videa:  2026-06-28
+Zpracováno:   2026-06-30 22:48:59
+Jazyk:        cs
+Délka:        01:06:23
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    44s
+Přepis:       16m 59s
+Rychlost:     3.9x realtime
+Celkem:       17m 43s
+================================================================================
+PŘEPIS
+================================================================================
+
+[02:43] Přeju hezký večer vážení a milí přátelé, tak saprlote, nějak se nám Tomáš nechtěl vypnout.
+[02:51] Tak přátelé, samozřejmě, co si budeme vykládat, ještě jedno hezký večer.
+[02:56] Doufám, že dodržujete pitnej režim, že když jste dlouho venku, tak máte pokryvku hlavy,
+[03:04] on totiž úžeh nebo úpal není nic moc, to jsem si taky prožil.
+[03:09] A že opravdu ten pobyt na tom sluníčku takzvaně zvládáte, kdy víte, kde jsou vaše fyzické schopnosti.
+[03:19] Tak, takže doufám, že jste ty...
+[03:22] Tak tohle fakt není pravda, tady jede signál celou dobu a jen co začnu vysílat, tak prostě se to odpojuje, to je super.
+[03:31] No, takže říkám, doufám, a i když ještě nějaké ty teplé dny budou,
+[03:35] tak především dodržovat ty potřebné věci, tekutiny.
+[03:40] A tak dále, protože dneska opravdu dnešním dnem padl v České republice padl rekord teplotní,
+[03:52] byl z roku 2000, teď bych kecal, ale teplotní rekord v České republice byl 40,4 stupně Celsia.
+[04:04] Dneska bylo naměřeno, jestli se nepletu, 41,4.
+[04:09] Ale pokud byste chtěli znát...
+[04:11] ...teplé dny přes to naše léto, tak mám na Facebooku, prosím vás, příspěvek a to plus minus od zániku ČSFR od roku 1994 až po současnost.
+[04:31] Poslední zápis je tam, myslím, z toho roku 2024 nebo 2025.
+[04:35] A tam si můžete dočíst, prosím vás, že teploty kolem 40 stupňů v České republice...
+[04:41] ...prosím vás, není nic, co by bylo jako naprosto neobvyklého, jo.
+[04:48] Prostě, já bych řekl, že je to takovou určitou i zvyklostí v té České republice, co se týče tady těchto teplot, jo.
+[04:57] Běžně, běžně, co dva roky, co dva roky, ob rok takzvaně, ne pro koně, ale ob rok, tak se teploty dostávají nad 35 stupňů Celsia.
+[05:09] Naprosto běžně.
+[05:12] Byly spíš výjimky, kdy v těch let, v nějakých letech, nebyly teploty nad 35 stupňů k 38, 39 stupňům.
+[05:22] Takže žádný klimatický katastrofy, prosím vás, nic takového se nekoná.
+[05:28] Já jsem k tomu příspěvku vás prosil s tím, že abyste nepředjímali tady tyhle z ty zelený, grindýlový, fanatický,
+[05:39] vygumovaný, vylágrovaný, vybublaný, jo, převařený totální magory, který prostě jako svarovská, jo, okamžitě všichni musíme zrušit, jo, ty fosil, věci, co se týče fosilních paliv, nedej bože, přestaňte okamžitě používat auta, jo, exhalace, jo, jezděte na kolech a tak dále a tak dále, jo, to jsou ty jejich spásny rady, jo, větrný elektrárny, jo,
+[06:09] to jsou ty jejich spásny rady, jo, to jsou ty jejich spásny rady, jo, to jsou ty jejich spásny rady, jo, to jsou ty jejich spásny rady, jo, to jsou ty jejich spásny rady, no, to je taky, jo, v našich, v našich zeměpísných šířkách, to jsou neuvěřitelný kraviny, naprosto neuvěřitelný kraviny, protože to naše sluníčko a teď těch dnů, jenom si řekněte, než přišly tyhle horky dny, co tady bylo, jak byla zatažená obloha, kde to sluníčko bylo schované a tak dále a tak dále, takže ta intenzita,
+[06:38] Prosím vás, my nežijeme na poušti Gobi, my nejsme na Sahaře, takže ani co se týče třeba taková Atakama, ta poušť, nejsluší místo na světě, takže nic takového, nic takového, přátelé, Česká republika je srdcem Evropy a tady prostě, že by se mohl do toho mixu elektrickýho zahrnout, prosím vás, tady ty obnovitelné zdroje tak,
+[07:04] že by to mohlo nahradit v nějaké fázi toho roku, prosím vás, to, co potřebujeme, nebo respektive všechny ty fosilní paliva, jadernou elektřinu atd., 50 na 50, to jsou naprosté zhovadělství, jo, takže, prosím vás, žádný klimatický změny se nedějí, prostě tohle takhle bývá, v České republice, v Evropě je to, bohužel, prostě v určitém, jakoby, smyslu běžné,
+[07:33] je to, samozřejmě, je to pro nás velice nepříjemné, protože my nejsme u moře, my nejsme ve Španělsku, my nejsme v Itálii a už vůbec nejsme žádní černoši v Africe, takže pro nás tady tohle, samozřejmě, to počasí je těžší a čím je člověk starší, tím je to horší a horší, takže je to jenom tak na začátek.
+[07:53] Tak, přátelé, teď mám důležitou informaci a ta důležitá informace se týká facebookových profilů.
+[08:03] Našeho společného přítele, kamaráda Pavla Cymbála.
+[08:09] Prosím pěkně, já jsem se snažil dopídit toho, jestli jeden z těch dvou profilů, ten jeden je jednoznačně fejkovej a ten druhej, já jsem byl na vážkách, jestli je to fejk nebo to fejk není.
+[08:22] Takže vážení přátelé, já vám na 100%, na 100% mohu říct, že si píšete s někým, kdo není Pavel Cymbál.
+[08:31] Tento profil ovládáte.
+[08:33] Ať už je to, kdo je to, ať jsou to ty parchanti, ty zmrdi, kteří patří jen a jen do kriminálu, což je Pšenák, Blujová, Oganisian a ta partička zmrdu kolem nich.
+[08:51] Jestli je to někdo z nich, vůbec netuším.
+[08:53] Jestli jsou tam nasáčkovaný tajný složky, netuším.
+[08:56] Ale já vám říkám zodpovědně, tak jakože se černohorský jmenuju,
+[09:03] si píšete na Facebooku Pavel Cymbál je fejkovej.
+[09:08] Já jsem se spojil s Pavelem Cymbálem přes Whatsapp.
+[09:12] A Pavel Cymbál mě potvrdil, že tento profil neovládá, že není jeho.
+[09:17] A že pokud si tam dopisuju, tak si prej dopisuju možná s BIS.
+[09:21] Jo?
+[09:22] A že to si musím vyředit sám.
+[09:24] Já jsem Pavlovi odpověděl, že mě to úplně jedno, i kdybych si psal se samotným satanem,
+[09:29] tak já tam nepíšu nic, co by někdo mohl použít proti mně.
+[09:33] Takže přátelé, tohle je pro vás všechny, co znáte, máte v přátelích na Facebooku profil Pavla Cymbála,
+[09:42] tak si nepíšete s Pavlem Cymbálem. Jasný?
+[09:46] Já jsem si to potvrdil tím, že Pavel Cymbál mě začal takzvaně jakoby lehce provokativně psát
+[09:52] zprávy proti Petře Rédové.
+[09:55] A mám pocit, že čekal, že já na tuto vlnu skočím a že řeknu, že Petra je taková a maková
+[10:02] a že jsme spolu měli někdy v minulosti spory a že je prostě, jo, já nevím jaká.
+[10:08] Tohle si myslím, že se mnou chtěl vytáhnout, jenže bohužel.
+[10:12] Já Petru mám rád, já jsou rád, že jsme přátelé,
+[10:15] že věci, které jsou třeba mezi námi nějaké nepříjemné, tak my si je prostě vyříkáme.
+[10:24] Petra prostě klasická, typická ženská, já jí něco napíšu, Peťa to takzvaně po ženským nevezme,
+[10:31] ale za dva, za tři dny už si zase píšeme, jo, protože oba dva už se známe, víme, jak reagujeme,
+[10:38] takže co se týče Petry, já jsem rád za to, že Peťa tady je mezi náma.
+[10:43] Peťa je úžasná holka, moc krát mě pomohl, nebo respektive mě vyšla vstříc
+[10:48] a pomohla mnohým a mnohým přátelům, který se ocitli v nějakých problémech, především zdravotních, jo.
+[10:55] A pan Pavel Cimbal na tomhle, s tom fejkovým profilu, mě začal vykládat o tom,
+[11:01] že já si myslím, jaká je Petra, moje kamarádka, a že vůbec netuším, jak ona o mně mluví v nějakých kruzích,
+[11:10] a tak dále, a tak dále, což mě se nepozdávalo, proto já jsem mu napsal, že toto ať na mě neskouší.
+[11:16] Takže znova, přátelé, na teďka, na co se týče Facebooku,
+[11:23] Pavel Cimbal na Facebooku, na tomto profilu, který má tam nevím kolik přátel, jsou tam nějaký stovky,
+[11:31] nekomunikuje, není to Pavel Cimbal, jo.
+[11:35] Takže si můžu poprosit, každej, kdo máte nějakého přítele, kamaráda, facebookovýho,
+[11:42] najdete ho, víte o tom, tak mu to napište do zprávy, prosím tě, nekomunikuj s tímhle, s tím profilem,
+[11:49] je to fejk, na 100%, garantuju vám to na 100%, říkám, mluvil jsem po telefonu s Pavlem Cimbalem, jo.
+[11:58] Tak, přátelé, takže to je ta první informace.
+[12:01] A druhá informace, to nemůže být o ničem jiným, než o tom Kašparovi zhradu, co ten tady stále předvádí,
+[12:12] to jsou prostě naprosto nepochopitelné, naprosto, že to nejde pojmout, ta věc, jo.
+[12:20] To prostě, když nad tím budete přemýšlet, tak prostě nechápete, kde on vzal jaké souvislosti do toho,
+[12:28] aby prostě on nejdůležitější, jo.
+[12:31] Jak nějakej, kdysi francouzský král, nějakej Ludvík, nevím kolikátej, já jsem stát, to mě napsala moje kamarádka, jo.
+[12:41] Já jsem stát, ne, Petře Pavle, ty nejseš žádnej stát, ty nejseš hlava tohoto státu, protože hlava státu se takhle nechová.
+[12:49] Ty se chováš jako imbecil, jako naprostej pokrytec, jako ubožák, jako nějakej patnáctiletej fracek, který prostě nedokáže se smířit s tím,
+[13:01] pokud mám jiné názory, jsem takovej idiot, že jsem schopen jít, jít veřejně proti vládě Andreje Babiše, malý moment, já to tady trošku upravím.
+[13:15] Tak, už to zase naskočilo, takže Petr Pavel, prostě to je takovej uplakánek, naprosto neuvěřitelný,
+[13:22] tomu se ani nechce věřit, z čeho je schopen tady tenhle ten člověk, protože každej normální chlap by to prostě vzal,
+[13:31] je to tak, prostě já s tou vládou nesouhlasím, já proti té vládě vystupuju, mám proti ní ostrou kritiku,
+[13:40] začal jsem Filipem Turkem, tam jsem to totálně podělal, takže nemůžu očekávat, že vláda Andreje Babiše mně jakožto prezidentu České republiky půjde na ruku.
+[13:55] No to prostě ne, v žádném případě.
+[14:01] A takzvaně nespojuju a to prostě to je, to se nikdy v životě, to se prostě tady v té společnosti nikdy nestalo, aby to dospělo, ano, samozřejmě byly tady, že jo, rozpory, co se týče Miloše Zemana,
+[14:18] ale aby to došlo do takovéhle absurdity, to jsem, to prostě já jsem to nezažil, nezažil jsem to za Václava Klauze, absolutně ne, jo, za Miloše Zemana,
+[14:31] samozřejmě ty lidi, že jo.
+[14:32] Urážky, narážky, ochlasta, ovár, jo, proruskej a o nás, Miloše Zemana, že jo, to řvala celá opozice, ODS a podobně, Miloše Zemana stáhne na Rusko.
+[14:50] Tohle, tohle si pamatujeme všichni, ale říkám, to, co se děje dneska, to, co tady předvádí Petr Pavel, to je, to je prostě něco absolutně nepříjemného.
+[15:03] To je nepopsatelného, neuchopitelného, to je neuvěřitelné, to je naprosto neuvěřitelné.
+[15:09] Já jsem napsal pár takových statusů, jeden z těch statusů byl o tom, že ústavní soud ze sebe udělal totální idioty, ale totální, totální podržtašky toho krypla z Hradu Koláře
+[15:25] a to potvrdil tím, že od návrhu té kompetenční žaloby do...
+[15:33] projednání soudu a nařízení vládě, nařízení vládě, takzvaně ještě, jak se to říká, že to neproběhlo soudem, takže to není žádné rozhodné učinění, že by to musela vláda respektovat.
+[15:50] Ne, tohle opravdu se nemusí respektovat. To, co teďkom řekl, to je takové doporučení, jo, i když oni si to představujou, že jako oni to řeknou, tak to musí.
+[16:03] To prostě není pravda. A Petr Macinka jednoznačně zase uvedl věci takzvaně nepravou míru, dodal k tomu určité dodatky, aby bylo jasno, co ústavní soud ano a co ne.
+[16:20] No a mě kromě jiného, tak tam prostě oni udělali, říkám, neuvěřitelnou věc a zase, ať už se na Petra Macinku díváte, díváme jakkoliv,
+[16:34] prostě on má takzvaně v té hlavě, to, co tam má mýta, to je mozek, na rozdíl od těch fialovo-modro-žlutých idiotů, tím mám na mysli ODSS, TOP 09, STAN, Piráty a KDU ČSL.
+[16:54] A když po něm někdo chtěl tu omluvu, tak Petr Macinka k tomu přistoupil velice výborně, fakticky naprosto super.
+[17:04] A řekl ano, já pocituju věc, že je potřeba se omluvit, co se týče ústavního soudu a já se tedy omlouvám.
+[17:16] To video já mám na svém profilu, kde on říká, že se omlouvá té a té mamince, protože spor, který řešil ústavní soud ohledně alimentu,
+[17:27] ohledně nezodpovědného otce, který se chtěl vlastně zbavit placení alimentů.
+[17:35] Aby nemusel platit na svoje děti, neuvěřitelný, co to tak asi může být za chlapa, atrapa, atrapa, chlapa.
+[17:43] Tak to soud řešil 11 měsíců.
+[17:46] Pan Petr Macinka tam uvedl další dva případy, já nevím, 9 měsíců, 11 měsíců.
+[17:52] Tohle trvalo ústavnímu soudu rozhodnout o sporu běžných lidí, občanů České republiky.
+[18:00] Jo, bezmála rok trvá ústavnímu soudu, než vyřeší takovéhle věci.
+[18:05] Ale podívejte se, Petřík Pavlíčku napíše, a je pravděpodobný, že už to bylo napsáno dávno,
+[18:14] takže napíše někdo na prostou nesmyslnou, idiotskou rádoby kompetenční žalobu.
+[18:25] Přitom to bylo něco takového, jak by se děcka smály někomu.
+[18:30] Ve škole žalobníček žaloval, pod nosem si maloval, namaloval husu,
+[18:35] a pak i dal pusu, jo?
+[18:38] Tak takhle nějak ta kompetenční žaloba byla sepsána.
+[18:43] Tak, už nám to zase naskočilo.
+[18:45] Takže někdo to napsal zhradu naprosto stupidním způsobem.
+[18:50] A o to by ještě ani tak nešlo, jako o ten fofr, o ten fofr, s kterým tato kompetenční žaloba...
+[18:57] Takže já se zkusím, přátelé, někam přemístit,
+[19:00] protože tohle jako fakt ne, jestli je to tím signálem.
+[19:08] Uvidíme, třeba se to zase nezadaří a třeba zase budou otravovat
+[19:13] a zase nějakým způsobem budou čarovat, nechápu.
+[19:17] Fakt tomu nerozumím, o co jako těm kreténům jde.
+[19:21] Protože říkám, já jsem tady byl celou dobu vůbec nic, byl jsem na internetu,
+[19:26] všechno v pořádku, žádný opětovný připojování tam nebylo.
+[19:32] Takže já se tady postavím někam.
+[19:37] Moment...
+[19:48] Uvidíme, jak se budou snažiti.
+[20:02] Sice mě asi jebne z těch mušek, ale prostě se nedá nic dělat.
+[20:11] Takže ta kompetenční žaloba byla projednána, prosím vás, za 29 hodin.
+[20:24] No prostě, napsal jsem to do toho statusu.
+[20:27] A to je něco naprosto neuvěřitelného.
+[20:31] Ten přístup prostě, jo, tady tenhle s tím věcem.
+[20:35] Protože...
+[20:37] To, jestli je tady tenhle ten problém, tak přece nemůžu k tomu přistoupit tak,
+[20:44] že ukážu lidem tak, podívejte se, Petr Pavel nám tady plače,
+[20:50] a my o tom rozhodneme okamžitě.
+[20:53] Jo, co ten soud tímhle s tím vyslal mezi lidi.
+[20:58] To je jedna věc.
+[20:59] A další věc.
+[21:00] Samozřejmě, oč se tady jakože jedná.
+[21:03] Jedná se tady o článek 63.
+[21:06] Ústavy České republiky, o čem jsme se už bavili.
+[21:10] A že Petr Pavel a jeho kompetence, jo.
+[21:13] A on zastupuje stát navenek.
+[21:16] No, já jsem...
+[21:18] Mně tohle samozřejmě nestačilo.
+[21:20] A já jsem šel dál a podíval jsem se na ty jeho kompetence, toho prezidenta České republiky.
+[21:26] A mimo jiné tedy, že jmenuje, jo.
+[21:30] Ne, že navrhuje.
+[21:32] Ale čistě a pouze jmenuje ministry.
+[21:36] Jmenuje vládu.
+[21:38] Jmenuje ústavní soudce.
+[21:41] Tak je tam zmínka také o tom, že domlouvá a uzavírá mezinárodní smlouvy, úmluvy a tady tyhle věci.
+[21:53] A já když jsem si to přečetl, já říkám, počkat.
+[21:57] Petr Pavel, jakým způsobem, on může podepsat nějaký kontrakty, nějaký smlouvy.
+[22:06] Jako jenom čistě sám prezident a ono to má fakt nějakou právní váhu a vláda to jako musí respektovat nebo něco takového.
+[22:14] Tak abych takzvaně neplácal na smysly, tak já jsem si to vyhledal, jo.
+[22:21] A takový určitý právní rozbor.
+[22:26] A teď vám to přečtu, jo.
+[22:29] Jak ty jeho kompetence tedy jako fungují v praxi.
+[22:33] Takže.
+[22:37] Jak to funguje v praxi.
+[22:40] Prezident sjednává, deleguje.
+[22:44] Ústava České republiky v článku 63 sice říká, že prezident sjednává a ratifikuje mezinárodní smlouvy.
+[22:53] Ale realita je taková, že prezident sám u stolu žádné texty smluv podrobně nevýjednává.
+[23:05] Tam je takzvané přenesení pravomoci na vládu, jo.
+[23:10] Ku příkladu.
+[23:11] A to bylo hned v roce 1993.
+[23:14] Tehdejší prezident Václav Havel využil ústavní možnost a rozhodnutím číslo 144 z roku 93 zbírky přenesl jednání většiny mezinárodních smluv na vládu a ministry.
+[23:30] Vláda tak fakticky dělala veškerou bravenčí práci.
+[23:35] A teď.
+[23:36] Co se týče toho, když Petr Pavel by jako něco představil.
+[23:38] Co se týče toho, když Petr Pavel by jako něco představil.
+[23:39] Co se týče toho, když Petr Pavel by jako něco představil.
+[23:41] Jo, nějakej ten kontrakt a tak dále.
+[23:44] Jo, nějakou tu smlouvu, ani ne kontrakt, ale smlouvu nebo umluvu.
+[23:49] Tak.
+[23:50] Nutnost spolupodpisu, jako cizím slovem se to řekne, kontrasignace.
+[23:57] Kdyby chtěl prezident nějakou smlouvu sjednat osobně, jeho podpis, a teď dobře poslouchejte, nemá žádnou váhu, jo.
+[24:08] Kdyby chtěl prezident nějakou smlouvu sjednat osobně, jeho podpis, a teď dobře poslouchejte, nemá žádnou váhu, jo.
+[24:09] Nemá žádnou váhu bez spolupodpisu, tedy té kontrasignace.
+[24:16] A podpisu koho?
+[24:18] No, buď to premiéra, nebo pověřeného ministra.
+[24:23] Vláda tak má nad kroky prezidenta v zahraniční politice absolutní kontrolu a nese za ní veškerou politickou odpovědnost.
+[24:34] Tečka.
+[24:36] Prosím vás, můžete mně říct, teda, ten...
+[24:39] Opravdu, ten jakože proklamovaný důvod toho, že pan prezident Petr Pavel strašně moc chce na ten summit.
+[24:50] Co tam vlastně ten člověk chce dělat?
+[24:53] To jako chce vykládat, jak Andrej Babiš a Petr Macinka a ta delegace naší, naše České republiky, jak tam lže o tom, že
+[25:08] Petr Fiala jednoznačně plnil ty dvě procenta z našeho HDP na výdaje na to NATO.
+[25:17] Ano, to tam chce předvect, tady tenhle ten šašek, tenhle ubožák, tenhle uplakánek, jo?
+[25:25] Tady tenhle stěžovatel, kterej teda jako reprezentuje naši republiku navenek.
+[25:32] Ty vole, ten ho reprezentuje tak, že z nás má každej prdel.
+[25:36] Každej z nás má prdel.
+[25:38] Takže co tam vlastně ten Petr Pavel chce dělat?
+[25:43] O něho vůbec nejde.
+[25:45] Já teda nevím, jestli, protože tady tyhle tupí egoisti, tak tady tyhle kašpary tohoto typu, jako je Petr Pavel, úplně bez problému přesvědčíte o jeho nadřazenosti, jo?
+[26:00] Je docela možný, že tenhle ten idiot, kterej má něco mezi 70 až, já nevím kolika ti IQ,
+[26:09] tak on si ve skutečnosti fakt myslí, že on je ten stát, jo?
+[26:14] Já jsem, já ho prostě teďka používal já král první, jo?
+[26:18] Tak on, že je ten stát, on fakticky o tom může být naprosto přesvědčenej.
+[26:25] Protože říkám, tyhle idioty prostě zmanipulovat tady k tomu jejich ego není zas tak velikej problém.
+[26:33] Já bych vám mohl jmenovat některý tady třeba běžný lidi, jo? Rádoby aktivisti na téhle té scéně.
+[26:39] Kteří si myslí, jo? Že prostě jsou ti nejdůležitější a všechno zvládnou a už jsou nejlepší a pojďte, jo prostě.
+[26:48] Takže mohl bych je jmenovat, ale nebudu, protože to je, to jsou naprosté nuly, naprosté nuly.
+[26:55] A takže Petr Pavel jednoznačně, jestli má kolem sebe ten tým tady těchhle z těch pochlebovačů, co mu polezou do prdele, jo?
+[27:05] A to jakýmkoliv otvorem tělním.
+[27:09] Oni toho jsou schopni.
+[27:11] Tak on si opravdu tenhle ten šašek s kolobrndou může myslet, že je fakt ten nejdůležitější.
+[27:18] A že teda musí být na tom summitu na to, protože je to tou zvyklostí, jo?
+[27:25] To je, to je prostě neuvěřitelný.
+[27:29] A to, co plácal jeden ten představitelů toho ústavního soudu, že odstoupit od této zvyklosti,
+[27:39] že to není jen tak samo sebou, jo?
+[27:42] Ne, to je naprosto jednoduchý, prostě.
+[27:45] Zvyklost se narušila, protože prezident, hlava státu, jde jednoznačně proti vládě České republiky.
+[27:55] Podívejte, vrátíme se, kdy byl ještě Miloš Zeman prezidentem a ve vládě už seděl Fiala a spol.
+[28:06] Zkuste tam někde najít nějak něco podobného,
+[28:09] že by prezident Miloš Zeman takhle vystupoval proti vládě toho hoštaplera,
+[28:17] toho Herrführera od SSS Petra Fialoviče, vicepremie, viceprezidenta Ukrajiny.
+[28:25] Najděte mě takovejhle příklad, jo, který by tohle učinil Miloš Zeman.
+[28:31] Nenájdete, nenajdete.
+[28:33] Dokonce Miloš Zeman následně spolupracoval, jo, co se týkalo Zelenských, jo?
+[28:38] Co se týkalo Zelenského, Ukrajiny, šel jim na ruku neuvěřitelným způsobem,
+[28:43] vyznamenal to nacistické prase Zelenského, jo?
+[28:48] Do dne... jo, to v životě neprominu, to nemůžu zapomenout tady tohle s tou.
+[28:53] Takže, jo, když se na to zamyslíte, nenájdete, podle mě nenájdete krok,
+[28:58] kterej by Miloš Zeman šel takhle otevřeně proti vládě tady toho, tady těchhle hoštaplerů spolu ze Stamu,
+[29:06] ve Stanu, kde kameň jebal cihlu, nenájdete.
+[29:12] A teď se podívejte na to, co tady předvádí tenhle ten hoštapler, tenhle ten, tahle nula zhradu, jo, Petr Pavel.
+[29:22] No a teďka to pojďme dát do té souvislosti těch jeho kompetencí, co se vám teďka přečetl,
+[29:28] že bez toho aniž by vláda, tedy Andrej Babiš, nebo pověřený ministr,
+[29:35] ...
+[29:36] ...
+[29:37] ...
+[29:38] ...
+[29:39] ...
+[29:40] ...
+[29:41] ...
+[29:42] ...
+[29:43] ...
+[29:44] ...
+[29:45] ...
+[29:46] ...
+[29:47] ...
+[29:48] ...
+[29:49] ...
+[29:50] ...
+[29:51] ...
+[29:52] ...
+[29:54] ...
+[29:55] ...
+[29:56] ...
+[29:57] ...
+[29:58] ...
+[29:59] ...
+[30:00] ...
+[30:01] ...
+[30:02] ...
+[30:03] ...
+[30:04] ...
+[30:05] ...
+[30:06] ...
+[30:07] ...
+[30:08] si představit, jaký má on
+[30:10] a to tam třeba Čína není,
+[30:12] že? Tam není v NATO. Ale
+[30:14] dověte si představit nějaké jednání s Činou?
+[30:16] Ne, ty ho pošlou do prdele.
+[30:18] Jo? Tady posíláš hovada,
+[30:20] jako je
+[30:21] Vistrčil,
+[30:27] jo?
+[30:28] Na Tajván?
+[30:30] Tak nebudeme s tebou jednat.
+[30:32] V Evropské unii, prosím vás,
+[30:34] nějaká úcta k němu,
+[30:36] to je takový,
+[30:38] aby se neřeklo. Jinak z něho mají
+[30:40] všichni prdel.
+[30:42] A co je naprosto úplně úžasný,
+[30:45] tak je to hlavní představitel
+[30:46] NATO a to je Amerika
+[30:48] a to je Donald Trump
+[30:49] a to, co on prohlásil o Donaldu Trumpovi,
+[30:53] to tam jako pojede se mu
+[30:54] omlouvat? To se tam pojede
+[30:56] omlouvat nebo co?
+[30:59] Takže co tam bude dělat?
+[31:00] Takže jednoznačně, ať to berete zleva,
+[31:03] zprava, ze středu,
+[31:04] jak přes celou tu politickou
+[31:06] sebránku,
+[31:08] je to úplně jedno.
+[31:10] Co tam chce?
+[31:11] Dělat Petr Pavel.
+[31:13] Takže jednoznačně nejde o nic jinýho,
+[31:16] než aby tam s ním letěl ten doprovod.
+[31:19] A to je Petr Kolář.
+[31:21] To je ta figura,
+[31:23] která nám dneska ovládá
+[31:25] velkou část toho politického,
+[31:27] nebo naprostou většinu
+[31:28] toho, co se děje na hradě.
+[31:30] Ovládá Petr Kolář.
+[31:32] A Petr Kolář je lobbysta.
+[31:35] A Petr Kolář má prsty
+[31:37] v tom zbrojním průmyslu.
+[31:40] A dojednávat kontrakty,
+[31:42] jestli Strnad dojedná
+[31:44] nějaký kontrakt s jinou firmou,
+[31:47] a tak dále o dodávkách
+[31:48] zbraní na Ukrajinu,
+[31:50] tak do toho česká vláda nemá co kecat.
+[31:53] Nemá.
+[31:54] Protože oni tyhle obchody
+[31:56] budou dělat tyhle firmy.
+[31:59] Hotovo.
+[32:00] Tomu nepotřebují Andreje Babiše,
+[32:02] ministra zahraničí.
+[32:06] A proto je tam ten tlak
+[32:08] na to, aby na summit
+[32:11] jel tady tenhle
+[32:12] ten kripl.
+[32:14] Aby tam se s ním svezl ten druhej kripl.
+[32:17] Jednoznačně.
+[32:19] To je jedinej důvod,
+[32:20] proč se v České republice děje to, co se děje.
+[32:24] Protože Petr Pavel
+[32:25] nemá žádné takové
+[32:26] pravomoci, které by byly
+[32:29] v tuto chvíli nápomocny
+[32:31] pro Českou republiku,
+[32:32] protože tady máme vládu Andreje Babiše
+[32:35] a Petr Pavel
+[32:36] je opoziční, dneska
+[32:38] už je to víc než je zřetelné,
+[32:40] je prezident opozice,
+[32:42] je to tak, no jasně,
+[32:45] celou dobu jde
+[32:46] proti vládě Andreje Babiše,
+[32:49] když se je nepovedlo
+[32:50] prostě odstranit Babiše
+[32:52] jakožto premiéra,
+[32:54] protože Andrej Babiš
+[32:56] prostě udělal všechno proto,
+[32:59] aniž by musel,
+[33:00] aniž by musel, prosím vás, jo.
+[33:03] Tak, udělal všechno
+[33:05] proto, aby ten Kašpar
+[33:06] z toho hradu nemohl mít žádnou připomínku.
+[33:09] Přesto samozřejmě
+[33:11] on znova dotáhl
+[33:13] do toho, šel do toho sporu
+[33:14] a chtěl tu vládu nějak
+[33:16] sestřelit, chtěl, aby
+[33:18] Andrej Babiš prostě byl
+[33:20] donucen, motoristy prostě dát
+[33:22] pryč a tím pádem,
+[33:25] pokud by šli pryč motoristi,
+[33:26] musela být pryč SPD
+[33:28] a oni samozřejmě tímto způsobem
+[33:31] přemýšleli, aby Tadyk mohl
+[33:33] pokračovat ti zmrdivý
+[33:35] jebaní, kteří prostě
+[33:36] zničili Českou republiku,
+[33:38] ekonomiku ve všech směrech, jo.
+[33:41] Nechali za sebou jenom
+[33:43] smrad, špínu a bordel
+[33:44] a obrovské dluhy.
+[33:47] Obrovské dluhy.
+[33:48] Mimochodem, prosím vás, podívejte se na
+[33:50] poslední status, který jsem tam hodil.
+[33:53] To je něco naprosto neuvěřitelného.
+[33:56] Představitelé
+[33:57] policistů
+[33:58] NCOZ, organizovaného
+[34:00] zločinu,
+[34:03] už dávají ve známost,
+[34:05] že se bude
+[34:06] dělat poslední kroky a padne
+[34:09] první žaloby,
+[34:11] obžalování zločinů,
+[34:13] bitcoinové kauzy.
+[34:15] Tak na to jsem fakt zvědavej.
+[34:17] Na to jsem fakt zvědavej.
+[34:20] Takže, jo, prostě,
+[34:21] prezident Petr Pavel
+[34:24] nechtěl nic jiného,
+[34:26] než prostě, aby Andrej Babiš
+[34:28] nebyl schopen složit vládu
+[34:29] a když už, tak aby tam byly členové
+[34:32] takového zmrtstva,
+[34:34] jako je ODS, tady tady len
+[34:36] z ta banda vjebaných,
+[34:38] vjebaných zločinců,
+[34:39] hoštaplerů, gaunerů,
+[34:42] parazitů, zlodějů,
+[34:43] možná i vrahů,
+[34:45] a samozřejmě a stan,
+[34:48] aby se ta vláda mohla složit.
+[34:50] No a samozřejmě tam by byly
+[34:51] dohady a tak dále a tak dále
+[34:53] a mohlo by to skončit samozřejmě tím,
+[34:56] že Andrej Babiš nebude ve vládě,
+[34:58] nebude tam ano
+[34:59] a ty parchanti
+[35:00] nějakým způsobem
+[35:02] by to třeba složili.
+[35:05] Nějakej pokus, další a další.
+[35:08] A nějaký korupce,
+[35:10] jo, vůbec bych se tomu nedivil,
+[35:12] že tohle vážně usilovali.
+[35:14] Aby mohli pokračovat v těch svýnstvech,
+[35:17] aby se nepřišli právě
+[35:18] na ty zločiny,
+[35:19] aby to tady tyhle z těch fialovo-modro-žlutí zmrdi
+[35:22] všechno mohli zakrýt,
+[35:24] schovat pod koberec,
+[35:25] přesně tak, jak to udělala ta
+[35:27] tupá, blbá, naprosto
+[35:29] vygumovaná osoba a to
+[35:31] paní Eva de Croa, jo.
+[35:34] To si myslím, že byl záměr
+[35:36] toho, co předváděl Petr Pavel
+[35:38] díky tomu, že nechtěl,
+[35:40] jo, samozřejmě problémy s Petrem Macinkou
+[35:42] a s Filipem Turkem,
+[35:44] a jaký on má a hodnotová politika
+[35:46] a kde si, co si,
+[35:48] neuvěřitelný, jo.
+[35:49] Tady se budeme, tady tenkrát se dohadovalo něco
+[35:52] o tom, jak
+[35:52] samozřejmě mainstream, česká televize,
+[35:56] všichni tyhle idioti,
+[35:58] on je to nacista, on je to nacista,
+[36:00] protože on sbírá artefakty
+[36:02] druhé světové války, kde
+[36:04] jsou nacistické symboly.
+[36:06] To je neuvěřitelný.
+[36:08] A vůbec nikoho
+[36:10] vůbec nezajímá, netrápí
+[36:12] a znova to zmíním, jarda,
+[36:14] Foldyna, není možné,
+[36:16] jo, oslavovat
+[36:18] jakékoliv věci, co se týče
+[36:20] nacizmu. Chtěl
+[36:22] tenhle ten bod projednat,
+[36:25] Fiala,
+[36:26] ten se zdržel hlasování
+[36:28] a ten Kripl Rakušan,
+[36:30] ne, Rakušan, tenhle ten
+[36:32] Stumbam Führer, tenkrát
+[36:34] vedoucí, gesvrchní
+[36:36] vedoucí gestapa SS,
+[36:39] Vít Rakušan
+[36:40] z ministerstva vnitra,
+[36:42] tak ten se zdržel hlasování,
+[36:44] a Herr Führer od SSS
+[36:47] Petr Fiala,
+[36:48] ten zvedl ruku, že s tím nesouhlasí.
+[36:51] Takže v tomhle
+[36:52] směru vláda České republiky
+[36:55] plus nějakých
+[36:56] 76 parchantů
+[36:58] z tehdejší vládní koalice
+[37:00] zvedli ruku
+[37:02] na podporu nacizmu,
+[37:04] že to, co se událo v kanadském
+[37:06] parlamentu, nás
+[37:09] nezajímá.
+[37:11] Takže jestli, že tady je dneska
+[37:13] nějaká nahnědla nebo něco hnědného,
+[37:15] tak jednoznačně
+[37:17] je to stávající opozice,
+[37:20] protože ty
+[37:20] nezvedli ruku za tenhle
+[37:22] ten bod a neodsouhlasili to,
+[37:25] co navrhoval Jarda Foldy na poslanec
+[37:27] SPD. Jasný?
+[37:29] Takže já prostě tady všem
+[37:30] tady těmhle s těm kreténům, co to mají
+[37:33] fialově modrožlutě vylágrovaný,
+[37:36] tak jim vzkazuju,
+[37:37] běžte do prdele s celým vaším
+[37:39] fašismem a nacismem
+[37:40] vůči vládě Andreje Babiše
+[37:43] nebo Filipa Turka.
+[37:45] Za mě jste no prostě idioti,
+[37:46] vylágrovaný, vygumovaný,
+[37:48] totál vypatlaní, totál vypatlaní
+[37:51] sračkama české televize
+[37:53] a mainstreamu.
+[37:55] Takže
+[37:57] summit na to, Petr Koláš,
+[38:00] ty vole, jednoznačně.
+[38:02] Petr Pavel k ničemu,
+[38:04] naprosto k ničemu.
+[38:06] Nespolupracuje s vládou,
+[38:07] šel by proti vládě,
+[38:09] bůh ví, co by tam kde co žgrindal
+[38:11] a vzhledem k tomu,
+[38:13] jak se vyvíjí věci,
+[38:15] situace, to, co tady
+[38:17] předvedl Pavel, já Petr Pavel
+[38:19] první, ty vole, já jsem stát
+[38:21] a já nejenom, že
+[38:23] chci jít na summit, já budu
+[38:25] vedoucí, já tady budu vedoucí.
+[38:28] Okamžitě další
+[38:29] fóry na tohohle z tého
+[38:31] krypla, na tuhle nulu
+[38:33] posranou, okamžitě další
+[38:35] vtipy, Petr Pavel vstoupil
+[38:37] do supermarketu, byla
+[38:39] jako první a tím pádem
+[38:41] měl na starost první ranní
+[38:43] směnu. Toto je
+[38:45] neuvěřitelný, toto je neuvěřitelný.
+[38:47] Já si pamatuju vtipy na,
+[38:49] samozřejmě na Miloše Zemana,
+[38:51] ale něco takového,
+[38:53] toto tady, toto nemá v České republice
+[38:55] obdoby, to nemá
+[38:57] v České republice obdoby, co se
+[38:59] týče vtipů, ironie,
+[39:02] jo, tady těchhle z těch
+[39:03] humorných scének
+[39:05] na kapitána Flanela,
+[39:07] jo, to nemá obdoby,
+[39:09] to nemá obdoby. Já prostě
+[39:11] absolutně, já to můžu vám
+[39:13] říct, že
+[39:14] chovat se jako Petr Pavel,
+[39:17] no vlastně se nezdekuju.
+[39:19] Já se nezdekuju, protože já si budu
+[39:21] myslet, že jsem tady nejdůležitější
+[39:23] a všechny, všechnu kritiku,
+[39:25] tak jak to dělají oni, jo, abych házel
+[39:27] za hlavu. Protože tohle jsou
+[39:29] bezpáteřní, tupí,
+[39:31] psychopati, sociopati,
+[39:33] narcisové a idioti.
+[39:35] Tohle je celá ta opozice,
+[39:37] celý ten hrad, celá ta
+[39:39] prezidentská kancelář, to je naprostá
+[39:41] katastrofa. Takže
+[39:43] já jsem taky jednoznačně
+[39:45] za, že
+[39:46] já už to nevidím tak katastroficky,
+[39:49] že by se odmítl
+[39:51] tady tohle jakože nařízení
+[39:54] ústavního soudu.
+[39:56] Vůbec bych se toho nebál,
+[39:58] protože tohle
+[39:59] z toho, ano, tady budou
+[40:01] vždycky dva právní pohledy,
+[40:03] ale vůbec bych se toho nebál,
+[40:05] protože tady jednoznačně je
+[40:07] vidět, jakým způsobem pro koho
+[40:09] soud pracuje.
+[40:12] Protože tohle
+[40:13] to, co měla být jako kompetenční
+[40:15] žaloba, to byla
+[40:17] nějaká říkanka, prosím vás,
+[40:19] z mateřidoušky nebo
+[40:20] z ohničku, vole.
+[40:23] Co tam, co napsal nějakou
+[40:25] posměšek,
+[40:28] třeba,
+[40:30] jak se jmenoval ten,
+[40:31] kocour Vavřinec.
+[40:33] Tak, takhle
+[40:35] bych viděl tu kompetenční žalobu.
+[40:38] A řada z vás
+[40:38] psala, že to bylo naprosto jasný,
+[40:41] že ten ústavní soud to udělá.
+[40:43] No, můžu vám říct, že já jsem si
+[40:45] přečetl
+[40:46] toto trapný,
+[40:49] ubohý, co jako, že měla být
+[40:51] ta kompetenční stížnost
+[40:53] nebo ta žaloba.
+[40:54] A já jsem zase říkal,
+[40:57] tak to je zabitý.
+[40:58] Jestliže tohle tam podal, tohle
+[41:00] ústavní soud prostě nemůže vzít.
+[41:03] Tohle nemůže vzít v potaz
+[41:05] ten ústavní soud.
+[41:07] A tak jsem si říkal, to je v pohodě.
+[41:09] Tak tohle jsme to ze stola řeknou.
+[41:11] Vážený pane prezidente,
+[41:13] podle nás to ústavní soud
+[41:15] vůbec nebude projednávat.
+[41:19] Takže,
+[41:20] já jsem fakt si říkal, tohle nemůže projednávat.
+[41:22] Tohle neprojde.
+[41:24] Oni ze sebe udělají takový
+[41:26] absolutní kokoty,
+[41:28] že to svět neviděl.
+[41:29] To svět neviděl.
+[41:31] A hnedka najednou vám vylízají věci
+[41:33] na povrch, které byly schované.
+[41:36] Kdo, kdy, jaký komunista,
+[41:38] za co byl,
+[41:40] v jaké partaji,
+[41:42] od kolikátýho roku.
+[41:43] A už to je.
+[41:44] A najednou vidíte, že tady
+[41:48] půlka tři čtvrtě ústavního soudu
+[41:50] je jeden pracovitej komunista
+[41:53] vedle druhýho.
+[41:55] Pardon. A že si to teda všichni
+[41:57] odpracovali ty vole.
+[41:59] Neuvěřitelný.
+[42:01] Takže za mě,
+[42:02] tato komedie může bez problému
+[42:06] skončit tím, že Petr Pavel
+[42:08] bude nám ještě víc plakat.
+[42:10] On se bude vstekat.
+[42:12] Se mě líbilo takový video, jako
+[42:13] malý Mimino, nějakej,
+[42:15] třiletej chlapeček
+[42:17] v dupačkách. A přesně tohle je
+[42:19] Petr Pavel. Přesně takhle
+[42:22] vypadá Petr Pavel.
+[42:23] U plakánek prostě.
+[42:25] Nechcou mě vzít na summit na to.
+[42:28] A když už ho tam vezmou, tak já
+[42:29] tam budu ten první. Já tam
+[42:31] budu ten největší.
+[42:34] Já Petr Pavel první.
+[42:36] Jo? No, tak hleda velký hovno.
+[42:38] Tady díky tomuhle z tomu
+[42:39] výstupu, kdy ze sebe udělal
+[42:41] totálního idiota,
+[42:44] tak nezlobte se na mě,
+[42:45] jediný důvod, proč takovýho
+[42:47] šaška, takovýho kašpara
+[42:49] tam opravdu brát.
+[42:51] To prostě ne. Já, kdybych byl premiérem,
+[42:53] tak ho tam fakt nevezmu, protože
+[42:55] toho idiota ze sebe udělám v tom případě
+[42:57] taky. Doslova a dopísmene.
+[43:00] Takže ne.
+[43:02] Takže to máme takovou věc.
+[43:04] A to, co ještě mám na srdci,
+[43:06] přátelé, tak je,
+[43:08] zajistit, že jste to zaregistrovali,
+[43:10] tak je situace, co se
+[43:12] týče Polské republiky.
+[43:14] Jo?
+[43:16] Začalo to vřít
+[43:19] před měsícem,
+[43:21] jestli se nepletu, měsíc a půl,
+[43:25] kdy
+[43:25] ukrajinský lídr,
+[43:29] prezident,
+[43:30] Volodymyr Zelenský,
+[43:32] ten největší lídr světa,
+[43:34] jo? Myslím si, že pan
+[43:36] Andrej Babiš teďkom
+[43:38] hodně lituje
+[43:40] toho svýho prohlášení o tom, jaký je to borec.
+[43:42] Tady tenhle ten
+[43:44] nacistický zmrt.
+[43:46] Malý moment, se napiju.
+[43:47] Že toho fakt lituje.
+[43:56] Tohoto prohlášení
+[43:57] o Volodymyru Zelenském,
+[44:01] protože to je
+[44:02] naprostej kašpa, naprostej šašek,
+[44:04] ubožák.
+[44:07] Tak, co se nám to nevodehrává
+[44:08] mezi Polskem a Ukrajinou?
+[44:13] Poláci nejsou
+[44:15] takový,
+[44:18] nezlobte se na mě,
+[44:21] mouchy se žerte si mě, jako
+[44:23] Češi moravané a slezané. Ne.
+[44:25] Tam pořádku
+[44:28] prostě, jakmile se dotknete
+[44:30] jejich předků, těch, co padli,
+[44:32] co byli zavražděni,
+[44:34] tak máte
+[44:35] polské povstání.
+[44:36] A tohle se teďkom děje.
+[44:38] Protože
+[44:40] to nacistický prase
+[44:42] Volodymyr Zelenský
+[44:44] udělil vlastně
+[44:46] hrdinům
+[44:48] Ukrajiny,
+[44:50] tak jim udělil nějakej jako řád,
+[44:52] respektive pojmenoval
+[44:54] je podle ruské
+[44:56] osvobozenecké armády.
+[44:58] A že teda jako
+[45:00] hrdině.
+[45:02] A že to jsou ti hrdinové.
+[45:04] No a tady tyhle,
+[45:06] po čem to pojmenoval, tyhle hrdinové,
+[45:08] tak vyvraždili
+[45:10] v letech 43, 44
+[45:12] kolem
+[45:14] Gdaňsku, jestli se nepletu,
+[45:16] nebo ať neříkám blbost,
+[45:18] ale na 100 000 Poláků.
+[45:20] Na 100 000 Poláků.
+[45:22] A říkám, Poláci
+[45:24] nejsou jako my, mouchy se žerte si
+[45:26] v nás, jo?
+[45:28] Poláci prostě tady na tohle jsou
+[45:30] citliví. To nejsme jak my
+[45:32] idioti, kteří si tady necháme
+[45:34] plivat po našich předcích, kdy
+[45:36] ten vožungr z hradu, ten
+[45:38] kripl, jeden ojebanej,
+[45:40] tak v Terezíně bude vykládat, jak
+[45:42] druhá světová válka je i naše vina.
+[45:44] Jo? Poláci
+[45:46] by okamžitě startovali. My ne.
+[45:48] My tady budeme nadávat
+[45:50] na Facebooku.
+[45:54] Takže je to vře mezi Varšavou
+[45:56] a Kievem, jasný?
+[45:58] A to
+[46:00] Polsko je v Natu.
+[46:02] A už teďkom na jakousi
+[46:04] schůzku, jestli té G7,
+[46:06] jestli se nepletu, jo? Kde tam
+[46:08] měla by nějaká schůzka, nebo v Polsku
+[46:10] se něco konalo, no
+[46:12] tak tady tenhle ten nacistický hajzl
+[46:14] Volodymyr Zelenský tam nepřijel,
+[46:16] jo? Že
+[46:19] Volodymyr Zelenský vzkázal
+[46:21] Polákům a tím teda
+[46:23] kurva přilil
+[46:25] oleje do ohně, to
+[46:27] teda si pište, že
+[46:29] mu nebude nikdo nařisovat,
+[46:31] jak pojmenuje,
+[46:33] vyznamená své hrdinné vojáky
+[46:35] na Ukrajině, jo?
+[46:37] Tak tohle stojo, tojo.
+[46:39] Já jsem viděl dokonce video,
+[46:41] kdy údajně,
+[46:43] údajně prosím vás,
+[46:45] polský poslanec,
+[46:47] polský poslanec
+[46:49] s dalšími dvoumi muži
+[46:51] zapálili a zničili
+[46:53] vlajku pravého sektoru.
+[46:55] A dokonce se
+[46:58] tadyk mluví o tom, že Ukrajina
+[47:00] vyhrožuje Polákům,
+[47:02] jo? Že jejich drony
+[47:04] a kdesi cosi, tak
+[47:06] já si myslím, že
+[47:09] bych se vůbec
+[47:11] nedivil tomu, kdyby na speciální
+[47:13] vojenské operaci
+[47:15] se domluvili Poláci s Rusama.
+[47:17] Vůbec bych se tomu nedivil.
+[47:20] Jo? I když samozřejmě
+[47:23] Polsko vůči Rusku,
+[47:25] cosi budeme vykládat,
+[47:27] tam ty stahy jsou obrovsky komplikované,
+[47:29] obrovsky komplikované
+[47:31] a samozřejmě
+[47:33] Evropská unie,
+[47:35] všichni ti prozápadní
+[47:37] hovada, vyjebaní,
+[47:39] jo prostě tohle v Polsku znova a znova
+[47:41] živí, jo?
+[47:43] Protože Katyně, jo?
+[47:45] A já vám můžu říct, že
+[47:47] já oficiální verzi,
+[47:49] co se týče Katyně, nevěřím.
+[47:51] Já tomu nevěřím, jo?
+[47:53] Tam jsou prostě,
+[47:55] za mě tam jsou prostě určité pochybnosti,
+[47:57] já nebudu nic pochybňovat,
+[47:59] ale prostě říkám tady na to ten svůj
+[48:01] názor, že téhle oficiální verzi, já
+[48:03] prostě nevěřím.
+[48:06] A o tom si udělá obrázek každej sám, jo?
+[48:08] A
+[48:10] to, co říkám,
+[48:12] to, co se odále, když spadlo
+[48:14] to letadlo, že jo, s celou polskou
+[48:16] vládou, tak za mě
+[48:18] tohle to bylo záměrné,
+[48:20] aby prostě
+[48:22] nedošlo k tomu smíření mezi
+[48:24] Poláky a Rusy.
+[48:26] Za mě to bylo záměrné, jo?
+[48:28] A
+[48:30] tohle jenom samozřejmě prohloubilo
+[48:32] tu krizi mezi Poláky a Rusy.
+[48:34] A teďka to, co předvedl
+[48:37] Volodymyr Zelenský, tak já mu
+[48:39] tleskám. Já mu tleskám.
+[48:41] Protože doteďka naprosto
+[48:43] bezmezně, naprosto
+[48:45] bezmezně to byl,
+[48:47] Polsko bylo oslíčku
+[48:49] otřese jako celá Evropská Unie,
+[48:51] tak Polsko
+[48:53] prostě teďka
+[48:55] Ukrajinci to
+[48:57] nasrali to Polsko
+[48:59] takovým způsobem,
+[49:01] že ještě chvíli budou vyhrožovat
+[49:03] nějakýma dronama,
+[49:05] a myslím si, že se
+[49:07] objeví Polská armáda
+[49:09] na hranicích Ukrajiny.
+[49:11] A Ukrajincům z toho nebude moc
+[49:13] dvakrát dobře, milé
+[49:15] děti. A
+[49:17] zazvonil konec a Ukrajiny je
+[49:19] konec. Tak, takhle bych to
+[49:21] viděl. Jinak ještě samozřejmě
+[49:23] k tomu samitu NATO,
+[49:25] tam
+[49:27] vlastně jde o hodně,
+[49:29] především co se týče Ukrajiny,
+[49:31] o podporu
+[49:33] té skurvené války,
+[49:35] respektive z té útočné
+[49:37] války Ukrajiny
+[49:39] proti Rusku,
+[49:41] proti
+[49:43] Luhaňské lidové republice
+[49:45] a Doněcké lidové republice,
+[49:47] aby prostě
+[49:49] zbrojařský průmysl
+[49:51] mohl chrlit i svoje zbraně.
+[49:53] Někdo dával takový zvláštní
+[49:55] příspěvek, já nevím, jestli je to pravdou,
+[49:57] že jakmile
+[49:59] Ústavní soud prohlásil,
+[50:01] že ten idiot,
+[50:03] že vláda Andreje Babiše
+[50:05] musí do té delegace
+[50:07] vzít tady tohohle hňupa z hradu
+[50:09] a tím pádem i Petra Koláře,
+[50:11] tak
+[50:13] vstoupily údajně akcie
+[50:15] Strnadova
+[50:17] zbrojařského
+[50:19] koncernu,
+[50:22] tak vstoupily o 11%.
+[50:24] Protože jen tak
+[50:27] mimochodem na tom samitu NATO
+[50:29] se má projednávat
+[50:31] další bezjedná
+[50:33] jáma, nebo tak
+[50:35] že do bezjedné jámy
+[50:37] se má nasypat dalších
+[50:39] 70 miliard euro.
+[50:41] 70 miliard euro
+[50:43] se má nasypat
+[50:45] na zlatý hajzle,
+[50:47] na luxusní
+[50:49] jachty, na luxusní sídla,
+[50:51] všech těch skorumpovaných,
+[50:53] skurvených, ukrajinských
+[50:55] zmrdů.
+[50:57] Peníze, které místo toho, aby
+[50:59] šly opravdu těm vojákům
+[51:01] a můžeme si o tom myslet,
+[51:03] co chceme, já jsem to
+[51:05] řekl mockrát, a já to klidně
+[51:07] zopakuju, jestliže
+[51:09] člověk, ukrajinec,
+[51:11] kterej jde bojovat
+[51:13] za svoji vlast, za Ukrajinu
+[51:15] i proti těm Rusům, tak je hrdinou.
+[51:17] Je to hrdina.
+[51:19] Jde bojovat za svoji vlast.
+[51:21] Já opomíjím, a už jsem to několikrát
+[51:23] zdůrazdoval v tomhle směru,
+[51:25] že já opomíjím to,
+[51:27] že ten ukrajinec má totálně
+[51:29] vymydlenou palici nacistickou
+[51:31] ideologií.
+[51:33] To prostě v tomhle určitým
+[51:35] lidským rozměru nehraje roli,
+[51:37] protože on se
+[51:39] dobrovolně, ten chlap na té Ukrajině,
+[51:41] říkám, i když má
+[51:43] vymydlenou hlavu nacistickou
+[51:45] ideologií, tak on se rozhodl dobrovolně.
+[51:47] Není to nic takovýho,
+[51:49] že ho tam odchytávají
+[51:51] ty jednotky těch hajzlů
+[51:53] ukrajinských, kdy prostě
+[51:55] odchytávají lidi na zastávkách,
+[51:57] chlapi ve fitku, atd.
+[51:59] Ale bavím se
+[52:01] o člověku, o Ukrajinci.
+[52:03] Který prostě dobrovolně
+[52:05] jde na frontu a jde bojovat
+[52:07] proti Rusům. Jo? O tom se bavím.
+[52:09] Takže
+[52:11] dalších
+[52:13] sedmdesát miliard
+[52:15] euro má jít
+[52:17] do téhle díry na Ukrajinu.
+[52:19] Kdy Zelenský,
+[52:21] Jermak
+[52:23] a další zmrdi
+[52:25] prostě korupce neskutečného
+[52:27] kalibru, to se stejně jedná
+[52:29] i o tu vyjebanou ludru
+[52:31] toho Zelenského, tu svini,
+[52:33] která bude namočená v únosech dětí,
+[52:35] atd.
+[52:37] Takže
+[52:39] já se tady prostě nebudu bavit o tom,
+[52:41] nebo vůbec polemizovat,
+[52:43] že na Ukrajině není korupce, ty vole.
+[52:45] Tak to celkem určitě, malý moment.
+[52:58] Takže tímto způsobem
+[53:00] prostě oni tam projebali
+[53:02] neskutečný miliardy a miliardy euro.
+[53:04] A
+[53:06] místo ty vypovědi těch
+[53:08] ukrajinských vojáků, který natáčeli
+[53:10] videa, kdy neměli co žrát,
+[53:12] neměli pořádné oblečení,
+[53:14] neměli pořádné vybavení,
+[53:16] proviant
+[53:18] a tyhle ty věci,
+[53:20] tak tyhle peníze ty kurvy rozkradli.
+[53:22] Chápete to?
+[53:25] A oni prostě tam se mluví
+[53:27] o tom, že
+[53:29] dva miliony, minimálně
+[53:31] a možná i víc,
+[53:33] minimálně i víc prostě než
+[53:35] dva miliony už padlo
+[53:37] Ukrajinců, prosím vás.
+[53:39] Tak a Petr mě tady píše,
+[53:42] že se jedná dokonce...
+[53:44] Ty vole, to nemyslíš
+[53:46] vážně, Petře.
+[53:50] To je jako fakt?
+[53:52] Prosím vás, teď mě Petr
+[53:54] Ambroži píše informaci,
+[53:56] že se jedná
+[53:58] o 70 miliard
+[54:00] euro, ale ročně.
+[54:02] Ty krávo.
+[54:06] To, jako tohle,
+[54:08] jestli je pravda, tak pojďte
+[54:10] špámbu. Pojďte špámbu.
+[54:13] 70
+[54:15] miliard ročně,
+[54:17] ahoj Olas, zdravím tě,
+[54:19] to přece není možný.
+[54:23] 70 miliard
+[54:25] ročně a za
+[54:27] tohle by jako měli
+[54:29] ručit jednotlivé státy
+[54:31] a jako
+[54:34] to tak, to je
+[54:36] síla, to je síla.
+[54:38] Ty vole, to je nepředstavitelné.
+[54:40] Když si to vezmete, přátelé,
+[54:48] když si tohle vezmete,
+[54:50] tak v rámci EU,
+[54:52] jo, já to chápu, že
+[54:54] v rámci EU, jo,
+[54:56] že by Evropská unie,
+[54:58] protože USA z toho vycouvalo,
+[55:00] Trump už tady v tomhle
+[55:02] z tom nechce takzvaně
+[55:04] podporovat to, protože
+[55:06] Evropská unie, že jo, neplní si
+[55:08] ty dvě procenta, natož pak
+[55:10] těch pět procent, jo.
+[55:12] Radomír Figala, děkuji. Ano,
+[55:14] je to pravda. Juro, je to
+[55:16] pravda. Děkuji.
+[55:18] Takže to je neprosto neuvěřitelný.
+[55:20] Jo.
+[55:22] 70 miliard do
+[55:24] nezedné jámy jménem Ukrajina.
+[55:26] Takže ne, prostě,
+[55:28] nepůjde se k tomu
+[55:30] jednacímu stolu, nesedne se
+[55:32] s tím Ruskem, nezačnou
+[55:34] se tam dojednávat ty věci prostě,
+[55:36] tak ta Ukrajina padne.
+[55:38] Jednoznačně. Protože
+[55:40] oni to nechápou.
+[55:42] Tam nejde
+[55:44] jenom o nějaký prachy, prachy, prachy.
+[55:46] Jo, to je neuvěřitelný,
+[55:48] když ta Evropská unie a tady
+[55:50] tyhlensí psychopati,
+[55:52] ale čemu se divit, že, protože to je
+[55:54] banda teploušů, lezeb,
+[55:56] naprosto bezcitných,
+[55:58] bez empatie zmrdů, psychopatů,
+[56:00] kteří si prostě
+[56:03] žijou naprosto v jiném světě,
+[56:05] úplně v jiné realitě,
+[56:08] za 70 miliard
+[56:10] euro
+[56:12] nestvoříte žádný lidi.
+[56:14] Nestvoříte. Jo?
+[56:16] A že by tam přicházeli
+[56:19] další a další žoldáci,
+[56:21] jakmile tam začnou
+[56:23] bojovat takzvaně
+[56:25] vojáci NATO, kteří už tam dávno
+[56:27] jsou, protože ty technologie
+[56:29] nemůže ovládat nějaký imbecil
+[56:31] z Ukrajiny, nebo další,
+[56:33] já nevím, tamhle z Kolumbie,
+[56:35] z Brazílie, z Peru, jo, prostě to
+[56:37] jsou vysoce specifický
+[56:39] technický věci, jo,
+[56:41] takže to ovládají odborníci
+[56:43] z NATO, jo, prostě z těch,
+[56:45] ať už to je jakákoliv
+[56:47] armáda toho NATO,
+[56:49] takže tohle, jestli jako
+[56:51] tam bude pokračovat, no tak
+[56:53] ještě chvilku drážděte toho
+[56:55] medvěda a bude,
+[56:57] bude Ukrajina rozsvěcená,
+[56:59] ta bude svítit, ty vole,
+[57:01] jak vánoční stromeček na
+[57:03] na staromáku,
+[57:05] ještě chvíli budete ty ruse srát,
+[57:07] jednoznačně, oni si to
+[57:09] nenechají líbit, tady tadylensta
+[57:11] banda idiot tuto
+[57:13] nechápe, takže
+[57:15] když nic jinýho, tak já jsem rád, že
+[57:17] jsem slyšel nějaký prohlášení, že
+[57:19] prostě není možné, aby
+[57:21] my jako ČR, my jsme
+[57:23] jako byli garanti,
+[57:25] jo, těch 70 miliard
+[57:27] euro ročně, jo,
+[57:29] díky Bohu za to, že
+[57:31] jestli tohle je, to co jsem řekl
+[57:33] je pravdou a já doufám, že ano,
+[57:35] protože Andrej Babiš je biznismen,
+[57:37] především,
+[57:39] takže jednoznačně
+[57:41] mu musí docházet, co by to
+[57:43] znamenalo pro Českou republiku,
+[57:45] jo, že bysme byli garantem
+[57:47] jako stát Evropské unie
+[57:49] 70 miliard
+[57:51] euro ročně, no to jo,
+[57:53] to celkem určité, to je neužitelné,
+[57:55] takže to
+[57:58] tohle, no tak po těžkámbu,
+[58:00] no ale každopádně
+[58:02] traťme se k tomu, že říkám
+[58:04] Zelenský prostě a
+[58:06] Ukrajina, Polsko,
+[58:08] těžká vřava, těžkej problém
+[58:10] a tohle nedopadne,
+[58:12] tohle nedopadne,
+[58:14] ale zase, jo, si to vezměte,
+[58:16] že Poláci vyfofrujou Ukrajince,
+[58:18] vyfofrujou Ukrajince
+[58:20] ze svýho území, co se stane?
+[58:22] No ty Ukrajinci samozřejmě
+[58:24] se nevrátí domů,
+[58:26] takže další vlna
+[58:28] Ukrajinců do České republiky,
+[58:30] to bude veselý,
+[58:32] to bude opravdu veselý,
+[58:35] takže přátelé, to je to, co jsem
+[58:37] co jsem vám chtěl říci,
+[58:39] co jsem měl takzvaně na srdíčku,
+[58:41] co jsem chtěl hodit takzvaně
+[58:43] do pléna, jo,
+[58:46] takže to bude
+[58:53] ještě fakt, to bude zajímavý,
+[58:55] to se nedá říct,
+[58:57] že to bude veselý, jo,
+[58:59] veselý v uvozovkách,
+[59:02] protože tohle samozřejmě není konec,
+[59:04] jo, tohle není konec,
+[59:06] ten hrad,
+[59:10] já si to, já to fakt,
+[59:12] když se nad tím zamyslíte,
+[59:14] budete přemýšlet, co oni ještě,
+[59:16] s čím ještě můžou tak přijít,
+[59:18] co ještě udělají,
+[59:21] jo, prostě oni
+[59:23] jsou v naprostým presu,
+[59:25] oni jsou totálně v hajzlu,
+[59:27] celý ten posaranej hrad,
+[59:29] s tím vyjebaným kolářem,
+[59:31] takže já si nedovedu,
+[59:33] to nejde si to představit,
+[59:35] protože my nejsme psychopati,
+[59:37] jo, my nejsme sociologi,
+[59:39] my nejsme psychopati,
+[59:41] my nejsme váleční štváči,
+[59:43] jo, my nejsme zmrdi typu koláře,
+[59:45] který má prsty ve zbrojerském průmyslu,
+[59:47] dojedná tam ty kontrakty
+[59:49] a má z toho miliony
+[59:51] a miliony,
+[59:53] desítky milionů na provizích,
+[59:55] jo, to si nikdo
+[59:57] nedovedeme vůbec představit,
+[59:59] protože jestliže oni o to takhle usilujou,
+[01:00:01] tak si představte,
+[01:00:03] o co se tam musí
+[01:00:05] ve skutečnosti hrát,
+[01:00:07] jo, o co se tam musí ve skutečnosti hrát,
+[01:00:09] o co se tam musí ve skutečnosti hrát,
+[01:00:11] takže nějakej článek 63
+[01:00:13] a prezident Petr Pavel
+[01:00:15] reprezentuje stát
+[01:00:17] navenek,
+[01:00:19] to je tak neskutečná sračka,
+[01:00:21] až to hezky není, jo,
+[01:00:24] takže, takže tak,
+[01:00:27] ano, Babiš je
+[01:00:31] prý proti Fico také,
+[01:00:33] Fica jsem už viděl, ano, ano,
+[01:00:35] přátelé, to, že tady
+[01:00:42] je ten šulínek jménem
+[01:00:44] Schwarz, na to seru,
+[01:00:46] jo, prostě to se skončí
+[01:00:48] a sepoje do hajzlu, bldeček,
+[01:00:50] takže se ho vůbec nevšímejte,
+[01:00:52] prosím vás, jo, úplně ho ignorujte,
+[01:00:54] idiota, nic,
+[01:00:56] přátelé, já se teda s vámi rozloučím,
+[01:00:58] popřeju vám, abyste
+[01:01:00] v ty
+[01:01:02] extrémní dny toho tepla,
+[01:01:04] který tady prostě máme,
+[01:01:06] víceméně co dva roky,
+[01:01:08] tak abyste to přežili,
+[01:01:10] důležitý je opravdu
+[01:01:12] prostě ty věci
+[01:01:14] dělat tak, aby
+[01:01:16] ty tekutiny, že jo, ty tekutiny,
+[01:01:18] prostě ty jsou
+[01:01:20] prostě potřeba, jo,
+[01:01:22] a já si myslím,
+[01:01:24] že to zase zvládneme,
+[01:01:27] zase přijde ten náš déšť,
+[01:01:29] zase bude zazelená
+[01:01:31] se ta tráva, zase ten
+[01:01:33] vzduch, že jo, se
+[01:01:35] pročistí, bude
+[01:01:37] svěží, aby se dát dýchat,
+[01:01:39] ale dávejte na sebe pozor, jo,
+[01:01:41] ten pitnej režim,
+[01:01:43] jo, tu
+[01:01:45] nějakej ten klobouček, šiltovku,
+[01:01:47] případně slunečník,
+[01:01:49] milé dámy, dívky, ženy,
+[01:01:51] jo, takže se
+[01:01:53] opatrujte, mějte hezkej večer,
+[01:01:55] dávejte na sebe pozor,
+[01:01:57] jo,
+[01:01:59] a že bysme tam pustili nějakou
+[01:02:01] písničku, na závěr,
+[01:02:04] ty pludičky už vypnu,

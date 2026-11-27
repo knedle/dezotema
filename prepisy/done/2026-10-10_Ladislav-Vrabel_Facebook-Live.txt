@@ -1,0 +1,287 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1006095219184944
+Datum videa:  2026-10-10
+Zpracováno:   2026-10-10 21:40:18
+Jazyk:        cs
+Délka:        00:20:29
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    22s
+Přepis:       4m 44s
+Rychlost:     4.3x realtime
+Celkem:       5m 7s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:01] Tak vážení přátelé, tak vás zdravím, počkejte, tady si udělám si větší kebuli, abyste mě líb viděli.
+[00:08] Zdravím vás ze naší Hacienvy v Srbsku, jak řekl Michal Svatoš, takže vám nebude moc foukat vítr, že budete slyšet.
+[00:15] Počkejte, takhle to tady o nás vypadá, vidíte, jak je krásně, dneska půjdeme s manželkou na procházku,
+[00:22] když se udívá do podkříčku, tady je nám ořechy. No ale, to o čem jsem chtěl mluvit dneska je ropa z Ruska.
+[00:31] Donald Trump včera oznámil, že strašně děkuje Vladimíru Putinovi za to, že dodá, nevím jestli 300 milionů barelů nebo kolik ropy
+[00:42] Spojeným státům a celému světu. To je docela zvláštní, ne, vzhledem k tomu, že Evropská unie zrovna přichází s tím,
+[00:52] že má být zakázáno brát z Ruské federace plyn a ropu a Donald Trump si,
+[01:00] s kým vůbec nebere servítky před volbama. Trošku si připadám, že jsme jako za ty největší hlupáky.
+[01:08] My v Evropě, v České republice a to všichni, podívejte se, to mi ho kamurářským začalo už v 2015,
+[01:17] že se musíme zbavit závislosti na ruské ropě a na ruském plynu, celá vláda Petra Fialy, současná vláda,
+[01:24] všichni prostě jedou, že musíme brát ropu od a plyn od Spojených států.
+[01:30] Dokonce Ursula von der Leyen podepsala za Evropskou unii dohodu se Spojenými státy, že od něj budeme brát energie za asi 800 miliard eur.
+[01:39] A rusové nám prodávají, podle toho, co říkají komentátoři ve Spojených státech, tak říkají, možná byste neměli prodávat do Evropy,
+[01:48] jasně, že na tom máte velký zisk, protože prodáváte čtyřikrát draž, než to máte, tak to prodáte čtyřikrát draž Evropě, ale u nás je ropy málo.
+[01:57] Takže výsledkem je,
+[02:00] že naši politici tady mluví o tom, že se musíme zbavit závislosti na ruském plynu a na ruské ropě, kvůli té tzv. diverzifikaci rizik, abychom diverzifikovali rizika.
+[02:12] Američani to otevřeně nakupují od Rusů a my to otevřeně a přiznaně nakupujeme od Američanů.
+[02:20] A zatím, mezi tím, prostě naše ekonomiky krachují, protože nemáme levnou ropu a levný plyn.
+[02:28] Prostě neuvěřitelné.
+[02:30] Neuvěřitelné, ale říkal jsem to, říkám to celou dobu, že to takhle je, že to takhle bude.
+[02:35] Víte, já jsem o tom mluvil v roce 23 v České televizi, když jsem se dostal do přímého přenosu na chviličku v rámci předvolební kampaně,
+[02:41] že musíme nakupovat ropu a plyn z Ruska, jinak budeme bankrotovat, jinak naše ekonomiky budou krachovat.
+[02:47] Víte, já jsem o tom mluvil na Václavském náměstí v roce 22.
+[02:51] Dokonce to máme hned na začátku plánu Česká republika na první stě,
+[02:56] protože ekonomika je samozřejmě důležitá, topení je důležitý, to, aby nám fungovaly podniky je důležitý.
+[03:01] Babiš pořád mluví o konkurenceschopnosti, že musíme zajistit konkurenceschopnost v Evropě, že to musíme dělat společně s Evropou.
+[03:09] A mezi tím, co se děje, celá ta konkurenceschopnost končí s tím, že nemáme levné energie.
+[03:15] A proč nemáme levné energie?
+[03:17] No, protože Spojené státy nás dotlačily.
+[03:21] Do války proti Rusku.
+[03:23] A do té války proti Rusku s kým se váže sankce a s kým se váže to, že nemáme brát energie od Ruska,
+[03:30] protože díky tomu Rusové vydělávají a mají na válku.
+[03:34] A to udělali Spojené státy už v roce 2008 v barevné revoluci.
+[03:39] Udělali to v roce 2013, 2014, v roce 2022, kdy začala invaze na Ukrajinu.
+[03:46] Celou dobu američani tlačí zbraně a celou dobu američani dělají politické dohody
+[03:51] o tom, že se Evropa má odříznout od ruských zdrojů a aby je brala od Spojených států.
+[03:57] Proč?
+[03:58] No, protože prostě z ekonomického hlediska si vezmete, kolik je to peněz, který utrácíme za ropu a za plyn.
+[04:07] To jsou obrovské sumy peněz.
+[04:09] A proč by to měli ty Evropaně kupovat z Ruska levně, když to můžou kupovat od nás, jako od překupníka, několikrát dráž?
+[04:18] Ale otázka je, proč, s kým souhlasí naši politici?
+[04:22] Proč naši politici nedělají to samý, co Donald Trump?
+[04:26] Když už měli ty dlouhodobí kontrakty, když jsme desítky let nakupovali od Ruska plyn i ropu naprosto bez problému.
+[04:33] Proč prostě najednou řekli, my to nemůžeme od Ruska nakupovat a musíme to nakupovat od Spojených států?
+[04:41] Když to přece nedává žádný smysl, žádnou logiku, aby jsme to takhle přepláceli a ničili díky tomu občany,
+[04:47] tahali jim z peněz, z kapes peníze,
+[04:51] který potom posíláme do Spojených států.
+[04:54] Když přece nemá žádnou logiku, abychom nakupovali předražený energie od Spojených států ani z toho hlediska přírody.
+[05:01] Když přece se sem vozí tankery toho LPG, stlačený plyn.
+[05:05] Když to jede z Ruska, tak to jede trubkama, je to ekologický.
+[05:08] Když to jede z Ameriky, tak je to prostě strašně neekologický.
+[05:12] Takže nemá to žádnou logiku.
+[05:14] A když se dívám na to, jako protože vždycky, když někdo něco dělá, tak za tím něco musí stát.
+[05:20] Nikdo nedělá věci bez důvodu.
+[05:22] A když přemejším nad tím, jaký je důvod k tomu, že evropští politici, naši politici,
+[05:27] prostě tlačí na to, aby se kupovali ropa a plyn z Ameriky a ne z Ruska,
+[05:34] no tak jediný, co mi z toho vychází, ať počítám, jak počítám, ať sleduju peníze, jak sleduju,
+[05:39] ne, že je to kvůli válce na Ukrajině, ale kvůli tomu, že jsou na tom větší možnosti pro korupci.
+[05:47] Když je něco prostě čtyřikrát dražší,
+[05:50] tak ten překupník, jo, představte si, že prostě, úplně jednoduše,
+[05:54] představte si, že bude něco Karel vyrábět.
+[05:58] Karel bude vyrábět třeba, bude mít třeba doma vajíčka, jo, bude mít slepice a bude mít super vajíčka
+[06:04] a bude to dávat za deset kraček jedno vajíčko.
+[06:06] Nevím, kolik stojí vajíčka dneska.
+[06:08] Bude to dávat za deset kraček.
+[06:10] No a Pepík, který bydlí v té vesnici taky, řekne, dobře, no tak ty to budeš, Karle, dávat mně
+[06:16] a řekneme, že seš hajzel, ve vesnici řekneme, že seš hajzel.
+[06:21] Karel bude prostě předseda tam nějakýho združení, ten bude, ten bude prostě, toho budou mít lidi rádi.
+[06:28] No budu to lidem prodávat za čtyři pětky.
+[06:31] A ty lidi přejdou do té vesnice a Karel tam bude mít seduly vajíčka za deset.
+[06:36] A Pepík tam bude mít seduly vajíčka za čtyřicet od Karla.
+[06:40] No lidi si budou jezdit kupovat vajíčka za čtyřicet korun.
+[06:44] No tak.
+[06:45] Jako?
+[06:46] Jako to má logiku?
+[06:47] Žádnou.
+[06:48] Jedině, že by to jel někdo koupit pro vás ty vajíčka do té vesnice, ty dobrý vajíčka.
+[06:53] Přivez vám účet a řekl vám, no ty vajíčka stojí čtyřicet korun za jedno.
+[06:57] Tady máš účet, že jo, od Pepíka.
+[07:00] A Pepík mu dal z toho deset korun.
+[07:02] Jo, jinak to, jinak to prostě nemá žádnou logiku.
+[07:06] A to jsou, a to jsou naši politici, kteří o tom rozhodují.
+[07:09] To, jak říkám o tom, je o komunik, který s tím začal v roce 2015 přes celou vládu Andreje Babiše původní, přes celou vládu Petra Fialy do celý vlády současný Andreje Babiše.
+[07:21] A nejenom Česká republika, ale celá Evropa, celá Evropská unie v tom jede.
+[07:25] A my to platíme.
+[07:28] A nejenom, že to platíme, to není jenom o tom, že něco zaplatíme navíc, ale je to o tom, že díky tomu krachujou naše ekonomiky, protože jsou nekonkurenceschopný, protože nemůžeme vyrábět
+[07:39] za stejné peníze jako Američani, kteří si nakoupí tu ropu přímo od Ruské federace.
+[07:46] A potom, když my něco vyrobíme, tak musíme platit cla do Spojených států, kdežto ta dohoda, kterou udělali naši politici, je, že když Američani vyrábí to samé a dováží to do Evropy, tak ty cla neplatí.
+[07:59] Proč to dělají ty politici? Proč likvidují naši ekonomiku? A proč dávají vydělávat Američanům?
+[08:06] Vždyť to přece nemá žádný smysl.
+[08:09] Říkám to od roku 2002 celou dobu. Když jsem to říkal v televizi, tak se na mě koukají jako, že jsem blázen v české televizi, jako kdyby to bylo něco špatného.
+[08:18] Vždyť je to přece úplně logické.
+[08:22] A Donald Trump se vůbec nestydí říct celému světu, že děkuje Vladimíru Putinovi.
+[08:30] A u nás, když někdo by řekl něco, když jsem třeba prohlásil, že Vladimír Putin je podle mě jeden z nejlepších politiků vůbec na světě,
+[08:38] no tak to prostě je smysl.
+[08:40] To je smršť. To je jako to, aby se člověk bál jít na ulici, aby mě někdo nezbyl.
+[08:45] Na mě odplivávají si lidi přede mnou.
+[08:47] Křičí na mě lidi na ulici.
+[08:49] Polejvají mě barvama, když jdu na protestu.
+[08:52] Přece proč je ta naše země takhle šílená?
+[08:58] Proč prostě lidi nedokážou vidět tu jednoduchou věc, že to fungovalo celý desetiletí, že bereme z Ruska levný plyn, levnou ropu, díky tomu nám funguje ekonomika.
+[09:08] Proč to nemůžou vidět?
+[09:09] A co se týče...
+[09:10] Co se týče Ruska a toho konfliktu, možná mi někdo bude nadávat, protože Donaldu Trumpovi taky nadávali, že Volodomír Zelenský jako s tím nesouhlasí a že Donald Trump je zbabělec.
+[09:20] On řekl OK, dál.
+[09:22] Mě tak...
+[09:23] Podívejte, včera jsem prohlásil ve zprávách věc, která možná...
+[09:28] U nás zatím 6,50.
+[09:30] Jo, vajíčka za pět.
+[09:31] OK, dobře, tak jsou za pět, jo.
+[09:33] Nevím, kolik stojí vajíčka.
+[09:34] Mě opravdu nějak jako se nestarám o ceny jídla a takýhle věci.
+[09:38] Nějak jako by nezajímá, kolik to stojí.
+[09:40] Prostě si koupím to, na co mám chuť a neřeším to.
+[09:42] Ale...
+[09:44] Ale...
+[09:47] Ale co jsem chtěl říct s tím Volodomírem Zelenským.
+[09:49] Včera jsem ve zprávách řekl, že my jsme se měli připojit k Ruské federaci.
+[09:54] A to, o čem jsem mluvil, možná z toho bude ještě nějaký škandál, jo.
+[09:59] Ale to je další věc, kterou asi jste si zvykli na to, že prostě říkám věci, který nikdo jiný neříká.
+[10:05] A pak je začnou opakovat další lidi.
+[10:08] Můj robot, který opakuje všechno po mně.
+[10:10] A potom další občas.
+[10:12] Ale...
+[10:14] Vysvětlím vám, jak jsem to myslel, protože to je docela zásadní věc.
+[10:17] Jo, někdo může říct, hele, Vrábel tady schvaluje váleční zločiny.
+[10:21] On říkal, že jsme se měli přidat k Rusům.
+[10:24] Ne, podívejte se, to je jednoduchá věc.
+[10:26] My všichni víme, že Ukrajinci vraždili a vraždí Rusy, který žijou na Ukrajině.
+[10:34] No, to všichni víme. Víme to z český televize.
+[10:37] Víme to z českýho rozhlasu. Víme to z IDESu. Víme to z blbinek.
+[10:41] Víme to ode všu, protože od roku 2014 na Ukrajině byla občanská válka
+[10:45] a všechna média o tom psala.
+[10:47] Není to ani žádný tajemství v oblasti politiky ani diplomacie.
+[10:51] Proto byly Minské dohody.
+[10:53] Ty Minské dohody byly přesně tadyhle o tom, aby byly dodrženy ty práva Rusů, který žijou na Ukrajině.
+[10:59] A my jsme se k tomu připojili.
+[11:01] My jsme se připojili k prvním Minským dohodám.
+[11:03] My jsme se připojili k druhým Minským dohodám.
+[11:05] To znamená, my jsme se připojovali k těm ruským snahám o to, aby Rusové na Ukrajině nebyli vražděni.
+[11:12] Až do roku 2022 to byla naše politika, i západní, a my jsme se k tomu připojovali.
+[11:18] A to je to, co jsem měl na mysli, když jsem říkal, že jsme se měli připojit k Ruský federaci.
+[11:23] Protože i v roce 2021 Rusové chtěli vyjednávat na tohleto téma, aby nebyly Rusové vražděni na Ukrajině
+[11:30] a aby měli svoje lidská práva.
+[11:32] Aby mohli používat svůj jazyk, aby mohli děti chodit do školy.
+[11:35] Aby nikdo nikomu neubližoval za to, že je Rus.
+[11:38] To je přece v pořádku, to je přece normální.
+[11:41] Ani v České republice nikdo nemá právo na to, někoho odsuzovat, nebo někomu nadávat, nebo někomu ubližovat, protože je Rus.
+[11:49] To je proti základním lidským právům, je to proti ženevským dohodám, je to proti naší ústavě.
+[11:56] Je to prostě zakázání někoho odsuzovat, kriminalizovat, diskriminovat.
+[12:01] Například.
+[12:02] Na základě národnosti.
+[12:03] A to je to, co jsem myslel tím, že jsme se měli přidat k Rusům.
+[12:06] My jsme v roce 21 měli vyslechnout Rusy, že chtějí nějaké další jednání, další záruky, popřípadě nějakou operaci k tomu, aby se zajistila práva Rusů žijících na Ukrajině.
+[12:20] A správně by to bylo, a nejlepší by to bylo, kdyby se na tom shodl i Západ, i Rusko.
+[12:26] A společně jsme tlačili na Ukrajinu, aby zajistili těm lidem slušný život.
+[12:30] To je to, co jsem myslel tím, že...
+[12:32] že jsme se měli k Rusku přidat.
+[12:34] Ale najednou prostě ty skorumpovaný politici, kteří měli domluveno, že se zruší byznys s ropou a s plynem z Ruska, aby to dali překupníkům z Ameriky.
+[12:45] Pravděpodobně za nějaký obrovský úplaty.
+[12:47] Tak vidíte, že v politice ty lidi jaksi, že jo, prezidenci lítá tryskáčem soukroměm na dovolenou.
+[12:53] Babi, že sedmý nejbohatší člověk v zemi, ten točí prostě desítky miliard.
+[12:57] Takže to nejsou žádný chudáci.
+[12:59] Ty prostě dělají byznys ve velkým.
+[13:01] A energetika je ten byznys jeden z těch největších.
+[13:04] No takže, pravděpodobně kvůli tomu, aby se na tom napakovali, tak řekli, ne, my už nebudeme hájit lidská práva těch Rusů, kteří žijou na Ukrajině,
+[13:13] ale my radši budeme hájit svoje obchodní zájmy a zájmy obchodní těch globalistů, kteří chtějí překupovat plyn a ropu přes spojený státy,
+[13:22] protože Rusové to dávají moc levně a není tam prostor pro korupci.
+[13:26] To je to, o čem jsem přesvědčený, že tohle byl ten skutečný důvod.
+[13:30] A to, že jsme se měli přidat k Rusům, správně by bylo, kdyby Západ i Rusko tlačili na Ukrajinu, aby se tam zajistili práva pro všechny občany, lidská práva.
+[13:40] A když by se to nedařilo tlakem, tak měl vzniknout tlak z Rady bezpečnosti.
+[13:46] A Rada bezpečnosti měla rozhodnout případně o vojenské intervenci.
+[13:50] Ale ta Rada bezpečnosti nerozhodla o žádné vojenské intervenci, Západ nechtěl žádná jednání a zavíral oči před tím,
+[13:58] že na Ukrajině se vrají.
+[14:00] Vraždí Rusové.
+[14:02] No tak Rusové udělali to, že řekli, dobře, tak když to nikdo jiný řešit nebude, tak my ty lidi půjdeme zachránit.
+[14:08] A uděláme speciální vojenskou operaci, která má za cíl denacifikaci Ukrajiny a zajistit těm lidem slušný život.
+[14:16] A tam, kde žije většina Rusů, tak prostě vzali Rusové pod svojí kontrolu ta území, aby ty lidi tam nebyli vyvražďováni.
+[14:24] A ti lidé na Dombase si udělali referendum a řekli, ano, Rusové nás přišli zachránit.
+[14:30] A my chceme být součástí Ruské federace.
+[14:33] A z lidského hlediska, z morálního hlediska, ale i ze zákonného hlediska, kde je zakázáno kriminalizovat a diskriminovat někoho na základě národnosti,
+[14:42] tak my jsme se měli přidat na ruskou stranu.
+[14:45] V téhle otázce jednoznačně, protože Ruská federace chrání lidská práva Rusů žijících na ukrajinském území.
+[14:53] A rozhodně jsme se neměli přidávat k té západní bandě, tak jak to říkal Fiala, patříme na západ,
+[15:00] která měla naplánováno, že rozkrade Rusko a když se jim to nepodařilo, tak aspoň, že bude nakupovat přes Spojené státy ropu a plyn a nám to prodávat čtyřikrát ráž.
+[15:14] Teď dokonce Američani chtějí koupit Nord Stream, takže my máme natažený trubky do Ruska, který jako Evropa, kde bysme mohli brát levný plyn,
+[15:23] ale koupí si to Američani, budou ten levný plyn, my ho budeme brát z Ruska rovnou do našich plynáren v Evropě,
+[15:31] rovnou si ho tady budeme rozvádět, ale budeme ho přeplácet, nevím kolikrát ho budeme přeplácet, protože to budou vlastnit Američani.
+[15:38] A my jsme tady za úplný kavky, my jsme tady opravdu za oškubaný kavky, který si ničí svoje země, ničí svoje životy, ničí svoje ekonomiky,
+[15:48] ničí svoje bohatství, jenom proto, že nějaký zkorumpovaný politici zařídili velmi komplikovaným způsobem obrovskou válečnou propagandou,
+[15:59] že na tom budou vydělávat Američani.
+[16:01] A stejně to je s tou válkou.
+[16:03] Tu válku rozpoutali Američani, to nerozpoutala Evropa, to rozpoutali Američani.
+[16:07] Američani tlačili na Ukrajince, aby Ukrajinci nenáviděli Rusy.
+[16:11] Američani tlačili na Ukrajince, aby se přidali k Evropský unii.
+[16:15] Samozřejmě, že i Evropská unie tlačila na Ukrajinu, aby se přidala k Evropský unii.
+[16:19] Ale na začátku Evropská unie netlačila na to, aby Ukrajina šla do války s Ruskem.
+[16:24] To dělali Američani.
+[16:26] A Američani, potom NATO tam dělalo spoustu vojenských cvičení.
+[16:30] Nejvíc na Ukrajině.
+[16:32] CIA tam otvírala svoje pobočky jak divoká.
+[16:34] Američani tam dodávali zbraně.
+[16:37] Trénovali vojáky, posílali tam svoje instruktory.
+[16:40] A nakonec se podařilo tu Ukrajinu politicky dostat tam takový lidi, jako je třeba Volodomír Zelenský,
+[16:48] který slíbil tedy, že když bude prezident, takže ukončí konflikt na Dombase.
+[16:53] Který prostě šli a to Rusko dostali do takový pozice,
+[16:57] že kdy řekl Volodomír Zelenský,
+[17:00] že se přidá k NATO a že pro něj neplatí dohody o jaderném odzbrojení.
+[17:07] Že je možný, že Ukrajina se ozbrojí jaderně.
+[17:10] No tak Rusové řekli, dobře, no tak tady už máme dva důvody.
+[17:13] První důvod je, musíme zachránit ty lidi, protože nikdo jiný to nedělá.
+[17:16] A druhý důvod, přece si nenecháme na své hranice dát jaderné zbraně nějakým Zelenským a NATO,
+[17:23] kdy říkají, že my jsme jejich nepřítel.
+[17:25] No takže tady jsme se taky měli přidat na stranu Ruska,
+[17:28] protože dohoda byla jasná na konci studené války,
+[17:31] že se NATO nebude rozšířovat a nebude prostě,
+[17:34] protože NATO bylo od začátku vojenskou mocností,
+[17:37] která byla zřízená proti Rusku, tehdy proti Sovětskému svazu.
+[17:41] Takže to bylo naprosto logické, když skončila studená válka,
+[17:45] že se NATO nemá šířit k Rusku, protože to je útok na Ruskou federaci.
+[17:49] No a tady zase prostě jsme se měli přidat na stranu Ruský federace a říct ne,
+[17:54] toho už je dost, prostě povede to k válečnému konfliktu.
+[17:57] No a ten válečný konflikt může být nebezpečný,
+[17:59] protože jestli se chtějí dávat jaderné zbraně okolo Ruský federace,
+[18:03] tak to může škrtnout a může dojít k jaderné válce v Evropě.
+[18:06] Takže to je to, co jsem myslel tím, že jsme se měli přidat k Rusku.
+[18:10] Mentálně jsme se měli snažit o to, aby se nevražděly lidi na Ukrajině
+[18:14] a mentálně a politicky a diplomaticky jsme se měli snažit o to,
+[18:18] aby se nerozehrávala ta válka.
+[18:20] Bohužel naši politici všichni dojednal.
+[18:23] V roce 22 celý parlament odlasoval, že Rusko je agresor.
+[18:27] Vzpomeňte si na Filipa Turka, jak říkal,
+[18:29] Pukin, ten se zapsal do historie. To je frajer prostě.
+[18:32] Ať už udělá cokoliv, tak vždycky, už se navždycky zapsal do historie.
+[18:35] A Pukin, to je krysa. No a tak dál.
+[18:37] Prostě všichni ty politici, nebo vzpomeňte si na Reichla,
+[18:40] když dostal Václavák, po mě dostal Václavák,
+[18:43] po roce, když jsem dělal Václavák, dostal Václavák.
+[18:45] A čemu začal? Je tady někdo, aby přijel podpořit Vladimíra Putina.
+[18:49] Přijel jsem někdo podpořit Rusko.
+[18:51] A pak udávali ligy za to, že mají označek Z a nášivku Wagner Group.
+[18:55] A tvrdili na tiskových konferencích, že Česká republika nesmí vystupovat
+[18:59] z Evropské unie, protože životně potřebuje Evropskou unii
+[19:02] a životně potřebuje NATO.
+[19:04] A z východu nikdy nepřišly žádný dobrý věci.
+[19:07] Takže všichni ty politici, Andrej Babiš xkrát,
+[19:10] Miloš Zeman vyznamenal dokonce Zelenskýho řádem Bíry Holová.
+[19:14] Všichni to jedou.
+[19:16] Všichni tohleto jedou, jako kdyby se zbláznili.
+[19:19] Jako kdyby nevěděli, co se doopravdy děje.
+[19:21] Všichni to opakujou. Všechna média to opakujou.
+[19:24] Všichni politici, všichni komentátoři, všichni analytici, všichni odborníci.
+[19:29] A z toho pramení to, co se dneska děje.
+[19:32] To, že jsme v podstatě na pokraji války.
+[19:35] Kdy přece stačilo úplně jednoduše pokračovat v tom, co bylo.
+[19:39] Nevytvářet válku. Podpořit Rusko v tom, že chce zachraňovat Rusy, aby nebyly vražděný.
+[19:46] Dál brát levný prin a levnou ropu z Ruský federace.
+[19:50] A s Američany mít nějaký vztahy, nějaký jiný.
+[19:54] Jako jsem zvědavej, co budou teď říkat ty politici, který tady celou tu dobu jedou tu válečnou propagandu.
+[20:01] Který jedou proti Rusku a kříčí a bijou se do prsů, jak musíme diverzifikovat rizika, že nesmíme brát z Ruska plin ani ropu.
+[20:08] Jako myslím, že to by bylo.
+[20:09] Já jsem zatím jediný v České republice, který je mezi politiky, který na celou dobu říká to samý.
+[20:17] A podívejte se, najednou Donald Trump říká úplně to stejný.
+[20:23] Přeměšťujte nad tím.
+[20:25] Mějte se krásně, uvidíme se večer ve zprávách v 9 hodin.

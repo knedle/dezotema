@@ -1,0 +1,422 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Jiří Černohorský
+URL:          https://m.facebook.com/watch/?v=2435026876966604&_rdr
+Datum videa:  2026-05-22
+Zpracováno:   2026-05-23 10:37:45
+Jazyk:        cs
+Délka:        00:29:18
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    29s
+Přepis:       4m 33s
+Rychlost:     6.4x realtime
+Celkem:       5m 3s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Prosím, aby dnešní akce proběhla důstojně, klidně a pevně.
+[00:04] Naším vzkazem je smíření ano, revizionismus ne.
+[00:09] Dějiny nezačaly rokem 1945. Děkuji.
+[00:13] Dobrý den, dámy a pánové.
+[00:26] Dovolte, aby vás taky tady přivítal svým jménem.
+[00:30] Možná mě všichni znáte, mé jméno je Martin Říha
+[00:33] a jsem tady jeden ze zástupců Obrany národa 2.
+[00:37] A chtěl bych vás požádat teďka o malou sponu práci.
+[00:43] Mám tady před sebou knihu Brněnští občané v boji proti fašismu.
+[00:48] Tady je číslo 1518 mrtvých Brňanů v době okupace.
+[00:56] A já bych si dovolil vás požádat, aby jsme se u tohoto mikrofonu vystřídali
+[01:01] a ty jména tady přečetli.
+[01:04] Já bych poprosil Aničku Štofanovou,
+[01:07] jako první, a ta by začala, nebo já si dovolím začít,
+[01:14] prvním jménem Abele Zmořic, narozen 5.5.1881 v Mikulově,
+[01:23] popraven 2. června 1942 v Kounicových kolejích za odbojovou činnost.
+[01:30] A poprosím Aničku, aby pokračovala dál.
+[01:33] Takže, dobrý.
+[01:43] Já bych chtěla ještě pár věcí.
+[01:46] Já bych chtěla ještě pár věcí předem.
+[01:51] Totiž to, co je v téhle publikaci, není úplné.
+[01:56] My tady máme samozřejmě i další a další nevyčíslitelné škody,
+[02:03] které byly jak na osobách, tak na majetku.
+[02:07] Jenom pro takovou zajímavost.
+[02:09] Když jsem zjišťovala, kolik je zde ulic pojmenovaných po našich mrtvých,
+[02:16] přišla jsem k číslu 246.
+[02:19] Po těch chodíme, aniž bychom si uvědomili, co tito lidé pro nás udělali.
+[02:28] A ti, kteří dnes slaví kousek od nás, by si to měli uvědomit
+[02:33] a podívat se po těch ulicích také a projít se,
+[02:37] aby věděli, co naši lidé museli odvést za odvahu, aby jsme my mohli žít.
+[02:46] A je zde také...
+[02:47] ... na 158, přes 150 pamětních desek a pomníků.
+[02:55] Protože Brno bylo krutě poničeno celou dobou okupace
+[03:04] a nelze říci, že to byly jenom Kounicovy koleje,
+[03:07] kam se chystá účastníci sudeto německého Landsmannschaftu.
+[03:13] Byly tady Sušilovy koleje, byl tady Ceil,
+[03:16] bylo tady Orly, byl tady koncentrál Podkaštany,
+[03:21] byl tady Špilberg a byla tady i právnická fakulta, kde bylo Gestapo.
+[03:28] A co tam zanechali, když odcházeli?
+[03:31] A právě proto si dnes připomínáme ty oběti.
+[03:35] Protože na jedné z vyšetřovatelen se zachoval nápis
+[03:43] My se vrátíme.
+[03:46] A potom.
+[03:48] A my je dnes tady máme.
+[03:50] A diví se, že my se bráníme
+[03:52] a že odsuzujeme si sudeto německého Landsmannschaftu.
+[03:56] A nyní mě teda dovolte, abych pokračovala ve čtení,
+[03:59] tak jak tady sdělil Martin a dám si to asi takto.
+[04:04] Na druhém číslo dvě a je to po vlastně abecedním seznamu.
+[04:11] Adam František.
+[04:13] Narozen 2. února 1890.
+[04:17] Popraven 22. června 1942.
+[04:24] Brno Kounicovi koleje.
+[04:27] Adamský Jozef.
+[04:29] Narozen 13. listopadu 1912.
+[04:34] Popraven 25. června 1942.
+[04:40] Brno Kounicovi koleje.
+[04:43] Adler Jakub.
+[04:45] Narozen 8. dubna 1893.
+[04:51] Umučen 15. října 1941.
+[04:57] Mauthausen.
+[04:59] Albrecht Rudolf.
+[05:01] Narozen 27. května 1925.
+[05:07] Popraven 24. ledna 1945.
+[05:14] Bratislava.
+[05:16] Ambrož Karel.
+[05:20] Údaj převzat z pavdě dnesky umístěné na ústředním špitově v Brně.
+[05:26] Více se o něm neví.
+[05:29] Anděl Jan.
+[05:31] Narozen 1. února 1898.
+[05:36] Umučen 25. prosince 1943.
+[05:42] Mírov.
+[05:43] Okres Šumper.
+[05:45] Odbojová skupina.
+[05:47] Obrana národa.
+[05:49] A byl umučen pro úschovu a dodávky zbraní.
+[05:54] Zatčen 1. léta 1940.
+[05:58] A odsouzen v deseti letů cháznice.
+[06:02] Anděl Jozef.
+[06:04] Narozen 5. září 1884.
+[06:10] Praha Karlín.
+[06:12] Zahynul 13. prosince 1942.
+[06:18] V Roznosen.
+[06:20] Odbojová činnost.
+[06:23] Arbajt Wilhelm.
+[06:26] Narozen 31. července 1906.
+[06:32] Brno.
+[06:34] Zemřel 16. dubna 1945.
+[06:40] V Sigburku u Kolína nad Rínem.
+[06:43] Odbojová skupina.
+[06:45] Obrana národa.
+[06:46] Žabovřeská skupina.
+[06:48] Kapitán Československé armády.
+[06:52] Učitel.
+[06:54] Zatčen 9. ledna 1940.
+[06:58] Bzenci.
+[07:00] A odvezen do brněnských Sušilových kolejí.
+[07:04] 18. ledna 1940.
+[07:08] Převezen do Vratislavy.
+[07:11] Arnold František.
+[07:14] Narozen 15. října 1895.
+[07:21] Jinočaný okres Praha Západ.
+[07:24] Umučen 7. března 1946.
+[07:29] Buchenwald.
+[07:31] Babáček Pavel.
+[07:33] Narozen 30. srpna 1914.
+[07:38] Brno.
+[07:40] Padl 20. července 1941.
+[07:45] Hanover.
+[07:47] Zahraniční odboj.
+[07:49] Rotmistr.
+[07:51] Pilot 311.
+[07:53] Československé bombardovací perutě v Anglii.
+[07:57] Sestřelen při letecké operaci nad městem.
+[08:02] Babák Jan.
+[08:04] Narozen 10. září 1905.
+[08:07] Zemřel 5. října 1945 v Brně na následky vězení.
+[08:17] Odboj KS Čech.
+[08:20] Tato fotografie je samozřejmě upravena,
+[08:23] ale přesně odpovídá tomu, co dělá ten vlasti zrádce na hradě.
+[08:28] Velezrádce.
+[08:30] Hamburg.
+[08:32] Zahraniční odboj.
+[08:34] Desátní.
+[08:36] Pilot 311.
+[08:38] Československé bombardovací perutě v Anglii.
+[08:42] Sestřelen při letecké operaci nad městem.
+[08:46] Bačák Jozef.
+[08:49] Narozen 8. ledna 1896.
+[08:54] Tučapi.
+[08:56] Popraven 3. října 1941.
+[09:02] Brno Kounicovy poleje.
+[09:04] Jsme u čísla 14 a těchto čísel tady máme 1518.
+[09:10] Bačovský Karel.
+[09:14] Narozen 27. srpna 1898.
+[09:25] Brno Líšeň.
+[09:27] Popraven 30. září 1941.
+[09:34] Brno Kounicovy poleje.
+[09:36] Odboj KSČ.
+[09:39] Bačák Jozef.
+[09:43] Narozen 16. srpna 1893.
+[09:48] Měličíma.
+[09:50] Popraven 3. října 1941.
+[09:56] Brno Kounicovy poleje.
+[10:00] Bačák Jozef.
+[10:03] Narozen 18. srpna 1893.
+[10:06] Suženo.
+[10:08] Popraven 1. října 1941.
+[10:11] Brno Kouniscovy.
+[10:19] Popraven 2. køolde.
+[10:21] Blonký kolašm.
+[10:23] Popraven 1. října particular konkurence 1915.
+[10:25] Narozen 70. srpnaặ 9ettre.
+[10:26] Popraven 3. køolde.
+[10:28] Blonký kolašm.
+[10:31] Popraven 4. køolde.
+[10:32] Blonký kolašm.
+[10:34] Blonký kolašm.
+[10:36] Blonký kolašm.
+[10:37] Kagary.
+[10:39] Fiala Bert Posselt. Tady máte začátky. Konec roku 1990. Prvního roku existence panevropské unie na Moravě.
+[10:54] Je jistě dobrým důvodem úvaze nad dosavadní činností k zamišlení nad jejím obsahem a smyslem.
+[11:03] Přímým inspiračním zdrojem založení panevropské unie na Moravě byla bez zesporu návštěva Berta Posselta.
+[11:13] Koncem září 1989, když byl ten převrat, ta rádobí sametová revoluce, listopad 1989.
+[11:24] Takže před, zhruba 14 dní před koncem září 1989 v Brně a jeho přednáští,
+[11:33] a v rámci bytových seminářů pořádaných na dací a na husa, neuvěřitelný.
+[11:40] Ostatně z téhož okruhu také byli první moravští, respektive brněnští členové panevropské unie.
+[11:46] O Posseltově v brněnském vystoupení jsme již podrobně psali v proglasu číslo 2 nad příčinami vzniku.
+[11:56] Podívejte se.
+[11:59] Neuvěřitelný.
+[12:02] Chápete ponerta?
+[12:03] Neuvěřitelný.
+[12:04] Mějte to prosím na snadno.
+[12:06] Ahoj, kdo byl?
+[12:09] Já jsem to zjišťoval, ale nepřišel jsem na to.
+[12:14] On to teďka znovu, ten Fiala, protože to na něho vytáli, on to znovu říkal.
+[12:18] To byl nějaký Habsburg.
+[12:20] On mluvil o Habsburgcích, ale konkrétně toho Flapana Vina.
+[12:24] Právě a velice říkal, jak on pracoval na tom, aby nás dostal do Evropské unie.
+[12:29] Já teďka bych, já se se ptá, jestli nevíte, jak on se jmenoval.
+[12:32] Ne, ne.
+[12:33] To je z toho, to je z té skupinky, to je ten největší.
+[12:38] Jasně, já se s tím posluhám.
+[12:41] Je takový debil ten ponert, že to nemá období.
+[12:44] Chápete to, přátelé, tak tady máme nějakou úctu prostě, jo, prostě k tomuhle z tomu.
+[12:51] Sudetl německý, Landsmannschaft, hrůzy tady, jo, se snažím vám ukázat, jo, prostě dobový věci.
+[12:58] Tady vyhláška, jo, dnes v 6 hodin ráno obsadí německé...
+[13:03] ...vojsko všemi směry Československé území, aby ozbrojilo naši armádu, jo, takže tadyhle to vám chci ukázat a on sem přijde, idiot, ponert a začne mě tady prostě víceméně urážet, to je neuvěřitelné.
+[13:18] ...
+[13:20] ...
+[13:22] ...
+[13:24] ...
+[13:26] ...
+[13:28] ...
+[13:30] ...
+[13:32] ...
+[13:33] ...
+[13:38] ...
+[13:40] ...
+[13:42] ...
+[13:44] ...
+[13:54] ...
+[14:00] ...
+[14:03] Tak já vás zdravím vážení a milí přátelé a musím konstatovat do slova do písmene prostě ty věci, o kterých se bavíme celou dobu.
+[14:29] My, Češi, Moravané, Slezané, Moravané, Slezané, Češi, my prostě nemáme šanci. My se prostě nemáme šanci svědnotit.
+[14:42] A právě, teďka jste to viděli, já absolutně nezájem o nějakou tady nějaký aktivisty, jo prostě chci vám tady ukázat ten den, jo prostě, že se tady sešli lidé, že se tady čtou jména těch, jenž byli zabití, jenž padli.
+[14:59] Jo, paní, to jsem vůbec netušil, paní, která to teďkom čte, tak řekla naprosto neužitelnou informaci, že vlastně Brně je po těchto lidech, kteří bojovali, padli za naši vlast, tak je pojmenováno na 240 ulic, jo, těch 5 pamětních 10.
+[15:19] Tak je mě naprosto, mě hamba, že vlastně se to dozvídám až teďka, až dneska, že vlastně tyhle věci vůbec nevím.
+[15:30] Ale teďka to je přesně ono, jak to, že o těch věcech nic nevím. Jak je možný, že v Brně je tady 240 ulic pojmenovány po těchto hrdinech a kdo z těch Brňáků tady, co tady žije a bydlí, kdo to ví, kdo to ví, to prostě, chápete, kam tím směřuju, jo, to je ta hrdost, to je to o tom, co se tady bavíme, ta politika, kam ta politika směřuje.
+[15:59] Že tady není...
+[16:00] Ten, jak bych to řekl, ta určitá cesta, nebo ne cesta, ale úcta těm našim předkům, jo, že se to nezmiňuje, že ty vlasti věda, že národovědství, že tohle už jsou věci, které absolutně nejsou, neexistují, jo, a že prostě tohle ta naše hrdost, že prostě není, protože jak je možný, jo, prostě pro mě ta informace, já vám to říkám na rovinu, já jsem fakt byl překvapený.
+[16:31] Že přes 240 ulic v Brně je pojmenovaný po lidech, kteří bojovali, ve druhé světové válce, ať už za Brno, nebo kdekoliv kolem Brna, padli, zemřeli, byli popraveni, to můžu vám říct, že fakticky, to je pro mě, je to pocit v zahambení, takže jak je možný, že tohle s tomi vůbec neřešíme, že se o tom vlastně nebavíme, no jasně, konzumní společnost, jasně, politika, jsme zahlcení, nevím, čím všichni, nevím, co to je, nevím, co to je, nevím, co to je, nevím, co to je, nev
+[17:05] nevím, a na tu národní hrdost, na tyhle věci, prostě vůbec ne, absolutně, nic, nic, nula, takhle to prostě je, a pak přijdete na jednu takovouhle akci, která je vyprovokovaná tím, co se děje v Brně, co se děje v České republice, a najednou se dozvídáte tyhle věci, ale tohle je prostě naši chybou, tohle je naši chybou, že si nenandeme prostě určitý čas,
+[17:34] že si nejsme schopni uvědomit, kdo jsme, jo, kde jsou ty naše kořeny, na čem stojí naše Československo, je mi z toho fakt smutno, a už jenom z toho, jo, znova tady zopakuju, že jdete na takovouhle akci, chci vám to tady představit, jo, a najednou za váma se objeví tady tenhle ten blbec, jo, který si hraje, hraje na nějakého Českoslováka,
+[18:05] a toho Slovana velikýho, jo, a on přijde za vás a začne vás prostě, když já tam říkám, natáčím tady tyhle smutné věci, tragické věci, tak se do mě začne navážet a začne vykládat, jo, to je ten Jirka Černohorský a ten dělá to, a chápete, jak se chcete propojit s něčím takovým, s takovýmhle idiotem, a to můžete vysvětlovat, jak chcete, on víceméně prostě nebude poslouchat, ne,
+[18:36] neslouchat, můžete mu, můžete Ponertovi, jsem to mohl vysvětlovat tisíckrát, že prostě ty lidé, nebo vůbec naprostá většina lidí v České republice, prostě jako, že by mu skočila na to, jako listina nivoliče, jo, že si vytisknete nějaký papír a s tím půjdete k volbám a vy tam odevzdáte tu listinu nivoliče, jo, a tím pádem získáte jako Českoslovák mandát sám pro sebe takovýhle zhovadilosti, a on si prostě má představu, že to mají udělat všichni,
+[19:06] všichni máme odevzdat v občánku, protože máme pas, to je opravdu velice logické, a tenhle ten člověk prostě všechno staví na tom, že prostě my jsme všichni nelegitimní, policie, jo, záchrané složky, vojáci, politici, všechno je nelegitimní, a on nedokáže pochopit tu věc, že já v mnohém s ním, co on říká, třeba ohledně Československa, ohledně nějakých věcí, mě třeba fakt ho bavilo poslouchat, když mluvil o slovánství,
+[19:35] já jsem za ním jezdil.
+[19:36] Jo, a já jsem se s ním o tom bavil, a byl jsem za to rád, protože byly to informace, které člověka obohatí, jo, ale on potom přešel tady do téhle z té roviny, jo, a prosazuje tyhle věci, které prostě naprostá většina, naprostá většina lidí odmítne.
+[19:53] A on nikdy nepochopil to, že jsem mu říkal, že aby jsme mohli tenhle systém změnit k obrazu svému, že to musíme udělat zevnitř, jo, že je potřeba to udělat zevnitř.
+[20:05] Malý moment.
+[20:06] Dívejte se na idiota.
+[20:14] Ten veze dvě děcka, styčený prostředníček, jo, a bude tady vyřvávat, neuvěřitelný.
+[20:23] To je škoda mluvit tady tohle. A to je zase znova, jo, tady mě někdo bude říkat, my jdeme každý svojí cestou.
+[20:33] Jenže prosím vás, kam jako ta cesta vede? Ono je nějaká jiná Morava, ono je nějaký další Slezko, oni jsou nějaký další Čechy, někde jako teda asi na té Antarktice.
+[20:43] Antarktice za tou vysokou stěnou, nebo co? Jak jinou cestou?
+[20:48] Pro boha, žijeme tady, v téhle špatné realitě, jo, která, můžeme o tom říct, že prostě je to jakoby špatný sen, špatný matrix, ale my v tom prostě žijeme.
+[21:03] Jsme tady, teďka, v téhle době, jo, můžeme se na to dívat, jestli to skutečně není, jak chceme, ale prostě jsme v téhle situaci, je tato politika,
+[21:14] tady jsou politické strany a je tady ten rádobý demokratický parlamentní systém.
+[21:20] A ponertovit a tady těmhle s těm imbecilům prostě nevysvětlíte.
+[21:25] Není šance vysvětlit tu věc, že lidé nechtějí extrémy, jo.
+[21:30] Že já to sám pocituju na sobě, že prostě jsem pro lidi extrém v tom, že prostě mám ten svůj slovník a mluvím tak, jak mluvím
+[21:38] a oni se mnou souhlasí v mnoha a mnoha názorech, ale prostě je pro ně nepřijatelný, jo.
+[21:44] Že tak, jak já se třeba vyjadřuju. A já to naprosto chápu.
+[21:48] Já nikoho nenutím, nikoho přece nepřesvědčuju a tak dále a tak dále.
+[21:52] Ale prostě říct, já si jdu svou cestou, kam ta cesta vede, jo, kam ta cesta vede.
+[21:59] Jestliže nenandeme společnou cestu, tak nikdy se nesejdeme.
+[22:03] Nikdy se nesejdeme. Jestliže nenandeme ty společné cesty, které prostě vedou k tomu, aby jsme dokázali to, co si všichni přejeme,
+[22:12] a to je změnit tenhle systém.
+[22:15] Aby to bylo spravedlivý pro co možná nejvíc lidí, pro naprosto většinovou společnost.
+[22:21] Aby tady na nás nikdo neparazitoval, jak politické strany a vůbec politika vlastně funguje,
+[22:26] protože oni jenom na nás parazitují, jo.
+[22:29] A to za takových podmínek, že tady máte lidi, kteří takzvaně žijou z ruky do hluby,
+[22:35] kdy se tady lidé bojí, co bude zítra.
+[22:38] To je prostě tato politika a to je, proč říkám, že politici na nás parazitují. Jednoznačně.
+[22:45] A prostě takovýhle lidi, jako Ponert, já jsem to říkal mockrát,
+[22:51] kdyby ten člověk chápal, o co se tady jedná, že prostě není možné být...
+[22:58] Ne, to je extrém, to, co dělá prostě Ponert.
+[23:01] A k tomuhle z tomu prostě přijde vždycky jenom pár lidí,
+[23:06] který se nechají doslova dopismené zmagořit, jo.
+[23:10] Protože jsme se o tom bavili mockrát, říkám, to nemá smysl lidi přemlouvat.
+[23:15] Takže to je prostě takovýhle lidi, jako Ponert.
+[23:15] Lidé se musí sami přesvědčit, jo, co má smysl a co smysl nemá.
+[23:20] Každopádně tady máte typický příklad toho, proč se prostě nedá,
+[23:25] nedá se s některýma lidma spojit.
+[23:27] Nemůžete s nima jednat, protože to nejde, to prostě nejde.
+[23:31] S Ponertem se v životě nedomluvíte.
+[23:33] S takovýma těma macháčkovýma čechoslovákama,
+[23:36] co vám tady vykládají, jak jsme nelegitimní, vy z zítko a spol.
+[23:40] Tohle nikdy dohromady nepůjde. Prostě ne.
+[23:44] Takže, přátelé, prostě...
+[23:45] Tak prostě bohužel, a jen tak mimochodem, to bylo...
+[23:50] Já jsem to video dostal, já ho trošičku ostříhám,
+[23:54] aby tam nebyla vidět některá jména.
+[23:57] A to je...
+[23:58] To je tragédie toho, co se odehrálo dneska dopoledne
+[24:04] před hlavní branou Brněnského vystaviště a veletrhu.
+[24:09] Jo?
+[24:10] To, až budu mít chvilku, tak vám to tam dám.
+[24:13] A tam je typická ukázka toho,
+[24:16] o čem se pořád...
+[24:17] Tohle bavíme, že tenhle systém třiceti sedmi let
+[24:22] nás nikdy nespojí, nedá nás dohromady
+[24:25] a že politika nás jen a pouze rozděluje.
+[24:29] A to je taky...
+[24:30] On to někdo viděl, on mě to právě řekl,
+[24:33] ptal se mě, jestli jsem tam byl, jestli jsem to viděl,
+[24:35] říkám, ne, ale už jsem to video viděl.
+[24:37] A on říká, co na to říkáš?
+[24:38] Já říkám, co na to říkám?
+[24:40] Vždyť to je přece pochopitelný.
+[24:42] A on, ty to chápeš, já říkám, no jasně.
+[24:44] A teď já tomu nerozumím, říkám, tak já ti to jednoduše vysvětlím.
+[24:48] My dva se známe, teď jsme se potkali,
+[24:50] jsme na téhle sešlosti
+[24:52] a i když třeba máme určité odlišné názory na politiku,
+[24:57] tak jsme na téhle akci a víme,
+[24:58] že ve spoustě věcech spolu budeme souhlasit.
+[25:02] Takže tady spolu stojíme, podali jsme si ruce,
+[25:04] jsme rádi, že jsme se viděli a pokecáme.
+[25:08] O tom, co se nám nelíbí, co by se třeba dalo udělat.
+[25:12] A normálně spolu mluvíme.
+[25:13] Ale teď si představ, že já bych přišel
+[25:16] a měl na sobě napsaný SPD
+[25:19] a ty bys měl na sobě třeba napsaný stačilo.
+[25:24] Tak už nejsme kamarádi.
+[25:27] Už se spíš my se méně pozdravíme,
+[25:30] podáme si ruce, ale už nebudeme vedle sebe stát
+[25:33] a nebudeme dál kecat.
+[25:35] Protože ty vidíš, že já teda kopu za,
+[25:38] nebo že ty kopeš teda za toho Okamuru,
+[25:41] nebo to může být kdokoliv jiný, je to jedno,
+[25:43] může to být Okamura, může to být Reichel,
+[25:46] může to být Kateřina Konečna, je to jedno.
+[25:49] Babíš, jo, máš to na triku, jsi označený
+[25:52] a v tu chvilku už se na mě díváš jiným způsobem
+[25:55] a já se na tebe dívám jiným způsobem.
+[25:57] A to je ono, proč my se prostě nemáme šanci
+[26:01] tímto způsobem propojit.
+[26:03] Lidé, piče, on tady zase prudí zkurvený pšen.
+[26:10] Jdi už do hajzlu, jdi už do hajzlu.
+[26:12] Tak ať za mnou neleze ten čurák.
+[26:14] Neužij.
+[26:16] Neuvěřitelný zmrt.
+[26:21] Kripl jeden zasranej.
+[26:24] To je pořád okola.
+[26:27] Hajzl.
+[26:29] Takže, teď se vrátíme teda k tomu, co jsem chtěl.
+[26:32] A to jsou ty politické strany.
+[26:34] To nás prostě nespojí.
+[26:36] A my to děláme třicet sedm let.
+[26:38] Třicet sedm ruků.
+[26:40] Jdi do piče, ponérte, blbej.
+[26:42] Takže, to je znova, jo, zase.
+[26:45] Já za peníze a kdesi cosi.
+[26:47] Teď jsem o tom mluvil, takhle to je.
+[26:49] Jenom mě uvidí, místo toho, aby mě
+[26:51] nechal bejt, protože se nezhodneme.
+[26:53] Ne, bude zase provokovat kratén.
+[26:56] A to je přesně ono to, co se bavíme.
+[26:58] Pořád.
+[26:59] Tohle je vlastenecká scéna.
+[27:01] Můžete mi ji ukázat.
+[27:03] Ukažte mi, kde máte vlasteneckou scénu.
+[27:05] Kde?
+[27:07] Kdo je ta vlastenecká scéna?
+[27:09] Já bych se to rád jednou dozvěděl.
+[27:11] Protože kdysi dávno,
+[27:13] 2015, 2016, dejme tomu,
+[27:15] se můžeme bavit o tom, že
+[27:17] tady byla nějaká snaha
+[27:19] o vlasteneckou scénu.
+[27:22] Ale přišel do toho
+[27:24] Tomio Okamura, přišel do toho SPD,
+[27:26] přišel do toho
+[27:28] blok proti islamizaci,
+[27:30] přišli do toho politici a byl konec.
+[27:32] A tohle je celou dobu,
+[27:34] co se snažím lidem vysvětlovat.
+[27:36] Proto je
+[27:38] za mě ideální věc, což je ten spolek.
+[27:40] Protože do spolku
+[27:42] může přijít kdokoliv, ať už jste v jakékoliv
+[27:44] politické straně.
+[27:46] A my prostě musíme pochopit ty věci,
+[27:48] že tady tohle z toho propojení,
+[27:50] i když jsme
+[27:52] v politických stranách, může fungovat,
+[27:54] ale jenom za jednoho jediného předpokladu.
+[27:56] Že prostě ty politické strany si necháme
+[27:58] pro to naše,
+[28:00] ten náš politický názor.
+[28:02] Ale nebudeme to tahat na ty
+[28:04] občanské zromáždění.
+[28:06] Nebudeme prostě
+[28:08] tady vytvářet
+[28:10] prostě to prostředí, který jsem popsal.
+[28:12] Já mám na triku něco, ty máš na triku něco.
+[28:14] Normálně bychom spolu
+[28:16] pokecali, ale protože každý
+[28:18] kouká za jinou politickou stranu,
+[28:20] která stejně nic nezmění.
+[28:22] Něco málo třeba ovlivní
+[28:24] ty jejich dohody, jo prostě a tak dále,
+[28:26] a tak dále. Takže
+[28:28] tyhle z jejich dohody
+[28:30] můžou něco, dejme to malinko změnit,
+[28:32] ale ten systém prostě, který máte,
+[28:34] tak ten nezmění. Protože
+[28:36] to už jsme taky řekli. Prostě
+[28:38] není šance, není šance,
+[28:40] aby, aby
+[28:42] oni,
+[28:44] malý moment.
+[28:47] Zatím jo, já teďko
+[28:49] zase jdou ty zmrdí skvělení za mnou
+[28:51] a já už jich mám plný zuby. A jestli toho nedostane,
+[28:53] tak ti jednou dám po rypáku, ty
+[28:55] kurvo jedna zasrana.
+[28:57] ...
+[28:59] ...
+[29:01] ...
+[29:03] ...
+[29:05] ...
+[29:07] ...
+[29:09] Tak přátelé, já se vám
+[29:11] omlouvám, já to, já potom si
+[29:13] spolu promluvíme, jo. Takže
+[29:15] mějte se hezky, dávejte na sebe pozor
+[29:17] a opatrujte se.
