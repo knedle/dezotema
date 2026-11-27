@@ -1,0 +1,256 @@
+zdroj:
+  id: 2026-11-26_zitko_ctvrtecni-zpravy-26-11-2026-11-11
+  mluvci: zitko
+  kanal: Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+  titul: 'Čtvrteční zprávy: JFK jr., Tennessee, Vatikán, Central Casting (26. 11. 2026, 11:11)'
+  datum: 2026-11-26
+  cas: '11:11'
+  url: https://m.facebook.com/watch/?v=1459912839449630&_rdr
+  prepis: prepisy/done/2026-11-27_Československo-TV2_jana-peterkova-official-3-vysílala-živě-2611-ČTVRT.txt
+  delka: '01:23:39'
+  rezim: standard
+  poznamka: 'Datum ověřeno z úvodu („máme 26. listopadu“; soubor nese datum stažení 27. 11.). Velkou část
+    tvoří předčítání cizích příspěvků (White Hats 1776, Rothschildové a Vatikán, Nicolas Hulscher, Čestmír
+    Lička, Ricardo Bosi), které Zítko přijímá za své — zapsáno jako jeho tvrzení; osobní text Čestmíra Ličky
+    nezpracován. Zpracována všechna témata (na pokyn uživatele „vse“). Stochastický teror: Fauciho poprava
+    (opakování, nehraniční); hraniční — „Nezapomeneme … V jako vendeta … bude to provádět armáda“ a „všichni
+    musí stanout před vojenským tribunálem“ vůči „exotům“, cenzorům a „hajzlům“. Klip „Nezapomeneme“
+    (59:30) mluví Zítko sám. Přečteno a ověřeno v přepisu.'
+vyroky:
+- id: zitko-2026-11-26-01
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  podtema: Stephen Miller
+  nadpis: „Kennedy starter, Trump finisher“ — JFK jr. je poblíž Trumpa v různých podobách, „indicie“ pro Millera sílí (Zítko, 26. 11. 2026)
+  text: |
+    Po 65. narozeninách by JFK jr. „mohl vykouknout“; indicie, že je to Stephen Miller, jsou podle Zítka
+    „čím dál silnější“, může však mít i jiné podoby (Trumpův bodyguard). Předčítá text skupiny „White Hats
+    1776“, podle něhož Kennedy v Dallasu „neumřel tak, jak vám to prezentovali“ a Trump dokončí jeho
+    „nedokončený slib“ — „Kennedy starter, Donald Trump finisher“. Kennedyové, Trump, Elvis Presley i
+    Michael Jackson patří podle něj ke stejné „pokrevní linii“; Trump je prý i malý chlapec na fotografii
+    s generálem Pattonem.
+  citace:
+  - text: Ty indicie, že by to mohl být Steve Miller, jsou čím dál silnější.
+    cas: "01:45"
+  - text: Kennedy starter, Donald Trump finisher, dokončovatel.
+    cas: "28:17"
+  osoby:
+  - {osoba: john-f-kennedy-jr, vztah: pozitivni, kontext: 'Prý žije v přestrojení a brzy bude odhalen'}
+  - {osoba: stephen-miller, vztah: pozitivni, kontext: 'Možná JFK jr. v přestrojení'}
+  - {osoba: donald-trump, vztah: pozitivni, kontext: '„Finisher“ Kennedyho odkazu'}
+  vazby:
+  - {na: zitko-2026-11-25-02, typ: posun}
+- id: zitko-2026-11-26-02
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  podtema: Plán a Central Casting
+  nadpis: Posun „časových linií“ viditelný na hodinách, NPC jako „biologické boty“ matrixu zkolabují ve „slunečním záblesku“ (Zítko, 26. 11. 2026)
+  text: |
+    Při přenosu z Bílého domu byl podle Zítka časový rozdíl oproti Washingtonu o 1–4 minuty jiný než
+    šest hodin — tím „vám ukazují“, že se hýbe s časovými liniemi. Předčítá, že většinu společnosti „3D“
+    tvoří NPC, „biologické boty sloužící matrixu“, které s rostoucí intenzitou „slunečního záblesku“ přestanou
+    fungovat — patří k nim mnoho influencerů a celebrit. Sociální vědomí je prý monitorováno přes frekvence
+    a umělou inteligenci a pravda vyjde najevo, až bude kolektivní vědomí připraveno. Diváky vyzývá, aby
+    s „hovady a kretény“ v komentářích nediskutovali.
+  citace:
+  - text: Normálně je časový posun mezi Washingtonem a naším středoevropským časem šest hodin, ale tam byl rozdíl jeden, dva, tři i čtyři minuty.
+    cas: "17:25"
+  - text: V časových liniích a společnosti 3D existuje drtivá většina NPC, což jsou v podstatě biologické boty, kteří slouží mechanizmu matrixu.
+    cas: "13:41"
+- id: zitko-2026-11-26-03
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  podtema: Plán a Central Casting
+  nadpis: „Putin 2.0“ od roku 2010 je „lidstvu vstřícnější entita“; klony a masky (Zítko, 26. 11. 2026)
+  text: Původní Putin, „agent KGB“, byl podle Zítka do roku 2010 nahrazen „Putinem 2.0“, „entitou lidstvu
+    podstatně vstřícnější“; jako doklad klonů uvádí video zpěvačky Janelle Monáe a opakuje, že levnější jsou
+    nerozeznatelné masky CIA.
+  citace:
+  - text: Vlevo Putin originál, který byl do roku 2010, a po tomto datu Putin 2.0, který byl nahrazen a nahradil tohodle agenta KGB jinou entitou, která je lidstvu a lidem podstatně vstřícnější.
+    cas: "19:08"
+  osoby:
+  - {osoba: vladimir-putin, vztah: pozitivni, kontext: '„Putin 2.0“ lidstvu vstřícnější'}
+  vazby:
+  - {na: zitko-2026-11-25-07, typ: opakovani}
+- id: zitko-2026-11-26-04
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  podtema: Guantánamo a tribunály
+  nadpis: Fauci, „novodobý Mengele“ — poprava „proběhne příští týden“ v repríze (Zítko, 26. 11. 2026)
+  text: Opakuje, že admirál Crandall rozhodl o popravě Anthonyho Fauciho, „konstruktéra pandemií od AIDS po
+    COVID-19“, navzdory Bidenově preventivní milosti; poprava dvojníka „proběhne příští týden“, protože lidé
+    vše uvidí „v repríze“.
+  citace:
+  - text: Admirál Crandall podle toho včerejšího příspěvku během šestihodinového čtení rozsudku byl nekompromisní a poprava proběhne příští týden.
+    cas: "36:19"
+  osoby:
+  - {osoba: anthony-fauci, vztah: negativni, kontext: '„Novodobý anděl smrti Mengele“, má být popraven'}
+  vazby:
+  - {na: zitko-2026-11-25-05, typ: opakovani}
+  teror:
+    terc: Anthony Fauci
+    hranicni: false
+- id: zitko-2026-11-26-05
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  - rodina-deti
+  nadpis: Dětské vakcíny jako „sračky“ s formaldehydem, rtutí a buňkami potracených plodů; nedeklarovaná DNA a „turbo rakovina“ (Zítko, 26. 11. 2026)
+  text: |
+    Zítko vyzývá matky, aby měly dítě „od okamžiku zrození plně pod kontrolou“, aby mu „něco nepíchli“, a
+    vyjmenovává složky vakcín (formaldehyd, hliník, thiomersal, polysorbát 80, buňky potracených plodů, SV40)
+    — zdroj prý i pro soudkyni Dvořákovou v jeho kauze šíření poplašné zprávy. Ve vakcínách Pfizer je podle
+    Hulschera a McCullougha „DNA zbraň“ způsobující turbo rakovinu; obrovské nedeklarované množství DNA
+    potvrdila podle něj i Soňa Peková na 34 příbalových letácích od Petra Kotlára.
+  citace:
+  - text: Od okamžiku zrození je potřeba mít děťátko plně pod kontrolou a nenechat ho byť na chvilku někam vzdálit, aby náhodou mu tam něco nepíchli.
+    cas: "20:30"
+  osoby:
+  - {osoba: iva-dvorakova, vztah: negativni, kontext: 'Soudkyně v jeho kauze — „úroveň znalostí z roku 2021“'}
+  - {osoba: pekova, vztah: pozitivni, kontext: 'Potvrdila nedeklarovanou DNA ve vakcínách'}
+  - {osoba: petr-kotlar, vztah: pozitivni, kontext: 'Dodal příbalové letáky'}
+- id: zitko-2026-11-26-06
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Tennessee klasifikovalo mRNA vakcíny jako zbraně hromadného ničení — v Česku nic, protože jsou v tom Babiš a Vojtěch (Zítko, 26. 11. 2026)
+  text: Tennessee je podle Zítka třetím státem USA, který mRNA vakcíny proti covidu zákonem klasifikoval
+    jako biologické zbraně hromadného ničení (některé šarže měly mít smrtnost přes 20 %). V „korporaci“ se nic
+    neděje, protože je v tom „namočený“ Babiš i současný ministr zdravotnictví Adam Vojtěch.
+  citace:
+  - text: Když je v tom namočený jak Babiš, tak současnej ministr zdravotnictví, zpěvák, superstar Adam Vojtěch, tak nikdo s tím nic dělat nechce.
+    cas: "38:00"
+  osoby:
+  - {osoba: andrej-babis, vztah: negativni, kontext: '„Namočený“ ve vakcinaci'}
+  - {osoba: adam-vojtech, vztah: negativni, kontext: '„Namočený“ ministr zdravotnictví'}
+- id: zitko-2026-11-26-07
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Rozdělení Československa jako loupež a vlastizrada řízená z Londýna — peníze lze nárokovat zpět (Zítko, 26. 11. 2026)
+  text: Rozdělení ČSFR bylo „loupež a vlastizrada provedená za bílého dne“, jejímž cílem bylo vykrást
+    bohatství a zlikvidovat konkurenceschopnost; Klaus s Mečiarem si „pro rozumy“ létali do Londýna. Ukradené
+    částky lze podle něj s úroky nárokovat zpět na ministerstvech financí obou „korporací“.
+  citace:
+  - text: Rozdělení Československa ani omylem, byla to loupež a vlastizrada provedená za bílého dne.
+    cas: "38:21"
+  osoby:
+  - {osoba: vaclav-klaus, vztah: negativni, kontext: 'Létal si do Londýna „pro rozumy“'}
+  - {osoba: vladimir-meciar, vztah: negativni, kontext: 'Létal si do Londýna „pro rozumy“'}
+  vazby:
+  - {na: zitko-2026-11-25-14, typ: opakovani}
+- id: zitko-2026-11-26-08
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  - konspirace
+  nadpis: Orgány lze transplantovat jen ze živých — cizí lékaři na Ukrajině odebírali orgány zraněným vojákům (Zítko, 26. 11. 2026)
+  text: S odkazem na RFK jr. (lidé prohlášení za mrtvé se probouzeli při odběru orgánů) tvrdí, že orgán lze
+    odebrat jen „ze žijící bytosti“ a klinická smrt je jen „zjemnění“; proto podle něj na Ukrajině cizí lékaři
+    ve stanech na bojištích odebírali orgány zraněným živým vojákům.
+  citace:
+  - text: Proto ty zvěrstva na Ukrajině, ty cizí lékaři mluvící jiným jazykem, který byli v těch stanech na bojištích, aby od zraněných vojáků žijících odebírali na Ukrajině orgány.
+    cas: "46:05"
+  osoby:
+  - {osoba: robert-f-kennedy-jr, vztah: pozitivni, kontext: 'Zdroj tvrzení o probouzení dárců'}
+- id: zitko-2026-11-26-09
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: Vatikán je od roku 1832 finančně podřízen Rothschildům — „sleduj cestu peněz“ (Zítko, 26. 11. 2026)
+  text: Podle předčítaného textu papežské státy v roce 1832 zachránil úvěr Rothschildů, kteří se stali
+    oficiálními bankéři Vatikánu; od té doby je „duchovní moc podřízena finanční“ a Vatikán hraje roli ve
+    „stejné síti kontroly, která řídí národy, trhy a války“. Do Vatikánu prý šly i rodné listy, jimiž byla z
+    lidí udělána „právní fikce“.
+  citace:
+  - text: Od té doby Vatikán hraje roli ve stejné síti kontroly, která řídí národy, trhy a války.
+    cas: "44:04"
+  osoby:
+  - {osoba: rothschildove, vztah: negativni, kontext: 'Ovládli Vatikán úvěrem'}
+- id: zitko-2026-11-26-10
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: Deep State zabil za Bushe, Clintona a Obamy 11 milionů lidí; zemětřesení z HAARP kvůli sirotkům pro adrenochrom (Zítko, 26. 11. 2026)
+  text: Za prezidentů Bushe, Clintona a Obamy podle Zítka Deep State zabil 11 milionů lidí. Zemětřesení lze
+    vyvolat technologií HAARP — katastrofy a války produkují sirotky, kteří byli unášeni pro pedofilní sítě a
+    hlavně pro výrobu adrenochromu „z krve mučených dětí“, „nejtěžší zločin“.
+  citace:
+  - text: Ty činy a zločiny Deep Stateu, jedenáct milionů zabitých lidí během prezidentování prezidentů George Bush, Bill Clinton, Barack Obama.
+    cas: "56:30"
+  osoby:
+  - {osoba: george-w-bush, vztah: negativni, kontext: 'Za jeho vlády prý Deep State zabíjel'}
+  - {osoba: barack-obama, vztah: negativni, kontext: 'Za jeho vlády prý Deep State zabíjel'}
+- id: zitko-2026-11-26-11
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  podtema: Guantánamo a tribunály
+  nadpis: Armáda obchází „zkorumpované soudce“ — globální operace od Venezuely po Írán, „Izrael bude poslední“; pak kolaterální účty, medbedy a Q-phone (Zítko, 26. 11. 2026)
+  text: |
+    Výbuch, který podle něj provedla americká armáda v Iowě, ukazuje, že armáda v rámci mimořádných pravomocí
+    (srovnává s Insurrection Act) může obcházet „povětšinou zkorumpované“ soudce — jsme ve vojenské operaci,
+    která bude globální: Venezuela, Kuba, Kolumbie, mexické kartely, Írán a „Izrael bude poslední“. Vše se
+    musí „stát dvakrát“ — tajně a pak veřejně. Konec „filmu“ přinese vrácení „ukradených kolaterálních účtů“
+    v kvantovém finančním systému, léčení v medbedech a Q-phone; EBS pustí „tři osmihodinové smyčky“.
+  citace:
+  - text: Tahle operace bude globální, včetně likvidace Deep State ve Venezuele, na Kubě, v Kolumbii, … Irán, Izrael bude poslední.
+    cas: "01:11:05"
+  osoby:
+  - {osoba: donald-trump, vztah: pozitivni, kontext: '„Vrchní velitel vojenské operace armády aliance“'}
+  vazby:
+  - {na: zitko-2026-11-25-12, typ: posun}
+- id: zitko-2026-11-26-12
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  - dsa-cenzura
+  nadpis: Soudy jsou soukromé firmy s číslem DUNS; cenzory a „hajzly“ financovala USAID (Zítko, 26. 11. 2026)
+  text: Na příkladu Mika Yeadona, jehož jméno policie i státní zástupce v jeho vlastní kauze zkomolili na
+    „Jadon“, tvrdí, že soudy se s nepohodlnými lidmi „nemažou“, protože jsou „jen soukromé firmy“ s IČO a
+    mezinárodním číslem DUNS. YouTube a Facebook spolupracovaly s vládou na umlčení disentu, což financovala
+    USAID — ta platila „všechny tyhle cenzory a hajzly“ včetně hejtrů přes neziskovky.
+  citace:
+  - text: Protože i soudy jsou jenom soukromé firmy, který mají nejenom IČO, ale i mezinárodní obchodní číslo DUNS.
+    cas: "01:02:34"
+  - text: Což bylo přímo spojeno s USAID, která všechny tyhlety cenzory a hajzly financovala, včetně hejtrů přes nejrůznější neziskovky.
+    cas: "01:03:14"
+- id: zitko-2026-11-26-13
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  podtema: Reiner Fuellmich
+  nadpis: Fuellmich — „propuštění je už blízko“, adresa do Lingenu (Zítko, 26. 11. 2026)
+  text: Opakuje výzvu psát Fuellmichovi do vězení v Lingenu; jeho propuštění je podle něj „už blízko“.
+  citace:
+  - text: Abyste ho povzbudili, že jeho propuštění je už blízko a celý svět se kouká právě tímto směrem.
+    cas: "47:47"
+  osoby:
+  - {osoba: reiner-fuellmich, vztah: pozitivni, kontext: '„Bijec číslo jedna proti covid mafii“'}
+  vazby:
+  - {na: zitko-2026-11-25-01, typ: opakovani}
+- id: zitko-2026-11-26-14
+  typ: stoch-teror
+  temata:
+  - covid-vakciny
+  - konspirace-deep-state-qanon
+  podtema: Guantánamo a tribunály
+  nadpis: „Nezapomeneme … V jako vendeta“ — „exoti“, cenzoři a „hajzlové“ musí stanout před vojenským tribunálem, provede to armáda (Zítko, 26. 11. 2026)
+  text: |
+    Nad novinovými titulky z doby covidu vzkazuje „našim exotům“: „Hoši, nezapomeneme za to, co jste dělali
+    lidem, dětem … čas se blíží. V jako vendeta“ — provádět to ale nebudou lidé, nýbrž „armáda aliance“.
+    Na jiných místech opakuje, že „všichni zločinci musí skončit před vojenským tribunálem“ a že cenzoři a
+    „hajzlové“ placení USAID „musí stanout před vojenským tribunálem“. Výhrůžka odplatou vágně vymezeným
+    skupinám s delegováním násilí na armádu — hraniční případ.
+  citace:
+  - text: Nezapomeneme. Hoši, nezapomeneme za to, co jste dělali lidem, dětem. Nezapomeneme. A čas se blíží. V jako vendeta. Ale nebudou to dělat lidi, bude to provádět armáda. Armáda aliance.
+    cas: "59:30"
+  - text: Všichni zločinci musí skončit před vojenským tribunálem a zodpovídat se za zločiny proti lidskosti.
+    cas: "48:47"
+  teror:
+    terc: „exoti“ z doby covidu, cenzoři, „hajzlové“ a hejteři placení USAID
+    hranicni: true
